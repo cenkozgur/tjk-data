@@ -1,0 +1,4416 @@
+[
+  {
+    "date": "2025-11-08",
+    "raceNo": 1,
+    "venue": "İzmir",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "ŞİRO ÇAYI",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "TOLGA TEMİZER",
+        "weight": 56,
+        "odds": 6.65,
+        "finishTime": "1.53.42",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "ÖZGÜNALP",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 60,
+        "odds": 4.3,
+        "finishTime": "1.53.66",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "BABY ARYA",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 57,
+        "odds": 9.75,
+        "finishTime": "1.53.93",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "BABA CENGİZ",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 55,
+        "odds": 31.35,
+        "finishTime": "1.56.00",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "YENİBEY",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MELİH TEZEL",
+        "weight": 55,
+        "odds": 1.55,
+        "finishTime": "1.56.03",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "HAREMLİ KIZ",
+        "jockey": "RECEP KETME",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 54,
+        "odds": 11.35,
+        "finishTime": "1.56.52",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "SOYLU KARACA",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 53,
+        "odds": 16.35,
+        "finishTime": "1.56.68",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "MOR BEYAZ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 57,
+        "odds": 10.1,
+        "finishTime": "1.58.27",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "ULU YAŞAR",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 57,
+        "odds": 30.8,
+        "finishTime": "1.58.63",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 2,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "STAR OF NİĞDE",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "MELİH TEZEL",
+        "weight": 57,
+        "odds": 14.05,
+        "finishTime": "1.11.80",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "PATPAT",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 57,
+        "odds": 2.15,
+        "finishTime": "1.12.59",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "13",
+        "name": "SKY BY SAVER",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 52,
+        "odds": 32.45,
+        "finishTime": "1.13.11",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "10",
+        "name": "PETIT BEURRE",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 55,
+        "odds": 26.45,
+        "finishTime": "1.13.55",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "ARMENİN KIZI",
+        "jockey": "EMRULLAH TEPE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 51,
+        "odds": 32.85,
+        "finishTime": "1.13.66",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "11",
+        "name": "QUEEN OF ENIGMA",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 55,
+        "odds": 4.7,
+        "finishTime": "1.13.86",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "NEW ARTİST",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 55,
+        "odds": 2.85,
+        "finishTime": "1.14.06",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "İZMİR MUHABİRİ",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "MELİH TEZEL",
+        "weight": 51,
+        "odds": 35.25,
+        "finishTime": "1.14.52",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "4",
+        "name": "YAKUP AĞA",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "odds": 22.9,
+        "finishTime": "1.15.22",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "IRON PORT",
+        "jockey": "METE GÖL",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 52,
+        "odds": 40.6,
+        "finishTime": "1.15.58",
+        "age": 2
+      },
+      {
+        "position": 11,
+        "no": "12",
+        "name": "RISE REASON",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 52,
+        "odds": 43.95,
+        "finishTime": "1.16.42",
+        "age": 2
+      },
+      {
+        "position": 12,
+        "no": "9",
+        "name": "PARSALI MİRAY",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MUSTAFA KURDU",
+        "weight": 55,
+        "odds": 10.6,
+        "finishTime": "1.18.08",
+        "age": 2
+      },
+      {
+        "position": 13,
+        "no": "3",
+        "name": "WANDERLUST",
+        "jockey": "ONUR ATMACA",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 57,
+        "odds": 42.05,
+        "finishTime": "1.18.91",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 3,
+    "venue": "İzmir",
+    "distance": 2200,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "11",
+        "name": "WIND OF SİDE",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "ŞENOL ÖZGÜR",
+        "weight": 50,
+        "odds": 20.8,
+        "finishTime": "2.24.39",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "KİNG OF NALDÖKENLİ",
+        "jockey": "RECEP KETME",
+        "trainer": "TEKİN DURAN",
+        "weight": 50,
+        "odds": 9.8,
+        "finishTime": "2.24.81",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "10",
+        "name": "MERCİA",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "MELİH TEZEL",
+        "weight": 50,
+        "odds": 58.25,
+        "finishTime": "2.25.88",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "BAHİSÇİ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "MEHMET BULUT",
+        "weight": 53.5,
+        "odds": 14.9,
+        "finishTime": "2.26.01",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "BLACK BREEZE",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 52.5,
+        "odds": 8.6,
+        "finishTime": "2.26.27",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "IRON WILL",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "FİKRET ÇELTİK",
+        "weight": 51.5,
+        "odds": 5.85,
+        "finishTime": "2.26.81",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "BOLD REFLECTION",
+        "jockey": "ONUR ATMACA",
+        "trainer": "BEGÜM GÜL",
+        "weight": 53.5,
+        "odds": 1.8,
+        "finishTime": "2.27.16",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "TROUBLE BOY",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "ZAFER TURĞUL",
+        "weight": 59.5,
+        "odds": 3.75,
+        "finishTime": "2.31.74",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "1",
+        "name": "MONEY HUNTER",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "EMRAH AYHAN",
+        "weight": 59.5,
+        "odds": 13.3,
+        "finishTime": "2.32.77",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "DADAY FIRTINASI",
+        "jockey": "MERT UYAR",
+        "trainer": "SEMİ YUDUM",
+        "weight": 50,
+        "odds": 80.2,
+        "finishTime": "2.37.38",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "7",
+        "name": "QUANTUM QUAKE",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "DURAN TEKELİ",
+        "weight": 51,
+        "odds": 72.95,
+        "finishTime": "4.33.01",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 4,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "IMPASSABLE CASTLE",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "ŞAFAK GÜMÜŞ",
+        "weight": 55,
+        "odds": 2.65,
+        "finishTime": "1.27.57",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "BOCCE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 55,
+        "odds": 2.3,
+        "finishTime": "1.28.15",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "NAZGAR",
+        "jockey": "EFE AKPINAR",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 60,
+        "odds": 18.1,
+        "finishTime": "1.28.72",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "REMZİYENİN OĞLU",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 52.5,
+        "odds": 13.2,
+        "finishTime": "1.28.95",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "BOARDING PASS",
+        "jockey": "MÜRSEL KAYİŞ",
+        "trainer": "LEVENT BERKOL",
+        "weight": 59.5,
+        "odds": 22.65,
+        "finishTime": "1.29.12",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "WHITE DOVE",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "ALİ ARAS ZÜMBÜLLER",
+        "weight": 50,
+        "odds": 9.15,
+        "finishTime": "1.29.30",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "LATİF AĞA",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 52.5,
+        "odds": 5.95,
+        "finishTime": "1.29.87",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "KING ASGARD",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "FİKRET ÇELTİK",
+        "weight": 50,
+        "odds": 6.35,
+        "finishTime": "1.31.77",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "9",
+        "name": "STRAWBERRY STAR",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 50,
+        "odds": 59.3,
+        "finishTime": "1.32.87",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 15/DHÖW/Dişi /H2/Y2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "ŞAL KIZI",
+        "jockey": "EMRULLAH TEPE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 53.5,
+        "odds": 4.75,
+        "finishTime": "1.38.21",
+        "age": 7
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "ARLİNHAN",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "ŞAFAK GÜMÜŞ",
+        "weight": 57,
+        "odds": 3.85,
+        "finishTime": "1.38.82",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "RÜZGARTEPESİ",
+        "jockey": "METİN MERT KARABULUT",
+        "trainer": "CENGİZ TEKİN KÖSE",
+        "weight": 58,
+        "odds": 10.75,
+        "finishTime": "1.39.17",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "11",
+        "name": "TOPUKLU EFEM",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "ANIL KARABIYIK",
+        "weight": 52,
+        "odds": 6.6,
+        "finishTime": "1.39.39",
+        "age": 8
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "SAMSAT",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 63,
+        "odds": 4.15,
+        "finishTime": "1.39.96",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "12",
+        "name": "ÖZLÜTAY",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FATİH ŞEN",
+        "weight": 50,
+        "odds": 50.2,
+        "finishTime": "1.39.98",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "AKSU NEHİR",
+        "jockey": "RECEP KETME",
+        "trainer": "CENGİZ TEKİN KÖSE",
+        "weight": 59,
+        "odds": 7.3,
+        "finishTime": "1.40.27",
+        "age": 6
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "CEYLAN MAZEN",
+        "jockey": "HALİM YİĞİT ÜNVER",
+        "trainer": "MEHMET KARACA",
+        "weight": 55,
+        "odds": 38.05,
+        "finishTime": "1.40.33",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "10",
+        "name": "BERRANHANIM",
+        "jockey": "MERT UYAR",
+        "trainer": "SEMİ YUDUM",
+        "weight": 50.5,
+        "odds": 26.3,
+        "finishTime": "1.43.17",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "3",
+        "name": "BAŞ SÜVARİ",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "CELHAN BATUR",
+        "weight": 60,
+        "odds": 6.05,
+        "finishTime": "1.44.32",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "1",
+        "name": "DERYADİL",
+        "jockey": "MÜRSEL KAYİŞ",
+        "trainer": "HACI KURT",
+        "weight": 63,
+        "odds": 12.75,
+        "finishTime": "1.45.69",
+        "age": 5
+      },
+      {
+        "position": 12,
+        "no": "9",
+        "name": "FREE MELODY",
+        "jockey": "OKTAY KIZILDAŞ",
+        "trainer": "SALİM ÖZBEY",
+        "weight": 52,
+        "odds": 63,
+        "finishTime": "1.47.10",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "11",
+        "name": "LADY LAVİN",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 55,
+        "odds": 7.25,
+        "finishTime": "1.12.42",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "KRAL AYVALIK",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "ÜMİT BOZKURT",
+        "weight": 59,
+        "odds": 3.55,
+        "finishTime": "1.12.63",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "14",
+        "name": "TEBLİGAT",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YÜKSEL TALUK",
+        "weight": 55,
+        "odds": 2.55,
+        "finishTime": "1.12.88",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "",
+        "name": "CURLIN DRACARYS(8) (USA)",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MUSTAFA YAYAN",
+        "weight": 55,
+        "odds": 13.6,
+        "finishTime": "1.12.89",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "BRAVE KAAN",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "NURHAN BAKIR",
+        "weight": 55,
+        "odds": 10.5,
+        "finishTime": "1.13.04",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "BEYAZ PRENS",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MUSTAFA YAYAN",
+        "weight": 57,
+        "odds": 7.3,
+        "finishTime": "1.13.14",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "FIRST MAY",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 53,
+        "odds": 34.5,
+        "finishTime": "1.13.47",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "12",
+        "name": "OJO TURCO",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 55,
+        "odds": 23.2,
+        "finishTime": "1.13.65",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "CASHOUT",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MELİH TEZEL",
+        "weight": 55,
+        "odds": 7.1,
+        "finishTime": "1.14.16",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "3",
+        "name": "ÇİFTE YÜREKLİ",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "EMRAH AYHAN",
+        "weight": 53,
+        "odds": 16.95,
+        "finishTime": "1.14.37",
+        "age": 2
+      },
+      {
+        "position": 11,
+        "no": "13",
+        "name": "RUN MY BLACK",
+        "jockey": "RECEP KETME",
+        "trainer": "TEKİN DURAN",
+        "weight": 52,
+        "odds": 61,
+        "finishTime": "1.14.60",
+        "age": 2
+      },
+      {
+        "position": 12,
+        "no": "5",
+        "name": "MY EMİR KARAN",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "odds": 43.05,
+        "finishTime": "1.15.19",
+        "age": 2
+      },
+      {
+        "position": 13,
+        "no": "10",
+        "name": "FIRTINA AZRA",
+        "jockey": "METİN MERT KARABULUT",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 55,
+        "odds": 90.95,
+        "finishTime": "1.17.87",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 7,
+    "venue": "İzmir",
+    "distance": 1800,
+    "surface": "Çim",
+    "raceClass": "KV-6",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "FIT AS A FIDDLE",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MEHMET ÖCAL",
+        "weight": 58,
+        "odds": 4.4,
+        "finishTime": "1.51.26",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "YILDIRIMDURALİ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "HAKAN POLAT",
+        "weight": 60,
+        "odds": 11,
+        "finishTime": "1.51.59",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "ERDUMAN",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "BEGÜM GÜL",
+        "weight": 57.5,
+        "odds": 11.35,
+        "finishTime": "1.51.78",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "GEL KIZIM",
+        "jockey": "İLKER SOYAD",
+        "trainer": "ŞAKİR ÇELİK",
+        "weight": 56,
+        "odds": 3.95,
+        "finishTime": "1.51.87",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "YAMATAİ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 54,
+        "odds": 2.2,
+        "finishTime": "1.52.15",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "BRAVE DANCER",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "NURHAN BAKIR",
+        "weight": 58,
+        "odds": 3.8,
+        "finishTime": "1.52.22",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "SQUEAK AND BUZZ",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "HASAN TOP",
+        "weight": 58,
+        "odds": 25.6,
+        "finishTime": "1.53.32",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "İSYAN ARZUM",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "MEHMET YALÇIN",
+        "weight": 54,
+        "odds": 48.8,
+        "finishTime": "1.56.43",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 8,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "HAS SERÇE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 55,
+        "odds": 2.8,
+        "finishTime": "1.28.09",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "TEJON MELERO",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 59,
+        "odds": 4.7,
+        "finishTime": "1.28.25",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "SAİTAMA",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 57,
+        "odds": 3.1,
+        "finishTime": "1.28.32",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "KING AKIN",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "odds": 23.7,
+        "finishTime": "1.28.81",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "VİTE VİTE",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "MUSTAFA KURDU",
+        "weight": 57,
+        "odds": 25.9,
+        "finishTime": "1.29.01",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "PROBALA",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 57,
+        "odds": 29.55,
+        "finishTime": "1.30.22",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "YİĞENİM NEHİR",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "ŞAKİR ÇELİK",
+        "weight": 55,
+        "odds": 2.65,
+        "finishTime": "1.31.17",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "JOE JOYS",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 57,
+        "odds": 19,
+        "finishTime": "1.38.21",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 9,
+    "venue": "İzmir",
+    "distance": 2200,
+    "surface": "Kum",
+    "raceClass": "Handikap 15/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "9",
+        "name": "SARSALA",
+        "jockey": "ONUR ATMACA",
+        "trainer": "MUSTAFA YAYAN",
+        "weight": 54,
+        "odds": 17.8,
+        "finishTime": "2.39.98",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "KAYA DÜNYASI",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MERT DEMİRTAŞ",
+        "weight": 55.5,
+        "odds": 7.2,
+        "finishTime": "2.40.03",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "GÜÇLÜ KRAL",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 58,
+        "odds": 3.25,
+        "finishTime": "2.40.14",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "10",
+        "name": "GÜZEL İZMİR",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "CELHAN BATUR",
+        "weight": 52,
+        "odds": 18.35,
+        "finishTime": "2.41.17",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "TÜRKAN HANIM",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 57.5,
+        "odds": 6.85,
+        "finishTime": "2.41.26",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "BABA YÜREKLİ",
+        "jockey": "EFE AKPINAR",
+        "trainer": "TEKİN DURAN",
+        "weight": 58,
+        "odds": 23.95,
+        "finishTime": "2.41.58",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "FETTAHZADE",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MEHMET GÜDÜCÜ",
+        "weight": 60.5,
+        "odds": 2.75,
+        "finishTime": "2.41.63",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "ADANALI TAY",
+        "jockey": "MERT UYAR",
+        "trainer": "CENGİZ TEKİN KÖSE",
+        "weight": 53.5,
+        "odds": 5.7,
+        "finishTime": "2.42.39",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "DAMLA SUYU",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 61.5,
+        "odds": 8,
+        "finishTime": "2.45.07",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "BABA ÇAKMAK",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "ALİ ARAS ZÜMBÜLLER",
+        "weight": 56.5,
+        "odds": 36,
+        "finishTime": "2.47.59",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 10,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "MAFDET",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "DURAN TEKELİ",
+        "weight": 55,
+        "odds": 3.1,
+        "finishTime": "1.11.81",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "12",
+        "name": "NOOR IRON",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 55,
+        "odds": 16.1,
+        "finishTime": "1.12.08",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "PERS JOYS",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 57,
+        "odds": 6.1,
+        "finishTime": "1.12.46",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "SABALENKA",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 57,
+        "odds": 2.75,
+        "finishTime": "1.12.51",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "BRAVE CENTURY",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "NURHAN BAKIR",
+        "weight": 51,
+        "odds": 7.15,
+        "finishTime": "1.12.55",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "KALEA",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 55,
+        "odds": 25.25,
+        "finishTime": "1.13.63",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "BOB VALDES",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "EMRAH AYHAN",
+        "weight": 62,
+        "odds": 4.9,
+        "finishTime": "1.13.84",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "11",
+        "name": "MYSTERY SUNRISE",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "BEGÜM GÜL",
+        "weight": 52,
+        "odds": 53.55,
+        "finishTime": "1.13.86",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "14",
+        "name": "QUEEN OF THE SUN",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 51,
+        "odds": 42.25,
+        "finishTime": "1.15.12",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "DENPOY",
+        "jockey": "RECEP KETME",
+        "trainer": "LEVENT ÖZMERGEN",
+        "weight": 52,
+        "odds": 60.65,
+        "finishTime": "1.15.69",
+        "age": 2
+      },
+      {
+        "position": 11,
+        "no": "13",
+        "name": "OLAYIN ASLI",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 52,
+        "odds": 17.65,
+        "finishTime": "1.16.96",
+        "age": 2
+      },
+      {
+        "position": 12,
+        "no": "4",
+        "name": "VOODOO PEOPLE",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 57,
+        "odds": 36.35,
+        "finishTime": "1.21.87",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 1,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "GAZNELİ",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "ÜMİT ARSLAN",
+        "weight": 57,
+        "odds": 12.7,
+        "finishTime": "1.48.32",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "TABİP BEY",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 8.15,
+        "finishTime": "1.48.35",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "BELLİ BEY",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 57,
+        "odds": 5.45,
+        "finishTime": "1.49.16",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "UMUDUM DENİZ",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "KENAN KORKMAZ",
+        "weight": 54,
+        "odds": 45.9,
+        "finishTime": "1.49.30",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "AKSU KAAN",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "TAMER OĞUZHAN KARA",
+        "weight": 57,
+        "odds": 3.05,
+        "finishTime": "1.49.83",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "ELMAPINAR",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 55,
+        "odds": 28.35,
+        "finishTime": "1.49.97",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "DELİBOZ",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "METİN ÖZDİL",
+        "weight": 56,
+        "odds": 1.75,
+        "finishTime": "1.50.00",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "ÖZGÜNVERA",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 57,
+        "odds": 9.4,
+        "finishTime": "1.52.55",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "KING OF MUNZUR",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "KENAN KORKMAZ",
+        "weight": 54,
+        "odds": 2.2,
+        "finishTime": "2.11.91",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "SECRET MAN",
+        "jockey": "MEHMET KAYA",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 58,
+        "odds": 2.6,
+        "finishTime": "2.11.96",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "BEST ALYA",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 50,
+        "odds": 4.5,
+        "finishTime": "2.12.89",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "DOUBLE HEART",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ALPER CİĞER",
+        "weight": 56,
+        "odds": 13.85,
+        "finishTime": "2.13.26",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "NOBLE PRINCESS",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 55,
+        "odds": 4.75,
+        "finishTime": "2.13.68",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "EL LEON",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "ÖMER FARUK TAN",
+        "weight": 54,
+        "odds": 11.05,
+        "finishTime": "2.18.78",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1300,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "CATALYST",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "KADİR BALTACI",
+        "weight": 58,
+        "odds": 2.4,
+        "finishTime": "1.21.33",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "HOOD RIVER",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "EMİN KARATAŞ",
+        "weight": 61,
+        "odds": 3.1,
+        "finishTime": "1.21.38",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "BODEXCEPTIONAL",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "ÖMER FARUK TAN",
+        "weight": 50,
+        "odds": 11.85,
+        "finishTime": "1.21.40",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "GÜÇLÜ TÜRK",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "UĞUR KULAK",
+        "weight": 57.5,
+        "odds": 2.3,
+        "finishTime": "1.21.42",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "GOLDEN SNOW",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "AYKUT ECEVİT BAŞ",
+        "weight": 50,
+        "odds": 7.5,
+        "finishTime": "1.24.10",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "CEYHAN SERDARI",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "TOLGA SÜSLÜ",
+        "weight": 60,
+        "odds": 23.65,
+        "finishTime": "1.27.57",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 4,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "DEMİR BARBAR",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 57,
+        "odds": 8.15,
+        "finishTime": "1.20.13",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "SOĞUKDAĞ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 60,
+        "odds": 9,
+        "finishTime": "1.20.20",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "SAMET EFENDİ",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "BÜNYAMİN POLAT",
+        "weight": 57,
+        "odds": 4.7,
+        "finishTime": "1.20.55",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "LOSTRA",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "OLCAY ÖZEL",
+        "weight": 60,
+        "odds": 1.4,
+        "finishTime": "1.20.60",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "TİMBİRBİKE",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 60,
+        "odds": 6.3,
+        "finishTime": "1.20.65",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "ÖZTUĞ",
+        "jockey": "MEHMET KAYA",
+        "trainer": "ADNAN POLAT",
+        "weight": 59,
+        "odds": 16.3,
+        "finishTime": "1.20.68",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "HIZLI BERATIM",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "ALİ KARATOPRAK",
+        "weight": 54,
+        "odds": 29.7,
+        "finishTime": "1.21.04",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "DENİZ SAVAŞI",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "OLCAY ÖZEL",
+        "weight": 55,
+        "odds": 31.2,
+        "finishTime": "1.21.71",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "Handikap 16/DHÖW /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "İSKİT ALP",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "AYHAN POLAT",
+        "weight": 57,
+        "odds": 4.1,
+        "finishTime": "2.34.12",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "CAZGIR YAŞAR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "EMİN KARATAŞ",
+        "weight": 56,
+        "odds": 2.25,
+        "finishTime": "2.34.18",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "DIRAXTER",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 60,
+        "odds": 5.85,
+        "finishTime": "2.34.22",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "TILISIM",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 61,
+        "odds": 15,
+        "finishTime": "2.34.86",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "EMSİDİ",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "TAMER OĞUZHAN KARA",
+        "weight": 60.5,
+        "odds": 6.45,
+        "finishTime": "2.35.23",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "ÖZKEHRİBAR",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ALİ KARATOPRAK",
+        "weight": 57.5,
+        "odds": 6.7,
+        "finishTime": "2.38.20",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "SON PARILTI",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "HASAN GÜNEY",
+        "weight": 50,
+        "odds": 16.05,
+        "finishTime": "2.42.47",
+        "age": 8
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "MUNİS",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 51.5,
+        "odds": 9.65,
+        "finishTime": "2.48.65",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "CANYURT",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "DİLBER DEMİRKAPU",
+        "weight": 55.5,
+        "odds": 24.45,
+        "finishTime": "2.49.13",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 1300,
+    "surface": "Kum",
+    "raceClass": "KV-6/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "FATMA ZERYAM",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "ALPER CİĞER",
+        "weight": 54,
+        "odds": 3.75,
+        "finishTime": "1.22.13",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "GOOD WIEW GLORY",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "OZAN BULUT",
+        "weight": 60,
+        "odds": 4.7,
+        "finishTime": "1.22.18",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "MISFIT",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "İSMET TEKİNALP",
+        "weight": 57,
+        "odds": 1.5,
+        "finishTime": "1.23.52",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "TM BATAILE",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ALİ KARATOPRAK",
+        "weight": 57,
+        "odds": 15.75,
+        "finishTime": "1.23.65",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "MEGOHİME",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55,
+        "odds": 22.5,
+        "finishTime": "1.23.91",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "VICTORY STAR",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 59,
+        "odds": 5.8,
+        "finishTime": "1.24.06",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "VOOKHAN",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "METİN ÖZDİL",
+        "weight": 53,
+        "odds": 39.35,
+        "finishTime": "1.27.94",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 7,
+    "venue": "Ankara",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "KV-6/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "SONSİLAH",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 59.5,
+        "odds": 3.4,
+        "finishTime": "2.35.87",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "BAHARBAHİR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 56.5,
+        "odds": 3.55,
+        "finishTime": "2.35.90",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "AKBELHAN",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "KENAN KORKMAZ",
+        "weight": 57.5,
+        "odds": 13.15,
+        "finishTime": "2.35.91",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "BOĞAZ ÇOCUĞU",
+        "jockey": "MEHMET KAYA",
+        "trainer": "ADNAN POLAT",
+        "weight": 62.5,
+        "odds": 1.6,
+        "finishTime": "2.35.97",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SULTAN NENE",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 55.5,
+        "odds": 16.35,
+        "finishTime": "2.36.09",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "MİR KARTALI",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 59.5,
+        "odds": 10.45,
+        "finishTime": "2.36.99",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 8,
+    "venue": "Ankara",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "PHILADELPHIA",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 57.5,
+        "odds": 4.05,
+        "finishTime": "1.37.23",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "CHILLI CHARLIE",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "AYHAN POLAT",
+        "weight": 53,
+        "odds": 14.6,
+        "finishTime": "1.37.54",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "OHRID INCISI",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "KADİR BALTACI",
+        "weight": 57,
+        "odds": 2.2,
+        "finishTime": "1.37.64",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "FORLORN",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "EMİN KARATAŞ",
+        "weight": 60,
+        "odds": 3.35,
+        "finishTime": "1.37.77",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "FINALE DUTY",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "AHMET İPEK",
+        "weight": 56,
+        "odds": 3.3,
+        "finishTime": "1.37.93",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "LONDON POWER",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "KENAN KORKMAZ",
+        "weight": 57,
+        "odds": 28.15,
+        "finishTime": "1.41.44",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "PAPER QUEEN",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "BÜNYAMİN POLAT",
+        "weight": 56,
+        "odds": 28.65,
+        "finishTime": "Derecesiz",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 9,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "RAHİK",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 58,
+        "odds": 4.4,
+        "finishTime": "1.48.04",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GÜNMETE",
+        "jockey": "MEHMET KAYA",
+        "trainer": "ADNAN POLAT",
+        "weight": 57,
+        "odds": 4.8,
+        "finishTime": "1.49.15",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "NEŞET AĞA",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "AYKUT ECEVİT BAŞ",
+        "weight": 54,
+        "odds": 3.05,
+        "finishTime": "1.49.41",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "AKSU BABA",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "TAMER OĞUZHAN KARA",
+        "weight": 57,
+        "odds": 2.25,
+        "finishTime": "1.50.38",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "ALİ AL MAQAM",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "OLCAY ÖZEL",
+        "weight": 57,
+        "odds": 8.55,
+        "finishTime": "1.51.15",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "ODİN KIZI",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 55,
+        "odds": 40.55,
+        "finishTime": "1.52.72",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "GÜÇSELİ",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 57,
+        "odds": 22,
+        "finishTime": "1.56.98",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "OĞLUM TAMER",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "ADNAN POLAT",
+        "weight": 54,
+        "odds": 23.75,
+        "finishTime": "2.04.83",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 1,
+    "venue": "Diyarbakır",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "DAYWALKER",
+        "jockey": "FETHULLAH FELHAN",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 60.5,
+        "odds": 10.25,
+        "finishTime": "2.18.51",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "ROTA SHOW",
+        "jockey": "İSA KATAR",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 58.5,
+        "odds": 10.35,
+        "finishTime": "2.20.17",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "ADİGE ABREK",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "MUHAMMED KARALI",
+        "weight": 54.5,
+        "odds": 9.55,
+        "finishTime": "2.21.34",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "BRO BORA",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "HALİL ÇALI",
+        "weight": 58.5,
+        "odds": 7,
+        "finishTime": "2.21.81",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "INFORMACTION",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 53.5,
+        "odds": 4.85,
+        "finishTime": "2.21.90",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "DEA FORTUNA",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "MEHMET EMİN SARIDAL",
+        "weight": 59.5,
+        "odds": 2.35,
+        "finishTime": "2.23.75",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "GÖKÇEHAN",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 60.5,
+        "odds": 13.2,
+        "finishTime": "2.24.50",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "GRAND METEOR",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET BALTA",
+        "weight": 54,
+        "odds": 16.55,
+        "finishTime": "2.29.61",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "OGİBOR",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 61,
+        "odds": 5.8,
+        "finishTime": "2.30.40",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "BERKOVİÇ",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "MEHMET EMİN SARIDAL",
+        "weight": 60.5,
+        "odds": 18.2,
+        "finishTime": "2.31.37",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 2,
+    "venue": "Diyarbakır",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-6/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "SABAZBEYİ",
+        "jockey": "MUSTAFA IŞIK",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 55.5,
+        "odds": 34.25,
+        "finishTime": "1.28.55",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "ARAPÇELİK",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 58.5,
+        "odds": 2.05,
+        "finishTime": "1.29.38",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "KARAŞİMŞEK",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 58.5,
+        "odds": 12.35,
+        "finishTime": "1.30.22",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "PRENSES DİLARA",
+        "jockey": "LEVENT TAPTIK",
+        "trainer": "HALİL ÇALI",
+        "weight": 56.5,
+        "odds": 7.95,
+        "finishTime": "1.30.50",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "MENABINOĞLU",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 58,
+        "odds": 15.6,
+        "finishTime": "1.31.46",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "YEDİKARDEŞLER",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 58,
+        "odds": 11.45,
+        "finishTime": "1.32.10",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "İLKAYOĞLU",
+        "jockey": "HASAN ALTUNDAĞ",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 57.5,
+        "odds": 14.75,
+        "finishTime": "1.32.70",
+        "age": 8
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "KAANHAKAN",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 62.5,
+        "odds": 6.05,
+        "finishTime": "1.33.06",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "YUTANGİRDAP",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MEHMET ALTIN",
+        "weight": 58.5,
+        "odds": 16.15,
+        "finishTime": "1.43.62",
+        "age": 9
+      },
+      {
+        "position": 10,
+        "no": "2",
+        "name": "DUMRUL",
+        "jockey": "İSA KATAR",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 61.5,
+        "odds": 3.75,
+        "finishTime": "Derecesiz",
+        "age": 8
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 3,
+    "venue": "Diyarbakır",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 19/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "BÜYÜK DİLARA",
+        "jockey": "MUSTAFA IŞIK",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 55,
+        "odds": 10.15,
+        "finishTime": "1.31.58",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "KOCA SABRİ",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 55,
+        "odds": 2.8,
+        "finishTime": "1.31.91",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "SUSUZKURT",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "HAKAN ATAKAYA",
+        "weight": 55,
+        "odds": 18.9,
+        "finishTime": "1.33.42",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "KARA MAHO",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "MUHAMMED KARALI",
+        "weight": 57,
+        "odds": 4.5,
+        "finishTime": "1.33.69",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "YARALI AKBAŞ",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 55,
+        "odds": 2.8,
+        "finishTime": "1.34.10",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "11",
+        "name": "LUNA",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 55,
+        "odds": 17.3,
+        "finishTime": "1.35.42",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "VİLDAN KIZI",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 58,
+        "odds": 10.15,
+        "finishTime": "1.41.71",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "3",
+        "name": "CAN YAKUP",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 55,
+        "odds": 6.7,
+        "finishTime": "1.44.71",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "SOSAN TAY",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "HALİL ÇALI",
+        "weight": 55,
+        "odds": 12.35,
+        "finishTime": "1.49.54",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "4",
+        "name": "DENGİZ EFSANESİ",
+        "jockey": "İSA KATAR",
+        "trainer": "CENGİZ ŞAHİN",
+        "weight": 55,
+        "odds": 14.9,
+        "finishTime": "Derecesiz",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 4,
+    "venue": "Diyarbakır",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16/DHÖ /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "ŞEŞENSULTANI",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 59.5,
+        "odds": 6.6,
+        "finishTime": "2.27.75",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "MADENCİ",
+        "jockey": "LEVENT TAPTIK",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 60,
+        "odds": 2.25,
+        "finishTime": "2.29.46",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "KARAPINAR ASLANI",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 61,
+        "odds": 12.45,
+        "finishTime": "2.30.37",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "ÖZARAS",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 55.5,
+        "odds": 13.05,
+        "finishTime": "2.31.20",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "YALNIZ BABA",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 58,
+        "odds": 3.5,
+        "finishTime": "2.32.21",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "HOŞGÜLHAT",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "EKREM YARDIMCI",
+        "weight": 60.5,
+        "odds": 8.4,
+        "finishTime": "2.35.45",
+        "age": 8
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "SERHATTIM",
+        "jockey": "FETHULLAH FELHAN",
+        "trainer": "MAHSUM BARCİN",
+        "weight": 54,
+        "odds": 11.25,
+        "finishTime": "2.40.00",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "TUĞKANTAY",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "HALİL ÇALI",
+        "weight": 59,
+        "odds": 5.25,
+        "finishTime": "3.03.75",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 5,
+    "venue": "Diyarbakır",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/Dişi /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "ARES CAT",
+        "jockey": "LEVENT TAPTIK",
+        "trainer": "EKREM YARDIMCI",
+        "weight": 58.5,
+        "odds": 18.7,
+        "finishTime": "1.20.78",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "10",
+        "name": "AY ÇÖLÜ",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 55,
+        "odds": 6.9,
+        "finishTime": "1.20.96",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "MERYEM SULTAN",
+        "jockey": "MUHAMMED BARAN ÇAKMAK",
+        "trainer": "MEHMET ALTIN",
+        "weight": 57.5,
+        "odds": 6.45,
+        "finishTime": "1.21.46",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "KIZIM ADİLE",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET ALTIN",
+        "weight": 56,
+        "odds": 15.6,
+        "finishTime": "1.22.55",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "ÇAYKARALIM",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "MEHMET EMİN SARIDAL",
+        "weight": 62.5,
+        "odds": 17.5,
+        "finishTime": "1.23.17",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "SEMİHAM",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 61,
+        "odds": 8.45,
+        "finishTime": "1.23.29",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "MELİS HANIM",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "MEHMET ALTIN",
+        "weight": 59.5,
+        "odds": 19.6,
+        "finishTime": "1.24.69",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "EXOSOME",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "MUHAMMET YILDIRIM",
+        "weight": 59.5,
+        "odds": 25.25,
+        "finishTime": "1.24.76",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "LADY ARTEMIS",
+        "jockey": "HASAN ALTUNDAĞ",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 58.5,
+        "odds": 6.75,
+        "finishTime": "1.27.66",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "ZANDITA",
+        "jockey": "İSA KATAR",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 57,
+        "odds": 1.75,
+        "finishTime": "1.27.72",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "CLEAR SHOT",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "SERHAT ALTUNDAĞ",
+        "weight": 54,
+        "odds": 35.65,
+        "finishTime": "1.30.47",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 6,
+    "venue": "Diyarbakır",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "QUIET MAN",
+        "jockey": "İSA KATAR",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 62,
+        "odds": 2.65,
+        "finishTime": "1.18.18",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "CALIBRATION",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "HALİL ÇALI",
+        "weight": 60,
+        "odds": 11.25,
+        "finishTime": "1.18.51",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "KING LIGHTNING",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 58,
+        "odds": 2.55,
+        "finishTime": "1.19.71",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "ANADOLU PRENSİ",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "EKREM YARDIMCI",
+        "weight": 58,
+        "odds": 11.55,
+        "finishTime": "1.20.14",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "13",
+        "name": "HAND OF THE KING",
+        "jockey": "MUSTAFA IŞIK",
+        "trainer": "ALİ ŞEKER",
+        "weight": 56,
+        "odds": 50.2,
+        "finishTime": "1.20.84",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "12",
+        "name": "TRAP ZONE",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 56,
+        "odds": 27.3,
+        "finishTime": "1.20.99",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "ÜNLÜNÜNOĞLU",
+        "jockey": "MAHMUT ÜNLÜ",
+        "trainer": "GÖKHAN BALTA",
+        "weight": 60,
+        "odds": 11.55,
+        "finishTime": "1.21.35",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "SEVİNÇLİ",
+        "jockey": "LEVENT TAPTIK",
+        "trainer": "HALİL ÇALI",
+        "weight": 63,
+        "odds": 28.8,
+        "finishTime": "1.23.39",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "1",
+        "name": "KING HESO",
+        "jockey": "HASAN ALTUNDAĞ",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 63,
+        "odds": 6.3,
+        "finishTime": "1.23.94",
+        "age": 5
+      },
+      {
+        "position": 10,
+        "no": "11",
+        "name": "SEHERİN YELİ",
+        "jockey": "MUHAMMED BARAN ÇAKMAK",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 58,
+        "odds": 26.35,
+        "finishTime": "1.24.09",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "4",
+        "name": "BOGOTA",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MEHMET BALTA",
+        "weight": 60,
+        "odds": 2.65,
+        "finishTime": "1.28.42",
+        "age": 8
+      },
+      {
+        "position": 12,
+        "no": "10",
+        "name": "MUST",
+        "jockey": "BURAK BEKTAŞ",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 58,
+        "odds": 18.2,
+        "finishTime": "1.32.29",
+        "age": 5
+      },
+      {
+        "position": 13,
+        "no": "6",
+        "name": "SILVER SWORD",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 60,
+        "odds": 19.9,
+        "finishTime": "1.33.98",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "14",
+        "name": "RAINBOW SPIRIT",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 54,
+        "odds": 58.05,
+        "finishTime": "Derecesiz",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 1,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "CHANCEL",
+        "jockey": "JUAN CRAWFORD",
+        "trainer": "BEVERLEY CHUBB",
+        "weight": 56,
+        "odds": 3.9,
+        "finishTime": "1.46.54",
+        "age": 8
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "PET SOUNDS",
+        "jockey": "SLADE JONES",
+        "trainer": "DANNY YU",
+        "weight": 55.5,
+        "odds": 11.85,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "NONNO'S LITTLE BOY",
+        "jockey": "PIETRO MORAN",
+        "trainer": "W. V. ARMATA",
+        "weight": 54,
+        "odds": 2.85,
+        "finishTime": "",
+        "age": 7
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "MAXIMUS MAGIC",
+        "jockey": "XAREL FORDE",
+        "trainer": "NORMAN MCKNIGHT",
+        "weight": 53,
+        "odds": 5.8,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "FAIRWAY TO HEAVEN",
+        "jockey": "LEO SALLES",
+        "trainer": "ABRAHAM R. KATRYAN",
+        "weight": 55.5,
+        "odds": 2.15,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "CABERNAYDO",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "ROBERT P. TILLER",
+        "weight": 56,
+        "odds": 5.8,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "GENDRAGON",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "CHETRAM MOHABIR",
+        "weight": 56,
+        "odds": 25.05,
+        "finishTime": "",
+        "age": 7
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "SUGAR IT'S ELI",
+        "jockey": "AUSTIN ADAMS",
+        "trainer": "ROSS ARMATA",
+        "weight": 53,
+        "odds": 14.4,
+        "finishTime": "",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 2,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "AVA'S PRINCESS",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "STEVEN CHIRCOP",
+        "weight": 55,
+        "odds": 10.35,
+        "finishTime": "1.12.19",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "DADDY'S SECRET",
+        "jockey": "PIETRO MORAN",
+        "trainer": "RICHARD G. HAYASHI",
+        "weight": 51.5,
+        "odds": 2.4,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "REGAL AFFAIR",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "STEVE ATTARD",
+        "weight": 53.5,
+        "odds": 2.45,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "DEANNA",
+        "jockey": "FRASER AEBLY",
+        "trainer": "PETER BERRINGER",
+        "weight": 53.5,
+        "odds": 6.6,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "GEORGIA RAIN",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 53.5,
+        "odds": 8.3,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "KASUMI'S GHOST",
+        "jockey": "JUAN CRAWFORD",
+        "trainer": "BEVERLEY CHUBB",
+        "weight": 53.5,
+        "odds": 23.95,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "FLY TRUE NORTH",
+        "jockey": "XAREL FORDE",
+        "trainer": "ELIZABETH R. ELDER",
+        "weight": 51.5,
+        "odds": 19.4,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "BAYTOWN MUNNY",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "PAUL MCENTEE",
+        "weight": 55,
+        "odds": 29.25,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "9",
+        "name": "NILE PASSAGE",
+        "jockey": "RYAN MUNGER",
+        "trainer": "MARTIN DREXLER",
+        "weight": 53.5,
+        "odds": 11.6,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "SILENT PAL",
+        "jockey": "KEVEH NICHOLLS",
+        "trainer": "JOHN WHALEN",
+        "weight": 53.5,
+        "odds": 37,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 3,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "LA CULASSE",
+        "jockey": "PIETRO MORAN",
+        "trainer": "KEVIN ATTARD",
+        "weight": 51.5,
+        "odds": 1.9,
+        "finishTime": "1.47.59",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "HEART TAP",
+        "jockey": "DA-SEAN ZAVIER GASKIN",
+        "trainer": "STEVEN CHIRCOP",
+        "weight": 55,
+        "odds": 12.7,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "LAPIN DE PLAGE",
+        "jockey": "RYAN MUNGER",
+        "trainer": "CATHERINE DAY PHILLIPS",
+        "weight": 53.5,
+        "odds": 3.25,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "TIZ PRACTICAL",
+        "jockey": "ESWAN FLORES",
+        "trainer": "JOSIE CARROLL",
+        "weight": 53.5,
+        "odds": 7.8,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "SCOTCH MIST",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "DONALD C. MACRAE",
+        "weight": 55,
+        "odds": 4.85,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "LADY ON A MISSION",
+        "jockey": "XAREL FORDE",
+        "trainer": "PATRICK DIXON",
+        "weight": 51.5,
+        "odds": 28.65,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "PINA COLADA",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "MARK E. CASSE",
+        "weight": 55,
+        "odds": 6.25,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 4,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "SULTANA",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 55.5,
+        "odds": 7.3,
+        "finishTime": "2.05.72",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "QUEENS COMMAND",
+        "jockey": "FRASER AEBLY",
+        "trainer": "MARTIN DREXLER",
+        "weight": 55.5,
+        "odds": 27,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "DANCING N DIXIE",
+        "jockey": "PATRICK HUSBANDS",
+        "trainer": "MARK E. CASSE",
+        "weight": 55,
+        "odds": 3.85,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "BLITZ",
+        "jockey": "RYAN MUNGER",
+        "trainer": "MARK E. CASSE",
+        "weight": 55.5,
+        "odds": 3.85,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "FOR FLYING",
+        "jockey": "SAHIN CIVACI",
+        "trainer": "H. GRAHAM MOTION",
+        "weight": 55,
+        "odds": 1.8,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "HURRICANE CLAIR",
+        "jockey": "ESWAN FLORES",
+        "trainer": "MARTIN DREXLER",
+        "weight": 55.5,
+        "odds": 4.75,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "LONG AGO",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "WILLIAM E. MOREY",
+        "weight": 55.5,
+        "odds": 4.25,
+        "finishTime": "",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 5,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "TANDHONEYWITHANE",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "MICHAEL MATTINE",
+        "weight": 56,
+        "odds": 3.9,
+        "finishTime": "1.25.29",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "MOBULA",
+        "jockey": "AUSTIN ADAMS",
+        "trainer": "NATHAN SQUIRES",
+        "weight": 53.5,
+        "odds": 3.2,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "HYMN TO HER",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "ROBERT P. TILLER",
+        "weight": 55,
+        "odds": 4.75,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "SKYLIGHT CAPER",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 55,
+        "odds": 8.15,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "LADY IZZY",
+        "jockey": "RYAN MUNGER",
+        "trainer": "SID C. ATTARD",
+        "weight": 55,
+        "odds": 2.45,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "VRANA",
+        "jockey": "PIETRO MORAN",
+        "trainer": "SARAH RITCHIE",
+        "weight": 53.5,
+        "odds": 20.1,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "CLOUD RIDER",
+        "jockey": "XAREL FORDE",
+        "trainer": "STEVE ATTARD",
+        "weight": 54.5,
+        "odds": 12.55,
+        "finishTime": "",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 6,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "PONDERING",
+        "jockey": "DECLAN CANNON",
+        "trainer": "BRENDAN P. WALSH",
+        "weight": 55,
+        "odds": 11.05,
+        "finishTime": "1.23.34",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "12",
+        "name": "CAITLINHERGRTNESS",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "KEVIN ATTARD",
+        "weight": 56.5,
+        "odds": 2.85,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "LOVE CERVERE",
+        "jockey": "SAHIN CIVACI",
+        "trainer": "MIGUEL CLEMENT",
+        "weight": 56,
+        "odds": 4.3,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "UPHILL DANCE",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "RACHEL HALDEN",
+        "weight": 55.5,
+        "odds": 10.1,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "10",
+        "name": "SHOTGUN WEDDING",
+        "jockey": "KEVEH NICHOLLS",
+        "trainer": "JAMES BENTLEY BEGG",
+        "weight": 55,
+        "odds": 8.35,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "SERENE SERAPH",
+        "jockey": "XAREL FORDE",
+        "trainer": "WILLIAM I. MOTT",
+        "weight": 55.5,
+        "odds": 17,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "TRICKY TEMPER",
+        "jockey": "ESWAN FLORES",
+        "trainer": "JEREMIAH C. ENGLEHART",
+        "weight": 55.5,
+        "odds": 11.95,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "13",
+        "name": "STORMCAST",
+        "jockey": "PATRICK HUSBANDS",
+        "trainer": "MARK E. CASSE",
+        "weight": 55,
+        "odds": 6.95,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "BOLT ENOREE",
+        "jockey": "DA-SEAN ZAVIER GASKIN",
+        "trainer": "STEVEN CHIRCOP",
+        "weight": 55.5,
+        "odds": 45.4,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "A LITTLE FRISKY",
+        "jockey": "FRASER AEBLY",
+        "trainer": "JOSIE CARROLL",
+        "weight": 55.5,
+        "odds": 58.7,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "GOLDEN CANARY",
+        "jockey": "RYAN MUNGER",
+        "trainer": "MARK E. CASSE",
+        "weight": 55.5,
+        "odds": 10.1,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "6",
+        "name": "MO FOX GIVIN",
+        "jockey": "PIETRO MORAN",
+        "trainer": "MARK E. CASSE",
+        "weight": 55.5,
+        "odds": 10.1,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "2",
+        "name": "LES REYS",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "MIGUEL CLEMENT",
+        "weight": 56,
+        "odds": 5.35,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "15",
+        "name": "DOLCE SOPRESA",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "JOSIE CARROLL",
+        "weight": 55,
+        "odds": 35.1,
+        "finishTime": "",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 7,
+    "venue": "Woodbine Kanada",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "DRESDEN ROW",
+        "jockey": "RYAN MUNGER",
+        "trainer": "LORNE RICHARDS",
+        "weight": 55.5,
+        "odds": 6.65,
+        "finishTime": "1.50.07",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "10",
+        "name": "JOKESTAR",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 56,
+        "odds": 13.75,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "CAMEO PERFORMANCE",
+        "jockey": "DECLAN CANNON",
+        "trainer": "BRENDAN P. WALSH",
+        "weight": 55.5,
+        "odds": 5.9,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "SWIFT DELIVERY",
+        "jockey": "PATRICK HUSBANDS",
+        "trainer": "MARK E. CASSE",
+        "weight": 56,
+        "odds": 2.6,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "13",
+        "name": "LOST ARK",
+        "jockey": "JALON L. SAMUEL",
+        "trainer": "KRISTA COLE",
+        "weight": 55.5,
+        "odds": 18.35,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "11",
+        "name": "COOL KISS",
+        "jockey": "SAHIN CIVACI",
+        "trainer": "MARTIN DREXLER",
+        "weight": 56,
+        "odds": 8.15,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "LOOSE WIRE",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "KEVIN ATTARD",
+        "weight": 56,
+        "odds": 15.9,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "9",
+        "name": "CLASSIC MO TOWN",
+        "jockey": "ESWAN FLORES",
+        "trainer": "MARTIN DREXLER",
+        "weight": 56,
+        "odds": 25.55,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "PARAMOUNT PRINCE",
+        "jockey": "PIETRO MORAN",
+        "trainer": "MARK E. CASSE",
+        "weight": 56,
+        "odds": 2.6,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 10,
+        "no": "7",
+        "name": "FUNTASTIC AGAIN",
+        "jockey": "VICTOR ESPINOZA",
+        "trainer": "WESLEY A. WARD",
+        "weight": 56,
+        "odds": 3.8,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 11,
+        "no": "5",
+        "name": "MAP'S A BREEZE",
+        "jockey": "FRASER AEBLY",
+        "trainer": "JOSIE CARROLL",
+        "weight": 56,
+        "odds": 8.6,
+        "finishTime": "",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 1,
+    "venue": "Gulfstream Park ABD",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "LONGBRANCH LOU",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "NOLAN RAMSEY",
+        "weight": 55.5,
+        "odds": 1.55,
+        "finishTime": "1.41.01",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "TICKING",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "EDWARD PLESA, JR.",
+        "weight": 54.5,
+        "odds": 4.2,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "NAVY CROSS",
+        "jockey": "EDGAR PEREZ",
+        "trainer": "CARLOS LUIS PEREZ",
+        "weight": 54.5,
+        "odds": 5.25,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "GIVE ME LIBERTY",
+        "jockey": "MARCOS MENESES",
+        "trainer": "DILEY A. DAKIN",
+        "weight": 55.5,
+        "odds": 9.55,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "DOWNING STREET",
+        "jockey": "RENZO ROJAS",
+        "trainer": "MICHAEL S. MORRISON",
+        "weight": 54.5,
+        "odds": 35,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "LOOKIN AT ROSES",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "GUADALUPE PRECIADO",
+        "weight": 55.5,
+        "odds": 5.5,
+        "finishTime": "",
+        "age": 9
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "FREDERICKSBURG",
+        "jockey": "CIPRIANO GIL",
+        "trainer": "BERNARDO CAMPOS",
+        "weight": 54.5,
+        "odds": 19,
+        "finishTime": "",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 2,
+    "venue": "Gulfstream Park ABD",
+    "distance": 1100,
+    "surface": "Kum",
+    "raceClass": "",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "DOGWOOD CROSSING",
+        "jockey": "RENZO ROJAS",
+        "trainer": "LUIS M. RAMIREZ",
+        "weight": 55,
+        "odds": 24.6,
+        "finishTime": "1.05.28",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "VINO'S VALENTINE",
+        "jockey": "JOSE C. FERRER",
+        "trainer": "ANGEL M. RODRIGUEZ",
+        "weight": 55,
+        "odds": 2.85,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "HE BE HOPPIN",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "EDUARDO NUNEZ",
+        "weight": 56,
+        "odds": 12.45,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "TO THE MAX",
+        "jockey": "DAVID BORACO",
+        "trainer": "KEVIN MCKATHAN",
+        "weight": 55,
+        "odds": 12.5,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "WHAT IT TIZ",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "AMADOR MEREI SANCHEZ",
+        "weight": 55,
+        "odds": 2.95,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "MULLY'S MOON",
+        "jockey": "EMISAEL JARAMILLO",
+        "trainer": "JOSE M. CASTRO",
+        "weight": 55,
+        "odds": 3.6,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "JAKER",
+        "jockey": "JONATHAN OCASIO",
+        "trainer": "OSCAR M. GONZALEZ",
+        "weight": 55,
+        "odds": 5.75,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "THE GREAT EMPIRE",
+        "jockey": "HERIBERTO FIGUEROA",
+        "trainer": "ANDY P. WILLIAMS",
+        "weight": 55,
+        "odds": 28.9,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "GOLDINTHESKY",
+        "jockey": "MICAH J. HUSBANDS",
+        "trainer": "DALTON LAWRENCE",
+        "weight": 55,
+        "odds": 15.2,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 3,
+    "venue": "Gulfstream Park ABD",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "SLENDER SLIPPER",
+        "jockey": "RAJIV MARAGH",
+        "trainer": "MICHAEL S. MORRISON",
+        "weight": 56,
+        "odds": 11.65,
+        "finishTime": "1.12.33",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "DRINK DEEPLY",
+        "jockey": "YOLBER TORRES",
+        "trainer": "DIANE D. MORICI",
+        "weight": 52,
+        "odds": 16.35,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "FIVE EYES ONMICHEL",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "RODERICK R. RODRIGUEZ",
+        "weight": 56,
+        "odds": 2.45,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "LONG GONE SALLY",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "J. DAVID BRADDY",
+        "weight": 54.5,
+        "odds": 3.9,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "J J MONET",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "BERTRAM C. MANCHAN",
+        "weight": 56,
+        "odds": 11.85,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "FLATTER FANATIC",
+        "jockey": "LUCA PANICI",
+        "trainer": "HEATHER SMULLEN",
+        "weight": 54.5,
+        "odds": 2.35,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "INALLPROBABILITY",
+        "jockey": "EMISAEL JARAMILLO",
+        "trainer": "FAUSTO GUTIERREZ",
+        "weight": 54.5,
+        "odds": 8.2,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 4,
+    "venue": "Gulfstream Park ABD",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "MONSTER",
+        "jockey": "SAMY CAMACHO",
+        "trainer": "JOSE FRANCISCO D'ANGELO",
+        "weight": 54.5,
+        "odds": 1.75,
+        "finishTime": "1.02.92",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "BRONZE BULLET",
+        "jockey": "EMISAEL JARAMILLO",
+        "trainer": "JOSE FRANCISCO D'ANGELO",
+        "weight": 54.5,
+        "odds": 2.15,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "TIMELESS VICTORY",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "EDWARD PLESA, JR.",
+        "weight": 54.5,
+        "odds": 12.1,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "SAVAGE WARDEN",
+        "jockey": "JESUS M. RIOS",
+        "trainer": "CARLOS LUIS PEREZ",
+        "weight": 53.5,
+        "odds": 8.3,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "BALL OF FIRE",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "JOSEPH F. ORSENO",
+        "weight": 54.5,
+        "odds": 10.35,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "ZEVI'S ZONE",
+        "jockey": "MICAH J. HUSBANDS",
+        "trainer": "DANIEL C. HURTAK",
+        "weight": 53.5,
+        "odds": 9.9,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "I'M SAM",
+        "jockey": "ANTHONY THOMAS",
+        "trainer": "DANIEL C. HURTAK",
+        "weight": 53.5,
+        "odds": 9.9,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 5,
+    "venue": "Gulfstream Park ABD",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "MUSICAL DESIGN",
+        "jockey": "EMISAEL JARAMILLO",
+        "trainer": "RONALD B. SPATZ",
+        "weight": 55,
+        "odds": 5.1,
+        "finishTime": "1.02.94",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "ANY MOMENT",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "LAURA CAZARES",
+        "weight": 53.5,
+        "odds": 10.9,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "TINKI ABARRIO",
+        "jockey": "EDGAR PEREZ",
+        "trainer": "CARLOS LUIS PEREZ",
+        "weight": 55,
+        "odds": 5.15,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "CHLOE'S TOY",
+        "jockey": "SAMY CAMACHO",
+        "trainer": "BOBBY S. DIBONA",
+        "weight": 55,
+        "odds": 1.85,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "SOPHISTICATED CAT",
+        "jockey": "YOLBER TORRES",
+        "trainer": "JEFF ENGLER",
+        "weight": 52.5,
+        "odds": 25.15,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "CAJUN FANTASY",
+        "jockey": "CIPRIANO GIL",
+        "trainer": "DAVID FAWKES",
+        "weight": 55,
+        "odds": 5,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "DAVID'S ROSE",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "JOSE GAROFFALO",
+        "weight": 55,
+        "odds": 11.25,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "DOVE IN CHARGE",
+        "jockey": "RAJIV MARAGH",
+        "trainer": "COLLIN MARAGH",
+        "weight": 56,
+        "odds": 11.85,
+        "finishTime": "",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 6,
+    "venue": "Gulfstream Park ABD",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "CLASSIC OF COURSE",
+        "jockey": "JONATHAN OCASIO",
+        "trainer": "PATRICK L. BIANCONE",
+        "weight": 55.5,
+        "odds": 1.3,
+        "finishTime": "1.37.57",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "STEPPE",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "BOBBY S. DIBONA",
+        "weight": 55.5,
+        "odds": 2.55,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "ROAR OF THE BEAST",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "SAFFIE A. JOSEPH, JR.",
+        "weight": 54,
+        "odds": 9.8,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "NOTHINGSUBTLE",
+        "jockey": "RAJIV MARAGH",
+        "trainer": "NICHOLAS PALMER",
+        "weight": 52.5,
+        "odds": 19.25,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "KEEP ON MOVING",
+        "jockey": "EDWIN GONZALEZ",
+        "trainer": "MICHAEL YATES",
+        "weight": 53.5,
+        "odds": 7.2,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 7,
+    "venue": "Gulfstream Park ABD",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "LANGVAD",
+        "jockey": "MICAH J. HUSBANDS",
+        "trainer": "SAFFIE A. JOSEPH, JR.",
+        "weight": 54.5,
+        "odds": 3.3,
+        "finishTime": "1.25.96",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "9",
+        "name": "HAWK",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "CARLOS A. DAVID",
+        "weight": 54.5,
+        "odds": 1.7,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "STAR OF THE GUN",
+        "jockey": "JOSE C. FERRER",
+        "trainer": "ANTONIO SANO",
+        "weight": 54.5,
+        "odds": 16.5,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ACTION DELIGHT",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "KATHLEEN O'CONNELL",
+        "weight": 54.5,
+        "odds": 45.95,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "SUPREME HONOR",
+        "jockey": "CIPRIANO GIL",
+        "trainer": "RUBEN SIERRA",
+        "weight": 54.5,
+        "odds": 10.5,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "TEDDY BEAR",
+        "jockey": "EDWIN GONZALEZ",
+        "trainer": "JOSEPH F. ORSENO",
+        "weight": 54.5,
+        "odds": 5.15,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "BOLERO BAY",
+        "jockey": "MARCOS MENESES",
+        "trainer": "MICHAEL YATES",
+        "weight": 54.5,
+        "odds": 16.85,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "CLASSIC EQUATION",
+        "jockey": "CARLOS MARTINEZ",
+        "trainer": "CARLOS NARVAEZ",
+        "weight": 50,
+        "odds": 21.2,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "WIN N WIN",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "JAVIER E. GONZALEZ",
+        "weight": 54.5,
+        "odds": 13.7,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 8,
+    "venue": "Gulfstream Park ABD",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "CARENTAN",
+        "jockey": "SAMY CAMACHO",
+        "trainer": "CARLOS A. DAVID",
+        "weight": 56,
+        "odds": 1.5,
+        "finishTime": "1.40.84",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "DIMANCHE GRAS",
+        "jockey": "JOSE E. MORELOS",
+        "trainer": "JOSE GAROFFALO",
+        "weight": 53.5,
+        "odds": 9.15,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "DRINK N WINK",
+        "jockey": "CIPRIANO GIL",
+        "trainer": "FERNANDO ABREU",
+        "weight": 55,
+        "odds": 4.7,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "SOUPER CRUNCHY",
+        "jockey": "EDWIN GONZALEZ",
+        "trainer": "MICHAEL J. TROMBETTA",
+        "weight": 56,
+        "odds": 7.4,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "ALASDAIR",
+        "jockey": "MIGUEL ANGEL VASQUEZ",
+        "trainer": "NOLAN RAMSEY",
+        "weight": 55,
+        "odds": 6.45,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "SHERMAN FURY",
+        "jockey": "YOLBER TORRES",
+        "trainer": "GARY A. SUBRATIE",
+        "weight": 52,
+        "odds": 17.8,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "SECRET BAGENT MAN",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "EDWARD PLESA, JR.",
+        "weight": 54.5,
+        "odds": 9.4,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "raceNo": 9,
+    "venue": "Gulfstream Park ABD",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "LACE UP",
+        "jockey": "MARCOS MENESES",
+        "trainer": "AMADOR MEREI SANCHEZ",
+        "weight": 55.5,
+        "odds": 10.15,
+        "finishTime": "1.38.55",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "MR SCATTER",
+        "jockey": "CARLOS D. LUGO",
+        "trainer": "PEDRO GARCIA, JR.",
+        "weight": 56,
+        "odds": 1.95,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "PET MAT",
+        "jockey": "CIPRIANO GIL",
+        "trainer": "TAREQ MOUBARAK",
+        "weight": 56,
+        "odds": 9.2,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "MAJOR KING",
+        "jockey": "RAJIV MARAGH",
+        "trainer": "COLLIN MARAGH",
+        "weight": 56,
+        "odds": 2.6,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "LUNI SIMA",
+        "jockey": "LUCA PANICI",
+        "trainer": "ANGEL M. RODRIGUEZ",
+        "weight": 56,
+        "odds": 10.25,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "SILENT AND VIOLENT",
+        "jockey": "MIGUEL ARROYO",
+        "trainer": "MONICA MCGOEY",
+        "weight": 55.5,
+        "odds": 18.5,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "LEE ANN'S WARRIOR",
+        "jockey": "CARLOS MARTINEZ",
+        "trainer": "JOSEPH C. CATANESE III",
+        "weight": 51,
+        "odds": 20.85,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "CLUBHOUSE",
+        "jockey": "EMISAEL JARAMILLO",
+        "trainer": "JOSE M. CASTRO",
+        "weight": 55.5,
+        "odds": 7.35,
+        "finishTime": "",
+        "age": 5
+      }
+    ]
+  }
+]
