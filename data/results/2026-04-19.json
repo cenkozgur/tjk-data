@@ -260,5 +260,103 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-04-19",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 15/Dişi /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "FINALLY ITS TIME",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 56,
+        "odds": 4.1,
+        "finishTime": "2.05.68",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "VANTABELLA",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "MEHMET HANİFİ ESİN",
+        "weight": 55.5,
+        "odds": 1.65,
+        "finishTime": "2.05.81",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "JACKAL TROUBLE",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "ORKUN ÖZELCANAT",
+        "weight": 50,
+        "odds": 4.8,
+        "finishTime": "2.05.83",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "KOKO LOKO",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 57.5,
+        "odds": 11.75,
+        "finishTime": "2.06.11",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "LA COPA",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "BEYZA YÜKSEL",
+        "weight": 60.5,
+        "odds": 14.15,
+        "finishTime": "2.06.31",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "CROWN JEWEL",
+        "jockey": "ZÜLFÜKAR KARABULUT",
+        "trainer": "TEZCAN TAŞAR",
+        "weight": 50,
+        "odds": 48.15,
+        "finishTime": "2.06.43",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "ICE DROPS",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 55,
+        "odds": 6.5,
+        "finishTime": "2.06.67",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "SUPER SHADOW",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 58,
+        "odds": 9.95,
+        "finishTime": "2.08.50",
+        "age": 3
+      }
+    ]
   }
 ]
