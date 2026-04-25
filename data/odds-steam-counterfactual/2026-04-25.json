@@ -3,18 +3,18 @@
     "date": "2026-04-25",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 6,
-    "overlayFired": 6,
+    "evaluatedRaces": 8,
+    "overlayFired": 8,
     "baselineHits": 3,
-    "overlayHits": 1,
-    "marketHits": 3,
+    "overlayHits": 2,
+    "marketHits": 5,
     "agreementCount": 2,
-    "baselineHitRate": 0.5,
-    "overlayHitRate": 0.1667,
-    "marketHitRate": 0.5,
-    "overlayVsBaselinePp": -33.33,
-    "overlayVsMarketPp": -33.33,
-    "generatedAt": "2026-04-25T13:43:59.843Z"
+    "baselineHitRate": 0.375,
+    "overlayHitRate": 0.25,
+    "marketHitRate": 0.625,
+    "overlayVsBaselinePp": -12.5,
+    "overlayVsMarketPp": -37.5,
+    "generatedAt": "2026-04-25T14:14:30.007Z"
   },
   "rows": [
     {
@@ -98,6 +98,22 @@
       "agreementWithBaseline": true
     },
     {
+      "raceKey": "Ankara::6",
+      "venue": "Ankara",
+      "raceNo": 6,
+      "winner": "NUSRET OĞLU",
+      "winnerOdds": 2.1,
+      "baseline": "ÖZKEHRİBAR",
+      "baselineHit": false,
+      "market": "NUSRET OĞLU",
+      "marketHit": true,
+      "overlay": "NUSRET OĞLU",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8455882352941176,
+      "agreementWithBaseline": false
+    },
+    {
       "raceKey": "İzmir::1",
       "venue": "İzmir",
       "raceNo": 1,
@@ -111,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8766617429837519,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İzmir::2",
+      "venue": "İzmir",
+      "raceNo": 2,
+      "winner": "BEŞ ON SEKİZ",
+      "winnerOdds": 2.35,
+      "baseline": "SINGLE GUN",
+      "baselineHit": false,
+      "market": "BEŞ ON SEKİZ",
+      "marketHit": true,
+      "overlay": "KARPATINO",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8719121683440073,
       "agreementWithBaseline": false
     }
   ]
