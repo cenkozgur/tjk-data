@@ -1,0 +1,69 @@
+{
+  "summary": {
+    "date": "2026-04-25",
+    "feature": "steamDrop",
+    "threshold": 0.1,
+    "evaluatedRaces": 3,
+    "overlayFired": 3,
+    "baselineHits": 2,
+    "overlayHits": 1,
+    "marketHits": 2,
+    "agreementCount": 1,
+    "baselineHitRate": 0.6667,
+    "overlayHitRate": 0.3333,
+    "marketHitRate": 0.6667,
+    "overlayVsBaselinePp": -33.33,
+    "overlayVsMarketPp": -33.33,
+    "generatedAt": "2026-04-25T13:12:25.398Z"
+  },
+  "rows": [
+    {
+      "raceKey": "Ankara::1",
+      "venue": "Ankara",
+      "raceNo": 1,
+      "winner": "GOLDEN PROMISE",
+      "winnerOdds": 1.7,
+      "baseline": "GOLDEN PROMISE",
+      "baselineHit": true,
+      "market": "GOLDEN PROMISE",
+      "marketHit": true,
+      "overlay": "GOLDEN PROMISE",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9851912793089264,
+      "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "Ankara::2",
+      "venue": "Ankara",
+      "raceNo": 2,
+      "winner": "NERITOR",
+      "winnerOdds": 1.8,
+      "baseline": "NERITOR",
+      "baselineHit": true,
+      "market": "NERITOR",
+      "marketHit": true,
+      "overlay": "İCRA",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.786836935166994,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Ankara::3",
+      "venue": "Ankara",
+      "raceNo": 3,
+      "winner": "DEMİR HAZALIM",
+      "winnerOdds": 8.8,
+      "baseline": "KILIÇ KIZI",
+      "baselineHit": false,
+      "market": "PLATFORM",
+      "marketHit": false,
+      "overlay": "AZİMLİ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8748403575989783,
+      "agreementWithBaseline": false
+    }
+  ]
+}
