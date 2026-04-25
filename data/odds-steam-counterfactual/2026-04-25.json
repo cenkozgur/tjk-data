@@ -3,18 +3,18 @@
     "date": "2026-04-25",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 5,
-    "overlayFired": 5,
+    "evaluatedRaces": 6,
+    "overlayFired": 6,
     "baselineHits": 3,
     "overlayHits": 1,
     "marketHits": 3,
-    "agreementCount": 1,
-    "baselineHitRate": 0.6,
-    "overlayHitRate": 0.2,
-    "marketHitRate": 0.6,
-    "overlayVsBaselinePp": -40,
-    "overlayVsMarketPp": -40,
-    "generatedAt": "2026-04-25T13:33:29.168Z"
+    "agreementCount": 2,
+    "baselineHitRate": 0.5,
+    "overlayHitRate": 0.1667,
+    "marketHitRate": 0.5,
+    "overlayVsBaselinePp": -33.33,
+    "overlayVsMarketPp": -33.33,
+    "generatedAt": "2026-04-25T13:43:59.843Z"
   },
   "rows": [
     {
@@ -80,6 +80,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.9099890230515916,
       "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Ankara::5",
+      "venue": "Ankara",
+      "raceNo": 5,
+      "winner": "ALTINSİMA",
+      "winnerOdds": 9.15,
+      "baseline": "BİZON",
+      "baselineHit": false,
+      "market": "BİZON",
+      "marketHit": false,
+      "overlay": "BİZON",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9749864056552474,
+      "agreementWithBaseline": true
     },
     {
       "raceKey": "İzmir::1",
