@@ -3,18 +3,18 @@
     "date": "2026-04-25",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 10,
-    "overlayFired": 10,
+    "evaluatedRaces": 11,
+    "overlayFired": 11,
     "baselineHits": 3,
     "overlayHits": 2,
     "marketHits": 6,
-    "agreementCount": 2,
-    "baselineHitRate": 0.3,
-    "overlayHitRate": 0.2,
-    "marketHitRate": 0.6,
-    "overlayVsBaselinePp": -10,
-    "overlayVsMarketPp": -40,
-    "generatedAt": "2026-04-25T15:08:28.537Z"
+    "agreementCount": 3,
+    "baselineHitRate": 0.2727,
+    "overlayHitRate": 0.1818,
+    "marketHitRate": 0.5455,
+    "overlayVsBaselinePp": -9.09,
+    "overlayVsMarketPp": -36.36,
+    "generatedAt": "2026-04-25T15:19:01.466Z"
   },
   "rows": [
     {
@@ -64,6 +64,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.8737997256515775,
       "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İzmir::4",
+      "venue": "İzmir",
+      "raceNo": 4,
+      "winner": "DARK MONEY",
+      "winnerOdds": 5.95,
+      "baseline": "HOT CONTACK",
+      "baselineHit": false,
+      "market": "TOROS EXPRESS",
+      "marketHit": false,
+      "overlay": "HOT CONTACK",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8867924528301887,
+      "agreementWithBaseline": true
     },
     {
       "raceKey": "Ankara::1",
