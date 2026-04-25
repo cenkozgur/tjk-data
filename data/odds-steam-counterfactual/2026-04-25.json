@@ -3,18 +3,18 @@
     "date": "2026-04-25",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 11,
-    "overlayFired": 11,
-    "baselineHits": 3,
-    "overlayHits": 2,
-    "marketHits": 6,
-    "agreementCount": 3,
-    "baselineHitRate": 0.2727,
-    "overlayHitRate": 0.1818,
-    "marketHitRate": 0.5455,
-    "overlayVsBaselinePp": -9.09,
-    "overlayVsMarketPp": -36.36,
-    "generatedAt": "2026-04-25T15:43:26.481Z"
+    "evaluatedRaces": 12,
+    "overlayFired": 12,
+    "baselineHits": 4,
+    "overlayHits": 3,
+    "marketHits": 7,
+    "agreementCount": 4,
+    "baselineHitRate": 0.3333,
+    "overlayHitRate": 0.25,
+    "marketHitRate": 0.5833,
+    "overlayVsBaselinePp": -8.33,
+    "overlayVsMarketPp": -33.33,
+    "generatedAt": "2026-04-25T15:54:03.172Z"
   },
   "rows": [
     {
@@ -79,6 +79,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8867924528301887,
+      "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "İzmir::5",
+      "venue": "İzmir",
+      "raceNo": 5,
+      "winner": "PERFECTION",
+      "winnerOdds": 1.9,
+      "baseline": "PERFECTION",
+      "baselineHit": true,
+      "market": "PERFECTION",
+      "marketHit": true,
+      "overlay": "PERFECTION",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8246753246753246,
       "agreementWithBaseline": true
     },
     {
