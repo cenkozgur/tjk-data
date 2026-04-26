@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 2,
-    "overlayFired": 2,
+    "evaluatedRaces": 3,
+    "overlayFired": 3,
     "baselineHits": 0,
     "overlayHits": 0,
-    "marketHits": 0,
+    "marketHits": 1,
     "agreementCount": 0,
     "baselineHitRate": 0,
     "overlayHitRate": 0,
-    "marketHitRate": 0,
+    "marketHitRate": 0.3333,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-26T12:33:59.373Z"
+    "overlayVsMarketPp": -33.33,
+    "generatedAt": "2026-04-26T12:49:53.561Z"
   },
   "rows": [
     {
@@ -47,6 +47,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8957688338493293,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İstanbul::3",
+      "venue": "İstanbul",
+      "raceNo": 3,
+      "winner": "HASNENNİ",
+      "winnerOdds": 2,
+      "baseline": "ENESBERKE",
+      "baselineHit": false,
+      "market": "HASNENNİ",
+      "marketHit": true,
+      "overlay": "KAFKAS YÜREKLİ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.797486033519553,
       "agreementWithBaseline": false
     }
   ]
