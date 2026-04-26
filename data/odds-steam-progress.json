@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-26T07:49:43.885Z",
+  "generatedAt": "2026-04-26T08:00:21.316Z",
   "aggregate": {
     "decisionDate": "2026-05-02",
     "today": "2026-04-26",
     "daysUntilDecision": 6,
     "snapshotDayCount": 11,
-    "totalSnapshotRows": 91237,
+    "totalSnapshotRows": 91462,
     "totalSnapshotRaces": 204,
     "totalSnapshotHorses": 1990,
     "counterfactualDayCount": 10,
@@ -122,12 +122,12 @@
     },
     {
       "date": "2026-04-26",
-      "snapshotRows": 1084,
+      "snapshotRows": 1309,
       "uniqueRaces": 17,
       "uniqueHorses": 113,
       "firstSnapshotAt": "2026-04-26T05:09:52.048Z",
-      "lastSnapshotAt": "2026-04-26T07:49:37.899Z",
-      "fileSizeKB": 149
+      "lastSnapshotAt": "2026-04-26T08:00:03.506Z",
+      "fileSizeKB": 180
     }
   ],
   "counterfactualDays": [
