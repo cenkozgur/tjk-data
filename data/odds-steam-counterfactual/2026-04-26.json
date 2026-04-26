@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 16,
-    "overlayFired": 16,
+    "evaluatedRaces": 17,
+    "overlayFired": 17,
     "baselineHits": 2,
     "overlayHits": 2,
     "marketHits": 3,
     "agreementCount": 0,
-    "baselineHitRate": 0.125,
-    "overlayHitRate": 0.125,
-    "marketHitRate": 0.1875,
+    "baselineHitRate": 0.1176,
+    "overlayHitRate": 0.1176,
+    "marketHitRate": 0.1765,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -6.25,
-    "generatedAt": "2026-04-26T18:40:28.432Z"
+    "overlayVsMarketPp": -5.88,
+    "generatedAt": "2026-04-26T18:50:59.163Z"
   },
   "rows": [
     {
@@ -143,6 +143,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8841778697001034,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::9",
+      "venue": "Adana",
+      "raceNo": 9,
+      "winner": "BORGA",
+      "winnerOdds": 9.85,
+      "baseline": "SULTANA",
+      "baselineHit": false,
+      "market": "LADY BEGÜM",
+      "marketHit": false,
+      "overlay": "LADY BEGÜM",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9664570230607966,
       "agreementWithBaseline": false
     },
     {
