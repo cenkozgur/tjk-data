@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 11,
-    "overlayFired": 11,
-    "baselineHits": 0,
+    "evaluatedRaces": 12,
+    "overlayFired": 12,
+    "baselineHits": 1,
     "overlayHits": 1,
     "marketHits": 1,
     "agreementCount": 0,
-    "baselineHitRate": 0,
-    "overlayHitRate": 0.0909,
-    "marketHitRate": 0.0909,
-    "overlayVsBaselinePp": 9.09,
+    "baselineHitRate": 0.0833,
+    "overlayHitRate": 0.0833,
+    "marketHitRate": 0.0833,
+    "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-26T16:13:30.771Z"
+    "generatedAt": "2026-04-26T16:23:53.282Z"
   },
   "rows": [
     {
@@ -63,6 +63,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.6617647058823529,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::4",
+      "venue": "Adana",
+      "raceNo": 4,
+      "winner": "KERPETEN YALÇIN",
+      "winnerOdds": 5.9,
+      "baseline": "KERPETEN YALÇIN",
+      "baselineHit": true,
+      "market": "ALTIN SAAD",
+      "marketHit": false,
+      "overlay": "ŞENBEYİM",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7309875141884222,
       "agreementWithBaseline": false
     },
     {
