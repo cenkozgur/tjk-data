@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 15,
-    "overlayFired": 15,
+    "evaluatedRaces": 16,
+    "overlayFired": 16,
     "baselineHits": 2,
     "overlayHits": 2,
     "marketHits": 3,
     "agreementCount": 0,
-    "baselineHitRate": 0.1333,
-    "overlayHitRate": 0.1333,
-    "marketHitRate": 0.2,
+    "baselineHitRate": 0.125,
+    "overlayHitRate": 0.125,
+    "marketHitRate": 0.1875,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -6.67,
-    "generatedAt": "2026-04-26T18:09:01.321Z"
+    "overlayVsMarketPp": -6.25,
+    "generatedAt": "2026-04-26T18:19:32.097Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.8192457737321197,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::8",
+      "venue": "Adana",
+      "raceNo": 8,
+      "winner": "SHALLOW",
+      "winnerOdds": 14.45,
+      "baseline": "CANDIDATE",
+      "baselineHit": false,
+      "market": "CANDIDATE",
+      "marketHit": false,
+      "overlay": "POWER OF LIGHT",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8841778697001034,
       "agreementWithBaseline": false
     },
     {
