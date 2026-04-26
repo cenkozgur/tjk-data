@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 12,
-    "overlayFired": 12,
-    "baselineHits": 1,
+    "evaluatedRaces": 13,
+    "overlayFired": 13,
+    "baselineHits": 2,
     "overlayHits": 1,
-    "marketHits": 1,
+    "marketHits": 2,
     "agreementCount": 0,
-    "baselineHitRate": 0.0833,
-    "overlayHitRate": 0.0833,
-    "marketHitRate": 0.0833,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-26T16:44:38.780Z"
+    "baselineHitRate": 0.1538,
+    "overlayHitRate": 0.0769,
+    "marketHitRate": 0.1538,
+    "overlayVsBaselinePp": -7.69,
+    "overlayVsMarketPp": -7.69,
+    "generatedAt": "2026-04-26T16:55:06.616Z"
   },
   "rows": [
     {
@@ -79,6 +79,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7309875141884222,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::5",
+      "venue": "Adana",
+      "raceNo": 5,
+      "winner": "GEL OGLİM",
+      "winnerOdds": 2.35,
+      "baseline": "GEL OGLİM",
+      "baselineHit": true,
+      "market": "GEL OGLİM",
+      "marketHit": true,
+      "overlay": "HEARTED",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8996101364522417,
       "agreementWithBaseline": false
     },
     {
