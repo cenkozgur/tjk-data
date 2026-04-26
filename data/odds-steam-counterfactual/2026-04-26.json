@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "date": "2026-04-26",
+    "feature": "steamDrop",
+    "threshold": 0.1,
+    "evaluatedRaces": 1,
+    "overlayFired": 1,
+    "baselineHits": 0,
+    "overlayHits": 0,
+    "marketHits": 0,
+    "agreementCount": 0,
+    "baselineHitRate": 0,
+    "overlayHitRate": 0,
+    "marketHitRate": 0,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": 0,
+    "generatedAt": "2026-04-26T11:51:47.878Z"
+  },
+  "rows": [
+    {
+      "raceKey": "İstanbul::1",
+      "venue": "İstanbul",
+      "raceNo": 1,
+      "winner": "LA COPA",
+      "winnerOdds": 9.7,
+      "baseline": "ACTION WONDER",
+      "baselineHit": false,
+      "market": "ACTION WONDER",
+      "marketHit": false,
+      "overlay": "FINALLY ITS TIME",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8312318137730358,
+      "agreementWithBaseline": false
+    }
+  ]
+}
