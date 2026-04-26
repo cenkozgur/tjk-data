@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 13,
-    "overlayFired": 13,
+    "evaluatedRaces": 14,
+    "overlayFired": 14,
     "baselineHits": 2,
     "overlayHits": 1,
-    "marketHits": 2,
+    "marketHits": 3,
     "agreementCount": 0,
-    "baselineHitRate": 0.1538,
-    "overlayHitRate": 0.0769,
-    "marketHitRate": 0.1538,
-    "overlayVsBaselinePp": -7.69,
-    "overlayVsMarketPp": -7.69,
-    "generatedAt": "2026-04-26T17:05:36.874Z"
+    "baselineHitRate": 0.1429,
+    "overlayHitRate": 0.0714,
+    "marketHitRate": 0.2143,
+    "overlayVsBaselinePp": -7.14,
+    "overlayVsMarketPp": -14.29,
+    "generatedAt": "2026-04-26T17:16:06.136Z"
   },
   "rows": [
     {
@@ -95,6 +95,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8996101364522417,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::6",
+      "venue": "Adana",
+      "raceNo": 6,
+      "winner": "SAÇANŞAH",
+      "winnerOdds": 2.25,
+      "baseline": "AĞIR OĞLUM",
+      "baselineHit": false,
+      "market": "SAÇANŞAH",
+      "marketHit": true,
+      "overlay": "ONURSÜREN",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8836907082521117,
       "agreementWithBaseline": false
     },
     {
