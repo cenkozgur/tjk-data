@@ -85,5 +85,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-04-26",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 15 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "THE CHOSEN",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "DERYA ERGİN",
+        "weight": 50.5,
+        "odds": 9,
+        "finishTime": "2.03.91",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "NART THE BATTLE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 52.5,
+        "odds": 2.7,
+        "finishTime": "2.03.94",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "NINE TREES",
+        "jockey": "MEHMET KAYA",
+        "trainer": "TAMER OĞUZHAN KARA",
+        "weight": 60.5,
+        "odds": 8.4,
+        "finishTime": "2.04.08",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "ZYRA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "ZAFER TEMUÇİN",
+        "weight": 53.5,
+        "odds": 1.95,
+        "finishTime": "2.04.20",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "SON OF SAINT",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "CEMİL TURAN",
+        "weight": 58.5,
+        "odds": 7,
+        "finishTime": "2.05.01",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "WATERSHED",
+        "jockey": "MUSTAFA MANAV",
+        "trainer": "HALİL DÜLGER",
+        "weight": 50,
+        "odds": 19,
+        "finishTime": "2.05.19",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "TERCAL NİHAT",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "MERT KORKMAZ",
+        "weight": 52.5,
+        "odds": 5.35,
+        "finishTime": "2.05.28",
+        "age": 3
+      }
+    ]
   }
 ]

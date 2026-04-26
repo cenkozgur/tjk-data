@@ -3,8 +3,8 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 1,
-    "overlayFired": 1,
+    "evaluatedRaces": 2,
+    "overlayFired": 2,
     "baselineHits": 0,
     "overlayHits": 0,
     "marketHits": 0,
@@ -14,7 +14,7 @@
     "marketHitRate": 0,
     "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-26T12:02:21.829Z"
+    "generatedAt": "2026-04-26T12:12:53.763Z"
   },
   "rows": [
     {
@@ -31,6 +31,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8312318137730358,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İstanbul::2",
+      "venue": "İstanbul",
+      "raceNo": 2,
+      "winner": "THE CHOSEN",
+      "winnerOdds": 9,
+      "baseline": "NART THE BATTLE",
+      "baselineHit": false,
+      "market": "ZYRA",
+      "marketHit": false,
+      "overlay": "SON OF SAINT",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8957688338493293,
       "agreementWithBaseline": false
     }
   ]
