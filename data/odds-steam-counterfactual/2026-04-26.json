@@ -3,18 +3,18 @@
     "date": "2026-04-26",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 14,
-    "overlayFired": 14,
+    "evaluatedRaces": 15,
+    "overlayFired": 15,
     "baselineHits": 2,
-    "overlayHits": 1,
+    "overlayHits": 2,
     "marketHits": 3,
     "agreementCount": 0,
-    "baselineHitRate": 0.1429,
-    "overlayHitRate": 0.0714,
-    "marketHitRate": 0.2143,
-    "overlayVsBaselinePp": -7.14,
-    "overlayVsMarketPp": -14.29,
-    "generatedAt": "2026-04-26T17:37:24.286Z"
+    "baselineHitRate": 0.1333,
+    "overlayHitRate": 0.1333,
+    "marketHitRate": 0.2,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": -6.67,
+    "generatedAt": "2026-04-26T17:47:55.759Z"
   },
   "rows": [
     {
@@ -111,6 +111,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8836907082521117,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Adana::7",
+      "venue": "Adana",
+      "raceNo": 7,
+      "winner": "BOSTON LIGHT",
+      "winnerOdds": 5.25,
+      "baseline": "BLACK PABLO",
+      "baselineHit": false,
+      "market": "BLACK PABLO",
+      "marketHit": false,
+      "overlay": "BOSTON LIGHT",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8192457737321197,
       "agreementWithBaseline": false
     },
     {
