@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 3,
-    "overlayFired": 3,
-    "baselineHits": 3,
-    "overlayHits": 2,
-    "marketHits": 3,
-    "agreementCount": 2,
+    "evaluatedRaces": 4,
+    "overlayFired": 4,
+    "baselineHits": 4,
+    "overlayHits": 3,
+    "marketHits": 4,
+    "agreementCount": 3,
     "baselineHitRate": 1,
-    "overlayHitRate": 0.6667,
+    "overlayHitRate": 0.75,
     "marketHitRate": 1,
-    "overlayVsBaselinePp": -33.33,
-    "overlayVsMarketPp": -33.33,
-    "generatedAt": "2026-04-27T12:34:21.525Z"
+    "overlayVsBaselinePp": -25,
+    "overlayVsMarketPp": -25,
+    "generatedAt": "2026-04-27T12:45:28.990Z"
   },
   "rows": [
     {
@@ -63,6 +63,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.8477157360406091,
+      "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "Bursa::4",
+      "venue": "Bursa",
+      "raceNo": 4,
+      "winner": "YILMA TAY",
+      "winnerOdds": 2.05,
+      "baseline": "YILMA TAY",
+      "baselineHit": true,
+      "market": "YILMA TAY",
+      "marketHit": true,
+      "overlay": "YILMA TAY",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9595796281325788,
       "agreementWithBaseline": true
     }
   ]
