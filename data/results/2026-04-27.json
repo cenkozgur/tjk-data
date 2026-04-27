@@ -449,6 +449,192 @@
   },
   {
     "date": "2026-04-27",
+    "raceNo": 4,
+    "venue": "Şanlıurfa",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/DHÖW /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "15",
+        "name": "KÜÇÜK YUNUS",
+        "jockey": "İSA KATAR",
+        "trainer": "FATİH EMİR AKIL",
+        "weight": 54,
+        "odds": 7.25,
+        "finishTime": "1.41.48",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "14",
+        "name": "ESRA KIZ",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 54,
+        "odds": 6.75,
+        "finishTime": "1.41.77",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "10",
+        "name": "ÇINARLI GÜZELİ",
+        "jockey": "BURHAN SARIDAL",
+        "trainer": "MEHMET KAYA",
+        "weight": 55,
+        "odds": 77.85,
+        "finishTime": "1.42.30",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "12",
+        "name": "BELİNAY ÇİÇEĞİ",
+        "jockey": "MEHMET EMİN DOĞAN",
+        "trainer": "MAHMUT DOĞAN",
+        "weight": 54.5,
+        "odds": 18.4,
+        "finishTime": "1.42.87",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "ÇERMİKŞAH",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "ORHAN GÖRMEZ",
+        "weight": 60.5,
+        "odds": 4.9,
+        "finishTime": "1.42.97",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "LALIBELA",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 60,
+        "odds": 9.55,
+        "finishTime": "1.43.05",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "NANDAR",
+        "jockey": "MUSTAFA IŞIK",
+        "trainer": "ORHAN GÖRMEZ",
+        "weight": 57,
+        "odds": 40.85,
+        "finishTime": "1.44.18",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "13",
+        "name": "ÖZGÜRLÜK KRALİÇESİ",
+        "jockey": "HAKİM YÖNDEN",
+        "trainer": "MEHMET GÜMÜŞKOLAN",
+        "weight": 51.5,
+        "odds": 46.85,
+        "finishTime": "1.44.46",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "8",
+        "name": "TOSTOS TUĞRUL",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "ORHAN GÖRMEZ",
+        "weight": 57,
+        "odds": 7.05,
+        "finishTime": "1.45.06",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "5",
+        "name": "ADEN KRALİÇESİ",
+        "jockey": "MAHMUT ÜNLÜ",
+        "trainer": "MEHMET ASLAN",
+        "weight": 57.5,
+        "odds": 32.7,
+        "finishTime": "1.46.87",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "4",
+        "name": "GÖLDERELİ",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "KADİR TAŞDEMİR",
+        "weight": 59,
+        "odds": 10.1,
+        "finishTime": "1.47.92",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "11",
+        "name": "KIR FATİH",
+        "jockey": "EMRE AKKILIÇ",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 56,
+        "odds": 24.9,
+        "finishTime": "1.47.98",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "9",
+        "name": "TOYHAN BEY",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 55,
+        "odds": 38.1,
+        "finishTime": "1.48.03",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "6",
+        "name": "İYİMSER",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "NESİH DOĞAN",
+        "weight": 55.5,
+        "odds": 16.1,
+        "finishTime": "1.49.92",
+        "age": 4
+      },
+      {
+        "position": 15,
+        "no": "16",
+        "name": "ALKURUŞKIZI",
+        "jockey": "YUNUS ÇELİKBAŞ",
+        "trainer": "ABDULHAMİT YARDIMCI",
+        "weight": 54,
+        "odds": 30.7,
+        "finishTime": "1.58.49",
+        "age": 4
+      },
+      {
+        "position": 16,
+        "no": "2",
+        "name": "AKSU BABA",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "MEHRİBAN ÇİÇEK",
+        "weight": 60,
+        "odds": 2.9,
+        "finishTime": "2.06.88",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-04-27",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1200,
