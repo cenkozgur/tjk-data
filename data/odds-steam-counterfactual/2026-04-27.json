@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 4,
-    "overlayFired": 4,
+    "evaluatedRaces": 5,
+    "overlayFired": 5,
     "baselineHits": 4,
-    "overlayHits": 3,
+    "overlayHits": 4,
     "marketHits": 4,
     "agreementCount": 3,
-    "baselineHitRate": 1,
-    "overlayHitRate": 0.75,
-    "marketHitRate": 1,
-    "overlayVsBaselinePp": -25,
-    "overlayVsMarketPp": -25,
-    "generatedAt": "2026-04-27T13:07:54.005Z"
+    "baselineHitRate": 0.8,
+    "overlayHitRate": 0.8,
+    "marketHitRate": 0.8,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": 0,
+    "generatedAt": "2026-04-27T13:18:30.089Z"
   },
   "rows": [
     {
@@ -80,6 +80,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.9595796281325788,
       "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "Bursa::5",
+      "venue": "Bursa",
+      "raceNo": 5,
+      "winner": "ALTIN DERYA",
+      "winnerOdds": 4.3,
+      "baseline": "EFLANİ",
+      "baselineHit": false,
+      "market": "EFLANİ",
+      "marketHit": false,
+      "overlay": "ALTIN DERYA",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9037313432835821,
+      "agreementWithBaseline": false
     }
   ]
 }
