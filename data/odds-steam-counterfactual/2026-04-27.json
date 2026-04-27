@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 2,
-    "overlayFired": 2,
-    "baselineHits": 2,
-    "overlayHits": 1,
-    "marketHits": 2,
-    "agreementCount": 1,
+    "evaluatedRaces": 3,
+    "overlayFired": 3,
+    "baselineHits": 3,
+    "overlayHits": 2,
+    "marketHits": 3,
+    "agreementCount": 2,
     "baselineHitRate": 1,
-    "overlayHitRate": 0.5,
+    "overlayHitRate": 0.6667,
     "marketHitRate": 1,
-    "overlayVsBaselinePp": -50,
-    "overlayVsMarketPp": -50,
-    "generatedAt": "2026-04-27T12:11:14.651Z"
+    "overlayVsBaselinePp": -33.33,
+    "overlayVsMarketPp": -33.33,
+    "generatedAt": "2026-04-27T12:22:52.809Z"
   },
   "rows": [
     {
@@ -47,6 +47,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.8359375,
+      "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "Bursa::3",
+      "venue": "Bursa",
+      "raceNo": 3,
+      "winner": "AMONİ",
+      "winnerOdds": 1.55,
+      "baseline": "AMONİ",
+      "baselineHit": true,
+      "market": "AMONİ",
+      "marketHit": true,
+      "overlay": "AMONİ",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8477157360406091,
       "agreementWithBaseline": true
     }
   ]
