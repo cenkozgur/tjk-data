@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 1,
-    "overlayFired": 1,
-    "baselineHits": 1,
-    "overlayHits": 0,
-    "marketHits": 1,
-    "agreementCount": 0,
+    "evaluatedRaces": 2,
+    "overlayFired": 2,
+    "baselineHits": 2,
+    "overlayHits": 1,
+    "marketHits": 2,
+    "agreementCount": 1,
     "baselineHitRate": 1,
-    "overlayHitRate": 0,
+    "overlayHitRate": 0.5,
     "marketHitRate": 1,
-    "overlayVsBaselinePp": -100,
-    "overlayVsMarketPp": -100,
-    "generatedAt": "2026-04-27T11:37:12.864Z"
+    "overlayVsBaselinePp": -50,
+    "overlayVsMarketPp": -50,
+    "generatedAt": "2026-04-27T11:48:23.349Z"
   },
   "rows": [
     {
@@ -32,6 +32,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.6091954022988506,
       "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Bursa::2",
+      "venue": "Bursa",
+      "raceNo": 2,
+      "winner": "KARA BERELİ",
+      "winnerOdds": 1.2,
+      "baseline": "KARA BERELİ",
+      "baselineHit": true,
+      "market": "KARA BERELİ",
+      "marketHit": true,
+      "overlay": "KARA BERELİ",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8359375,
+      "agreementWithBaseline": true
     }
   ]
 }
