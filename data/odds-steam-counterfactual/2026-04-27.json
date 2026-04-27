@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 16,
-    "overlayFired": 16,
+    "evaluatedRaces": 17,
+    "overlayFired": 17,
     "baselineHits": 6,
     "overlayHits": 6,
     "marketHits": 7,
     "agreementCount": 3,
-    "baselineHitRate": 0.375,
-    "overlayHitRate": 0.375,
-    "marketHitRate": 0.4375,
+    "baselineHitRate": 0.3529,
+    "overlayHitRate": 0.3529,
+    "marketHitRate": 0.4118,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -6.25,
-    "generatedAt": "2026-04-27T18:11:50.807Z"
+    "overlayVsMarketPp": -5.88,
+    "generatedAt": "2026-04-27T18:22:17.406Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8967935871743488,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::8",
+      "venue": "Şanlıurfa",
+      "raceNo": 8,
+      "winner": "SERT RÜZGAR",
+      "winnerOdds": 4.65,
+      "baseline": "LORD SEYFO",
+      "baselineHit": false,
+      "market": "THAT BEATS ALL",
+      "marketHit": false,
+      "overlay": "THAT BEATS ALL",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9344773790951637,
       "agreementWithBaseline": false
     },
     {
