@@ -422,5 +422,123 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-04-27",
+    "raceNo": 6,
+    "venue": "Bursa",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "Handikap 16/Dişi /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "NEZNAKOMKA",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 54,
+        "odds": 4.9,
+        "finishTime": "2.15.93",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "TOROS GÜZELİ",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 53.5,
+        "odds": 7.15,
+        "finishTime": "2.16.07",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "CROWN OF HONOR",
+        "jockey": "ONUR ATMACA",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 53,
+        "odds": 5.4,
+        "finishTime": "2.16.75",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "HEARTS PATH",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "İSMET AKKILIÇ",
+        "weight": 51.5,
+        "odds": 1.85,
+        "finishTime": "2.17.40",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "MADAME SCARLET",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 61,
+        "odds": 10.4,
+        "finishTime": "2.17.50",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "Mİ PRİNCESA ŞÜKRAN",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "HALİL KABUKCI",
+        "weight": 54.5,
+        "odds": 7.3,
+        "finishTime": "2.17.74",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "STORM FORCE",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 60.5,
+        "odds": 15.4,
+        "finishTime": "2.17.77",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "9",
+        "name": "TRUE ANGEL",
+        "jockey": "RECEP KETME",
+        "trainer": "OSMAN ÖZPUYLAT",
+        "weight": 51.5,
+        "odds": 14.5,
+        "finishTime": "2.17.85",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "PRINCESS QALİ",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 60.5,
+        "odds": 16.05,
+        "finishTime": "2.29.65",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Bursa",
+        "label": "1. 6'LI GANYAN",
+        "combination": "4/1,2/2,4/9/1/5",
+        "prizeAmount": 580.56,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]

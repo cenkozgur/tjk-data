@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 5,
-    "overlayFired": 5,
+    "evaluatedRaces": 6,
+    "overlayFired": 6,
     "baselineHits": 4,
     "overlayHits": 4,
     "marketHits": 4,
     "agreementCount": 3,
-    "baselineHitRate": 0.8,
-    "overlayHitRate": 0.8,
-    "marketHitRate": 0.8,
+    "baselineHitRate": 0.6667,
+    "overlayHitRate": 0.6667,
+    "marketHitRate": 0.6667,
     "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-27T13:39:46.500Z"
+    "generatedAt": "2026-04-27T13:50:13.649Z"
   },
   "rows": [
     {
@@ -95,6 +95,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.9037313432835821,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Bursa::6",
+      "venue": "Bursa",
+      "raceNo": 6,
+      "winner": "NEZNAKOMKA",
+      "winnerOdds": 4.9,
+      "baseline": "HEARTS PATH",
+      "baselineHit": false,
+      "market": "HEARTS PATH",
+      "marketHit": false,
+      "overlay": "CROWN OF HONOR",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.33333333333333326,
       "agreementWithBaseline": false
     }
   ]
