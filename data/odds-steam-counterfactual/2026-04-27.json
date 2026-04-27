@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 14,
-    "overlayFired": 14,
+    "evaluatedRaces": 15,
+    "overlayFired": 15,
     "baselineHits": 6,
     "overlayHits": 6,
-    "marketHits": 6,
+    "marketHits": 7,
     "agreementCount": 3,
-    "baselineHitRate": 0.4286,
-    "overlayHitRate": 0.4286,
-    "marketHitRate": 0.4286,
+    "baselineHitRate": 0.4,
+    "overlayHitRate": 0.4,
+    "marketHitRate": 0.4667,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-27T17:09:08.435Z"
+    "overlayVsMarketPp": -6.67,
+    "generatedAt": "2026-04-27T17:19:32.644Z"
   },
   "rows": [
     {
@@ -95,6 +95,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9270440251572327,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::6",
+      "venue": "Şanlıurfa",
+      "raceNo": 6,
+      "winner": "MUŞFIRTINASI",
+      "winnerOdds": 2.25,
+      "baseline": "YEDİKARDEŞLER",
+      "baselineHit": false,
+      "market": "MUŞFIRTINASI",
+      "marketHit": true,
+      "overlay": "GÜVENABİ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8704839809134287,
       "agreementWithBaseline": false
     },
     {
