@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 6,
-    "overlayFired": 6,
-    "baselineHits": 4,
+    "evaluatedRaces": 7,
+    "overlayFired": 7,
+    "baselineHits": 5,
     "overlayHits": 4,
-    "marketHits": 4,
+    "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.6667,
-    "overlayHitRate": 0.6667,
-    "marketHitRate": 0.6667,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-27T14:11:07.641Z"
+    "baselineHitRate": 0.7143,
+    "overlayHitRate": 0.5714,
+    "marketHitRate": 0.7143,
+    "overlayVsBaselinePp": -14.29,
+    "overlayVsMarketPp": -14.29,
+    "generatedAt": "2026-04-27T14:21:34.795Z"
   },
   "rows": [
     {
@@ -111,6 +111,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.33333333333333326,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Bursa::7",
+      "venue": "Bursa",
+      "raceNo": 7,
+      "winner": "HASHEYBETLİ",
+      "winnerOdds": 1.65,
+      "baseline": "HASHEYBETLİ",
+      "baselineHit": true,
+      "market": "HASHEYBETLİ",
+      "marketHit": true,
+      "overlay": "GÖREME BEYİ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9687080911935628,
       "agreementWithBaseline": false
     }
   ]

@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-04-27T14:11:07.912Z",
+  "generatedAt": "2026-04-27T14:21:35.065Z",
   "aggregate": {
     "decisionDate": "2026-05-02",
     "today": "2026-04-27",
     "daysUntilDecision": 5,
     "snapshotDayCount": 12,
-    "totalSnapshotRows": 122187,
+    "totalSnapshotRows": 122613,
     "totalSnapshotRaces": 222,
     "totalSnapshotHorses": 2262,
     "counterfactualDayCount": 12,
-    "totalEvaluatedRaces": 210,
-    "overlayFiredCount": 139,
-    "baselineOverallHitRate": 0.1952,
-    "overlayOverallHitRate": 0.2857,
-    "marketOverallHitRate": 0.3476,
-    "overlayVsBaselinePp": 9.05,
-    "overlayVsMarketPp": -6.19,
+    "totalEvaluatedRaces": 211,
+    "overlayFiredCount": 140,
+    "baselineOverallHitRate": 0.1991,
+    "overlayOverallHitRate": 0.2844,
+    "marketOverallHitRate": 0.3507,
+    "overlayVsBaselinePp": 8.53,
+    "overlayVsMarketPp": -6.64,
     "favLosesCount": 137,
     "baselineHitWhenFavLoses": 0.1168,
     "overlayHitWhenFavLoses": 0.1095,
     "surpriseCapturePp": -0.73,
     "windowCount": 25,
-    "windowsBaselineWon": 6,
+    "windowsBaselineWon": 7,
     "windowsOverlayWon": 13,
-    "windowsTied": 6,
-    "legCoverageBaselinePct": 19.02,
-    "legCoverageOverlayPct": 28.29,
-    "legCoverageDeltaPp": 9.27,
+    "windowsTied": 5,
+    "legCoverageBaselinePct": 19.42,
+    "legCoverageOverlayPct": 28.16,
+    "legCoverageDeltaPp": 8.74,
     "verdict": "leg-coverage-positive (kupon dayanıklılığı +)"
   },
   "snapshotDays": [
@@ -131,12 +131,12 @@
     },
     {
       "date": "2026-04-27",
-      "snapshotRows": 12809,
+      "snapshotRows": 13235,
       "uniqueRaces": 18,
       "uniqueHorses": 216,
       "firstSnapshotAt": "2026-04-27T06:13:18.071Z",
-      "lastSnapshotAt": "2026-04-27T14:11:00.884Z",
-      "fileSizeKB": 1776
+      "lastSnapshotAt": "2026-04-27T14:21:29.547Z",
+      "fileSizeKB": 1835
     }
   ],
   "counterfactualDays": [
@@ -318,19 +318,19 @@
     },
     {
       "date": "2026-04-27",
-      "evaluatedRaces": 6,
-      "overlayFired": 6,
-      "baselineHits": 4,
+      "evaluatedRaces": 7,
+      "overlayFired": 7,
+      "baselineHits": 5,
       "overlayHits": 4,
-      "marketHits": 4,
-      "overlayVsBaselinePp": 0,
-      "overlayVsMarketPp": 0,
+      "marketHits": 5,
+      "overlayVsBaselinePp": -14.29,
+      "overlayVsMarketPp": -14.29,
       "favLoses": 2,
       "baselineHitsWhenFavLoses": 0,
       "overlayHitsWhenFavLoses": 1,
-      "windowsBaselineWon": 0,
+      "windowsBaselineWon": 1,
       "windowsOverlayWon": 0,
-      "windowsTied": 1
+      "windowsTied": 0
     }
   ]
 }

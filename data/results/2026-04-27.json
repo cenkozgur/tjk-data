@@ -540,5 +540,81 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-04-27",
+    "raceNo": 7,
+    "venue": "Bursa",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖW/Y2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "HASHEYBETLİ",
+        "jockey": "EFE AKPINAR",
+        "trainer": "AHMET EMİN AVCI",
+        "weight": 57,
+        "odds": 1.65,
+        "finishTime": "2.27.83",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "GÖREME BEYİ",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "OKTAY DEMİR",
+        "weight": 60,
+        "odds": 3.35,
+        "finishTime": "2.27.88",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "ŞANSIBOLBEY",
+        "jockey": "RECEP KETME",
+        "trainer": "NEJMİ GÜNDÜZ",
+        "weight": 57,
+        "odds": 7.2,
+        "finishTime": "2.28.67",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "KOCAMUTLU",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 58,
+        "odds": 8.7,
+        "finishTime": "2.29.17",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "FERMAN YAZAR",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "EKREM TURAN",
+        "weight": 60,
+        "odds": 3,
+        "finishTime": "2.31.01",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "SULTAN FERMANI",
+        "jockey": "YUNUS EMRE YÜKSEL",
+        "trainer": "OKTAY DEMİR",
+        "weight": 54,
+        "odds": 3.35,
+        "finishTime": "2.31.13",
+        "age": 4
+      }
+    ]
   }
 ]
