@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 17,
-    "overlayFired": 17,
+    "evaluatedRaces": 18,
+    "overlayFired": 18,
     "baselineHits": 6,
     "overlayHits": 6,
-    "marketHits": 7,
+    "marketHits": 8,
     "agreementCount": 3,
-    "baselineHitRate": 0.3529,
-    "overlayHitRate": 0.3529,
-    "marketHitRate": 0.4118,
+    "baselineHitRate": 0.3333,
+    "overlayHitRate": 0.3333,
+    "marketHitRate": 0.4444,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -5.88,
-    "generatedAt": "2026-04-27T18:43:09.116Z"
+    "overlayVsMarketPp": -11.11,
+    "generatedAt": "2026-04-27T18:53:35.431Z"
   },
   "rows": [
     {
@@ -143,6 +143,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9344773790951637,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::9",
+      "venue": "Şanlıurfa",
+      "raceNo": 9,
+      "winner": "ŞİMENDİFER",
+      "winnerOdds": 1.7,
+      "baseline": "TURDEMİRKIR",
+      "baselineHit": false,
+      "market": "ŞİMENDİFER",
+      "marketHit": true,
+      "overlay": "KING LIGHTNING",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.6980306345733042,
       "agreementWithBaseline": false
     },
     {
