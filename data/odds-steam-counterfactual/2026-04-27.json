@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 9,
-    "overlayFired": 9,
+    "evaluatedRaces": 10,
+    "overlayFired": 10,
     "baselineHits": 5,
-    "overlayHits": 5,
+    "overlayHits": 6,
     "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.5556,
-    "overlayHitRate": 0.5556,
-    "marketHitRate": 0.5556,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-27T14:53:01.681Z"
+    "baselineHitRate": 0.5,
+    "overlayHitRate": 0.6,
+    "marketHitRate": 0.5,
+    "overlayVsBaselinePp": 10,
+    "overlayVsMarketPp": 10,
+    "generatedAt": "2026-04-27T15:03:31.940Z"
   },
   "rows": [
     {
@@ -159,6 +159,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.689922480620155,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::2",
+      "venue": "Şanlıurfa",
+      "raceNo": 2,
+      "winner": "BACK TO SILENCE",
+      "winnerOdds": 3.7,
+      "baseline": "FACE OF FREEDOM",
+      "baselineHit": false,
+      "market": "AEMOND",
+      "marketHit": false,
+      "overlay": "BACK TO SILENCE",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9695512820512822,
       "agreementWithBaseline": false
     }
   ]
