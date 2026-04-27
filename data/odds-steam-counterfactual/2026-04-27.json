@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 15,
-    "overlayFired": 15,
+    "evaluatedRaces": 16,
+    "overlayFired": 16,
     "baselineHits": 6,
     "overlayHits": 6,
     "marketHits": 7,
     "agreementCount": 3,
-    "baselineHitRate": 0.4,
-    "overlayHitRate": 0.4,
-    "marketHitRate": 0.4667,
+    "baselineHitRate": 0.375,
+    "overlayHitRate": 0.375,
+    "marketHitRate": 0.4375,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -6.67,
-    "generatedAt": "2026-04-27T17:40:29.529Z"
+    "overlayVsMarketPp": -6.25,
+    "generatedAt": "2026-04-27T17:50:56.118Z"
   },
   "rows": [
     {
@@ -111,6 +111,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8704839809134287,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::7",
+      "venue": "Şanlıurfa",
+      "raceNo": 7,
+      "winner": "CEMO CAN",
+      "winnerOdds": 4.2,
+      "baseline": "VICTORY STAR",
+      "baselineHit": false,
+      "market": "VICTORY STAR",
+      "marketHit": false,
+      "overlay": "FIRST BREATH",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8967935871743488,
       "agreementWithBaseline": false
     },
     {
