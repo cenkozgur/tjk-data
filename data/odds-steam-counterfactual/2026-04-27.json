@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 13,
-    "overlayFired": 13,
-    "baselineHits": 5,
+    "evaluatedRaces": 14,
+    "overlayFired": 14,
+    "baselineHits": 6,
     "overlayHits": 6,
-    "marketHits": 5,
+    "marketHits": 6,
     "agreementCount": 3,
-    "baselineHitRate": 0.3846,
-    "overlayHitRate": 0.4615,
-    "marketHitRate": 0.3846,
-    "overlayVsBaselinePp": 7.69,
-    "overlayVsMarketPp": 7.69,
-    "generatedAt": "2026-04-27T16:37:44.088Z"
+    "baselineHitRate": 0.4286,
+    "overlayHitRate": 0.4286,
+    "marketHitRate": 0.4286,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": 0,
+    "generatedAt": "2026-04-27T16:48:14.044Z"
   },
   "rows": [
     {
@@ -79,6 +79,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9828453120378586,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::5",
+      "venue": "Şanlıurfa",
+      "raceNo": 5,
+      "winner": "ROYALGUARD",
+      "winnerOdds": 3.3,
+      "baseline": "ROYALGUARD",
+      "baselineHit": true,
+      "market": "ROYALGUARD",
+      "marketHit": true,
+      "overlay": "FERZANA",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9270440251572327,
       "agreementWithBaseline": false
     },
     {
