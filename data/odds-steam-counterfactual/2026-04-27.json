@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 11,
-    "overlayFired": 11,
+    "evaluatedRaces": 12,
+    "overlayFired": 12,
     "baselineHits": 5,
     "overlayHits": 6,
     "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.4545,
-    "overlayHitRate": 0.5455,
-    "marketHitRate": 0.4545,
-    "overlayVsBaselinePp": 9.09,
-    "overlayVsMarketPp": 9.09,
-    "generatedAt": "2026-04-27T15:34:59.751Z"
+    "baselineHitRate": 0.4167,
+    "overlayHitRate": 0.5,
+    "marketHitRate": 0.4167,
+    "overlayVsBaselinePp": 8.33,
+    "overlayVsMarketPp": 8.33,
+    "generatedAt": "2026-04-27T15:45:29.200Z"
   },
   "rows": [
     {
@@ -47,6 +47,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.9695512820512822,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::3",
+      "venue": "Şanlıurfa",
+      "raceNo": 3,
+      "winner": "FAST FOTON",
+      "winnerOdds": 4.8,
+      "baseline": "ATOM AYŞE",
+      "baselineHit": false,
+      "market": "EL INTOCABLE",
+      "marketHit": false,
+      "overlay": "EL INTOCABLE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9249084249084248,
       "agreementWithBaseline": false
     },
     {
