@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 7,
-    "overlayFired": 7,
+    "evaluatedRaces": 8,
+    "overlayFired": 8,
     "baselineHits": 5,
-    "overlayHits": 4,
+    "overlayHits": 5,
     "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.7143,
-    "overlayHitRate": 0.5714,
-    "marketHitRate": 0.7143,
-    "overlayVsBaselinePp": -14.29,
-    "overlayVsMarketPp": -14.29,
-    "generatedAt": "2026-04-27T14:21:34.795Z"
+    "baselineHitRate": 0.625,
+    "overlayHitRate": 0.625,
+    "marketHitRate": 0.625,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": 0,
+    "generatedAt": "2026-04-27T14:32:05.822Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9687080911935628,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::1",
+      "venue": "Şanlıurfa",
+      "raceNo": 1,
+      "winner": "MİR SILASI",
+      "winnerOdds": 3.7,
+      "baseline": "KAYNARHANIM",
+      "baselineHit": false,
+      "market": "ÖZNİLAY",
+      "marketHit": false,
+      "overlay": "MİR SILASI",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.689922480620155,
       "agreementWithBaseline": false
     }
   ]
