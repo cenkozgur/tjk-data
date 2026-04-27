@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 12,
-    "overlayFired": 12,
+    "evaluatedRaces": 13,
+    "overlayFired": 13,
     "baselineHits": 5,
     "overlayHits": 6,
     "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.4167,
-    "overlayHitRate": 0.5,
-    "marketHitRate": 0.4167,
-    "overlayVsBaselinePp": 8.33,
-    "overlayVsMarketPp": 8.33,
-    "generatedAt": "2026-04-27T16:06:25.508Z"
+    "baselineHitRate": 0.3846,
+    "overlayHitRate": 0.4615,
+    "marketHitRate": 0.3846,
+    "overlayVsBaselinePp": 7.69,
+    "overlayVsMarketPp": 7.69,
+    "generatedAt": "2026-04-27T16:16:52.504Z"
   },
   "rows": [
     {
@@ -63,6 +63,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9249084249084248,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Şanlıurfa::4",
+      "venue": "Şanlıurfa",
+      "raceNo": 4,
+      "winner": "KÜÇÜK YUNUS",
+      "winnerOdds": 7.25,
+      "baseline": "ALKURUŞKIZI",
+      "baselineHit": false,
+      "market": "AKSU BABA",
+      "marketHit": false,
+      "overlay": "ÇERMİKŞAH",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9828453120378586,
       "agreementWithBaseline": false
     },
     {
