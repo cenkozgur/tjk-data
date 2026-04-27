@@ -3,18 +3,18 @@
     "date": "2026-04-27",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 8,
-    "overlayFired": 8,
+    "evaluatedRaces": 9,
+    "overlayFired": 9,
     "baselineHits": 5,
     "overlayHits": 5,
     "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.625,
-    "overlayHitRate": 0.625,
-    "marketHitRate": 0.625,
+    "baselineHitRate": 0.5556,
+    "overlayHitRate": 0.5556,
+    "marketHitRate": 0.5556,
     "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-27T14:32:05.822Z"
+    "generatedAt": "2026-04-27T14:42:34.869Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9687080911935628,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Bursa::8",
+      "venue": "Bursa",
+      "raceNo": 8,
+      "winner": "GÜZEL ZEHRA",
+      "winnerOdds": 5.7,
+      "baseline": "KETRA",
+      "baselineHit": false,
+      "market": "BANGU",
+      "marketHit": false,
+      "overlay": "ZORLU HAYAT",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8260869565217391,
       "agreementWithBaseline": false
     },
     {
