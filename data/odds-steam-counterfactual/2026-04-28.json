@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 14,
-    "overlayFired": 14,
+    "evaluatedRaces": 15,
+    "overlayFired": 15,
     "baselineHits": 2,
-    "overlayHits": 2,
+    "overlayHits": 3,
     "marketHits": 4,
     "agreementCount": 0,
-    "baselineHitRate": 0.1429,
-    "overlayHitRate": 0.1429,
-    "marketHitRate": 0.2857,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -14.29,
-    "generatedAt": "2026-04-28T17:05:49.517Z"
+    "baselineHitRate": 0.1333,
+    "overlayHitRate": 0.2,
+    "marketHitRate": 0.2667,
+    "overlayVsBaselinePp": 6.67,
+    "overlayVsMarketPp": -6.67,
+    "generatedAt": "2026-04-28T17:16:25.833Z"
   },
   "rows": [
     {
@@ -79,6 +79,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7031039136302294,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::5",
+      "venue": "Elazığ",
+      "raceNo": 5,
+      "winner": "GREEN GÖLE",
+      "winnerOdds": 3.7,
+      "baseline": "KING ERDO",
+      "baselineHit": false,
+      "market": "TAMİKO",
+      "marketHit": false,
+      "overlay": "GREEN GÖLE",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9131205673758865,
       "agreementWithBaseline": false
     },
     {
