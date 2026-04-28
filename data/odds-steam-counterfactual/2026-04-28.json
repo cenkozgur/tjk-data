@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 9,
-    "overlayFired": 9,
+    "evaluatedRaces": 10,
+    "overlayFired": 10,
     "baselineHits": 2,
     "overlayHits": 1,
     "marketHits": 2,
     "agreementCount": 0,
-    "baselineHitRate": 0.2222,
-    "overlayHitRate": 0.1111,
-    "marketHitRate": 0.2222,
-    "overlayVsBaselinePp": -11.11,
-    "overlayVsMarketPp": -11.11,
-    "generatedAt": "2026-04-28T14:58:04.923Z"
+    "baselineHitRate": 0.2,
+    "overlayHitRate": 0.1,
+    "marketHitRate": 0.2,
+    "overlayVsBaselinePp": -10,
+    "overlayVsMarketPp": -10,
+    "generatedAt": "2026-04-28T15:08:32.346Z"
   },
   "rows": [
     {
@@ -159,6 +159,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.5678233438485805,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::1",
+      "venue": "Elazığ",
+      "raceNo": 1,
+      "winner": "BLACK RIVER",
+      "winnerOdds": 3.25,
+      "baseline": "PRENSES MELTEM",
+      "baselineHit": false,
+      "market": "CRAZY RIVER",
+      "marketHit": false,
+      "overlay": "MIGHTYAQUSTIC",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7204968944099379,
       "agreementWithBaseline": false
     }
   ]
