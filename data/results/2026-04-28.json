@@ -2,6 +2,213 @@
   {
     "date": "2026-04-28",
     "raceNo": 1,
+    "venue": "Elazığ",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "BLACK RIVER",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 60,
+        "odds": 3.25,
+        "finishTime": "1.20.79",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "CRAZY RIVER",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "BAVER FAHRİOĞLU",
+        "weight": 60,
+        "odds": 2.05,
+        "finishTime": "1.21.34",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "MISS CURA",
+        "jockey": "HASAN ALTUNDAĞ",
+        "trainer": "ERCAN ALTIN",
+        "weight": 58,
+        "odds": 10.95,
+        "finishTime": "1.21.40",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "PRENSES MELTEM",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "AHMET AKBABA",
+        "weight": 60,
+        "odds": 5.5,
+        "finishTime": "1.22.28",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "MIGHTYAQUSTIC",
+        "jockey": "İSA KATAR",
+        "trainer": "RESUL KAYA",
+        "weight": 58,
+        "odds": 10.25,
+        "finishTime": "1.22.45",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "ANGRY EAGLE",
+        "jockey": "MEHMET TAŞKAYA",
+        "trainer": "RAMAZAN BARMAN",
+        "weight": 58,
+        "odds": 10.45,
+        "finishTime": "1.23.70",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "HEYLİ VEYLİ",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET KAYA",
+        "weight": 62,
+        "odds": 7.5,
+        "finishTime": "1.24.17",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "LOTUS GIRL",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 56,
+        "odds": 14,
+        "finishTime": "1.24.67",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "9",
+        "name": "RISES THE MOON",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "FURKAN YALÇINKAYA",
+        "weight": 58,
+        "odds": 34,
+        "finishTime": "1.27.54",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "raceNo": 2,
+    "venue": "Elazığ",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/DHÖW/Dişi /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "GELİNİM SİNEM",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 61.5,
+        "odds": 1.15,
+        "finishTime": "2.35.58",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "YAĞTU",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 60,
+        "odds": 4.25,
+        "finishTime": "2.38.78",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "İREM HATUN",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 61,
+        "odds": 1.15,
+        "finishTime": "2.40.76",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "ZAFİRE SULTAN",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "FİGEN BAKIR",
+        "weight": 58.5,
+        "odds": 11.1,
+        "finishTime": "2.40.83",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "EBİŞİM",
+        "jockey": "BURHAN SARIDAL",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 53,
+        "odds": 23.85,
+        "finishTime": "2.43.54",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "HİPOTENÜS",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 59,
+        "odds": 6.1,
+        "finishTime": "2.51.56",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "MAVİ DÜŞ",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 59,
+        "odds": 31.15,
+        "finishTime": "3.25.59",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "3",
+        "name": "GÜLLÜ KADİFE",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 60,
+        "odds": 18.35,
+        "finishTime": "4.17.71",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "raceNo": 1,
     "venue": "Kocaeli",
     "distance": 1100,
     "surface": "Kum",
@@ -1335,115 +1542,6 @@
         "combination": "4/8/1/5/5/6",
         "prizeAmount": 907473.31,
         "lastRaceNo": 10
-      }
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "raceNo": 1,
-    "venue": "Elazığ",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden/Dişi",
-    "horses": [
-      {
-        "position": 1,
-        "no": "2",
-        "name": "BLACK RIVER",
-        "jockey": "MEHMET ALİ AKTÜRK",
-        "trainer": "ELİF AÇMAZ",
-        "weight": 60,
-        "odds": 3.25,
-        "finishTime": "1.20.79",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "3",
-        "name": "CRAZY RIVER",
-        "jockey": "NECMİ ALTIN",
-        "trainer": "BAVER FAHRİOĞLU",
-        "weight": 60,
-        "odds": 2.05,
-        "finishTime": "1.21.34",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "8",
-        "name": "MISS CURA",
-        "jockey": "HASAN ALTUNDAĞ",
-        "trainer": "ERCAN ALTIN",
-        "weight": 58,
-        "odds": 10.95,
-        "finishTime": "1.21.40",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "4",
-        "name": "PRENSES MELTEM",
-        "jockey": "YUSUF CENGİZ",
-        "trainer": "AHMET AKBABA",
-        "weight": 60,
-        "odds": 5.5,
-        "finishTime": "1.22.28",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "7",
-        "name": "MIGHTYAQUSTIC",
-        "jockey": "İSA KATAR",
-        "trainer": "RESUL KAYA",
-        "weight": 58,
-        "odds": 10.25,
-        "finishTime": "1.22.45",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "5",
-        "name": "ANGRY EAGLE",
-        "jockey": "MEHMET TAŞKAYA",
-        "trainer": "RAMAZAN BARMAN",
-        "weight": 58,
-        "odds": 10.45,
-        "finishTime": "1.23.70",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "1",
-        "name": "HEYLİ VEYLİ",
-        "jockey": "AHMET HASAN BAYAR",
-        "trainer": "MEHMET KAYA",
-        "weight": 62,
-        "odds": 7.5,
-        "finishTime": "1.24.17",
-        "age": 3
-      },
-      {
-        "position": 8,
-        "no": "6",
-        "name": "LOTUS GIRL",
-        "jockey": "ABDULLAH ÇANKAYA",
-        "trainer": "İBRAHİM ATMACA",
-        "weight": 56,
-        "odds": 14,
-        "finishTime": "1.24.67",
-        "age": 3
-      },
-      {
-        "position": 9,
-        "no": "9",
-        "name": "RISES THE MOON",
-        "jockey": "HÜSEYİN ALTUNKILIÇ",
-        "trainer": "FURKAN YALÇINKAYA",
-        "weight": 58,
-        "odds": 34,
-        "finishTime": "1.27.54",
-        "age": 3
       }
     ]
   }
