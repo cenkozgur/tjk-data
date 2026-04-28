@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 17,
-    "overlayFired": 17,
+    "evaluatedRaces": 18,
+    "overlayFired": 18,
     "baselineHits": 2,
     "overlayHits": 3,
     "marketHits": 5,
     "agreementCount": 0,
-    "baselineHitRate": 0.1176,
-    "overlayHitRate": 0.1765,
-    "marketHitRate": 0.2941,
-    "overlayVsBaselinePp": 5.88,
-    "overlayVsMarketPp": -11.76,
-    "generatedAt": "2026-04-28T18:40:55.574Z"
+    "baselineHitRate": 0.1111,
+    "overlayHitRate": 0.1667,
+    "marketHitRate": 0.2778,
+    "overlayVsBaselinePp": 5.56,
+    "overlayVsMarketPp": -11.11,
+    "generatedAt": "2026-04-28T18:51:23.247Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8016877637130801,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::8",
+      "venue": "Elazığ",
+      "raceNo": 8,
+      "winner": "YAĞIZALP",
+      "winnerOdds": 3.35,
+      "baseline": "ASLINURAY",
+      "baselineHit": false,
+      "market": "ELİTTAY",
+      "marketHit": false,
+      "overlay": "GÜVENAĞA",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.6887417218543046,
       "agreementWithBaseline": false
     },
     {
