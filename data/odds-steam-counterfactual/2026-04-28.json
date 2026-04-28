@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 8,
-    "overlayFired": 8,
+    "evaluatedRaces": 9,
+    "overlayFired": 9,
     "baselineHits": 2,
     "overlayHits": 1,
     "marketHits": 2,
     "agreementCount": 0,
-    "baselineHitRate": 0.25,
-    "overlayHitRate": 0.125,
-    "marketHitRate": 0.25,
-    "overlayVsBaselinePp": -12.5,
-    "overlayVsMarketPp": -12.5,
-    "generatedAt": "2026-04-28T14:37:07.362Z"
+    "baselineHitRate": 0.2222,
+    "overlayHitRate": 0.1111,
+    "marketHitRate": 0.2222,
+    "overlayVsBaselinePp": -11.11,
+    "overlayVsMarketPp": -11.11,
+    "generatedAt": "2026-04-28T14:47:36.238Z"
   },
   "rows": [
     {
@@ -143,6 +143,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.6635514018691588,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Kocaeli::9",
+      "venue": "Kocaeli",
+      "raceNo": 9,
+      "winner": "SALGUR",
+      "winnerOdds": 13.8,
+      "baseline": "YAZ MELTEMİ",
+      "baselineHit": false,
+      "market": "ATAERİ",
+      "marketHit": false,
+      "overlay": "KIZILKULE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.5678233438485805,
       "agreementWithBaseline": false
     }
   ]
