@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 6,
-    "overlayFired": 6,
+    "evaluatedRaces": 7,
+    "overlayFired": 7,
     "baselineHits": 2,
     "overlayHits": 0,
     "marketHits": 2,
     "agreementCount": 0,
-    "baselineHitRate": 0.3333,
+    "baselineHitRate": 0.2857,
     "overlayHitRate": 0,
-    "marketHitRate": 0.3333,
-    "overlayVsBaselinePp": -33.33,
-    "overlayVsMarketPp": -33.33,
-    "generatedAt": "2026-04-28T13:44:09.874Z"
+    "marketHitRate": 0.2857,
+    "overlayVsBaselinePp": -28.57,
+    "overlayVsMarketPp": -28.57,
+    "generatedAt": "2026-04-28T13:54:45.663Z"
   },
   "rows": [
     {
@@ -111,6 +111,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7327586206896551,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Kocaeli::7",
+      "venue": "Kocaeli",
+      "raceNo": 7,
+      "winner": "KARA AYHAN",
+      "winnerOdds": 6.05,
+      "baseline": "TANJU BEY",
+      "baselineHit": false,
+      "market": "BAŞ FEDAİ",
+      "marketHit": false,
+      "overlay": "BAŞ FEDAİ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.6323529411764706,
       "agreementWithBaseline": false
     }
   ]
