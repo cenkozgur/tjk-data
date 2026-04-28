@@ -546,6 +546,113 @@
   },
   {
     "date": "2026-04-28",
+    "raceNo": 6,
+    "venue": "Elazığ",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "BERHAN BEYLİ",
+        "jockey": "HASAN ALTUNDAĞ",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 56,
+        "odds": 2.5,
+        "finishTime": "1.27.94",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "NEVALÇİÇEĞİ",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 56,
+        "odds": 5.35,
+        "finishTime": "1.28.19",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "BİZİMSOY",
+        "jockey": "İSA KATAR",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 58,
+        "odds": 4.2,
+        "finishTime": "1.29.97",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "TAM BİR SAVAŞÇI",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 58,
+        "odds": 2.5,
+        "finishTime": "1.30.17",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "TURBOKOLİK",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "NESİH DOĞAN",
+        "weight": 58,
+        "odds": 12.9,
+        "finishTime": "1.30.89",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "CİHAN BABA",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 60,
+        "odds": 6.15,
+        "finishTime": "1.30.97",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "RECOHAT",
+        "jockey": "ÇETİN CANPOLAT",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 51,
+        "odds": 6.15,
+        "finishTime": "1.31.23",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "SULTAN ASİYE",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 56,
+        "odds": 2.35,
+        "finishTime": "1.39.72",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Elazığ",
+        "label": "1. 6'LI GANYAN",
+        "combination": "2/1,2/7/3/2/3,5",
+        "prizeAmount": 3098.65,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
     "raceNo": 1,
     "venue": "Kocaeli",
     "distance": 1100,

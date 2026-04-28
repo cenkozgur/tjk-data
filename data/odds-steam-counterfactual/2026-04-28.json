@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 15,
-    "overlayFired": 15,
+    "evaluatedRaces": 16,
+    "overlayFired": 16,
     "baselineHits": 2,
     "overlayHits": 3,
     "marketHits": 4,
     "agreementCount": 0,
-    "baselineHitRate": 0.1333,
-    "overlayHitRate": 0.2,
-    "marketHitRate": 0.2667,
-    "overlayVsBaselinePp": 6.67,
-    "overlayVsMarketPp": -6.67,
-    "generatedAt": "2026-04-28T17:37:34.581Z"
+    "baselineHitRate": 0.125,
+    "overlayHitRate": 0.1875,
+    "marketHitRate": 0.25,
+    "overlayVsBaselinePp": 6.25,
+    "overlayVsMarketPp": -6.25,
+    "generatedAt": "2026-04-28T17:48:06.927Z"
   },
   "rows": [
     {
@@ -95,6 +95,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.9131205673758865,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::6",
+      "venue": "Elazığ",
+      "raceNo": 6,
+      "winner": "BERHAN BEYLİ",
+      "winnerOdds": 2.5,
+      "baseline": "TAM BİR SAVAŞÇI",
+      "baselineHit": false,
+      "market": "SULTAN ASİYE",
+      "marketHit": false,
+      "overlay": "SULTAN ASİYE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7963800904977376,
       "agreementWithBaseline": false
     },
     {
