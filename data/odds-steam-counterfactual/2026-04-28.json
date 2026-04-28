@@ -3,18 +3,18 @@
     "date": "2026-04-28",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 13,
-    "overlayFired": 13,
+    "evaluatedRaces": 14,
+    "overlayFired": 14,
     "baselineHits": 2,
     "overlayHits": 2,
-    "marketHits": 3,
+    "marketHits": 4,
     "agreementCount": 0,
-    "baselineHitRate": 0.1538,
-    "overlayHitRate": 0.1538,
-    "marketHitRate": 0.2308,
+    "baselineHitRate": 0.1429,
+    "overlayHitRate": 0.1429,
+    "marketHitRate": 0.2857,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -7.69,
-    "generatedAt": "2026-04-28T16:22:44.748Z"
+    "overlayVsMarketPp": -14.29,
+    "generatedAt": "2026-04-28T16:44:34.894Z"
   },
   "rows": [
     {
@@ -63,6 +63,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7169421487603307,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::4",
+      "venue": "Elazığ",
+      "raceNo": 4,
+      "winner": "MEMORY REMAINS",
+      "winnerOdds": 2.75,
+      "baseline": "BRUCE BANNER",
+      "baselineHit": false,
+      "market": "MEMORY REMAINS",
+      "marketHit": true,
+      "overlay": "BALDUR",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7031039136302294,
       "agreementWithBaseline": false
     },
     {
