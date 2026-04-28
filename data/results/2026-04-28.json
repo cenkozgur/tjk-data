@@ -946,5 +946,92 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-04-28",
+    "raceNo": 8,
+    "venue": "Kocaeli",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "DRAGON KINGDOM",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 58,
+        "odds": 3.3,
+        "finishTime": "2.10.14",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "OĞLUM DORUK",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "TURGAY ATAÇ",
+        "weight": 60,
+        "odds": 7.15,
+        "finishTime": "2.10.70",
+        "age": 8
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "SWORD MASTER",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MERT KORKMAZ",
+        "weight": 60,
+        "odds": 3.7,
+        "finishTime": "2.10.98",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "PRENS LEVENT",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "GALİP KILIÇ",
+        "weight": 58,
+        "odds": 1.45,
+        "finishTime": "2.11.77",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "DISTANCE RUNNER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SENİHA ŞEN",
+        "weight": 58,
+        "odds": 22,
+        "finishTime": "2.12.86",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "MY DEAR BROTHER",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "ERGÜN USLU",
+        "weight": 60,
+        "odds": 21.9,
+        "finishTime": "2.13.97",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "GRINGOLET",
+        "jockey": "RECEP KETME",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 58,
+        "odds": 72.4,
+        "finishTime": "2.14.83",
+        "age": 4
+      }
+    ]
   }
 ]
