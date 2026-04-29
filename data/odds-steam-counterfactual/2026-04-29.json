@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 1,
-    "overlayFired": 1,
+    "evaluatedRaces": 2,
+    "overlayFired": 2,
     "baselineHits": 0,
     "overlayHits": 0,
     "marketHits": 0,
-    "agreementCount": 1,
+    "agreementCount": 2,
     "baselineHitRate": 0,
     "overlayHitRate": 0,
     "marketHitRate": 0,
     "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-29T11:33:17.705Z"
+    "generatedAt": "2026-04-29T11:43:39.337Z"
   },
   "rows": [
     {
@@ -31,6 +31,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.75,
+      "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "İstanbul::2",
+      "venue": "İstanbul",
+      "raceNo": 2,
+      "winner": "ZEYDANTAY",
+      "winnerOdds": 5.1,
+      "baseline": "ATICI KAYA",
+      "baselineHit": false,
+      "market": "ATICI KAYA",
+      "marketHit": false,
+      "overlay": "ATICI KAYA",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9800362976406533,
       "agreementWithBaseline": true
     }
   ]

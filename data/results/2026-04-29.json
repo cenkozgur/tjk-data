@@ -96,5 +96,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-04-29",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 1100,
+    "surface": "Sentetik",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "ZEYDANTAY",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 57,
+        "odds": 5.1,
+        "finishTime": "1.13.88",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "KESTEL YİĞİDİ",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 6.9,
+        "finishTime": "1.14.55",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "KAUÇUKÇU",
+        "jockey": "MEHMET ALİ ALTUNDAĞ",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 53,
+        "odds": 14.2,
+        "finishTime": "1.14.71",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ATICI KAYA",
+        "jockey": "MEHMET KAYA",
+        "trainer": "MERT DEMİRTAŞ",
+        "weight": 57,
+        "odds": 1.85,
+        "finishTime": "1.14.78",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "PARLAMA ZAMANI",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 57,
+        "odds": 3.05,
+        "finishTime": "1.15.38",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "SAROZ BEYİ",
+        "jockey": "RÜZGAR YILDIZ",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 53,
+        "odds": 14.2,
+        "finishTime": "1.15.41",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "DAĞYIKAN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 4.8,
+        "finishTime": "1.15.52",
+        "age": 3
+      }
+    ]
   }
 ]
