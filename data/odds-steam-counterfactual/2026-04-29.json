@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 11,
-    "overlayFired": 11,
+    "evaluatedRaces": 12,
+    "overlayFired": 12,
     "baselineHits": 1,
-    "overlayHits": 2,
-    "marketHits": 4,
+    "overlayHits": 3,
+    "marketHits": 5,
     "agreementCount": 3,
-    "baselineHitRate": 0.0909,
-    "overlayHitRate": 0.1818,
-    "marketHitRate": 0.3636,
-    "overlayVsBaselinePp": 9.09,
-    "overlayVsMarketPp": -18.18,
-    "generatedAt": "2026-04-29T16:03:42.549Z"
+    "baselineHitRate": 0.0833,
+    "overlayHitRate": 0.25,
+    "marketHitRate": 0.4167,
+    "overlayVsBaselinePp": 16.67,
+    "overlayVsMarketPp": -16.67,
+    "generatedAt": "2026-04-29T16:14:11.747Z"
   },
   "rows": [
     {
@@ -47,6 +47,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.8157894736842105,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::3",
+      "venue": "Elazığ",
+      "raceNo": 3,
+      "winner": "CEMİYET HAYATI",
+      "winnerOdds": 2.5,
+      "baseline": "DEDEBEDO",
+      "baselineHit": false,
+      "market": "CEMİYET HAYATI",
+      "marketHit": true,
+      "overlay": "CEMİYET HAYATI",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9426877470355731,
       "agreementWithBaseline": false
     },
     {
