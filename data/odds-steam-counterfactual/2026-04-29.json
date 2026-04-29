@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 4,
-    "overlayFired": 4,
+    "evaluatedRaces": 5,
+    "overlayFired": 5,
     "baselineHits": 0,
     "overlayHits": 1,
     "marketHits": 0,
     "agreementCount": 3,
     "baselineHitRate": 0,
-    "overlayHitRate": 0.25,
+    "overlayHitRate": 0.2,
     "marketHitRate": 0,
-    "overlayVsBaselinePp": 25,
-    "overlayVsMarketPp": 25,
-    "generatedAt": "2026-04-29T13:06:46.188Z"
+    "overlayVsBaselinePp": 20,
+    "overlayVsMarketPp": 20,
+    "generatedAt": "2026-04-29T13:17:10.073Z"
   },
   "rows": [
     {
@@ -80,6 +80,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.736842105263158,
       "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "İstanbul::5",
+      "venue": "İstanbul",
+      "raceNo": 5,
+      "winner": "IĞDIR KIZI",
+      "winnerOdds": 4.9,
+      "baseline": "AL SEHER",
+      "baselineHit": false,
+      "market": "AL SEHER",
+      "marketHit": false,
+      "overlay": "MAVİŞİN KIZI",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7722095671981777,
+      "agreementWithBaseline": false
     }
   ]
 }
