@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 14,
-    "overlayFired": 14,
+    "evaluatedRaces": 15,
+    "overlayFired": 15,
     "baselineHits": 1,
     "overlayHits": 3,
-    "marketHits": 5,
-    "agreementCount": 3,
-    "baselineHitRate": 0.0714,
-    "overlayHitRate": 0.2143,
-    "marketHitRate": 0.3571,
-    "overlayVsBaselinePp": 14.29,
-    "overlayVsMarketPp": -14.29,
-    "generatedAt": "2026-04-29T17:37:15.904Z"
+    "marketHits": 6,
+    "agreementCount": 4,
+    "baselineHitRate": 0.0667,
+    "overlayHitRate": 0.2,
+    "marketHitRate": 0.4,
+    "overlayVsBaselinePp": 13.33,
+    "overlayVsMarketPp": -20,
+    "generatedAt": "2026-04-29T17:47:38.413Z"
   },
   "rows": [
     {
@@ -96,6 +96,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.9656264133876075,
       "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::6",
+      "venue": "Elazığ",
+      "raceNo": 6,
+      "winner": "SKYDIVE",
+      "winnerOdds": 3.55,
+      "baseline": "CRIMENA FIRE",
+      "baselineHit": false,
+      "market": "SKYDIVE",
+      "marketHit": true,
+      "overlay": "CRIMENA FIRE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.654320987654321,
+      "agreementWithBaseline": true
     },
     {
       "raceKey": "İstanbul::1",
