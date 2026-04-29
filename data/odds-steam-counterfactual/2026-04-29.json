@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 7,
-    "overlayFired": 7,
-    "baselineHits": 0,
+    "evaluatedRaces": 8,
+    "overlayFired": 8,
+    "baselineHits": 1,
     "overlayHits": 1,
-    "marketHits": 2,
+    "marketHits": 3,
     "agreementCount": 3,
-    "baselineHitRate": 0,
-    "overlayHitRate": 0.1429,
-    "marketHitRate": 0.2857,
-    "overlayVsBaselinePp": 14.29,
-    "overlayVsMarketPp": -14.29,
-    "generatedAt": "2026-04-29T14:40:27.213Z"
+    "baselineHitRate": 0.125,
+    "overlayHitRate": 0.125,
+    "marketHitRate": 0.375,
+    "overlayVsBaselinePp": 0,
+    "overlayVsMarketPp": -25,
+    "generatedAt": "2026-04-29T14:50:50.593Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.6206896551724138,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İstanbul::8",
+      "venue": "İstanbul",
+      "raceNo": 8,
+      "winner": "BAYDARBEY",
+      "winnerOdds": 2.25,
+      "baseline": "BAYDARBEY",
+      "baselineHit": true,
+      "market": "BAYDARBEY",
+      "marketHit": true,
+      "overlay": "KADİFE KIZ",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7251461988304093,
       "agreementWithBaseline": false
     }
   ]
