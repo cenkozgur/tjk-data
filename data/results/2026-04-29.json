@@ -904,6 +904,179 @@
   },
   {
     "date": "2026-04-29",
+    "raceNo": 9,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 15/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "BALDER",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "SEÇKİN AYDOĞAN",
+        "weight": 56.5,
+        "odds": 3.8,
+        "finishTime": "2.24.96",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "KALEM KIRAN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 54.5,
+        "odds": 3.85,
+        "finishTime": "2.25.75",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "TUTKUN BEY",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MURAT AKKILIÇ",
+        "weight": 55.5,
+        "odds": 5.5,
+        "finishTime": "2.26.30",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "JET ÇELİK",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "BERFİN GÖKÇE",
+        "weight": 54.5,
+        "odds": 14.05,
+        "finishTime": "2.26.69",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "KÖKBEYİ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 54.5,
+        "odds": 3.7,
+        "finishTime": "2.26.90",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "11",
+        "name": "DİLAVERCAN",
+        "jockey": "ONUR ATMACA",
+        "trainer": "ALİ RIZA YILDIZ",
+        "weight": 53,
+        "odds": 34.1,
+        "finishTime": "2.27.39",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "14",
+        "name": "MEGAFAUNA",
+        "jockey": "SERCAN TIRPAN",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 52,
+        "odds": 26.7,
+        "finishTime": "2.27.53",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "AL YÜREK",
+        "jockey": "SADIK ALTAY",
+        "trainer": "ETHEM KAYA",
+        "weight": 52,
+        "odds": 41.5,
+        "finishTime": "2.28.97",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "1",
+        "name": "BABA TUNA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 60.5,
+        "odds": 9.65,
+        "finishTime": "2.29.01",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "ÜRGÜP",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 53.5,
+        "odds": 8.55,
+        "finishTime": "2.29.14",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "12",
+        "name": "BATUGA",
+        "jockey": "FERHAT YÜCEL",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 52.5,
+        "odds": 9.65,
+        "finishTime": "2.32.60",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "13",
+        "name": "İLKUTHAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "TUNCAY YILMAZ",
+        "weight": 52,
+        "odds": 16.85,
+        "finishTime": "2.32.69",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "2",
+        "name": "BAY OLOF",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ATİLLA GÖKÇE",
+        "weight": 56,
+        "odds": 20.35,
+        "finishTime": "2.43.11",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "6",
+        "name": "TAYYAR BEY",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "MEHMET ARSLAN",
+        "weight": 55,
+        "odds": 40.15,
+        "finishTime": "3.04.00",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "2. 6'LI GANYAN",
+        "combination": "4/7/4/1/4/3",
+        "prizeAmount": 3444.68,
+        "lastRaceNo": 9
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
     "raceNo": 1,
     "venue": "Elazığ",
     "distance": 1900,
