@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 6,
-    "overlayFired": 6,
+    "evaluatedRaces": 7,
+    "overlayFired": 7,
     "baselineHits": 0,
     "overlayHits": 1,
-    "marketHits": 1,
+    "marketHits": 2,
     "agreementCount": 3,
     "baselineHitRate": 0,
-    "overlayHitRate": 0.1667,
-    "marketHitRate": 0.1667,
-    "overlayVsBaselinePp": 16.67,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-29T14:09:12.553Z"
+    "overlayHitRate": 0.1429,
+    "marketHitRate": 0.2857,
+    "overlayVsBaselinePp": 14.29,
+    "overlayVsMarketPp": -14.29,
+    "generatedAt": "2026-04-29T14:19:37.951Z"
   },
   "rows": [
     {
@@ -111,6 +111,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.8269230769230769,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İstanbul::7",
+      "venue": "İstanbul",
+      "raceNo": 7,
+      "winner": "FALCONNIDAE",
+      "winnerOdds": 2.2,
+      "baseline": "RITE OF SPRING",
+      "baselineHit": false,
+      "market": "FALCONNIDAE",
+      "marketHit": true,
+      "overlay": "SECRET ROYAL",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.6206896551724138,
       "agreementWithBaseline": false
     }
   ]
