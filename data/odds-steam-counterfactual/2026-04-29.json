@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 2,
-    "overlayFired": 2,
+    "evaluatedRaces": 3,
+    "overlayFired": 3,
     "baselineHits": 0,
-    "overlayHits": 0,
+    "overlayHits": 1,
     "marketHits": 0,
     "agreementCount": 2,
     "baselineHitRate": 0,
-    "overlayHitRate": 0,
+    "overlayHitRate": 0.3333,
     "marketHitRate": 0,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": 0,
-    "generatedAt": "2026-04-29T12:04:24.647Z"
+    "overlayVsBaselinePp": 33.33,
+    "overlayVsMarketPp": 33.33,
+    "generatedAt": "2026-04-29T12:14:48.413Z"
   },
   "rows": [
     {
@@ -48,6 +48,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.9800362976406533,
       "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "İstanbul::3",
+      "venue": "İstanbul",
+      "raceNo": 3,
+      "winner": "DEHLİN",
+      "winnerOdds": 11.8,
+      "baseline": "SUBUTAI",
+      "baselineHit": false,
+      "market": "SUBUTAI",
+      "marketHit": false,
+      "overlay": "DEHLİN",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8925404277516954,
+      "agreementWithBaseline": false
     }
   ]
 }

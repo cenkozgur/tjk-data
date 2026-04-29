@@ -183,5 +183,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-04-29",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 1000,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "DEHLİN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 56,
+        "odds": 11.8,
+        "finishTime": "0.56.88",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "SUBUTAI",
+        "jockey": "SELİM KAYA",
+        "trainer": "ERGÜN USLU",
+        "weight": 56.5,
+        "odds": 1.25,
+        "finishTime": "0.57.41",
+        "age": 7
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "TURKISH PUNCH",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ERGÜN USLU",
+        "weight": 58.5,
+        "odds": 4.85,
+        "finishTime": "0.57.50",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "CAZATOR DE OSOS",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 61,
+        "odds": 13.35,
+        "finishTime": "0.57.67",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "İSPANOZ",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 56,
+        "odds": 4,
+        "finishTime": "0.57.71",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "FILIUS VENTUS",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 56.5,
+        "odds": 25.25,
+        "finishTime": "0.58.57",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "PERFECT FLIGHT",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 56.5,
+        "odds": 29.05,
+        "finishTime": "0.59.07",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "SANS PAREİL",
+        "jockey": "BERKAN ÇIĞLA",
+        "trainer": "FERHAT YAVAŞ",
+        "weight": 53.5,
+        "odds": 65.35,
+        "finishTime": "1.00.89",
+        "age": 5
+      }
+    ]
   }
 ]
