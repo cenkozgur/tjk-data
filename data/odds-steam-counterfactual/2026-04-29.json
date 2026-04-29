@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 8,
-    "overlayFired": 8,
+    "evaluatedRaces": 9,
+    "overlayFired": 9,
     "baselineHits": 1,
     "overlayHits": 1,
     "marketHits": 3,
     "agreementCount": 3,
-    "baselineHitRate": 0.125,
-    "overlayHitRate": 0.125,
-    "marketHitRate": 0.375,
+    "baselineHitRate": 0.1111,
+    "overlayHitRate": 0.1111,
+    "marketHitRate": 0.3333,
     "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -25,
-    "generatedAt": "2026-04-29T14:50:50.593Z"
+    "overlayVsMarketPp": -22.22,
+    "generatedAt": "2026-04-29T15:01:15.013Z"
   },
   "rows": [
     {
@@ -143,6 +143,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7251461988304093,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::1",
+      "venue": "Elazığ",
+      "raceNo": 1,
+      "winner": "VAN KALESİ",
+      "winnerOdds": 11.25,
+      "baseline": "KING OF RACE",
+      "baselineHit": false,
+      "market": "KING OF RACE",
+      "marketHit": false,
+      "overlay": "MAVERICK SHADOW",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.821969696969697,
       "agreementWithBaseline": false
     }
   ]
