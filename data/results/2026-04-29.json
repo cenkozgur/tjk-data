@@ -281,5 +281,125 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-04-29",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 1300,
+    "surface": "Sentetik",
+    "raceClass": "SATIŞ 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "KUBAT KASIRGASI",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 57,
+        "odds": 5.9,
+        "finishTime": "1.17.98",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "ERULİNA",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 56,
+        "odds": 10.55,
+        "finishTime": "1.18.94",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "MENKAR",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 53,
+        "odds": 6.25,
+        "finishTime": "1.19.13",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "CHARLIE THE FIRST",
+        "jockey": "ONUR ATMACA",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 54,
+        "odds": 21.8,
+        "finishTime": "1.19.14",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "11",
+        "name": "SİGUEME",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "1.19.46",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "KRAL OSIMHEN",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "AZİZ TEKDEMİR",
+        "weight": 58,
+        "odds": 2,
+        "finishTime": "1.19.63",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "SWEET VICTORY",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 58,
+        "odds": 25.25,
+        "finishTime": "1.20.21",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "DESESPERADOS",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "1.20.59",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "JASMINE SCENT",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HACİ ALTUNBAŞ",
+        "weight": 55,
+        "odds": 5.05,
+        "finishTime": "1.21.85",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "2",
+        "name": "PANCHO",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "1.22.19",
+        "age": 3
+      }
+    ]
   }
 ]
