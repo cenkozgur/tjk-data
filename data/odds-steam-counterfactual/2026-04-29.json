@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 15,
-    "overlayFired": 15,
+    "evaluatedRaces": 16,
+    "overlayFired": 16,
     "baselineHits": 1,
-    "overlayHits": 3,
-    "marketHits": 6,
+    "overlayHits": 4,
+    "marketHits": 7,
     "agreementCount": 4,
-    "baselineHitRate": 0.0667,
-    "overlayHitRate": 0.2,
-    "marketHitRate": 0.4,
-    "overlayVsBaselinePp": 13.33,
-    "overlayVsMarketPp": -20,
-    "generatedAt": "2026-04-29T18:08:23.258Z"
+    "baselineHitRate": 0.0625,
+    "overlayHitRate": 0.25,
+    "marketHitRate": 0.4375,
+    "overlayVsBaselinePp": 18.75,
+    "overlayVsMarketPp": -18.75,
+    "generatedAt": "2026-04-29T18:18:44.315Z"
   },
   "rows": [
     {
@@ -112,6 +112,22 @@
       "overlayFired": true,
       "topSteamFeatValue": 0.654320987654321,
       "agreementWithBaseline": true
+    },
+    {
+      "raceKey": "Elazığ::7",
+      "venue": "Elazığ",
+      "raceNo": 7,
+      "winner": "SAVT",
+      "winnerOdds": 1.25,
+      "baseline": "QUATRO",
+      "baselineHit": false,
+      "market": "SAVT",
+      "marketHit": true,
+      "overlay": "SAVT",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7666666666666666,
+      "agreementWithBaseline": false
     },
     {
       "raceKey": "İstanbul::1",
