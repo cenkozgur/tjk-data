@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-04-29T10:51:21.730Z",
+  "generatedAt": "2026-04-29T11:22:56.214Z",
   "aggregate": {
     "decisionDate": "2026-05-02",
     "today": "2026-04-29",
     "daysUntilDecision": 3,
     "snapshotDayCount": 14,
-    "totalSnapshotRows": 159758,
+    "totalSnapshotRows": 160232,
     "totalSnapshotRaces": 257,
     "totalSnapshotHorses": 2609,
-    "counterfactualDayCount": 13,
-    "totalEvaluatedRaces": 240,
-    "overlayFiredCount": 169,
-    "baselineOverallHitRate": 0.1875,
-    "overlayOverallHitRate": 0.2708,
-    "marketOverallHitRate": 0.3417,
-    "overlayVsBaselinePp": 8.33,
-    "overlayVsMarketPp": -7.08,
-    "favLosesCount": 158,
-    "baselineHitWhenFavLoses": 0.1013,
-    "overlayHitWhenFavLoses": 0.1203,
-    "surpriseCapturePp": 1.9,
+    "counterfactualDayCount": 14,
+    "totalEvaluatedRaces": 241,
+    "overlayFiredCount": 170,
+    "baselineOverallHitRate": 0.1867,
+    "overlayOverallHitRate": 0.2697,
+    "marketOverallHitRate": 0.3402,
+    "overlayVsBaselinePp": 8.3,
+    "overlayVsMarketPp": -7.05,
+    "favLosesCount": 159,
+    "baselineHitWhenFavLoses": 0.1006,
+    "overlayHitWhenFavLoses": 0.1195,
+    "surpriseCapturePp": 1.89,
     "windowCount": 28,
     "windowsBaselineWon": 8,
     "windowsOverlayWon": 15,
@@ -149,12 +149,12 @@
     },
     {
       "date": "2026-04-29",
-      "snapshotRows": 3719,
+      "snapshotRows": 4193,
       "uniqueRaces": 17,
       "uniqueHorses": 160,
       "firstSnapshotAt": "2026-04-29T07:20:48.871Z",
-      "lastSnapshotAt": "2026-04-29T10:51:17.148Z",
-      "fileSizeKB": 513
+      "lastSnapshotAt": "2026-04-29T11:22:51.862Z",
+      "fileSizeKB": 579
     }
   ],
   "counterfactualDays": [
@@ -364,6 +364,22 @@
       "overlayHitsWhenFavLoses": 2,
       "windowsBaselineWon": 1,
       "windowsOverlayWon": 1,
+      "windowsTied": 0
+    },
+    {
+      "date": "2026-04-29",
+      "evaluatedRaces": 1,
+      "overlayFired": 1,
+      "baselineHits": 0,
+      "overlayHits": 0,
+      "marketHits": 0,
+      "overlayVsBaselinePp": 0,
+      "overlayVsMarketPp": 0,
+      "favLoses": 1,
+      "baselineHitsWhenFavLoses": 0,
+      "overlayHitsWhenFavLoses": 0,
+      "windowsBaselineWon": 0,
+      "windowsOverlayWon": 0,
       "windowsTied": 0
     }
   ]
