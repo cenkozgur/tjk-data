@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 10,
-    "overlayFired": 10,
+    "evaluatedRaces": 11,
+    "overlayFired": 11,
     "baselineHits": 1,
-    "overlayHits": 1,
-    "marketHits": 3,
+    "overlayHits": 2,
+    "marketHits": 4,
     "agreementCount": 3,
-    "baselineHitRate": 0.1,
-    "overlayHitRate": 0.1,
-    "marketHitRate": 0.3,
-    "overlayVsBaselinePp": 0,
-    "overlayVsMarketPp": -20,
-    "generatedAt": "2026-04-29T15:32:27.673Z"
+    "baselineHitRate": 0.0909,
+    "overlayHitRate": 0.1818,
+    "marketHitRate": 0.3636,
+    "overlayVsBaselinePp": 9.09,
+    "overlayVsMarketPp": -18.18,
+    "generatedAt": "2026-04-29T15:42:52.103Z"
   },
   "rows": [
     {
@@ -31,6 +31,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.821969696969697,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::2",
+      "venue": "Elazığ",
+      "raceNo": 2,
+      "winner": "ESSANCAR",
+      "winnerOdds": 1.2,
+      "baseline": "MERHAMET",
+      "baselineHit": false,
+      "market": "ESSANCAR",
+      "marketHit": true,
+      "overlay": "ESSANCAR",
+      "overlayHit": true,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8157894736842105,
       "agreementWithBaseline": false
     },
     {
