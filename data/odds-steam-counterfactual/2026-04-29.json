@@ -14,9 +14,25 @@
     "marketHitRate": 0.3,
     "overlayVsBaselinePp": 0,
     "overlayVsMarketPp": -20,
-    "generatedAt": "2026-04-29T15:22:01.938Z"
+    "generatedAt": "2026-04-29T15:32:27.673Z"
   },
   "rows": [
+    {
+      "raceKey": "Elazığ::1",
+      "venue": "Elazığ",
+      "raceNo": 1,
+      "winner": "VAN KALESİ",
+      "winnerOdds": 11.25,
+      "baseline": "KING OF RACE",
+      "baselineHit": false,
+      "market": "KING OF RACE",
+      "marketHit": false,
+      "overlay": "MAVERICK SHADOW",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.821969696969697,
+      "agreementWithBaseline": false
+    },
     {
       "raceKey": "İstanbul::1",
       "venue": "İstanbul",
@@ -159,22 +175,6 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.9573333333333334,
-      "agreementWithBaseline": false
-    },
-    {
-      "raceKey": "Elazığ::1",
-      "venue": "Elazığ",
-      "raceNo": 1,
-      "winner": "VAN KALESİ",
-      "winnerOdds": 11.25,
-      "baseline": "KING OF RACE",
-      "baselineHit": false,
-      "market": "KING OF RACE",
-      "marketHit": false,
-      "overlay": "MAVERICK SHADOW",
-      "overlayHit": false,
-      "overlayFired": true,
-      "topSteamFeatValue": 0.821969696969697,
       "agreementWithBaseline": false
     }
   ]

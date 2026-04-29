@@ -2,6 +2,82 @@
   {
     "date": "2026-04-29",
     "raceNo": 1,
+    "venue": "Elazığ",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 15 /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "VAN KALESİ",
+        "jockey": "ÇETİN CANPOLAT",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 52,
+        "odds": 11.25,
+        "finishTime": "2.14.98",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "NIGHT KING",
+        "jockey": "BURHAN SARIDAL",
+        "trainer": "MEHMET KAYA",
+        "weight": 51,
+        "odds": 6.4,
+        "finishTime": "2.16.14",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "KING OF RACE",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "ABDULHAMİT YARDIMCI",
+        "weight": 60.5,
+        "odds": 1.35,
+        "finishTime": "2.16.75",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "ÇEVİK PRENSES",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 52,
+        "odds": 2.95,
+        "finishTime": "2.18.60",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "MAVERICK SHADOW",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 54,
+        "odds": 12.15,
+        "finishTime": "2.20.24",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "SAYAN BEY",
+        "jockey": "İLKER AKIN",
+        "trainer": "TURĞUT ÇİZİK",
+        "weight": 50.5,
+        "odds": 10.05,
+        "finishTime": "2.25.97",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1200,
     "surface": "Sentetik",
@@ -1072,82 +1148,6 @@
         "combination": "4/7/4/1/4/3",
         "prizeAmount": 3444.68,
         "lastRaceNo": 9
-      }
-    ]
-  },
-  {
-    "date": "2026-04-29",
-    "raceNo": 1,
-    "venue": "Elazığ",
-    "distance": 1900,
-    "surface": "Kum",
-    "raceClass": "Handikap 15 /H3",
-    "horses": [
-      {
-        "position": 1,
-        "no": "4",
-        "name": "VAN KALESİ",
-        "jockey": "ÇETİN CANPOLAT",
-        "trainer": "YELİZ BAYSAL",
-        "weight": 52,
-        "odds": 11.25,
-        "finishTime": "2.14.98",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "5",
-        "name": "NIGHT KING",
-        "jockey": "BURHAN SARIDAL",
-        "trainer": "MEHMET KAYA",
-        "weight": 51,
-        "odds": 6.4,
-        "finishTime": "2.16.14",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "1",
-        "name": "KING OF RACE",
-        "jockey": "FERİT YARDIMCI",
-        "trainer": "ABDULHAMİT YARDIMCI",
-        "weight": 60.5,
-        "odds": 1.35,
-        "finishTime": "2.16.75",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "3",
-        "name": "ÇEVİK PRENSES",
-        "jockey": "NECMİ ALTIN",
-        "trainer": "MUHAMMED BULUÇ",
-        "weight": 52,
-        "odds": 2.95,
-        "finishTime": "2.18.60",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "2",
-        "name": "MAVERICK SHADOW",
-        "jockey": "MEHMET DOĞAN",
-        "trainer": "ZEKERİYA AKDEMİR",
-        "weight": 54,
-        "odds": 12.15,
-        "finishTime": "2.20.24",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "6",
-        "name": "SAYAN BEY",
-        "jockey": "İLKER AKIN",
-        "trainer": "TURĞUT ÇİZİK",
-        "weight": 50.5,
-        "odds": 10.05,
-        "finishTime": "2.25.97",
-        "age": 3
       }
     ]
   }
