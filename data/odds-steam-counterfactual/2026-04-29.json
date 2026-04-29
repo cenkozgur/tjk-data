@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 16,
-    "overlayFired": 16,
+    "evaluatedRaces": 17,
+    "overlayFired": 17,
     "baselineHits": 1,
     "overlayHits": 4,
     "marketHits": 7,
     "agreementCount": 4,
-    "baselineHitRate": 0.0625,
-    "overlayHitRate": 0.25,
-    "marketHitRate": 0.4375,
-    "overlayVsBaselinePp": 18.75,
-    "overlayVsMarketPp": -18.75,
-    "generatedAt": "2026-04-29T18:39:28.954Z"
+    "baselineHitRate": 0.0588,
+    "overlayHitRate": 0.2353,
+    "marketHitRate": 0.4118,
+    "overlayVsBaselinePp": 17.65,
+    "overlayVsMarketPp": -17.65,
+    "generatedAt": "2026-04-29T18:49:52.071Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": true,
       "overlayFired": true,
       "topSteamFeatValue": 0.7666666666666666,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "Elazığ::8",
+      "venue": "Elazığ",
+      "raceNo": 8,
+      "winner": "EDALI NİDA",
+      "winnerOdds": 3.75,
+      "baseline": "KIZIM İLKİM",
+      "baselineHit": false,
+      "market": "EKSEN",
+      "marketHit": false,
+      "overlay": "ELİFNAZ HANIM",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.5635179153094462,
       "agreementWithBaseline": false
     },
     {
