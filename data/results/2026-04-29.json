@@ -554,5 +554,145 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-04-29",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "Handikap 17 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "BOLD LION",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 56,
+        "odds": 2.55,
+        "finishTime": "1.15.51",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "KARAİN ASLANI",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HÜSEYİN KARATAŞ",
+        "weight": 55,
+        "odds": 4.65,
+        "finishTime": "1.15.85",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "SHEER FORCE",
+        "jockey": "MEHMET KAYA",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 53.5,
+        "odds": 4.9,
+        "finishTime": "1.15.96",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "10",
+        "name": "YARGIÇ",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "ŞÜKRÜ ÇELİK",
+        "weight": 50,
+        "odds": 4.05,
+        "finishTime": "1.16.15",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "11",
+        "name": "ALASER",
+        "jockey": "FERHAT YÜCEL",
+        "trainer": "TUNCAY TURAN",
+        "weight": 50,
+        "odds": 115.9,
+        "finishTime": "1.16.71",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "SMART CHILDREN",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "BURAK ŞANDAN",
+        "weight": 60,
+        "odds": 22.95,
+        "finishTime": "1.16.83",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "LA SPEZIA",
+        "jockey": "ONUR ATMACA",
+        "trainer": "HAKAN ACAR",
+        "weight": 50,
+        "odds": 14.05,
+        "finishTime": "1.16.95",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "JESKO",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "UFUK DEMİR",
+        "weight": 58,
+        "odds": 26.3,
+        "finishTime": "1.16.98",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "TANGÜL HANIM",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MEHMET ÇAM",
+        "weight": 56.5,
+        "odds": 7.5,
+        "finishTime": "1.17.25",
+        "age": 7
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "DAYWATCH",
+        "jockey": "HAKAN YILDIZ",
+        "trainer": "GÜLTEKİN SUBAŞI",
+        "weight": 52.5,
+        "odds": 33.7,
+        "finishTime": "1.17.50",
+        "age": 5
+      },
+      {
+        "position": 11,
+        "no": "3",
+        "name": "KOZLUHAN",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "YILMAZ GÜNDOĞDİ",
+        "weight": 59,
+        "odds": 9.15,
+        "finishTime": "1.18.69",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "1. 6'LI GANYAN",
+        "combination": "1/8/4/4/7/4",
+        "prizeAmount": 101540.37,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]

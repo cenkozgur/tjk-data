@@ -3,18 +3,18 @@
     "date": "2026-04-29",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 5,
-    "overlayFired": 5,
+    "evaluatedRaces": 6,
+    "overlayFired": 6,
     "baselineHits": 0,
     "overlayHits": 1,
-    "marketHits": 0,
+    "marketHits": 1,
     "agreementCount": 3,
     "baselineHitRate": 0,
-    "overlayHitRate": 0.2,
-    "marketHitRate": 0,
-    "overlayVsBaselinePp": 20,
-    "overlayVsMarketPp": 20,
-    "generatedAt": "2026-04-29T13:37:59.413Z"
+    "overlayHitRate": 0.1667,
+    "marketHitRate": 0.1667,
+    "overlayVsBaselinePp": 16.67,
+    "overlayVsMarketPp": 0,
+    "generatedAt": "2026-04-29T13:48:22.172Z"
   },
   "rows": [
     {
@@ -95,6 +95,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7722095671981777,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İstanbul::6",
+      "venue": "İstanbul",
+      "raceNo": 6,
+      "winner": "BOLD LION",
+      "winnerOdds": 2.55,
+      "baseline": "KOZLUHAN",
+      "baselineHit": false,
+      "market": "BOLD LION",
+      "marketHit": true,
+      "overlay": "SHEER FORCE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.8269230769230769,
       "agreementWithBaseline": false
     }
   ]
