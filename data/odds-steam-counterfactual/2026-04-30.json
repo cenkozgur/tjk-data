@@ -3,18 +3,18 @@
     "date": "2026-04-30",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 16,
-    "overlayFired": 16,
+    "evaluatedRaces": 17,
+    "overlayFired": 17,
     "baselineHits": 3,
     "overlayHits": 1,
     "marketHits": 5,
     "agreementCount": 0,
-    "baselineHitRate": 0.1875,
-    "overlayHitRate": 0.0625,
-    "marketHitRate": 0.3125,
-    "overlayVsBaselinePp": -12.5,
-    "overlayVsMarketPp": -25,
-    "generatedAt": "2026-04-30T18:06:28.848Z"
+    "baselineHitRate": 0.1765,
+    "overlayHitRate": 0.0588,
+    "marketHitRate": 0.2941,
+    "overlayVsBaselinePp": -11.76,
+    "overlayVsMarketPp": -23.53,
+    "generatedAt": "2026-04-30T18:17:03.937Z"
   },
   "rows": [
     {
@@ -127,6 +127,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.5891677675033025,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İzmir::8",
+      "venue": "İzmir",
+      "raceNo": 8,
+      "winner": "KÖSE RECEP",
+      "winnerOdds": 3.9,
+      "baseline": "ERBAŞKAN",
+      "baselineHit": false,
+      "market": "ERBAŞKAN",
+      "marketHit": false,
+      "overlay": "MACERAPEREST",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.7945945945945946,
       "agreementWithBaseline": false
     },
     {
