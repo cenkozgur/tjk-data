@@ -3,18 +3,18 @@
     "date": "2026-04-30",
     "feature": "steamDrop",
     "threshold": 0.1,
-    "evaluatedRaces": 13,
-    "overlayFired": 13,
+    "evaluatedRaces": 14,
+    "overlayFired": 14,
     "baselineHits": 3,
     "overlayHits": 1,
     "marketHits": 5,
     "agreementCount": 0,
-    "baselineHitRate": 0.2308,
-    "overlayHitRate": 0.0769,
-    "marketHitRate": 0.3846,
-    "overlayVsBaselinePp": -15.38,
-    "overlayVsMarketPp": -30.77,
-    "generatedAt": "2026-04-30T16:36:53.379Z"
+    "baselineHitRate": 0.2143,
+    "overlayHitRate": 0.0714,
+    "marketHitRate": 0.3571,
+    "overlayVsBaselinePp": -14.29,
+    "overlayVsMarketPp": -28.57,
+    "generatedAt": "2026-04-30T16:47:21.005Z"
   },
   "rows": [
     {
@@ -79,6 +79,22 @@
       "overlayHit": false,
       "overlayFired": true,
       "topSteamFeatValue": 0.7716262975778547,
+      "agreementWithBaseline": false
+    },
+    {
+      "raceKey": "İzmir::5",
+      "venue": "İzmir",
+      "raceNo": 5,
+      "winner": "KAPTAN ARAS",
+      "winnerOdds": 16.55,
+      "baseline": "SERTTAYKUT",
+      "baselineHit": false,
+      "market": "HARESE",
+      "marketHit": false,
+      "overlay": "HARESE",
+      "overlayHit": false,
+      "overlayFired": true,
+      "topSteamFeatValue": 0.9293993677555321,
       "agreementWithBaseline": false
     },
     {
