@@ -623,6 +623,288 @@
   },
   {
     "date": "2026-04-30",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "NAZUŞUM",
+        "jockey": "ADEM ASLAN",
+        "trainer": "BARIŞ ÇELTİK",
+        "weight": 52,
+        "odds": 7.4,
+        "finishTime": "1.17.33",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "10",
+        "name": "PERFECTION",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55,
+        "odds": 13.6,
+        "finishTime": "1.17.38",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "RECUERDAME",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 52,
+        "odds": 7.5,
+        "finishTime": "1.17.53",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "STORM QUEEN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "CELHAN BATUR",
+        "weight": 54,
+        "odds": 5.8,
+        "finishTime": "1.17.89",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "MUFASA",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYHAN DEMİR",
+        "weight": 54,
+        "odds": 10.35,
+        "finishTime": "1.18.17",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "MOMENT SAVER",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 58,
+        "odds": 23.35,
+        "finishTime": "1.18.27",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "SECRET FLIGHT",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MEHMET KARACA",
+        "weight": 56,
+        "odds": 4,
+        "finishTime": "1.19.12",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "OLAYIN ASLI",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 53,
+        "odds": 62.85,
+        "finishTime": "1.19.27",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "1",
+        "name": "TOLPER",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YÜKSEL TALUK",
+        "weight": 58,
+        "odds": 2.1,
+        "finishTime": "1.19.32",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "TRAİDORA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 53,
+        "odds": 10.2,
+        "finishTime": "1.23.23",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İzmir",
+        "label": "1. 6'LI GANYAN",
+        "combination": "6/1/6/6/4/6",
+        "prizeAmount": 63041.12,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "raceNo": 7,
+    "venue": "İzmir",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "Handikap 15 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "YANLIZ KAREL",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "BEGÜM GÜL",
+        "weight": 56.5,
+        "odds": 11.35,
+        "finishTime": "1.17.83",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "LION OF FURY",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 55,
+        "odds": 3.15,
+        "finishTime": "1.17.95",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "LORD SENTINEL",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "BEGÜM GÜL",
+        "weight": 58.5,
+        "odds": 13.7,
+        "finishTime": "1.18.07",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "PATPAT",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "SEDA UYSAL",
+        "weight": 57.5,
+        "odds": 2.75,
+        "finishTime": "1.18.29",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "GOODGIRL",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 55,
+        "odds": 7.9,
+        "finishTime": "1.18.56",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "NO BRAKES",
+        "jockey": "ONUR ATMACA",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 59.5,
+        "odds": 10.35,
+        "finishTime": "1.19.26",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "13",
+        "name": "BURNING HEART",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "ERCAN ATEŞ",
+        "weight": 55.5,
+        "odds": 23.25,
+        "finishTime": "1.19.44",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "14",
+        "name": "TEBLİGAT",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YÜKSEL TALUK",
+        "weight": 55,
+        "odds": 9.3,
+        "finishTime": "1.19.59",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "8",
+        "name": "AVENGING",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "EMRAH AYHAN",
+        "weight": 54.5,
+        "odds": 59.7,
+        "finishTime": "1.19.64",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "1",
+        "name": "SABALENKA",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 60.5,
+        "odds": 6.7,
+        "finishTime": "1.22.94",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "7",
+        "name": "STAR OF RÜZGAR",
+        "jockey": "MUHAMMED BURHAN ÖNCEL",
+        "trainer": "ŞAKİR ÇELİK",
+        "weight": 54,
+        "odds": 28.25,
+        "finishTime": "1.23.23",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "11",
+        "name": "DAUGHTER OF GODDES",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 53.5,
+        "odds": 16.1,
+        "finishTime": "1.23.47",
+        "age": 3
+      },
+      {
+        "position": 13,
+        "no": "9",
+        "name": "NIGHTMARE SPIRIT",
+        "jockey": "METE GÖL",
+        "trainer": "EMRAH AYHAN",
+        "weight": 51.5,
+        "odds": 74.3,
+        "finishTime": "1.23.66",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 900,
