@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-04-30T10:37:08.273Z",
+  "generatedAt": "2026-04-30T15:08:45.555Z",
   "aggregate": {
     "decisionDate": "2026-05-02",
     "today": "2026-04-30",
     "daysUntilDecision": 2,
     "snapshotDayCount": 15,
-    "totalSnapshotRows": 178635,
+    "totalSnapshotRows": 179025,
     "totalSnapshotRaces": 275,
-    "totalSnapshotHorses": 2804,
-    "counterfactualDayCount": 14,
-    "totalEvaluatedRaces": 257,
-    "overlayFiredCount": 186,
-    "baselineOverallHitRate": 0.179,
-    "overlayOverallHitRate": 0.2685,
-    "marketOverallHitRate": 0.3463,
-    "overlayVsBaselinePp": 8.95,
-    "overlayVsMarketPp": -7.78,
-    "favLosesCount": 168,
-    "baselineHitWhenFavLoses": 0.0952,
-    "overlayHitWhenFavLoses": 0.119,
-    "surpriseCapturePp": 2.38,
-    "windowCount": 30,
-    "windowsBaselineWon": 8,
+    "totalSnapshotHorses": 2808,
+    "counterfactualDayCount": 15,
+    "totalEvaluatedRaces": 267,
+    "overlayFiredCount": 196,
+    "baselineOverallHitRate": 0.1835,
+    "overlayOverallHitRate": 0.2622,
+    "marketOverallHitRate": 0.3446,
+    "overlayVsBaselinePp": 7.87,
+    "overlayVsMarketPp": -8.24,
+    "favLosesCount": 175,
+    "baselineHitWhenFavLoses": 0.0971,
+    "overlayHitWhenFavLoses": 0.12,
+    "surpriseCapturePp": 2.29,
+    "windowCount": 31,
+    "windowsBaselineWon": 9,
     "windowsOverlayWon": 16,
     "windowsTied": 6,
-    "legCoverageBaselinePct": 17.46,
-    "legCoverageOverlayPct": 26.59,
-    "legCoverageDeltaPp": 9.13,
+    "legCoverageBaselinePct": 18.08,
+    "legCoverageOverlayPct": 25.77,
+    "legCoverageDeltaPp": 7.69,
     "verdict": "signal-positive (overlay catches surprises + extends kupon)"
   },
   "snapshotDays": [
@@ -158,12 +158,12 @@
     },
     {
       "date": "2026-04-30",
-      "snapshotRows": 338,
+      "snapshotRows": 728,
       "uniqueRaces": 18,
-      "uniqueHorses": 195,
+      "uniqueHorses": 199,
       "firstSnapshotAt": "2026-04-30T08:26:34.364Z",
-      "lastSnapshotAt": "2026-04-30T10:36:58.165Z",
-      "fileSizeKB": 46
+      "lastSnapshotAt": "2026-04-30T15:08:33.868Z",
+      "fileSizeKB": 99
     }
   ],
   "counterfactualDays": [
@@ -390,6 +390,22 @@
       "windowsBaselineWon": 0,
       "windowsOverlayWon": 1,
       "windowsTied": 1
+    },
+    {
+      "date": "2026-04-30",
+      "evaluatedRaces": 10,
+      "overlayFired": 10,
+      "baselineHits": 3,
+      "overlayHits": 1,
+      "marketHits": 3,
+      "overlayVsBaselinePp": -20,
+      "overlayVsMarketPp": -20,
+      "favLoses": 7,
+      "baselineHitsWhenFavLoses": 1,
+      "overlayHitsWhenFavLoses": 1,
+      "windowsBaselineWon": 1,
+      "windowsOverlayWon": 0,
+      "windowsTied": 0
     }
   ]
 }
