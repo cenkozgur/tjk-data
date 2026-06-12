@@ -879,5 +879,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-12",
+    "raceNo": 1,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "KRAL SULTAN",
+        "jockey": "MEHMET KAYA",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 58,
+        "odds": 1.45,
+        "finishTime": "2.20.71",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "ÖZGÜNBERK",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "METİN ACAR",
+        "weight": 58,
+        "odds": 2.75,
+        "finishTime": "2.21.25",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "YETİM AMCA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 58,
+        "odds": 7.2,
+        "finishTime": "2.22.54",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "FERMAN YAZAR",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "VAHİT TURAN",
+        "weight": 58,
+        "odds": 6.65,
+        "finishTime": "2.23.68",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "BABA TUNA",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 55,
+        "odds": 18.65,
+        "finishTime": "2.24.67",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "TAYKUTAY",
+        "jockey": "YASİN ŞEREF GÜMÜŞ",
+        "trainer": "SEDAT ÇİFTÇİ",
+        "weight": 52,
+        "odds": 26.25,
+        "finishTime": "2.24.91",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "ZAMAN HARİKA",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "FERHAT ALTIN",
+        "weight": 52,
+        "odds": 18.05,
+        "finishTime": "2.27.53",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "BATUGA",
+        "jockey": "GÖKHAN BEKTAŞ",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 56,
+        "odds": 18.65,
+        "finishTime": "2.31.97",
+        "age": 4
+      }
+    ]
   }
 ]
