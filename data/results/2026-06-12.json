@@ -172,5 +172,92 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-06-12",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 1000,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "ONLY GIRL",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "EYÜPHAN AVCI",
+        "weight": 55,
+        "odds": 1.05,
+        "finishTime": "1.02.49",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "WHITE WRIST",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "FEHMİ DEMİR",
+        "weight": 55,
+        "odds": 4.85,
+        "finishTime": "1.03.85",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "MY NOBLE SON",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 57,
+        "odds": 6.9,
+        "finishTime": "1.03.96",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "İZOL ASLANI",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "KADİR TURAN",
+        "weight": 53,
+        "odds": 30.35,
+        "finishTime": "1.04.39",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "CANIM SEDAM",
+        "jockey": "AHMET EFEKAN ELMAS",
+        "trainer": "EKREM TURAN",
+        "weight": 53,
+        "odds": 11.45,
+        "finishTime": "1.04.42",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "RAŞAMO",
+        "jockey": "OKAN BALKAN",
+        "trainer": "EKREM TURAN",
+        "weight": 53,
+        "odds": 27.35,
+        "finishTime": "1.06.42",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "ŞEVRAN",
+        "jockey": "CEMAL PASO",
+        "trainer": "YUSUF CAN KARATOPRAK",
+        "weight": 57,
+        "odds": 19.8,
+        "finishTime": "1.07.24",
+        "age": 2
+      }
+    ]
   }
 ]
