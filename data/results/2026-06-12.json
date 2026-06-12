@@ -85,5 +85,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-12",
+    "raceNo": 2,
+    "venue": "Bursa",
+    "distance": 1000,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "SUGAR STORM",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 5.5,
+        "finishTime": "1.02.95",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "ZIBBOOSH",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "CEMİL TURAN",
+        "weight": 55,
+        "odds": 4.15,
+        "finishTime": "1.03.64",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "PUYOL",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 57,
+        "odds": 1.15,
+        "finishTime": "1.03.82",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "RULER MAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 57,
+        "odds": 1.15,
+        "finishTime": "1.04.11",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "NALDÖKEN",
+        "jockey": "OKAN GÖKÇE",
+        "trainer": "HASAN KAYA",
+        "weight": 55,
+        "odds": 7.3,
+        "finishTime": "1.04.12",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "KUMSAL STAR",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 51,
+        "odds": 23.6,
+        "finishTime": "1.05.54",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "ENAPAY",
+        "jockey": "CEM ALTUN",
+        "trainer": "MURAT ALTIN",
+        "weight": 57,
+        "odds": 22.5,
+        "finishTime": "1.06.10",
+        "age": 2
+      }
+    ]
   }
 ]
