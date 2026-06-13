@@ -2,940 +2,6 @@
   {
     "date": "2026-06-13",
     "raceNo": 1,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "16:45",
-    "distance": 1600,
-    "surface": "Kum",
-    "raceClass": "Handikap 14 /H2",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "GLORIOUS LIFE",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "SEYİT GÖKÇE",
-        "weight": 59,
-        "age": 3,
-        "form": "468143",
-        "odds": 4.5
-      },
-      {
-        "no": "2",
-        "name": "KING AKIN",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 58,
-        "age": 3,
-        "form": "342-264",
-        "odds": 7.65
-      },
-      {
-        "no": "3",
-        "name": "DRAGON OF SONG",
-        "jockey": "GÖKHAN GÖKÇE",
-        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
-        "weight": 57,
-        "age": 3,
-        "form": "312354",
-        "odds": 6.9
-      },
-      {
-        "no": "4",
-        "name": "AVENGING",
-        "jockey": "KADİR TOKAÇOĞLU",
-        "trainer": "EMRAH AYHAN",
-        "weight": 56.5,
-        "age": 3,
-        "form": "246930",
-        "odds": 8.8
-      },
-      {
-        "no": "5",
-        "name": "TAŞDEMİR HAN",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "OKAN TAŞDEMİR",
-        "weight": 56.5,
-        "age": 3,
-        "form": "251582",
-        "odds": 1.8
-      },
-      {
-        "no": "6",
-        "name": "SINGLE GUN",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "FAHRETTİN CEYLAN",
-        "weight": 55.5,
-        "age": 3,
-        "form": "355301",
-        "odds": 4.3
-      },
-      {
-        "no": "7",
-        "name": "NURBADEM",
-        "jockey": "BEKİR MERT MIRIK",
-        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
-        "weight": 55,
-        "age": 3,
-        "form": "693421",
-        "odds": 13.25
-      },
-      {
-        "no": "8",
-        "name": "VOODOO PEOPLE",
-        "jockey": "ONUR ATMACA",
-        "trainer": "CUMA YILDIRIM",
-        "weight": 55,
-        "age": 3,
-        "form": "433156",
-        "odds": 40.25
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 2,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "17:15",
-    "distance": 1900,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 3",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "DRAGON BLAST",
-        "jockey": "BEKİR MERT MIRIK",
-        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
-        "weight": 60,
-        "age": 3,
-        "form": "132445",
-        "odds": 6.35
-      },
-      {
-        "no": "2",
-        "name": "MİGRAKOM BEYİ",
-        "jockey": "HALİL YOLAÇICI",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 57,
-        "age": 3,
-        "form": "249067",
-        "odds": 25.4
-      },
-      {
-        "no": "3",
-        "name": "MAMMA LUNA",
-        "jockey": "ONUR ATMACA",
-        "trainer": "SERHAT YILDIRIM",
-        "weight": 59,
-        "age": 3,
-        "form": "08-2213",
-        "odds": 5
-      },
-      {
-        "no": "4",
-        "name": "SECRET LION",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "BEGÜM GÜL",
-        "weight": 58,
-        "age": 3,
-        "form": "62-4216",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "SİSU",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "FAHRETTİN CEYLAN",
-        "weight": 58,
-        "age": 3,
-        "form": "341783",
-        "odds": 1.4
-      },
-      {
-        "no": "6",
-        "name": "SUPER SHOW",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "SİNAN ŞAHYAZICI",
-        "weight": 55,
-        "age": 3,
-        "form": "357625",
-        "odds": 25.2
-      },
-      {
-        "no": "7",
-        "name": "QUEEN TUANA",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "MEHMET ALİ PAKEL",
-        "weight": 54,
-        "age": 3,
-        "form": "3531",
-        "odds": 12.1
-      },
-      {
-        "no": "8",
-        "name": "ÇİFTE YÜREKLİ",
-        "jockey": "HÜSEYİN ŞİMŞEK",
-        "trainer": "EMRAH AYHAN",
-        "weight": 55,
-        "age": 3,
-        "form": "0321-00",
-        "odds": 34.6
-      },
-      {
-        "no": "9",
-        "name": "STAR OF RÜZGAR",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "ŞAKİR ÇELİK",
-        "weight": 55,
-        "age": 3,
-        "form": "12-08",
-        "odds": 4.15
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 3,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "18:00",
-    "distance": 2000,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 5/DHÖW/Dişi/Y2",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "BABY ARYA",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "SEYİT GÖKÇE",
-        "weight": 58,
-        "age": 4,
-        "form": "120185",
-        "odds": 4.6
-      },
-      {
-        "no": "2",
-        "name": "BOLKADER",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 58,
-        "age": 4,
-        "form": "141205",
-        "odds": 2
-      },
-      {
-        "no": "3",
-        "name": "HİVE SULTAN",
-        "jockey": "RECEP KETME",
-        "trainer": "ALİ ÇİZİK",
-        "weight": 57,
-        "age": 4,
-        "form": "813170",
-        "odds": 5.35
-      },
-      {
-        "no": "4",
-        "name": "RÜZGAR NUR",
-        "jockey": "METİN MERT KARABULUT",
-        "trainer": "YUSUF KAĞAN GÜRSOY",
-        "weight": 57,
-        "age": 4,
-        "form": "214349",
-        "odds": 4.95
-      },
-      {
-        "no": "5",
-        "name": "DİLŞAHKAYA",
-        "jockey": "EMRULLAH TEPE",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 55,
-        "age": 4,
-        "form": "251400",
-        "odds": 44.95
-      },
-      {
-        "no": "6",
-        "name": "KIZIM MERYEM",
-        "jockey": "MUSTAFA TEKPETEK",
-        "trainer": "ALİCAN ÖKSÜZLER",
-        "weight": 55,
-        "age": 4,
-        "form": "264210",
-        "odds": 29.85
-      },
-      {
-        "no": "7",
-        "name": "ESENYIL",
-        "jockey": "BERKAY BÜLBÜL",
-        "trainer": "NEJDET TURAN",
-        "weight": 53,
-        "age": 4,
-        "form": "890610",
-        "odds": 11.65
-      },
-      {
-        "no": "8",
-        "name": "MATİLDA HANIM",
-        "jockey": "EREN DURSUN ÖKTEN",
-        "trainer": "FATİH ŞEN",
-        "weight": 53,
-        "age": 4,
-        "form": "010070",
-        "odds": 28.8
-      },
-      {
-        "no": "9",
-        "name": "SOSAN YILDIZI",
-        "jockey": "SİNAN AKŞIN",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 54,
-        "age": 4,
-        "form": "624392",
-        "odds": 5.95
-      },
-      {
-        "no": "10",
-        "name": "YILDIZ SOY",
-        "jockey": "UĞUR İRTİŞ",
-        "trainer": "ALPHAN ŞEN",
-        "weight": 54,
-        "age": 4,
-        "form": "939024",
-        "odds": 25.5
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 4,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "18:30",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden/DHÖW",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "ERGİDEN",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 58,
-        "age": 3,
-        "form": "2724",
-        "odds": 3.2
-      },
-      {
-        "no": "2",
-        "name": "ADISOYLU",
-        "jockey": "HÜSEYİN ŞİMŞEK",
-        "trainer": "HIDIR DURMUŞ",
-        "weight": 57,
-        "age": 3,
-        "form": "9",
-        "odds": 44.95
-      },
-      {
-        "no": "3",
-        "name": "BABA KUNTER",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "ERCAN ATEŞ",
-        "weight": 57,
-        "age": 3,
-        "form": "725",
-        "odds": 1.75
-      },
-      {
-        "no": "4",
-        "name": "BERMANOVA",
-        "jockey": "BERKAY BÜLBÜL",
-        "trainer": "MEHMET KARACA",
-        "weight": 53,
-        "age": 3,
-        "form": "",
-        "odds": 38.15
-      },
-      {
-        "no": "5",
-        "name": "DEMİRLİHAN",
-        "jockey": "İBRAHİM SEFA SÖĞÜT",
-        "trainer": "HACI KURT",
-        "weight": 57,
-        "age": 3,
-        "form": "0",
-        "odds": 40.05
-      },
-      {
-        "no": "6",
-        "name": "GÖNÜL SARAYI",
-        "jockey": "RECEP KETME",
-        "trainer": "NEJDET TURAN",
-        "weight": 53,
-        "age": 3,
-        "form": "2689",
-        "odds": 17.9
-      },
-      {
-        "no": "7",
-        "name": "GUREGH",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "MİTHAT YÜKSEL YILDIRIM",
-        "weight": 54,
-        "age": 3,
-        "form": "646285",
-        "odds": 7.75
-      },
-      {
-        "no": "8",
-        "name": "HIRÇIN DADAŞ",
-        "jockey": "ALAATTİN KÜRÜNDÜK",
-        "trainer": "HACI KURT",
-        "weight": 57,
-        "age": 3,
-        "form": "4796",
-        "odds": 13.05
-      },
-      {
-        "no": "9",
-        "name": "MR ALAÇAT",
-        "jockey": "ALİBERK METİN",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 53,
-        "age": 3,
-        "form": "90",
-        "odds": 0
-      },
-      {
-        "no": "10",
-        "name": "TURGUL HAN",
-        "jockey": "KADİR TOKAÇOĞLU",
-        "trainer": "ZAFER TURĞUL",
-        "weight": 57,
-        "age": 3,
-        "form": "6",
-        "odds": 5.55
-      },
-      {
-        "no": "11",
-        "name": "BERRUNAZ",
-        "jockey": "SİNAN AKŞIN",
-        "trainer": "BAŞOL ÖZGÜR",
-        "weight": 51,
-        "age": 3,
-        "form": "08",
-        "odds": 45.6
-      },
-      {
-        "no": "12",
-        "name": "KAYANİLİM",
-        "jockey": "BEKİR MERT MIRIK",
-        "trainer": "SERHAT YILDIRIM",
-        "weight": 55,
-        "age": 3,
-        "form": "550",
-        "odds": 21.4
-      },
-      {
-        "no": "13",
-        "name": "MRS MALİBU",
-        "jockey": "MUSTAFA TEKPETEK",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 52,
-        "age": 3,
-        "form": "349",
-        "odds": 31.2
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 5,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "19:00",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Handikap 15/DHÖW /H2",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "MERTCAN TAY",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "FAHRETTİN CEYLAN",
-        "weight": 63,
-        "age": 6,
-        "form": "001385",
-        "odds": 6.25
-      },
-      {
-        "no": "2",
-        "name": "HAS CEYLAN",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 59,
-        "age": 5,
-        "form": "3-70900",
-        "odds": 26.55
-      },
-      {
-        "no": "3",
-        "name": "KING GÖKÇE",
-        "jockey": "GÖKHAN GÖKÇE",
-        "trainer": "SEYİT GÖKÇE",
-        "weight": 61,
-        "age": 4,
-        "form": "616222",
-        "odds": 2.25
-      },
-      {
-        "no": "4",
-        "name": "ŞAMPİYON GÜMBÜR",
-        "jockey": "İBRAHİM SEFA SÖĞÜT",
-        "trainer": "HACI KURT",
-        "weight": 59.5,
-        "age": 4,
-        "form": "705610",
-        "odds": 8.85
-      },
-      {
-        "no": "5",
-        "name": "ESMERDAĞ",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 57.5,
-        "age": 5,
-        "form": "602055",
-        "odds": 6.5
-      },
-      {
-        "no": "6",
-        "name": "UFUKYELİ",
-        "jockey": "HÜSEYİN ŞİMŞEK",
-        "trainer": "HACI KURT",
-        "weight": 54.5,
-        "age": 5,
-        "form": "246-003",
-        "odds": 6.3
-      },
-      {
-        "no": "7",
-        "name": "BÜYÜK ALAÇAT",
-        "jockey": "İSMAİL GÜN",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 50,
-        "age": 4,
-        "form": "900000",
-        "odds": 46.6
-      },
-      {
-        "no": "8",
-        "name": "BEREKETGELDİ",
-        "jockey": "BERKAY BÜLBÜL",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 50.5,
-        "age": 4,
-        "form": "100440",
-        "odds": 29.85
-      },
-      {
-        "no": "9",
-        "name": "DEMİRNAL",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "HIDIR DURMUŞ",
-        "weight": 54,
-        "age": 4,
-        "form": "623606",
-        "odds": 5
-      },
-      {
-        "no": "10",
-        "name": "ZIPKIN OSMAN",
-        "jockey": "MUSTAFA TEKPETEK",
-        "trainer": "HIDIR DURMUŞ",
-        "weight": 51.5,
-        "age": 5,
-        "form": "099076",
-        "odds": 10.3
-      },
-      {
-        "no": "11",
-        "name": "ÇÖL KRALİÇESİ",
-        "jockey": "ÇAĞLAR TAŞCI",
-        "trainer": "MEHMET KARACA",
-        "weight": 52.5,
-        "age": 5,
-        "form": "788978",
-        "odds": 75.6
-      },
-      {
-        "no": "12",
-        "name": "HALİDAĞA",
-        "jockey": "ONUR ATMACA",
-        "trainer": "ŞAFAK GÜMÜŞ",
-        "weight": 52,
-        "age": 5,
-        "form": "066506",
-        "odds": 20.6
-      },
-      {
-        "no": "13",
-        "name": "KOÇBAŞI",
-        "jockey": "ALİBERK METİN",
-        "trainer": "EMİR CİHAN BAYDAN",
-        "weight": 50,
-        "age": 4,
-        "form": "0-7490",
-        "odds": 87.25
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 6,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "19:30",
-    "distance": 2000,
-    "surface": "Kum",
-    "raceClass": "KV-6/Dişi",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "VICTORY MARSEILLE",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "TAYFUN VATANSEVER",
-        "weight": 63,
-        "age": 4,
-        "form": "121211",
-        "odds": 4
-      },
-      {
-        "no": "2",
-        "name": "LETS LOVE",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 60,
-        "age": 4,
-        "form": "012132",
-        "odds": 3.45
-      },
-      {
-        "no": "3",
-        "name": "MUĞLALI VARGAS",
-        "jockey": "BEKİR MERT MIRIK",
-        "trainer": "FAHRETTİN CEYLAN",
-        "weight": 60,
-        "age": 4,
-        "form": "343516",
-        "odds": 5.05
-      },
-      {
-        "no": "4",
-        "name": "KIZIM ÇINAR",
-        "jockey": "İBRAHİM SEFA SÖĞÜT",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 56.5,
-        "age": 6,
-        "form": "57-6855",
-        "odds": 13.6
-      },
-      {
-        "no": "5",
-        "name": "SPEEDY SOUL",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "BEGÜM GÜL",
-        "weight": 56,
-        "age": 4,
-        "form": "11411-1",
-        "odds": 1.45
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 7,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "20:00",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Handikap 17 /H2",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "BLACK GALAXY",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "BEGÜM GÜL",
-        "weight": 63,
-        "age": 4,
-        "form": "6-35553",
-        "odds": 5.8
-      },
-      {
-        "no": "2",
-        "name": "CASH IS KING",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 61,
-        "age": 7,
-        "form": "830934",
-        "odds": 8.55
-      },
-      {
-        "no": "3",
-        "name": "WHITE WOLF",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "GAZANFER TOKLU",
-        "weight": 56.5,
-        "age": 3,
-        "form": "211137",
-        "odds": 1.8
-      },
-      {
-        "no": "4",
-        "name": "MANCUNIAN BEDİİ",
-        "jockey": "RECEP KETME",
-        "trainer": "GÖKHAN ER",
-        "weight": 56.5,
-        "age": 5,
-        "form": "720867",
-        "odds": 21.25
-      },
-      {
-        "no": "5",
-        "name": "BLUE REFLECTION",
-        "jockey": "BEKİR MERT MIRIK",
-        "trainer": "ÇETİN ÖZDİL",
-        "weight": 58.5,
-        "age": 4,
-        "form": "364111",
-        "odds": 2.9
-      },
-      {
-        "no": "6",
-        "name": "KEEN EYE",
-        "jockey": "HALİL YOLAÇICI",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 56.5,
-        "age": 6,
-        "form": "693700",
-        "odds": 21.85
-      },
-      {
-        "no": "7",
-        "name": "PASTITSIO",
-        "jockey": "ONUR ATMACA",
-        "trainer": "CUMA YILDIRIM",
-        "weight": 52.5,
-        "age": 3,
-        "form": "233431",
-        "odds": 6.75
-      },
-      {
-        "no": "8",
-        "name": "LODATO",
-        "jockey": "BERKAY BÜLBÜL",
-        "trainer": "ŞEFİK ÖZDENİZ",
-        "weight": 50,
-        "age": 4,
-        "form": "616035",
-        "odds": 15.25
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 8,
-    "venue": "İzmir",
-    "hipodromName": "Şirinyer",
-    "time": "20:30",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden/DHÖW",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 23,
-    "humidity": 54,
-    "horses": [
-      {
-        "no": "1",
-        "name": "BAŞAR SOYLU",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "ALİ AYDOĞAN",
-        "weight": 57,
-        "age": 3,
-        "form": "2",
-        "odds": 1.4
-      },
-      {
-        "no": "2",
-        "name": "BORDO FIRTINA",
-        "jockey": "GÖKHAN GÖKÇE",
-        "trainer": "EMİR CİHAN BAYDAN",
-        "weight": 57,
-        "age": 3,
-        "form": "84",
-        "odds": 15.95
-      },
-      {
-        "no": "3",
-        "name": "ÇILGINDAĞ",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "SEYİT GÖKÇE",
-        "weight": 54,
-        "age": 3,
-        "form": "585",
-        "odds": 22.55
-      },
-      {
-        "no": "4",
-        "name": "KANDIRALI",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "SERHAT YILDIRIM",
-        "weight": 57,
-        "age": 3,
-        "form": "87",
-        "odds": 6.65
-      },
-      {
-        "no": "5",
-        "name": "RÜZGAR VEYSEL",
-        "jockey": "METİN MERT KARABULUT",
-        "trainer": "HAKAN ASLAN",
-        "weight": 54,
-        "age": 3,
-        "form": "54",
-        "odds": 4.65
-      },
-      {
-        "no": "6",
-        "name": "SERİ UFUK",
-        "jockey": "İSMAİL KALE",
-        "trainer": "SEYİT GÖKÇE",
-        "weight": 57,
-        "age": 3,
-        "form": "9",
-        "odds": 24.5
-      },
-      {
-        "no": "7",
-        "name": "TINAS GİBİ",
-        "jockey": "İSMAİL GÜN",
-        "trainer": "ABDULLAH ATAŞ",
-        "weight": 53,
-        "age": 3,
-        "form": "9",
-        "odds": 0
-      },
-      {
-        "no": "8",
-        "name": "TINASEFE",
-        "jockey": "HÜSEYİN ŞİMŞEK",
-        "trainer": "ORHAN AKTAŞ",
-        "weight": 57,
-        "age": 3,
-        "form": "6",
-        "odds": 29.7
-      },
-      {
-        "no": "9",
-        "name": "TRANSİSTHOR",
-        "jockey": "ALAATTİN KÜRÜNDÜK",
-        "trainer": "HACI KURT",
-        "weight": 57,
-        "age": 3,
-        "form": "9",
-        "odds": 32.5
-      },
-      {
-        "no": "10",
-        "name": "YANGIN YERİ",
-        "jockey": "KADİR TOKAÇOĞLU",
-        "trainer": "ALİ AYDOĞAN",
-        "weight": 57,
-        "age": 3,
-        "form": "4",
-        "odds": 8.3
-      },
-      {
-        "no": "11",
-        "name": "EZGİL FIRTINASI",
-        "jockey": "ONUR ATMACA",
-        "trainer": "HACI KURT",
-        "weight": 55,
-        "age": 3,
-        "form": "43",
-        "odds": 16.55
-      },
-      {
-        "no": "12",
-        "name": "ŞAHİN MELTEM",
-        "jockey": "BERKAY BÜLBÜL",
-        "trainer": "SERHAT YILDIRIM",
-        "weight": 51,
-        "age": 3,
-        "form": "534",
-        "odds": 6.65
-      },
-      {
-        "no": "13",
-        "name": "TATÜTA",
-        "jockey": "ALİCAN İNCİ",
-        "trainer": "MUSTAFA KAYA",
-        "weight": 55,
-        "age": 3,
-        "form": "77",
-        "odds": 30.15
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "raceNo": 1,
     "venue": "Diyarbakır",
     "hipodromName": "Diyarbakır",
     "time": "21:00",
@@ -945,9 +11,9 @@
     "isGanyanStart": true,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -957,7 +23,7 @@
         "weight": 63,
         "age": 9,
         "form": "206765",
-        "odds": 10.5
+        "odds": 9.15
       },
       {
         "no": "2",
@@ -967,7 +33,7 @@
         "weight": 60,
         "age": 4,
         "form": "330557",
-        "odds": 12.85
+        "odds": 9.35
       },
       {
         "no": "3",
@@ -977,7 +43,7 @@
         "weight": 60,
         "age": 4,
         "form": "279152",
-        "odds": 20.45
+        "odds": 13.25
       },
       {
         "no": "4",
@@ -987,7 +53,7 @@
         "weight": 62,
         "age": 4,
         "form": "118572",
-        "odds": 3.3
+        "odds": 4.2
       },
       {
         "no": "5",
@@ -997,7 +63,7 @@
         "weight": 60,
         "age": 5,
         "form": "032173",
-        "odds": 10.9
+        "odds": 9.75
       },
       {
         "no": "6",
@@ -1007,7 +73,7 @@
         "weight": 60,
         "age": 5,
         "form": "640314",
-        "odds": 2.6
+        "odds": 4.65
       },
       {
         "no": "7",
@@ -1017,7 +83,7 @@
         "weight": 58,
         "age": 4,
         "form": "939866",
-        "odds": 23.15
+        "odds": 19.35
       },
       {
         "no": "8",
@@ -1027,7 +93,7 @@
         "weight": 56,
         "age": 6,
         "form": "60-0684",
-        "odds": 26.4
+        "odds": 23.45
       },
       {
         "no": "9",
@@ -1037,7 +103,7 @@
         "weight": 56,
         "age": 4,
         "form": "113-522",
-        "odds": 3.6
+        "odds": 2.4
       },
       {
         "no": "10",
@@ -1047,7 +113,7 @@
         "weight": 56,
         "age": 6,
         "form": "075009",
-        "odds": 27.1
+        "odds": 26.95
       },
       {
         "no": "11",
@@ -1057,7 +123,7 @@
         "weight": 56,
         "age": 5,
         "form": "2121-5-0",
-        "odds": 32.5
+        "odds": 41.2
       },
       {
         "no": "12",
@@ -1067,7 +133,7 @@
         "weight": 56,
         "age": 5,
         "form": "799-705",
-        "odds": 28.3
+        "odds": 25.85
       },
       {
         "no": "13",
@@ -1077,7 +143,7 @@
         "weight": 56,
         "age": 5,
         "form": "56-6990",
-        "odds": 12.85
+        "odds": 9.35
       },
       {
         "no": "14",
@@ -1087,7 +153,7 @@
         "weight": 52,
         "age": 4,
         "form": "63-0-090",
-        "odds": 51.15
+        "odds": 66.7
       },
       {
         "no": "15",
@@ -1097,7 +163,7 @@
         "weight": 52,
         "age": 4,
         "form": "00",
-        "odds": 113.65
+        "odds": 75.5
       }
     ]
   },
@@ -1113,9 +179,9 @@
     "isGanyanStart": false,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -1125,7 +191,7 @@
         "weight": 63,
         "age": 4,
         "form": "518077",
-        "odds": 13.05
+        "odds": 13.2
       },
       {
         "no": "2",
@@ -1135,7 +201,7 @@
         "weight": 62.5,
         "age": 4,
         "form": "678680",
-        "odds": 12.25
+        "odds": 12.55
       },
       {
         "no": "3",
@@ -1145,7 +211,7 @@
         "weight": 62.5,
         "age": 4,
         "form": "417266",
-        "odds": 14.95
+        "odds": 12
       },
       {
         "no": "4",
@@ -1155,7 +221,7 @@
         "weight": 61,
         "age": 5,
         "form": "648-096",
-        "odds": 12.4
+        "odds": 12.6
       },
       {
         "no": "5",
@@ -1165,7 +231,7 @@
         "weight": 62,
         "age": 4,
         "form": "027218",
-        "odds": 8.05
+        "odds": 7.8
       },
       {
         "no": "6",
@@ -1175,7 +241,7 @@
         "weight": 59.5,
         "age": 4,
         "form": "000000",
-        "odds": 14.5
+        "odds": 14.7
       },
       {
         "no": "7",
@@ -1185,7 +251,7 @@
         "weight": 61.5,
         "age": 4,
         "form": "098514",
-        "odds": 8.75
+        "odds": 8.85
       },
       {
         "no": "8",
@@ -1195,7 +261,7 @@
         "weight": 60.5,
         "age": 4,
         "form": "514550",
-        "odds": 4.8
+        "odds": 4.9
       },
       {
         "no": "9",
@@ -1205,7 +271,7 @@
         "weight": 59.5,
         "age": 4,
         "form": "108607",
-        "odds": 17.9
+        "odds": 18.1
       },
       {
         "no": "10",
@@ -1215,7 +281,7 @@
         "weight": 52,
         "age": 4,
         "form": "957006",
-        "odds": 19.6
+        "odds": 19.95
       },
       {
         "no": "11",
@@ -1225,7 +291,7 @@
         "weight": 57.5,
         "age": 4,
         "form": "226-00",
-        "odds": 11.3
+        "odds": 11.45
       },
       {
         "no": "12",
@@ -1235,7 +301,7 @@
         "weight": 54.5,
         "age": 4,
         "form": "00-3940",
-        "odds": 9.8
+        "odds": 10
       },
       {
         "no": "13",
@@ -1245,7 +311,7 @@
         "weight": 56.5,
         "age": 4,
         "form": "076579",
-        "odds": 26.8
+        "odds": 26.3
       },
       {
         "no": "14",
@@ -1255,7 +321,7 @@
         "weight": 55,
         "age": 4,
         "form": "504785",
-        "odds": 9.2
+        "odds": 9.25
       },
       {
         "no": "15",
@@ -1265,7 +331,7 @@
         "weight": 51,
         "age": 4,
         "form": "968049",
-        "odds": 4.55
+        "odds": 4.65
       }
     ]
   },
@@ -1281,9 +347,9 @@
     "isGanyanStart": false,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -1293,7 +359,7 @@
         "weight": 59,
         "age": 3,
         "form": "7121",
-        "odds": 4.15
+        "odds": 4.05
       },
       {
         "no": "2",
@@ -1303,7 +369,7 @@
         "weight": 58,
         "age": 3,
         "form": "3113",
-        "odds": 7.6
+        "odds": 7.85
       },
       {
         "no": "3",
@@ -1313,7 +379,7 @@
         "weight": 57,
         "age": 3,
         "form": "0221",
-        "odds": 7
+        "odds": 7.35
       },
       {
         "no": "4",
@@ -1323,7 +389,7 @@
         "weight": 57,
         "age": 3,
         "form": "2313",
-        "odds": 5.65
+        "odds": 5.9
       },
       {
         "no": "5",
@@ -1333,7 +399,7 @@
         "weight": 55,
         "age": 3,
         "form": "16",
-        "odds": 2.7
+        "odds": 2.55
       },
       {
         "no": "6",
@@ -1343,7 +409,7 @@
         "weight": 51,
         "age": 3,
         "form": "007",
-        "odds": 10.05
+        "odds": 10.55
       },
       {
         "no": "7",
@@ -1353,7 +419,7 @@
         "weight": 57,
         "age": 3,
         "form": "665",
-        "odds": 6.15
+        "odds": 6.45
       },
       {
         "no": "8",
@@ -1363,7 +429,7 @@
         "weight": 54,
         "age": 3,
         "form": "93",
-        "odds": 6.2
+        "odds": 5.95
       }
     ]
   },
@@ -1379,9 +445,9 @@
     "isGanyanStart": false,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -1391,7 +457,7 @@
         "weight": 61,
         "age": 3,
         "form": "325121",
-        "odds": 4.35
+        "odds": 4.55
       },
       {
         "no": "2",
@@ -1401,7 +467,7 @@
         "weight": 58,
         "age": 3,
         "form": "335727",
-        "odds": 8.3
+        "odds": 8.65
       },
       {
         "no": "3",
@@ -1411,7 +477,7 @@
         "weight": 58,
         "age": 3,
         "form": "5-1531",
-        "odds": 7.4
+        "odds": 7.75
       },
       {
         "no": "4",
@@ -1421,7 +487,7 @@
         "weight": 55,
         "age": 3,
         "form": "0",
-        "odds": 3.15
+        "odds": 3.25
       },
       {
         "no": "5",
@@ -1431,7 +497,7 @@
         "weight": 55,
         "age": 3,
         "form": "585064",
-        "odds": 3.4
+        "odds": 3.05
       },
       {
         "no": "6",
@@ -1441,7 +507,7 @@
         "weight": 54,
         "age": 3,
         "form": "104851",
-        "odds": 4.5
+        "odds": 4.35
       },
       {
         "no": "7",
@@ -1451,7 +517,7 @@
         "weight": 54,
         "age": 3,
         "form": "382261",
-        "odds": 6
+        "odds": 6.25
       },
       {
         "no": "8",
@@ -1461,7 +527,7 @@
         "weight": 56,
         "age": 3,
         "form": "517552",
-        "odds": 3.15
+        "odds": 3.25
       }
     ]
   },
@@ -1477,9 +543,9 @@
     "isGanyanStart": false,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -1489,7 +555,7 @@
         "weight": 58,
         "age": 7,
         "form": "079134",
-        "odds": 3.85
+        "odds": 3.9
       },
       {
         "no": "2",
@@ -1499,7 +565,7 @@
         "weight": 57,
         "age": 5,
         "form": "31-3634",
-        "odds": 1.25
+        "odds": 1.3
       },
       {
         "no": "3",
@@ -1509,7 +575,7 @@
         "weight": 57,
         "age": 5,
         "form": "02-0809",
-        "odds": 9.85
+        "odds": 10
       },
       {
         "no": "4",
@@ -1519,7 +585,7 @@
         "weight": 57,
         "age": 5,
         "form": "083553",
-        "odds": 3.85
+        "odds": 3.9
       },
       {
         "no": "5",
@@ -1529,7 +595,7 @@
         "weight": 57,
         "age": 9,
         "form": "95-0240",
-        "odds": 2.85
+        "odds": 2.7
       },
       {
         "no": "6",
@@ -1539,7 +605,7 @@
         "weight": 57,
         "age": 6,
         "form": "9-03040",
-        "odds": 3.85
+        "odds": 3.9
       }
     ]
   },
@@ -1555,9 +621,9 @@
     "isGanyanStart": false,
     "distributableAmount": null,
     "trackCondition": null,
-    "weatherCondition": "Bulutlu",
-    "temperature": 27,
-    "humidity": 28,
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 30,
     "horses": [
       {
         "no": "1",
@@ -1567,7 +633,7 @@
         "weight": 62,
         "age": 3,
         "form": "324748",
-        "odds": 2
+        "odds": 2.05
       },
       {
         "no": "2",
@@ -1577,7 +643,7 @@
         "weight": 60,
         "age": 3,
         "form": "5-52042",
-        "odds": 21.65
+        "odds": 22.1
       },
       {
         "no": "3",
@@ -1587,7 +653,7 @@
         "weight": 60,
         "age": 3,
         "form": "623238",
-        "odds": 17.4
+        "odds": 11.95
       },
       {
         "no": "4",
@@ -1597,7 +663,7 @@
         "weight": 58,
         "age": 3,
         "form": "23",
-        "odds": 6.65
+        "odds": 6.8
       },
       {
         "no": "5",
@@ -1607,7 +673,7 @@
         "weight": 58,
         "age": 3,
         "form": "666-52",
-        "odds": 10.55
+        "odds": 10.15
       },
       {
         "no": "6",
@@ -1617,7 +683,7 @@
         "weight": 56,
         "age": 3,
         "form": "0-00904",
-        "odds": 21.6
+        "odds": 22.05
       },
       {
         "no": "7",
@@ -1627,7 +693,7 @@
         "weight": 56,
         "age": 3,
         "form": "784052",
-        "odds": 16.95
+        "odds": 17.35
       },
       {
         "no": "8",
@@ -1637,7 +703,7 @@
         "weight": 56,
         "age": 3,
         "form": "730066",
-        "odds": 8.95
+        "odds": 9.15
       },
       {
         "no": "9",
@@ -1647,7 +713,7 @@
         "weight": 54,
         "age": 3,
         "form": "486050",
-        "odds": 8.65
+        "odds": 8.85
       },
       {
         "no": "10",
@@ -1657,7 +723,7 @@
         "weight": 54,
         "age": 3,
         "form": "07-0080",
-        "odds": 32.05
+        "odds": 32.65
       },
       {
         "no": "11",
@@ -1667,7 +733,7 @@
         "weight": 51,
         "age": 3,
         "form": "9-400",
-        "odds": 25.4
+        "odds": 25.95
       },
       {
         "no": "12",
@@ -1677,7 +743,7 @@
         "weight": 56,
         "age": 3,
         "form": "4-090",
-        "odds": 6.65
+        "odds": 6.8
       },
       {
         "no": "13",
@@ -1687,7 +753,7 @@
         "weight": 56,
         "age": 3,
         "form": "00-6080",
-        "odds": 21.15
+        "odds": 21.6
       },
       {
         "no": "14",
@@ -1697,7 +763,7 @@
         "weight": 56,
         "age": 3,
         "form": "060",
-        "odds": 5.6
+        "odds": 5.75
       },
       {
         "no": "15",
@@ -1707,7 +773,7 @@
         "weight": 56,
         "age": 3,
         "form": "9000",
-        "odds": 86.15
+        "odds": 87.15
       }
     ]
   },
@@ -2752,6 +1818,940 @@
         "age": 3,
         "form": "50",
         "odds": 27.7
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 1,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "16:45",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "Handikap 14 /H2",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "GLORIOUS LIFE",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 59,
+        "age": 3,
+        "form": "468143",
+        "odds": 4.5
+      },
+      {
+        "no": "2",
+        "name": "KING AKIN",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 58,
+        "age": 3,
+        "form": "342-264",
+        "odds": 7.65
+      },
+      {
+        "no": "3",
+        "name": "DRAGON OF SONG",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 57,
+        "age": 3,
+        "form": "312354",
+        "odds": 6.9
+      },
+      {
+        "no": "4",
+        "name": "AVENGING",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "EMRAH AYHAN",
+        "weight": 56.5,
+        "age": 3,
+        "form": "246930",
+        "odds": 8.8
+      },
+      {
+        "no": "5",
+        "name": "TAŞDEMİR HAN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 56.5,
+        "age": 3,
+        "form": "251582",
+        "odds": 1.8
+      },
+      {
+        "no": "6",
+        "name": "SINGLE GUN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55.5,
+        "age": 3,
+        "form": "355301",
+        "odds": 4.3
+      },
+      {
+        "no": "7",
+        "name": "NURBADEM",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 55,
+        "age": 3,
+        "form": "693421",
+        "odds": 13.25
+      },
+      {
+        "no": "8",
+        "name": "VOODOO PEOPLE",
+        "jockey": "ONUR ATMACA",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 55,
+        "age": 3,
+        "form": "433156",
+        "odds": 40.25
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 2,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "17:15",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "DRAGON BLAST",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 60,
+        "age": 3,
+        "form": "132445",
+        "odds": 6.35
+      },
+      {
+        "no": "2",
+        "name": "MİGRAKOM BEYİ",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "age": 3,
+        "form": "249067",
+        "odds": 25.4
+      },
+      {
+        "no": "3",
+        "name": "MAMMA LUNA",
+        "jockey": "ONUR ATMACA",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 59,
+        "age": 3,
+        "form": "08-2213",
+        "odds": 5
+      },
+      {
+        "no": "4",
+        "name": "SECRET LION",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "BEGÜM GÜL",
+        "weight": 58,
+        "age": 3,
+        "form": "62-4216",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "SİSU",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 58,
+        "age": 3,
+        "form": "341783",
+        "odds": 1.4
+      },
+      {
+        "no": "6",
+        "name": "SUPER SHOW",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 55,
+        "age": 3,
+        "form": "357625",
+        "odds": 25.2
+      },
+      {
+        "no": "7",
+        "name": "QUEEN TUANA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 54,
+        "age": 3,
+        "form": "3531",
+        "odds": 12.1
+      },
+      {
+        "no": "8",
+        "name": "ÇİFTE YÜREKLİ",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "EMRAH AYHAN",
+        "weight": 55,
+        "age": 3,
+        "form": "0321-00",
+        "odds": 34.6
+      },
+      {
+        "no": "9",
+        "name": "STAR OF RÜZGAR",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "ŞAKİR ÇELİK",
+        "weight": 55,
+        "age": 3,
+        "form": "12-08",
+        "odds": 4.15
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 3,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "18:00",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 5/DHÖW/Dişi/Y2",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BABY ARYA",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 58,
+        "age": 4,
+        "form": "120185",
+        "odds": 4.6
+      },
+      {
+        "no": "2",
+        "name": "BOLKADER",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 58,
+        "age": 4,
+        "form": "141205",
+        "odds": 2
+      },
+      {
+        "no": "3",
+        "name": "HİVE SULTAN",
+        "jockey": "RECEP KETME",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 57,
+        "age": 4,
+        "form": "813170",
+        "odds": 5.35
+      },
+      {
+        "no": "4",
+        "name": "RÜZGAR NUR",
+        "jockey": "METİN MERT KARABULUT",
+        "trainer": "YUSUF KAĞAN GÜRSOY",
+        "weight": 57,
+        "age": 4,
+        "form": "214349",
+        "odds": 4.95
+      },
+      {
+        "no": "5",
+        "name": "DİLŞAHKAYA",
+        "jockey": "EMRULLAH TEPE",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 55,
+        "age": 4,
+        "form": "251400",
+        "odds": 44.95
+      },
+      {
+        "no": "6",
+        "name": "KIZIM MERYEM",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "ALİCAN ÖKSÜZLER",
+        "weight": 55,
+        "age": 4,
+        "form": "264210",
+        "odds": 29.85
+      },
+      {
+        "no": "7",
+        "name": "ESENYIL",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "NEJDET TURAN",
+        "weight": 53,
+        "age": 4,
+        "form": "890610",
+        "odds": 11.65
+      },
+      {
+        "no": "8",
+        "name": "MATİLDA HANIM",
+        "jockey": "EREN DURSUN ÖKTEN",
+        "trainer": "FATİH ŞEN",
+        "weight": 53,
+        "age": 4,
+        "form": "010070",
+        "odds": 28.8
+      },
+      {
+        "no": "9",
+        "name": "SOSAN YILDIZI",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 54,
+        "age": 4,
+        "form": "624392",
+        "odds": 5.95
+      },
+      {
+        "no": "10",
+        "name": "YILDIZ SOY",
+        "jockey": "UĞUR İRTİŞ",
+        "trainer": "ALPHAN ŞEN",
+        "weight": 54,
+        "age": 4,
+        "form": "939024",
+        "odds": 25.5
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 4,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "18:30",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ERGİDEN",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 58,
+        "age": 3,
+        "form": "2724",
+        "odds": 3.2
+      },
+      {
+        "no": "2",
+        "name": "ADISOYLU",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 57,
+        "age": 3,
+        "form": "9",
+        "odds": 44.95
+      },
+      {
+        "no": "3",
+        "name": "BABA KUNTER",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "ERCAN ATEŞ",
+        "weight": 57,
+        "age": 3,
+        "form": "725",
+        "odds": 1.75
+      },
+      {
+        "no": "4",
+        "name": "BERMANOVA",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "MEHMET KARACA",
+        "weight": 53,
+        "age": 3,
+        "form": "",
+        "odds": 38.15
+      },
+      {
+        "no": "5",
+        "name": "DEMİRLİHAN",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "HACI KURT",
+        "weight": 57,
+        "age": 3,
+        "form": "0",
+        "odds": 40.05
+      },
+      {
+        "no": "6",
+        "name": "GÖNÜL SARAYI",
+        "jockey": "RECEP KETME",
+        "trainer": "NEJDET TURAN",
+        "weight": 53,
+        "age": 3,
+        "form": "2689",
+        "odds": 17.9
+      },
+      {
+        "no": "7",
+        "name": "GUREGH",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "MİTHAT YÜKSEL YILDIRIM",
+        "weight": 54,
+        "age": 3,
+        "form": "646285",
+        "odds": 7.75
+      },
+      {
+        "no": "8",
+        "name": "HIRÇIN DADAŞ",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "HACI KURT",
+        "weight": 57,
+        "age": 3,
+        "form": "4796",
+        "odds": 13.05
+      },
+      {
+        "no": "9",
+        "name": "MR ALAÇAT",
+        "jockey": "ALİBERK METİN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 53,
+        "age": 3,
+        "form": "90",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "TURGUL HAN",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ZAFER TURĞUL",
+        "weight": 57,
+        "age": 3,
+        "form": "6",
+        "odds": 5.55
+      },
+      {
+        "no": "11",
+        "name": "BERRUNAZ",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 51,
+        "age": 3,
+        "form": "08",
+        "odds": 45.6
+      },
+      {
+        "no": "12",
+        "name": "KAYANİLİM",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 55,
+        "age": 3,
+        "form": "550",
+        "odds": 21.4
+      },
+      {
+        "no": "13",
+        "name": "MRS MALİBU",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 52,
+        "age": 3,
+        "form": "349",
+        "odds": 31.2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "19:00",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Handikap 15/DHÖW /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "MERTCAN TAY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 63,
+        "age": 6,
+        "form": "001385",
+        "odds": 6.25
+      },
+      {
+        "no": "2",
+        "name": "HAS CEYLAN",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 59,
+        "age": 5,
+        "form": "3-70900",
+        "odds": 26.55
+      },
+      {
+        "no": "3",
+        "name": "KING GÖKÇE",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 61,
+        "age": 4,
+        "form": "616222",
+        "odds": 2.25
+      },
+      {
+        "no": "4",
+        "name": "ŞAMPİYON GÜMBÜR",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "HACI KURT",
+        "weight": 59.5,
+        "age": 4,
+        "form": "705610",
+        "odds": 8.85
+      },
+      {
+        "no": "5",
+        "name": "ESMERDAĞ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57.5,
+        "age": 5,
+        "form": "602055",
+        "odds": 6.5
+      },
+      {
+        "no": "6",
+        "name": "UFUKYELİ",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "HACI KURT",
+        "weight": 54.5,
+        "age": 5,
+        "form": "246-003",
+        "odds": 6.3
+      },
+      {
+        "no": "7",
+        "name": "BÜYÜK ALAÇAT",
+        "jockey": "İSMAİL GÜN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 50,
+        "age": 4,
+        "form": "900000",
+        "odds": 46.6
+      },
+      {
+        "no": "8",
+        "name": "BEREKETGELDİ",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 50.5,
+        "age": 4,
+        "form": "100440",
+        "odds": 29.85
+      },
+      {
+        "no": "9",
+        "name": "DEMİRNAL",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 54,
+        "age": 4,
+        "form": "623606",
+        "odds": 5
+      },
+      {
+        "no": "10",
+        "name": "ZIPKIN OSMAN",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 51.5,
+        "age": 5,
+        "form": "099076",
+        "odds": 10.3
+      },
+      {
+        "no": "11",
+        "name": "ÇÖL KRALİÇESİ",
+        "jockey": "ÇAĞLAR TAŞCI",
+        "trainer": "MEHMET KARACA",
+        "weight": 52.5,
+        "age": 5,
+        "form": "788978",
+        "odds": 75.6
+      },
+      {
+        "no": "12",
+        "name": "HALİDAĞA",
+        "jockey": "ONUR ATMACA",
+        "trainer": "ŞAFAK GÜMÜŞ",
+        "weight": 52,
+        "age": 5,
+        "form": "066506",
+        "odds": 20.6
+      },
+      {
+        "no": "13",
+        "name": "KOÇBAŞI",
+        "jockey": "ALİBERK METİN",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 50,
+        "age": 4,
+        "form": "0-7490",
+        "odds": 87.25
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "19:30",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-6/Dişi",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "VICTORY MARSEILLE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 63,
+        "age": 4,
+        "form": "121211",
+        "odds": 4
+      },
+      {
+        "no": "2",
+        "name": "LETS LOVE",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 60,
+        "age": 4,
+        "form": "012132",
+        "odds": 3.45
+      },
+      {
+        "no": "3",
+        "name": "MUĞLALI VARGAS",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 60,
+        "age": 4,
+        "form": "343516",
+        "odds": 5.05
+      },
+      {
+        "no": "4",
+        "name": "KIZIM ÇINAR",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56.5,
+        "age": 6,
+        "form": "57-6855",
+        "odds": 13.6
+      },
+      {
+        "no": "5",
+        "name": "SPEEDY SOUL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "BEGÜM GÜL",
+        "weight": 56,
+        "age": 4,
+        "form": "11411-1",
+        "odds": 1.45
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 7,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "20:00",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Handikap 17 /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BLACK GALAXY",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "BEGÜM GÜL",
+        "weight": 63,
+        "age": 4,
+        "form": "6-35553",
+        "odds": 5.8
+      },
+      {
+        "no": "2",
+        "name": "CASH IS KING",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 61,
+        "age": 7,
+        "form": "830934",
+        "odds": 8.55
+      },
+      {
+        "no": "3",
+        "name": "WHITE WOLF",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "GAZANFER TOKLU",
+        "weight": 56.5,
+        "age": 3,
+        "form": "211137",
+        "odds": 1.8
+      },
+      {
+        "no": "4",
+        "name": "MANCUNIAN BEDİİ",
+        "jockey": "RECEP KETME",
+        "trainer": "GÖKHAN ER",
+        "weight": 56.5,
+        "age": 5,
+        "form": "720867",
+        "odds": 21.25
+      },
+      {
+        "no": "5",
+        "name": "BLUE REFLECTION",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "ÇETİN ÖZDİL",
+        "weight": 58.5,
+        "age": 4,
+        "form": "364111",
+        "odds": 2.9
+      },
+      {
+        "no": "6",
+        "name": "KEEN EYE",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56.5,
+        "age": 6,
+        "form": "693700",
+        "odds": 21.85
+      },
+      {
+        "no": "7",
+        "name": "PASTITSIO",
+        "jockey": "ONUR ATMACA",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 52.5,
+        "age": 3,
+        "form": "233431",
+        "odds": 6.75
+      },
+      {
+        "no": "8",
+        "name": "LODATO",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 50,
+        "age": 4,
+        "form": "616035",
+        "odds": 15.25
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 8,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "20:30",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 23,
+    "humidity": 55,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BAŞAR SOYLU",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 57,
+        "age": 3,
+        "form": "2",
+        "odds": 1.4
+      },
+      {
+        "no": "2",
+        "name": "BORDO FIRTINA",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 57,
+        "age": 3,
+        "form": "84",
+        "odds": 15.95
+      },
+      {
+        "no": "3",
+        "name": "ÇILGINDAĞ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 54,
+        "age": 3,
+        "form": "585",
+        "odds": 22.55
+      },
+      {
+        "no": "4",
+        "name": "KANDIRALI",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 57,
+        "age": 3,
+        "form": "87",
+        "odds": 6.65
+      },
+      {
+        "no": "5",
+        "name": "RÜZGAR VEYSEL",
+        "jockey": "METİN MERT KARABULUT",
+        "trainer": "HAKAN ASLAN",
+        "weight": 54,
+        "age": 3,
+        "form": "54",
+        "odds": 4.65
+      },
+      {
+        "no": "6",
+        "name": "SERİ UFUK",
+        "jockey": "İSMAİL KALE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 57,
+        "age": 3,
+        "form": "9",
+        "odds": 24.5
+      },
+      {
+        "no": "7",
+        "name": "TINAS GİBİ",
+        "jockey": "İSMAİL GÜN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 53,
+        "age": 3,
+        "form": "9",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "TINASEFE",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 57,
+        "age": 3,
+        "form": "6",
+        "odds": 29.7
+      },
+      {
+        "no": "9",
+        "name": "TRANSİSTHOR",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "HACI KURT",
+        "weight": 57,
+        "age": 3,
+        "form": "9",
+        "odds": 32.5
+      },
+      {
+        "no": "10",
+        "name": "YANGIN YERİ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 57,
+        "age": 3,
+        "form": "4",
+        "odds": 8.3
+      },
+      {
+        "no": "11",
+        "name": "EZGİL FIRTINASI",
+        "jockey": "ONUR ATMACA",
+        "trainer": "HACI KURT",
+        "weight": 55,
+        "age": 3,
+        "form": "43",
+        "odds": 16.55
+      },
+      {
+        "no": "12",
+        "name": "ŞAHİN MELTEM",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 51,
+        "age": 3,
+        "form": "534",
+        "odds": 6.65
+      },
+      {
+        "no": "13",
+        "name": "TATÜTA",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 55,
+        "age": 3,
+        "form": "77",
+        "odds": 30.15
       }
     ]
   }
