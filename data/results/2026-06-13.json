@@ -967,5 +967,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 2,
+    "venue": "İzmir",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "SİSU",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 58,
+        "odds": 1.4,
+        "finishTime": "2.05.15",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "MAMMA LUNA",
+        "jockey": "ONUR ATMACA",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 59,
+        "odds": 5,
+        "finishTime": "2.05.76",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "ÇİFTE YÜREKLİ",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "EMRAH AYHAN",
+        "weight": 55,
+        "odds": 34.6,
+        "finishTime": "2.05.93",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "DRAGON BLAST",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 60,
+        "odds": 6.35,
+        "finishTime": "2.06.06",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SUPER SHOW",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 55,
+        "odds": 25.2,
+        "finishTime": "2.06.54",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "STAR OF RÜZGAR",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "ŞAKİR ÇELİK",
+        "weight": 55,
+        "odds": 4.15,
+        "finishTime": "2.14.07",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "QUEEN TUANA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 54,
+        "odds": 12.1,
+        "finishTime": "2.14.68",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "MİGRAKOM BEYİ",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "odds": 25.4,
+        "finishTime": "2.16.36",
+        "age": 3
+      }
+    ]
   }
 ]
