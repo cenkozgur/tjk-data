@@ -612,6 +612,80 @@
   },
   {
     "date": "2026-06-13",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-6/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "MUĞLALI VARGAS",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 60,
+        "odds": 5.05,
+        "finishTime": "2.09.20",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "VICTORY MARSEILLE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 63,
+        "odds": 4,
+        "finishTime": "2.10.58",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "LETS LOVE",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 60,
+        "odds": 3.45,
+        "finishTime": "2.11.80",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "SPEEDY SOUL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "BEGÜM GÜL",
+        "weight": 56,
+        "odds": 1.45,
+        "finishTime": "2.11.85",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "KIZIM ÇINAR",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56.5,
+        "odds": 13.6,
+        "finishTime": "2.13.12",
+        "age": 6
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İzmir",
+        "label": "1. 6'LI GANYAN",
+        "combination": "5/4,5/2/7/12/3",
+        "prizeAmount": 11677.18,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
