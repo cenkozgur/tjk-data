@@ -107,5 +107,70 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 2400,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "ŞIKTURBO",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "ŞEFİK AYDEMİR",
+        "weight": 60,
+        "odds": 1.25,
+        "finishTime": "2.49.20",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "EYYAMI BAHUR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "ADNAN POLAT",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "2.49.33",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "MOTOR",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "MEHMET ŞEFİK KILINÇ",
+        "weight": 57,
+        "odds": 6.6,
+        "finishTime": "2.50.02",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "TUMBULKARAÜZÜM",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "MEHMET ŞEFİK KILINÇ",
+        "weight": 56,
+        "odds": 11.65,
+        "finishTime": "2.50.36",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "ABDİ BABA",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 60,
+        "odds": 5.4,
+        "finishTime": "2.52.34",
+        "age": 5
+      }
+    ]
   }
 ]
