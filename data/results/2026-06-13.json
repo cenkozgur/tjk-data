@@ -686,6 +686,82 @@
   },
   {
     "date": "2026-06-13",
+    "raceNo": 7,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Handikap 17 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "WHITE WOLF",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "GAZANFER TOKLU",
+        "weight": 56.5,
+        "odds": 1.8,
+        "finishTime": "1.12.07",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "BLACK GALAXY",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "BEGÜM GÜL",
+        "weight": 63,
+        "odds": 5.8,
+        "finishTime": "1.12.16",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "PASTITSIO",
+        "jockey": "ONUR ATMACA",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 52.5,
+        "odds": 6.75,
+        "finishTime": "1.13.45",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "MANCUNIAN BEDİİ",
+        "jockey": "RECEP KETME",
+        "trainer": "GÖKHAN ER",
+        "weight": 56.5,
+        "odds": 21.25,
+        "finishTime": "1.13.54",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "KEEN EYE",
+        "jockey": "HALİL YOLAÇICI",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56.5,
+        "odds": 21.85,
+        "finishTime": "1.14.51",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "LODATO",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 50,
+        "odds": 15.25,
+        "finishTime": "1.14.60",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
