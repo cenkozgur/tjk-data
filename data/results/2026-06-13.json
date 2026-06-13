@@ -172,5 +172,81 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-06-13",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "Kısa Vade Handikap 22/DHÖ /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "12",
+        "name": "DORUKBATUR",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "CUMA DEMİR",
+        "weight": 52,
+        "odds": 5.05,
+        "finishTime": "1.25.47",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "KAYIP İNCİ",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "ŞEREF OLĞAÇ",
+        "weight": 56,
+        "odds": 27.45,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "10",
+        "name": "CESURSOY",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "CUMA DEMİR",
+        "weight": 52,
+        "odds": 5.95,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "PLATFORM",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 60,
+        "odds": 8.75,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "11",
+        "name": "DOĞUYURT",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "CUMA DEMİR",
+        "weight": 50,
+        "odds": 13.95,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "ESİNİN KIZI",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55,
+        "odds": 31.4,
+        "finishTime": "",
+        "age": 5
+      }
+    ]
   }
 ]
