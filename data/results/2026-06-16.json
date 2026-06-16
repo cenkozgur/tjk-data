@@ -576,5 +576,101 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "G 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "WARDENCLYFFE",
+        "jockey": "MEHMET KAYA",
+        "trainer": "OZAN BULUT",
+        "weight": 58,
+        "odds": 1.25,
+        "finishTime": "1.32.08",
+        "age": 7
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "RİYAKAR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "AYKUT ECEVİT BAŞ",
+        "weight": 58,
+        "odds": 8.95,
+        "finishTime": "1.32.96",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "WOLF SEYFO",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 58,
+        "odds": 5.15,
+        "finishTime": "1.33.10",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "POWER OF HAKEEM",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MÜSLÜM ÖRTÜNÇ",
+        "weight": 58,
+        "odds": 14.85,
+        "finishTime": "1.33.28",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "FLEXIMAN",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 58,
+        "odds": 4.85,
+        "finishTime": "1.33.35",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "BLACK PABLO",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "OSMAN GİRİŞKİN",
+        "weight": 58,
+        "odds": 19.55,
+        "finishTime": "1.46.92",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "GOLD OPULENT",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "SERHAT POLAT",
+        "weight": 58,
+        "odds": 13.55,
+        "finishTime": "1.47.58",
+        "age": 7
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Ankara",
+        "label": "1. 6'LI GANYAN",
+        "combination": "5/6/4/8/3/6",
+        "prizeAmount": 47112.06,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]
