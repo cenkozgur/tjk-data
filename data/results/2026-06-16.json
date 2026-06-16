@@ -227,5 +227,92 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "GOLDEN PROMISE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 56.5,
+        "odds": 1.85,
+        "finishTime": "1.33.89",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "GOLDMAN",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 52.5,
+        "odds": 5.3,
+        "finishTime": "1.34.92",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "MAXIMUS MAN",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "CELAL BURAK SERİNER",
+        "weight": 59,
+        "odds": 10,
+        "finishTime": "1.34.98",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "BACK TO GLORY",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "KADİR BALTACI",
+        "weight": 59,
+        "odds": 5.35,
+        "finishTime": "1.35.38",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "BİR KARA VEDAT",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 52,
+        "odds": 3,
+        "finishTime": "1.35.48",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "LUPELIUS",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "ARZU KILIÇ",
+        "weight": 53.5,
+        "odds": 13,
+        "finishTime": "1.36.20",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "NEJDET BAŞKAN",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "YASİN POLAT",
+        "weight": 57,
+        "odds": 13.8,
+        "finishTime": "1.37.43",
+        "age": 3
+      }
+    ]
   }
 ]
