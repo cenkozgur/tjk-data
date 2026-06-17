@@ -711,6 +711,168 @@
   },
   {
     "date": "2026-06-17",
+    "raceNo": 6,
+    "venue": "Elazığ",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "TRIBAL CHIEF (USA)",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "FİGEN BAKIR",
+        "weight": 64.5,
+        "odds": 9.95,
+        "finishTime": "2.18.58",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "GALLOON",
+        "jockey": "MEHMET TAŞKAYA",
+        "trainer": "TEMÜR AYDIN",
+        "weight": 62,
+        "odds": 1.95,
+        "finishTime": "2.19.46",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "IRON LION",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 60,
+        "odds": 19.7,
+        "finishTime": "2.20.05",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "WARRIOR LION",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "MEHMET KAYA",
+        "weight": 57.5,
+        "odds": 5.25,
+        "finishTime": "2.21.28",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "DAR SOKAK",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "ABDULHAMİT YARDIMCI",
+        "weight": 62.5,
+        "odds": 9.45,
+        "finishTime": "2.22.12",
+        "age": 9
+      },
+      {
+        "position": 6,
+        "no": "13",
+        "name": "HOLLOW MAN",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "AHMET AKBABA",
+        "weight": 56,
+        "odds": 19.35,
+        "finishTime": "2.22.58",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "11",
+        "name": "ABDÜL",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "KADİR TAŞDEMİR",
+        "weight": 56.5,
+        "odds": 37.65,
+        "finishTime": "2.25.50",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "BLACK FIG",
+        "jockey": "MUSTAFA IŞIK",
+        "trainer": "OSMAN DEMİR",
+        "weight": 57,
+        "odds": 9.75,
+        "finishTime": "2.26.50",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "14",
+        "name": "OĞLUM SALİH",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "SİNEM BAKIR",
+        "weight": 56,
+        "odds": 19.25,
+        "finishTime": "2.26.87",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "KİKİ FERRO",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "MEHMET KAYA",
+        "weight": 60,
+        "odds": 13.65,
+        "finishTime": "2.28.11",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "8",
+        "name": "RAND ROWER",
+        "jockey": "İSA KATAR",
+        "trainer": "MEHMET KAYA",
+        "weight": 57.5,
+        "odds": 26.9,
+        "finishTime": "2.28.42",
+        "age": 5
+      },
+      {
+        "position": 12,
+        "no": "4",
+        "name": "KING OVA",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "RESUL KAYA",
+        "weight": 60.5,
+        "odds": 6.15,
+        "finishTime": "2.29.39",
+        "age": 8
+      },
+      {
+        "position": 13,
+        "no": "12",
+        "name": "EL VERDUGO",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "AHMET AKBABA",
+        "weight": 56,
+        "odds": 35.55,
+        "finishTime": "2.32.09",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Elazığ",
+        "label": "1. 6'LI GANYAN",
+        "combination": "6/5/6/3/1/1",
+        "prizeAmount": 500860.6,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1600,
