@@ -488,5 +488,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-06-18",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "PRINCESS DENİZ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "RACİ ATLI",
+        "weight": 56,
+        "odds": 3,
+        "finishTime": "1.36.14",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "SPEEDTAIL",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "odds": 3.2,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "HIGH HILLS",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 55,
+        "odds": 8.1,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "LADY ATAŞ",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "MUSTAFA ÖZYİĞİT",
+        "weight": 51,
+        "odds": 23.15,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "LAST LEVEL",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "AYKUT ECEVİT BAŞ",
+        "weight": 54,
+        "odds": 9.6,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "GİZLİ KAHRAMAN",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "MEVLÜT TEK",
+        "weight": 55,
+        "odds": 21.8,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
   }
 ]
