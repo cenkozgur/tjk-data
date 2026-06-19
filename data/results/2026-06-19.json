@@ -263,6 +263,115 @@
   },
   {
     "date": "2026-06-19",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 1100,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "HİDAN",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "TARKAN ŞİT",
+        "weight": 54,
+        "odds": 2.7,
+        "finishTime": "1.04.69",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "TRAİDORA",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 56,
+        "odds": 4.8,
+        "finishTime": "1.04.91",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "BLIZZARD",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "AHMET ÖCAL",
+        "weight": 60,
+        "odds": 15.1,
+        "finishTime": "1.05.11",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "ORGANIZATION",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MEHMETCİK AYDOĞDİ",
+        "weight": 56,
+        "odds": 5.4,
+        "finishTime": "1.05.17",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "DEJAME",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 54,
+        "odds": 10.1,
+        "finishTime": "1.05.25",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "HELLAS",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "CEMİL TURAN",
+        "weight": 54,
+        "odds": 20.2,
+        "finishTime": "1.05.45",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "TRUE BLUE",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 56,
+        "odds": 2.75,
+        "finishTime": "1.05.47",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "HOLD FAST",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "ÖMER DEMİR",
+        "weight": 52,
+        "odds": 14.7,
+        "finishTime": "1.05.52",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "TOLPER",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "YÜKSEL TALUK",
+        "weight": 58,
+        "odds": 11.85,
+        "finishTime": "1.09.09",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-19",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1800,
