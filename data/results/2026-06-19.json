@@ -216,5 +216,103 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-06-19",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "SECRET JOY",
+        "jockey": "TUGAY ALICI",
+        "trainer": "BEKTAŞ YILDIRIM",
+        "weight": 55,
+        "odds": 12.25,
+        "finishTime": "1.11.85",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "KÖSTENCELİ BEY",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "İBRAHİM KIZILDAĞ",
+        "weight": 57,
+        "odds": 1.8,
+        "finishTime": "1.12.05",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "PRAVDA",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 57,
+        "odds": 22.05,
+        "finishTime": "1.12.62",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "KRALİÇE NONİKA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "ALİ RIZA AYDIN",
+        "weight": 53,
+        "odds": 11.05,
+        "finishTime": "1.12.67",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "HOLD ON TO LIFE",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "FERHAT ALTIN",
+        "weight": 55,
+        "odds": 27.7,
+        "finishTime": "1.12.76",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "I LOVE SPEED",
+        "jockey": "MEHMET KAYA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 57,
+        "odds": 2.55,
+        "finishTime": "1.12.82",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "İZOL ASLANI",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "KADİR TURAN",
+        "weight": 53,
+        "odds": 32,
+        "finishTime": "1.14.46",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "WHITE WRIST",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "FEHMİ DEMİR",
+        "weight": 55,
+        "odds": 3.75,
+        "finishTime": "1.14.50",
+        "age": 2
+      }
+    ]
   }
 ]
