@@ -249,5 +249,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-06-20",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "AZER IN MY HEART",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 61,
+        "odds": 1.55,
+        "finishTime": "1.43.44",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "KESKİN KUŞ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "HAKAN ÇELİK",
+        "weight": 56,
+        "odds": 2.75,
+        "finishTime": "1.43.66",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "GAZNELİ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ÜMİT ARSLAN",
+        "weight": 54,
+        "odds": 10.05,
+        "finishTime": "1.44.67",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "FERAT",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "ADEM GÜVEN",
+        "weight": 58,
+        "odds": 18.2,
+        "finishTime": "1.44.83",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "SERPENÇE",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "HÜSEYİN KARATAŞ",
+        "weight": 59,
+        "odds": 5.15,
+        "finishTime": "1.45.64",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "GEZGİNÇ BEY",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 54,
+        "odds": 7.4,
+        "finishTime": "1.46.03",
+        "age": 4
+      }
+    ]
   }
 ]
