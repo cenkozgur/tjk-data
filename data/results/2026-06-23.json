@@ -88,6 +88,60 @@
   },
   {
     "date": "2026-06-23",
+    "raceNo": 2,
+    "venue": "Kocaeli",
+    "distance": 1100,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "DRAGON VICTORY",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "NİHAT KAYA",
+        "weight": 57,
+        "odds": 1.55,
+        "finishTime": "1.09.96",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "CRIMSON POWER",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 54,
+        "odds": 1.65,
+        "finishTime": "1.09.98",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "NOVİ PAZAR",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "NURHAN BAKIR",
+        "weight": 51,
+        "odds": 13,
+        "finishTime": "1.11.86",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "LA SAGRADA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 54,
+        "odds": 5.85,
+        "finishTime": "1.14.53",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1900,
