@@ -63,5 +63,59 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "HAROLDCOOPER",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 53,
+        "odds": 1.4,
+        "finishTime": "1.10.20",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "APSAROKE",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 55,
+        "odds": 2.95,
+        "finishTime": "1.10.28",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "HAYRETBİŞEY",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "YÜCEL ŞİMŞEK",
+        "weight": 54.5,
+        "odds": 4.25,
+        "finishTime": "1.10.89",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "VICTORY OF TOMO",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 55,
+        "odds": 5,
+        "finishTime": "1.15.35",
+        "age": 2
+      }
+    ]
   }
 ]
