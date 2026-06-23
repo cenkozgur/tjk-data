@@ -368,5 +368,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "Handikap 14 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "NART THE BATTLE",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 59,
+        "odds": 1.05,
+        "finishTime": "2.17.00",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "TERCAL NİHAT",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "YUSUF UÇAR",
+        "weight": 56.5,
+        "odds": 12.95,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "KARAMAÇABEY",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 56,
+        "odds": 4.45,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "SOUTHERN SECRET",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 57,
+        "odds": 12.45,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "LUCKY ANGEL",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "CASIM KATI",
+        "weight": 57.5,
+        "odds": 23.15,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "SULTANA",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "YUNUS TUNCAY",
+        "weight": 55,
+        "odds": 17.75,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
   }
 ]
