@@ -444,5 +444,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-9",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "PERCY JACKSON",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "UĞUR KULAK",
+        "weight": 60,
+        "odds": 8.1,
+        "finishTime": "2.09.78",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "DRAGON KINGDOM",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 60,
+        "odds": 4.1,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "BLAZE THUNDER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "GÜNGÖR SÜTCÜ",
+        "weight": 60,
+        "odds": 14.5,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "PRENS LEVENT",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "GALİP KILIÇ",
+        "weight": 60,
+        "odds": 4.85,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "SHINNY",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "YAKUP MİSDİK",
+        "weight": 58,
+        "odds": 1.9,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "WEST KENAN",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "SENER GÖKÇE",
+        "weight": 52.5,
+        "odds": 5.65,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
   }
 ]
