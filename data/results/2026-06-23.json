@@ -2,6 +2,93 @@
   {
     "date": "2026-06-23",
     "raceNo": 1,
+    "venue": "Kocaeli",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "LAGUNA SUNSET",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 55,
+        "odds": 10.25,
+        "finishTime": "1.34.18",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "TATÇAĞ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "TOLGA SÜSLÜ",
+        "weight": 58,
+        "odds": 1.25,
+        "finishTime": "1.34.96",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "MY LADY BUG",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "TUBA ÖZTÜRK TİMUR",
+        "weight": 57,
+        "odds": 4.15,
+        "finishTime": "1.35.69",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "VICTORY STAR",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 55,
+        "odds": 6.4,
+        "finishTime": "1.37.55",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SMOOTH CRIMINAL",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "HAKAN ACAR",
+        "weight": 54,
+        "odds": 14.1,
+        "finishTime": "1.37.87",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "SİHİRLİ JOVANKA",
+        "jockey": "ADEM ASLAN",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 58,
+        "odds": 11.65,
+        "finishTime": "1.38.05",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "YÜZÜNCÜ YIL",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "HASAN KAYA",
+        "weight": 50,
+        "odds": 25.05,
+        "finishTime": "1.42.54",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 1,
     "venue": "Ankara",
     "distance": 1900,
     "surface": "Çim",
@@ -732,93 +819,6 @@
         "combination": "1/5/1/5/1/6",
         "prizeAmount": 11496.87,
         "lastRaceNo": 8
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 1,
-    "venue": "Kocaeli",
-    "distance": 1500,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4/Dişi",
-    "horses": [
-      {
-        "position": 1,
-        "no": "4",
-        "name": "LAGUNA SUNSET",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "AYDIN KÜÇÜKAKSOY",
-        "weight": 55,
-        "odds": 10.25,
-        "finishTime": "1.34.18",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "1",
-        "name": "TATÇAĞ",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "TOLGA SÜSLÜ",
-        "weight": 58,
-        "odds": 1.25,
-        "finishTime": "1.34.96",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "2",
-        "name": "MY LADY BUG",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "TUBA ÖZTÜRK TİMUR",
-        "weight": 57,
-        "odds": 4.15,
-        "finishTime": "1.35.69",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "5",
-        "name": "VICTORY STAR",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "HASAN DOLMAZ",
-        "weight": 55,
-        "odds": 6.4,
-        "finishTime": "1.37.55",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "6",
-        "name": "SMOOTH CRIMINAL",
-        "jockey": "ENES BOZDAĞ",
-        "trainer": "HAKAN ACAR",
-        "weight": 54,
-        "odds": 14.1,
-        "finishTime": "1.37.87",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "3",
-        "name": "SİHİRLİ JOVANKA",
-        "jockey": "ADEM ASLAN",
-        "trainer": "NİHAT YILDIRIM",
-        "weight": 58,
-        "odds": 11.65,
-        "finishTime": "1.38.05",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "7",
-        "name": "YÜZÜNCÜ YIL",
-        "jockey": "HALİT GÖKÇE",
-        "trainer": "HASAN KAYA",
-        "weight": 50,
-        "odds": 25.05,
-        "finishTime": "1.42.54",
-        "age": 3
       }
     ]
   }

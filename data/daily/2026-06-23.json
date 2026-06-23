@@ -2,6 +2,770 @@
   {
     "date": "2026-06-23",
     "raceNo": 1,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "17:45",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "TATÇAĞ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "TOLGA SÜSLÜ",
+        "weight": 58,
+        "age": 3,
+        "form": "131272",
+        "odds": 1.25
+      },
+      {
+        "no": "2",
+        "name": "MY LADY BUG",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "TUBA ÖZTÜRK TİMUR",
+        "weight": 57,
+        "age": 3,
+        "form": "223637",
+        "odds": 4.15
+      },
+      {
+        "no": "3",
+        "name": "SİHİRLİ JOVANKA",
+        "jockey": "ADEM ASLAN",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 58,
+        "age": 3,
+        "form": "465716",
+        "odds": 11.65
+      },
+      {
+        "no": "4",
+        "name": "LAGUNA SUNSET",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 55,
+        "age": 3,
+        "form": "169749",
+        "odds": 10.25
+      },
+      {
+        "no": "5",
+        "name": "VICTORY STAR",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 55,
+        "age": 3,
+        "form": "637286",
+        "odds": 6.4
+      },
+      {
+        "no": "6",
+        "name": "SMOOTH CRIMINAL",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "HAKAN ACAR",
+        "weight": 54,
+        "age": 3,
+        "form": "558374",
+        "odds": 14.1
+      },
+      {
+        "no": "7",
+        "name": "YÜZÜNCÜ YIL",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "HASAN KAYA",
+        "weight": 50,
+        "age": 3,
+        "form": "",
+        "odds": 25.05
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 2,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "18:30",
+    "distance": 1100,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "DRAGON VICTORY",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "NİHAT KAYA",
+        "weight": 57,
+        "age": 2,
+        "form": "611",
+        "odds": 1.55
+      },
+      {
+        "no": "2",
+        "name": "CRIMSON POWER",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 54,
+        "age": 2,
+        "form": "61",
+        "odds": 1.65
+      },
+      {
+        "no": "3",
+        "name": "LA SAGRADA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 54,
+        "age": 2,
+        "form": "",
+        "odds": 5.85
+      },
+      {
+        "no": "4",
+        "name": "NOVİ PAZAR",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "NURHAN BAKIR",
+        "weight": 51,
+        "age": 2,
+        "form": "97756",
+        "odds": 13
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 3,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "19:00",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 1/DHÖ",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ALTIN MÜHÜR",
+        "jockey": "SİNAN ÖZEN",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 50.4
+      },
+      {
+        "no": "2",
+        "name": "ASLAN İBO",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 28.05
+      },
+      {
+        "no": "3",
+        "name": "BEYÇIKMAZ",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "NİHAT KAYA",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 47.3
+      },
+      {
+        "no": "4",
+        "name": "BODRUMLU",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "AYDIN DEMİRKIRAN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 1.6
+      },
+      {
+        "no": "5",
+        "name": "CİHANDERE",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SİBEL AKCI",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 30.3
+      },
+      {
+        "no": "6",
+        "name": "ÇAKIR AĞAM",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "ADNAN POLAT",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "IŞIKALP",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MEHMET TEKİNALP",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 16.35
+      },
+      {
+        "no": "8",
+        "name": "LA MIRAGE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "CEMİL TURAN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 1.65
+      },
+      {
+        "no": "9",
+        "name": "MANGAL DAĞI",
+        "jockey": "OKAN GÖKÇE",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 33
+      },
+      {
+        "no": "10",
+        "name": "TAM PAKET",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 13.95
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 4,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "19:30",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3/DHÖW",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AKMERİÇ",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 59,
+        "age": 5,
+        "form": "300122",
+        "odds": 6.6
+      },
+      {
+        "no": "2",
+        "name": "BAŞARAN TAY",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "MEHMET DAŞ",
+        "weight": 60,
+        "age": 5,
+        "form": "888990",
+        "odds": 43.25
+      },
+      {
+        "no": "3",
+        "name": "ODABAŞI",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "ADNAN POLAT",
+        "weight": 56,
+        "age": 5,
+        "form": "385655",
+        "odds": 5.7
+      },
+      {
+        "no": "4",
+        "name": "KADER GÜCÜ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 58,
+        "age": 5,
+        "form": "4-97881",
+        "odds": 22
+      },
+      {
+        "no": "5",
+        "name": "KIRMÜJDE",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HAYRİ YILDIRIM",
+        "weight": 54,
+        "age": 5,
+        "form": "701600",
+        "odds": 4.05
+      },
+      {
+        "no": "6",
+        "name": "ŞAHSEKİN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "TAYFUN SAYILKAN",
+        "weight": 58,
+        "age": 8,
+        "form": "433687",
+        "odds": 13.65
+      },
+      {
+        "no": "7",
+        "name": "YAMAÇ RÜZGARI",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "REŞAT KILIÇ",
+        "weight": 57,
+        "age": 5,
+        "form": "158759",
+        "odds": 37.7
+      },
+      {
+        "no": "8",
+        "name": "CEBEBEY",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "HALİS YILDIZ",
+        "weight": 57,
+        "age": 7,
+        "form": "542-783",
+        "odds": 1.4
+      },
+      {
+        "no": "9",
+        "name": "ZEHİRBİKE",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "RÜSTEM ALİ TEKELİ",
+        "weight": 55,
+        "age": 5,
+        "form": "07-9987",
+        "odds": 20.8
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 5,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "20:00",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 15 /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "KAREEM BUGHRA",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HACİ ALTUNBAŞ",
+        "weight": 58,
+        "age": 3,
+        "form": "281963",
+        "odds": 7.2
+      },
+      {
+        "no": "2",
+        "name": "AL SAROUT",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YOUSEF ARHIM",
+        "weight": 59.5,
+        "age": 3,
+        "form": "12-1",
+        "odds": 2.45
+      },
+      {
+        "no": "3",
+        "name": "SHAWSHANK",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "AHMET ÖCAL",
+        "weight": 59.5,
+        "age": 3,
+        "form": "121502",
+        "odds": 6.35
+      },
+      {
+        "no": "4",
+        "name": "WINNING DRAGON",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SENİHA ŞEN",
+        "weight": 57,
+        "age": 3,
+        "form": "336236",
+        "odds": 8.1
+      },
+      {
+        "no": "5",
+        "name": "LUPELIUS",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "ARZU KILIÇ",
+        "weight": 58.5,
+        "age": 3,
+        "form": "112546",
+        "odds": 4.85
+      },
+      {
+        "no": "6",
+        "name": "MILLENNIUM FALCON",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "TARKAN ŞİT",
+        "weight": 58,
+        "age": 3,
+        "form": "6-43752",
+        "odds": 4.2
+      },
+      {
+        "no": "7",
+        "name": "EL QUİMİCO",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58.5,
+        "age": 3,
+        "form": "612971",
+        "odds": 12.1
+      },
+      {
+        "no": "8",
+        "name": "KING LYKOS",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "SİBEL AKCI",
+        "weight": 50,
+        "age": 3,
+        "form": "5584",
+        "odds": 7.6
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 6,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "20:30",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 5",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BORN TO RUN",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "AKIN ÖZDENİZ",
+        "weight": 60,
+        "age": 5,
+        "form": "32-2114",
+        "odds": 3.35
+      },
+      {
+        "no": "2",
+        "name": "CUCURELLA",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "OSMAN ALTUNTAŞ",
+        "weight": 57,
+        "age": 4,
+        "form": "634171",
+        "odds": 4.7
+      },
+      {
+        "no": "3",
+        "name": "LOVİBOND",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "SENİHA ŞEN",
+        "weight": 60,
+        "age": 4,
+        "form": "544711",
+        "odds": 1.65
+      },
+      {
+        "no": "4",
+        "name": "NIGHTFLYERS",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YAŞAR DEMİR",
+        "weight": 60,
+        "age": 4,
+        "form": "154483",
+        "odds": 14.65
+      },
+      {
+        "no": "5",
+        "name": "CHAIRMAN",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "RANA SUNA",
+        "weight": 57,
+        "age": 8,
+        "form": "223-122",
+        "odds": 4.25
+      },
+      {
+        "no": "6",
+        "name": "HARDOLD",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "CEMİL TURAN",
+        "weight": 53,
+        "age": 5,
+        "form": "169558",
+        "odds": 14.65
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 7,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "21:00",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "CROWNED",
+        "jockey": "ADEM ASLAN",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 63,
+        "age": 5,
+        "form": "175023",
+        "odds": 2.1
+      },
+      {
+        "no": "2",
+        "name": "FINALLY ITS TIME",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 56,
+        "age": 3,
+        "form": "512471",
+        "odds": 10.9
+      },
+      {
+        "no": "3",
+        "name": "BEYLERİNBEYİ",
+        "jockey": "ONUR ATMACA",
+        "trainer": "NİHAT KAYA",
+        "weight": 56,
+        "age": 3,
+        "form": "123322",
+        "odds": 4.05
+      },
+      {
+        "no": "4",
+        "name": "STEEL FATHER",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 53,
+        "age": 3,
+        "form": "341253",
+        "odds": 10.1
+      },
+      {
+        "no": "5",
+        "name": "WALK WITH STARS",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "MURAT ALAÇAM",
+        "weight": 52,
+        "age": 3,
+        "form": "402116",
+        "odds": 5.45
+      },
+      {
+        "no": "6",
+        "name": "AYBAR FIRTINASI",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 56.5,
+        "age": 4,
+        "form": "00-8508",
+        "odds": 3.95
+      },
+      {
+        "no": "7",
+        "name": "ERKOÇUM",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 56,
+        "age": 4,
+        "form": "452048",
+        "odds": 7.3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 8,
+    "venue": "Kocaeli",
+    "hipodromName": "İzmit",
+    "time": "21:30",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 1/DHÖ",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Normal",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 26,
+    "humidity": 43,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ÇÖL KASIRGASI",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 3.4
+      },
+      {
+        "no": "2",
+        "name": "HANKUŞ",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "RANA SUNA",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 5.15
+      },
+      {
+        "no": "3",
+        "name": "HÜKÜMDAR KILICI",
+        "jockey": "ERHAN AKKAYA",
+        "trainer": "YASİN TAŞKIN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 4.25
+      },
+      {
+        "no": "4",
+        "name": "SERT KOŞU",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "NİHAT KAYA",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 30.85
+      },
+      {
+        "no": "5",
+        "name": "SERTESEN",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "FERHAT ALTIN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 9.05
+      },
+      {
+        "no": "6",
+        "name": "SONKARINCA",
+        "jockey": "OĞUZ EREN",
+        "trainer": "MEHMET ÖCAL",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 11.7
+      },
+      {
+        "no": "7",
+        "name": "TAHİRHAN",
+        "jockey": "OKAN GÖKÇE",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 6.85
+      },
+      {
+        "no": "8",
+        "name": "TAVİLOG",
+        "jockey": "ONUR ATMACA",
+        "trainer": "HAKAN CANSU",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 19.55
+      },
+      {
+        "no": "9",
+        "name": "TEYZEOĞLU",
+        "jockey": "ADEM CEYLAN",
+        "trainer": "EMRE KESKİN",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 53.3
+      },
+      {
+        "no": "10",
+        "name": "URASEFE",
+        "jockey": "YUNUS EMRE YÜKSEL",
+        "trainer": "HAKAN CANSU",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 5.5
+      },
+      {
+        "no": "11",
+        "name": "YEŞİL ORMAN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "HÜSEYİN KARATAŞ",
+        "weight": 57,
+        "age": 3,
+        "form": "",
+        "odds": 7.35
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 1,
     "venue": "Ankara",
     "hipodromName": "75. Yıl",
     "time": "14:30",
@@ -740,770 +1504,6 @@
         "age": 3,
         "form": "1",
         "odds": 3.05
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 1,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "17:45",
-    "distance": 1500,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4/Dişi",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "TATÇAĞ",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "TOLGA SÜSLÜ",
-        "weight": 58,
-        "age": 3,
-        "form": "131272",
-        "odds": 1.25
-      },
-      {
-        "no": "2",
-        "name": "MY LADY BUG",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "TUBA ÖZTÜRK TİMUR",
-        "weight": 57,
-        "age": 3,
-        "form": "223637",
-        "odds": 4.15
-      },
-      {
-        "no": "3",
-        "name": "SİHİRLİ JOVANKA",
-        "jockey": "ADEM ASLAN",
-        "trainer": "NİHAT YILDIRIM",
-        "weight": 58,
-        "age": 3,
-        "form": "465716",
-        "odds": 11.65
-      },
-      {
-        "no": "4",
-        "name": "LAGUNA SUNSET",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "AYDIN KÜÇÜKAKSOY",
-        "weight": 55,
-        "age": 3,
-        "form": "169749",
-        "odds": 10.25
-      },
-      {
-        "no": "5",
-        "name": "VICTORY STAR",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "HASAN DOLMAZ",
-        "weight": 55,
-        "age": 3,
-        "form": "637286",
-        "odds": 6.4
-      },
-      {
-        "no": "6",
-        "name": "SMOOTH CRIMINAL",
-        "jockey": "ENES BOZDAĞ",
-        "trainer": "HAKAN ACAR",
-        "weight": 54,
-        "age": 3,
-        "form": "558374",
-        "odds": 14.1
-      },
-      {
-        "no": "7",
-        "name": "YÜZÜNCÜ YIL",
-        "jockey": "HALİT GÖKÇE",
-        "trainer": "HASAN KAYA",
-        "weight": 50,
-        "age": 3,
-        "form": "",
-        "odds": 25.05
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 2,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "18:30",
-    "distance": 1100,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "DRAGON VICTORY",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "NİHAT KAYA",
-        "weight": 57,
-        "age": 2,
-        "form": "611",
-        "odds": 1.4
-      },
-      {
-        "no": "2",
-        "name": "CRIMSON POWER",
-        "jockey": "MEHMET ÇELİK",
-        "trainer": "HÜSEYİN KARABULUT",
-        "weight": 54,
-        "age": 2,
-        "form": "61",
-        "odds": 1.85
-      },
-      {
-        "no": "3",
-        "name": "LA SAGRADA",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "HASAN DOLMAZ",
-        "weight": 54,
-        "age": 2,
-        "form": "",
-        "odds": 6.05
-      },
-      {
-        "no": "4",
-        "name": "NOVİ PAZAR",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "NURHAN BAKIR",
-        "weight": 51,
-        "age": 2,
-        "form": "97756",
-        "odds": 10.35
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 3,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "19:00",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 1/DHÖ",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "ALTIN MÜHÜR",
-        "jockey": "SİNAN ÖZEN",
-        "trainer": "HÜSEYİN KARABULUT",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 42.65
-      },
-      {
-        "no": "2",
-        "name": "ASLAN İBO",
-        "jockey": "MEHMET NURİ SUNKAR",
-        "trainer": "GÜLŞAH TAŞDELEN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 20.75
-      },
-      {
-        "no": "3",
-        "name": "BEYÇIKMAZ",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "NİHAT KAYA",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 55.7
-      },
-      {
-        "no": "4",
-        "name": "BODRUMLU",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "AYDIN DEMİRKIRAN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 1.05
-      },
-      {
-        "no": "5",
-        "name": "CİHANDERE",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "SİBEL AKCI",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 19.2
-      },
-      {
-        "no": "6",
-        "name": "ÇAKIR AĞAM",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "ADNAN POLAT",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 0
-      },
-      {
-        "no": "7",
-        "name": "IŞIKALP",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "MEHMET TEKİNALP",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 11
-      },
-      {
-        "no": "8",
-        "name": "LA MIRAGE",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "CEMİL TURAN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 9.65
-      },
-      {
-        "no": "9",
-        "name": "MANGAL DAĞI",
-        "jockey": "OKAN GÖKÇE",
-        "trainer": "TUNCAY ATEŞ",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 26.7
-      },
-      {
-        "no": "10",
-        "name": "TAM PAKET",
-        "jockey": "ONUR ATMACA",
-        "trainer": "KAZIM ŞENGEL",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 10
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 4,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "19:30",
-    "distance": 2000,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 3/DHÖW",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "AKMERİÇ",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "ÖMER FARUK TAŞDELEN",
-        "weight": 59,
-        "age": 5,
-        "form": "300122",
-        "odds": 6.5
-      },
-      {
-        "no": "2",
-        "name": "BAŞARAN TAY",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "MEHMET DAŞ",
-        "weight": 60,
-        "age": 5,
-        "form": "888990",
-        "odds": 39.55
-      },
-      {
-        "no": "3",
-        "name": "ODABAŞI",
-        "jockey": "MEHMET ÇELİK",
-        "trainer": "ADNAN POLAT",
-        "weight": 56,
-        "age": 5,
-        "form": "385655",
-        "odds": 8.55
-      },
-      {
-        "no": "4",
-        "name": "KADER GÜCÜ",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "RAMAZAN TAŞDELEN",
-        "weight": 58,
-        "age": 5,
-        "form": "4-97881",
-        "odds": 20.1
-      },
-      {
-        "no": "5",
-        "name": "KIRMÜJDE",
-        "jockey": "UĞUR LEVENT",
-        "trainer": "HAYRİ YILDIRIM",
-        "weight": 54,
-        "age": 5,
-        "form": "701600",
-        "odds": 3.7
-      },
-      {
-        "no": "6",
-        "name": "ŞAHSEKİN",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "TAYFUN SAYILKAN",
-        "weight": 58,
-        "age": 8,
-        "form": "433687",
-        "odds": 12.7
-      },
-      {
-        "no": "7",
-        "name": "YAMAÇ RÜZGARI",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "REŞAT KILIÇ",
-        "weight": 57,
-        "age": 5,
-        "form": "158759",
-        "odds": 34.5
-      },
-      {
-        "no": "8",
-        "name": "CEBEBEY",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "HALİS YILDIZ",
-        "weight": 57,
-        "age": 7,
-        "form": "542-783",
-        "odds": 1.4
-      },
-      {
-        "no": "9",
-        "name": "ZEHİRBİKE",
-        "jockey": "BURAK AKÇAY",
-        "trainer": "RÜSTEM ALİ TEKELİ",
-        "weight": 55,
-        "age": 5,
-        "form": "07-9987",
-        "odds": 19.05
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 5,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "20:00",
-    "distance": 1400,
-    "surface": "Kum",
-    "raceClass": "Handikap 15 /H2",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "KAREEM BUGHRA",
-        "jockey": "UĞUR LEVENT",
-        "trainer": "HACİ ALTUNBAŞ",
-        "weight": 58,
-        "age": 3,
-        "form": "281963",
-        "odds": 7.1
-      },
-      {
-        "no": "2",
-        "name": "AL SAROUT",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "YOUSEF ARHIM",
-        "weight": 59.5,
-        "age": 3,
-        "form": "12-1",
-        "odds": 2.4
-      },
-      {
-        "no": "3",
-        "name": "SHAWSHANK",
-        "jockey": "ONUR YILDIZ",
-        "trainer": "AHMET ÖCAL",
-        "weight": 59.5,
-        "age": 3,
-        "form": "121502",
-        "odds": 6.3
-      },
-      {
-        "no": "4",
-        "name": "WINNING DRAGON",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "SENİHA ŞEN",
-        "weight": 57,
-        "age": 3,
-        "form": "336236",
-        "odds": 8
-      },
-      {
-        "no": "5",
-        "name": "LUPELIUS",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "ARZU KILIÇ",
-        "weight": 58.5,
-        "age": 3,
-        "form": "112546",
-        "odds": 4.8
-      },
-      {
-        "no": "6",
-        "name": "MILLENNIUM FALCON",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "TARKAN ŞİT",
-        "weight": 58,
-        "age": 3,
-        "form": "6-43752",
-        "odds": 4.4
-      },
-      {
-        "no": "7",
-        "name": "EL QUİMİCO",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "MÜSLÜM DOLAK",
-        "weight": 58.5,
-        "age": 3,
-        "form": "612971",
-        "odds": 12
-      },
-      {
-        "no": "8",
-        "name": "KING LYKOS",
-        "jockey": "HALİT GÖKÇE",
-        "trainer": "SİBEL AKCI",
-        "weight": 50,
-        "age": 3,
-        "form": "5584",
-        "odds": 7.5
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 6,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "20:30",
-    "distance": 1400,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 5",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "BORN TO RUN",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "AKIN ÖZDENİZ",
-        "weight": 60,
-        "age": 5,
-        "form": "32-2114",
-        "odds": 14.45
-      },
-      {
-        "no": "2",
-        "name": "CUCURELLA",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "OSMAN ALTUNTAŞ",
-        "weight": 57,
-        "age": 4,
-        "form": "634171",
-        "odds": 3.85
-      },
-      {
-        "no": "3",
-        "name": "LOVİBOND",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "SENİHA ŞEN",
-        "weight": 60,
-        "age": 4,
-        "form": "544711",
-        "odds": 1.35
-      },
-      {
-        "no": "4",
-        "name": "NIGHTFLYERS",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "YAŞAR DEMİR",
-        "weight": 60,
-        "age": 4,
-        "form": "154483",
-        "odds": 15.35
-      },
-      {
-        "no": "5",
-        "name": "CHAIRMAN",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "RANA SUNA",
-        "weight": 57,
-        "age": 8,
-        "form": "223-122",
-        "odds": 3.5
-      },
-      {
-        "no": "6",
-        "name": "HARDOLD",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "CEMİL TURAN",
-        "weight": 53,
-        "age": 5,
-        "form": "169558",
-        "odds": 12.15
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 7,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "21:00",
-    "distance": 1900,
-    "surface": "Kum",
-    "raceClass": "Handikap 16 /H2",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "CROWNED",
-        "jockey": "ADEM ASLAN",
-        "trainer": "NİHAT YILDIRIM",
-        "weight": 63,
-        "age": 5,
-        "form": "175023",
-        "odds": 2
-      },
-      {
-        "no": "2",
-        "name": "FINALLY ITS TIME",
-        "jockey": "MURAT KEÇECİ",
-        "trainer": "MEHMET AKKILIÇ",
-        "weight": 56,
-        "age": 3,
-        "form": "512471",
-        "odds": 10.45
-      },
-      {
-        "no": "3",
-        "name": "BEYLERİNBEYİ",
-        "jockey": "ONUR ATMACA",
-        "trainer": "NİHAT KAYA",
-        "weight": 56,
-        "age": 3,
-        "form": "123322",
-        "odds": 4
-      },
-      {
-        "no": "4",
-        "name": "STEEL FATHER",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "ÖMER FARUK TAŞDELEN",
-        "weight": 53,
-        "age": 3,
-        "form": "341253",
-        "odds": 9.7
-      },
-      {
-        "no": "5",
-        "name": "WALK WITH STARS",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "MURAT ALAÇAM",
-        "weight": 52,
-        "age": 3,
-        "form": "402116",
-        "odds": 7.25
-      },
-      {
-        "no": "6",
-        "name": "AYBAR FIRTINASI",
-        "jockey": "ONUR YILDIZ",
-        "trainer": "EKREM ÇİLEK",
-        "weight": 56.5,
-        "age": 4,
-        "form": "00-8508",
-        "odds": 3.8
-      },
-      {
-        "no": "7",
-        "name": "ERKOÇUM",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "GÜLŞAH TAŞDELEN",
-        "weight": 56,
-        "age": 4,
-        "form": "452048",
-        "odds": 7.05
-      }
-    ]
-  },
-  {
-    "date": "2026-06-23",
-    "raceNo": 8,
-    "venue": "Kocaeli",
-    "hipodromName": "İzmit",
-    "time": "21:30",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 1/DHÖ",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": "Normal",
-    "weatherCondition": "Az Bulutlu",
-    "temperature": 26,
-    "humidity": 43,
-    "horses": [
-      {
-        "no": "1",
-        "name": "ÇÖL KASIRGASI",
-        "jockey": "MEHMET NURİ SUNKAR",
-        "trainer": "İSMAİL ÇEÇAN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 3.3
-      },
-      {
-        "no": "2",
-        "name": "HANKUŞ",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "RANA SUNA",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 5.3
-      },
-      {
-        "no": "3",
-        "name": "HÜKÜMDAR KILICI",
-        "jockey": "ERHAN AKKAYA",
-        "trainer": "YASİN TAŞKIN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 4.15
-      },
-      {
-        "no": "4",
-        "name": "SERT KOŞU",
-        "jockey": "ALİ MEHDİ ALTIN",
-        "trainer": "NİHAT KAYA",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 30.65
-      },
-      {
-        "no": "5",
-        "name": "SERTESEN",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "FERHAT ALTIN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 9.25
-      },
-      {
-        "no": "6",
-        "name": "SONKARINCA",
-        "jockey": "OĞUZ EREN",
-        "trainer": "MEHMET ÖCAL",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 11.8
-      },
-      {
-        "no": "7",
-        "name": "TAHİRHAN",
-        "jockey": "OKAN GÖKÇE",
-        "trainer": "YUSUF AKBULUT",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 6.75
-      },
-      {
-        "no": "8",
-        "name": "TAVİLOG",
-        "jockey": "ONUR ATMACA",
-        "trainer": "HAKAN CANSU",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 19.3
-      },
-      {
-        "no": "9",
-        "name": "TEYZEOĞLU",
-        "jockey": "ADEM CEYLAN",
-        "trainer": "EMRE KESKİN",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 67.3
-      },
-      {
-        "no": "10",
-        "name": "URASEFE",
-        "jockey": "YUNUS EMRE YÜKSEL",
-        "trainer": "HAKAN CANSU",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 5.4
-      },
-      {
-        "no": "11",
-        "name": "YEŞİL ORMAN",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "HÜSEYİN KARATAŞ",
-        "weight": 57,
-        "age": 3,
-        "form": "",
-        "odds": 7.5
       }
     ]
   }
