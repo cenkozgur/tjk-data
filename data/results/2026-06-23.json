@@ -117,5 +117,125 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "CALL ME FREE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "SATILMIŞ GÖKDEMİR",
+        "weight": 61,
+        "odds": 3,
+        "finishTime": "1.37.24",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "SPIC AND SPAN",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 60,
+        "odds": 3.8,
+        "finishTime": "1.37.28",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "BABA DOÇKA",
+        "jockey": "FATİH RÜSTEM BEBEK",
+        "trainer": "YAKUP ÇAĞLAR",
+        "weight": 58,
+        "odds": 8.15,
+        "finishTime": "1.37.43",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "MR TT",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "KADİR BALTACI",
+        "weight": 58,
+        "odds": 4.7,
+        "finishTime": "1.37.49",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "SEQUOIA",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 59,
+        "odds": 3.1,
+        "finishTime": "1.38.35",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "SHADOW OF HEART",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "CUMA DEMİR",
+        "weight": 54,
+        "odds": 10.1,
+        "finishTime": "1.38.71",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "MORİ PAŞA",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "AYKUT ECEVİT BAŞ",
+        "weight": 58,
+        "odds": 38.25,
+        "finishTime": "1.41.47",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "PASKALOVIC",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "TEVFİK BARDAKCI",
+        "weight": 58,
+        "odds": 23.9,
+        "finishTime": "1.41.62",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "10",
+        "name": "QUEEN OF THE SOLID",
+        "jockey": "İSMAİL KATI",
+        "trainer": "MİTHAT KATI",
+        "weight": 56,
+        "odds": 25.45,
+        "finishTime": "1.43.40",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "4",
+        "name": "LION GOLD",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "YUNUS TUNCAY",
+        "weight": 58,
+        "odds": 31.85,
+        "finishTime": "1.44.06",
+        "age": 3
+      }
+    ]
   }
 ]
