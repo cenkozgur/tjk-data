@@ -360,6 +360,104 @@
   },
   {
     "date": "2026-06-23",
+    "raceNo": 5,
+    "venue": "Kocaeli",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 15 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "SHAWSHANK",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "AHMET ÖCAL",
+        "weight": 59.5,
+        "odds": 3.5,
+        "finishTime": "1.28.48",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "AL SAROUT",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YOUSEF ARHIM",
+        "weight": 59.5,
+        "odds": 1.9,
+        "finishTime": "1.28.98",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "WINNING DRAGON",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SENİHA ŞEN",
+        "weight": 57,
+        "odds": 9.35,
+        "finishTime": "1.29.41",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "MILLENNIUM FALCON",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "TARKAN ŞİT",
+        "weight": 58,
+        "odds": 5.85,
+        "finishTime": "1.30.62",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "LUPELIUS",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "ARZU KILIÇ",
+        "weight": 58.5,
+        "odds": 7.9,
+        "finishTime": "1.30.98",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "EL QUİMİCO",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58.5,
+        "odds": 6.4,
+        "finishTime": "1.31.47",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "KAREEM BUGHRA",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HACİ ALTUNBAŞ",
+        "weight": 58,
+        "odds": 11.2,
+        "finishTime": "1.32.46",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "KING LYKOS",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "SİBEL AKCI",
+        "weight": 50,
+        "odds": 28.6,
+        "finishTime": "1.42.44",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1900,
