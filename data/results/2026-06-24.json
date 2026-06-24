@@ -270,5 +270,114 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 5/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "FIŞ FIŞ",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CUMA GÖNÜLTAŞ",
+        "weight": 56,
+        "odds": 4.3,
+        "finishTime": "2.26.18",
+        "age": 8
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "ERSANŞAH",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "TARKAN ŞİT",
+        "weight": 60,
+        "odds": 4.8,
+        "finishTime": "2.26.24",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "PLATFORM",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 57,
+        "odds": 1.9,
+        "finishTime": "2.26.27",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "ACUN TAY",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "ESER YILDIRIM",
+        "weight": 60,
+        "odds": 6.65,
+        "finishTime": "2.26.31",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "AKBELHAN",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "HAKAN HARMANBAŞI",
+        "weight": 60,
+        "odds": 10.35,
+        "finishTime": "2.27.48",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "İTAATSİZ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "EKREM TURAN",
+        "weight": 60,
+        "odds": 8.9,
+        "finishTime": "2.27.81",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "SANCAR",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "CEMİL TURAN",
+        "weight": 56,
+        "odds": 12.7,
+        "finishTime": "2.27.82",
+        "age": 9
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "SAADIN KASIRGASI",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 60,
+        "odds": 19.9,
+        "finishTime": "2.28.83",
+        "age": 6
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "YAĞIZHANBEY",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "HARUN REŞİT YEŞİLBUDAK",
+        "weight": 57,
+        "odds": 31.75,
+        "finishTime": "2.34.95",
+        "age": 5
+      }
+    ]
   }
 ]
