@@ -748,5 +748,114 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "CRACKAJACK",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "HALİL KABUKCI",
+        "weight": 58,
+        "odds": 1.75,
+        "finishTime": "2.09.18",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "İNŞİRAH",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "DERYA ERGİN",
+        "weight": 56,
+        "odds": 5.85,
+        "finishTime": "2.09.58",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "WATERSHED",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HALİL DÜLGER",
+        "weight": 60,
+        "odds": 3,
+        "finishTime": "2.09.69",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "PHANTOM RULER",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 58,
+        "odds": 25.8,
+        "finishTime": "2.10.19",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "XERİNA",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 56,
+        "odds": 18.8,
+        "finishTime": "2.10.50",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "CROWN JEWEL",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "TEZCAN TAŞAR",
+        "weight": 56,
+        "odds": 11.8,
+        "finishTime": "2.10.53",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "LEGACY OF HENRY",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "CEMİL TURAN",
+        "weight": 60,
+        "odds": 7.35,
+        "finishTime": "2.11.93",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "ASLAN SAİM",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "BERK GÖRMEZ",
+        "weight": 62,
+        "odds": 13,
+        "finishTime": "2.12.27",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "NIGHT RUNNER",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 55,
+        "odds": 32.85,
+        "finishTime": "2.12.78",
+        "age": 3
+      }
+    ]
   }
 ]
