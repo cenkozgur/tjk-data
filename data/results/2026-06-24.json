@@ -107,5 +107,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "ŞAFAKATEŞ",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 61,
+        "odds": 5.05,
+        "finishTime": "2.07.80",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "DONE THIS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 61,
+        "odds": 15,
+        "finishTime": "2.08.03",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "ARNO RABEL",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "UĞUR KULAK",
+        "weight": 53.5,
+        "odds": 16.7,
+        "finishTime": "2.08.20",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "THE CHOSEN",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "DERYA ERGİN",
+        "weight": 59,
+        "odds": 1.15,
+        "finishTime": "2.08.24",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "ENTERPRISING ROCK",
+        "jockey": "MEHMET KAYA",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 59,
+        "odds": 4.85,
+        "finishTime": "2.08.28",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "GHOST OF NIGHT",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "TUNCAY YILMAZ",
+        "weight": 53,
+        "odds": 11.2,
+        "finishTime": "2.08.40",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "EL REY ESCORPİON",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 35.9,
+        "finishTime": "2.10.20",
+        "age": 3
+      }
+    ]
   }
 ]
