@@ -672,5 +672,81 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "BROTHER LOVIE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "ENGİN KARATAŞ",
+        "weight": 58,
+        "odds": 2.7,
+        "finishTime": "1.25.55",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "ZİMBATRON",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ÖZGÜR YİĞİT",
+        "weight": 56,
+        "odds": 4.2,
+        "finishTime": "1.25.66",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "GIRALAMO",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "UĞUR KULAK",
+        "weight": 60,
+        "odds": 9.45,
+        "finishTime": "1.26.41",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "AZP STAR",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YUSUF CAN KARATOPRAK",
+        "weight": 60,
+        "odds": 10.85,
+        "finishTime": "1.26.70",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "MERCIER",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "OSMAN ALTUNTAŞ",
+        "weight": 58,
+        "odds": 2.1,
+        "finishTime": "1.26.86",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "KNOW WORTH",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 54,
+        "odds": 4.85,
+        "finishTime": "1.27.22",
+        "age": 3
+      }
+    ]
   }
 ]
