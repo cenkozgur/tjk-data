@@ -510,5 +510,156 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-06-25",
+    "raceNo": 6,
+    "venue": "Bursa",
+    "distance": 1300,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "ERGÜNEŞ",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "OKTAY DEMİR",
+        "weight": 59,
+        "odds": 1.7,
+        "finishTime": "1.31.63",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "SERTUĞ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "AHMET ÖCAL",
+        "weight": 57,
+        "odds": 4.4,
+        "finishTime": "1.32.30",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "10",
+        "name": "KAZAN GİRİL",
+        "jockey": "İSMAİL KATI",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 55,
+        "odds": 12.45,
+        "finishTime": "1.32.31",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "12",
+        "name": "ZORLU HAYAT",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 51,
+        "odds": 39.4,
+        "finishTime": "1.32.41",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "BIBARS",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "DILŞA KAYA",
+        "weight": 57,
+        "odds": 10.25,
+        "finishTime": "1.33.38",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "HUDUTSUZ",
+        "jockey": "EFE AKPINAR",
+        "trainer": "SERHAT YARDIMCI",
+        "weight": 57,
+        "odds": 11.5,
+        "finishTime": "1.33.43",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "GÖNÜL SARAYI",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FERHAT ALTIN",
+        "weight": 53,
+        "odds": 28.5,
+        "finishTime": "1.33.51",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "3",
+        "name": "AFRİKA ATEŞİ",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "RESUL KONUK",
+        "weight": 57,
+        "odds": 4.95,
+        "finishTime": "1.34.53",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "KARAKÖPRÜ ATEŞİ",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 57,
+        "odds": 25.65,
+        "finishTime": "1.35.69",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "AURORA BY",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "BERK GÖRMEZ",
+        "weight": 55,
+        "odds": 37.55,
+        "finishTime": "1.37.44",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "TOKATHANIN GÜLÜ",
+        "jockey": "TUGAY ALICI",
+        "trainer": "FAHRETTİN SEZER",
+        "weight": 55,
+        "odds": 25.05,
+        "finishTime": "1.38.58",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "7",
+        "name": "MİREKTAY",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SENER GÖKÇE",
+        "weight": 54,
+        "odds": 26.55,
+        "finishTime": "1.42.61",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Bursa",
+        "label": "1. 6'LI GANYAN",
+        "combination": "6/5,7/2/1/7/1",
+        "prizeAmount": 2419.75,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]
