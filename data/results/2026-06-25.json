@@ -238,5 +238,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-25",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 1800,
+    "surface": "Çim",
+    "raceClass": "Handikap 15 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "GHOST COMMANDER",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 56,
+        "odds": 4.9,
+        "finishTime": "1.49.43",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GOLDEN SAIL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MEHMET ESMER",
+        "weight": 52.5,
+        "odds": 4.05,
+        "finishTime": "1.49.56",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "ZEKİ REİS",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 53.5,
+        "odds": 3.95,
+        "finishTime": "1.49.57",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "LAKE EAGLE",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 50,
+        "odds": 7.2,
+        "finishTime": "1.50.00",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "SUN OF THE GÖKSU",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "REŞAT KILIÇ",
+        "weight": 59,
+        "odds": 1.95,
+        "finishTime": "1.50.73",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "YILMAKENAN",
+        "jockey": "ONUR ATMACA",
+        "trainer": "FATİH TOSUN",
+        "weight": 52,
+        "odds": 17.25,
+        "finishTime": "1.51.15",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "MEVLÜDE HATUN",
+        "jockey": "CEM ALTUN",
+        "trainer": "İLYAS CANPOLAT",
+        "weight": 52,
+        "odds": 41.8,
+        "finishTime": "1.54.29",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "ORION BELT",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 52,
+        "odds": 19.3,
+        "finishTime": "1.54.63",
+        "age": 3
+      }
+    ]
   }
 ]
