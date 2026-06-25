@@ -336,5 +336,59 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-25",
+    "raceNo": 4,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "ONLY GIRL",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "EYÜPHAN AVCI",
+        "weight": 55,
+        "odds": 1.15,
+        "finishTime": "1.14.91",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "SUGAR STORM",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 3.3,
+        "finishTime": "1.16.40",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "GREENLIFE",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "EMİNE KAYA",
+        "weight": 50,
+        "odds": 4.1,
+        "finishTime": "1.18.48",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "DERNIERE STAR",
+        "jockey": "OĞUZ EREN",
+        "trainer": "İBRAHİM KIZILDAĞ",
+        "weight": 55,
+        "odds": 12.55,
+        "finishTime": "1.18.53",
+        "age": 2
+      }
+    ]
   }
 ]
