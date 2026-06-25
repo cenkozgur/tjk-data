@@ -781,5 +781,70 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-06-25",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "KV-8/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "PRENSES SYLVESTER",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "İSMET AKKILIÇ",
+        "weight": 60,
+        "odds": 1.35,
+        "finishTime": "1.25.45",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "WHITE WOLF",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "GAZANFER TOKLU",
+        "weight": 54,
+        "odds": 2.95,
+        "finishTime": "1.25.56",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "MAJESTIK FLOW",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEYHAN DEMİR",
+        "weight": 60,
+        "odds": 7.4,
+        "finishTime": "1.26.57",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "PEHLİVAN YILDIZI",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 60,
+        "odds": 5.95,
+        "finishTime": "1.28.83",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "GENÇAY NALAN",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 60,
+        "odds": 8.2,
+        "finishTime": "1.31.41",
+        "age": 5
+      }
+    ]
   }
 ]
