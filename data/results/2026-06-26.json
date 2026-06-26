@@ -448,6 +448,504 @@
   },
   {
     "date": "2026-06-26",
+    "raceNo": 5,
+    "venue": "Kocaeli",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 14 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "PRENS NADİR",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 55,
+        "odds": 1.35,
+        "finishTime": "2.07.16",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "REDATIVE",
+        "jockey": "ADEM ASLAN",
+        "trainer": "CEMİL TURAN",
+        "weight": 58,
+        "odds": 9.7,
+        "finishTime": "2.07.38",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "İŞİN ASLI",
+        "jockey": "TUGAY ALICI",
+        "trainer": "BEKTAŞ YILDIRIM",
+        "weight": 62,
+        "odds": 8.55,
+        "finishTime": "2.08.10",
+        "age": 10
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ENDOWED",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "ENES KARACA",
+        "weight": 61,
+        "odds": 13,
+        "finishTime": "2.08.31",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "GOLDEN SNOW",
+        "jockey": "SİNAN ÖZEN",
+        "trainer": "GALİP KILIÇ",
+        "weight": 59,
+        "odds": 8.25,
+        "finishTime": "2.08.48",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "GRINGOLET",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 59.5,
+        "odds": 4.35,
+        "finishTime": "2.08.55",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "SUICIDE KING",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "MEHMET AKKUŞ",
+        "weight": 61,
+        "odds": 31.9,
+        "finishTime": "2.08.77",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "SWISS DANCER",
+        "jockey": "MERT UYAR",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 50,
+        "odds": 36.7,
+        "finishTime": "2.08.84",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "8",
+        "name": "DIAMOND CROWN",
+        "jockey": "ONUR ATMACA",
+        "trainer": "GALİP KILIÇ",
+        "weight": 55,
+        "odds": 8.25,
+        "finishTime": "2.10.24",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "raceNo": 6,
+    "venue": "Kocaeli",
+    "distance": 1700,
+    "surface": "Kum",
+    "raceClass": "Handikap 14 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "MIDNIGHT BLUE",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 58,
+        "odds": 1.6,
+        "finishTime": "1.53.32",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "HIGH GROUND",
+        "jockey": "TUGAY ALICI",
+        "trainer": "SENER GÖKÇE",
+        "weight": 60,
+        "odds": 5.9,
+        "finishTime": "1.53.52",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "LAST LEVEL",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "MEHMET DAŞ",
+        "weight": 59,
+        "odds": 5,
+        "finishTime": "1.54.06",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "PATRONA HOLİ",
+        "jockey": "MERT UYAR",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 58,
+        "odds": 3.9,
+        "finishTime": "1.54.68",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "DİPLOMAT ZAFER",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 59,
+        "odds": 7.7,
+        "finishTime": "1.55.26",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "CURLIN DRACARYS (USA)",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "KAZIM MELİKE",
+        "weight": 55,
+        "odds": 9.65,
+        "finishTime": "1.59.99",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Kocaeli",
+        "label": "1. 6'LI GANYAN",
+        "combination": "5/2/1/11/3/4",
+        "prizeAmount": 1109.18,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "raceNo": 7,
+    "venue": "Kocaeli",
+    "distance": 1800,
+    "surface": "Kum",
+    "raceClass": "Maiden/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "MISS CALIFORNIA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "SABRİ BEKTAŞ",
+        "weight": 60,
+        "odds": 1.4,
+        "finishTime": "2.01.30",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "HEAVEN LIGHT",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "SEDAT ÇİFTÇİ",
+        "weight": 63,
+        "odds": 4.85,
+        "finishTime": "2.02.33",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "BLACK BLAZE",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "TURGAY ÇEKİCİ",
+        "weight": 58,
+        "odds": 13.8,
+        "finishTime": "2.02.58",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "MANEKİ NEKO",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "MEHMET AKKUŞ",
+        "weight": 58,
+        "odds": 7.8,
+        "finishTime": "2.02.66",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "QUEEN ASEL",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "RÜSTEM ALİ TEKELİ",
+        "weight": 58,
+        "odds": 4.65,
+        "finishTime": "2.02.74",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "QUİEREME",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 58,
+        "odds": 17.8,
+        "finishTime": "2.02.76",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "BIRD CAGE",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "TUNCAY YILMAZ",
+        "weight": 55,
+        "odds": 35.95,
+        "finishTime": "2.04.01",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "HAIL TO PRINCESS",
+        "jockey": "CANER TEPE",
+        "trainer": "TURGAY ÇEKİCİ",
+        "weight": 58,
+        "odds": 27.9,
+        "finishTime": "2.07.91",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "CHİNTON",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "EMRE KESKİN",
+        "weight": 55,
+        "odds": 24.05,
+        "finishTime": "2.09.72",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "raceNo": 8,
+    "venue": "Kocaeli",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 15/DHÖW/Dişi /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "GECE GÜZELİ",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "İMDAT KÖKSEL",
+        "weight": 54,
+        "odds": 4.55,
+        "finishTime": "1.38.13",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "BERANÇE",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 52,
+        "odds": 10.5,
+        "finishTime": "1.38.56",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "LUNA",
+        "jockey": "ADEM ASLAN",
+        "trainer": "SENİHA ŞEN",
+        "weight": 52,
+        "odds": 7.85,
+        "finishTime": "1.39.03",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "KIVIRCIKKIZ",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "DAVUT SAV",
+        "weight": 52.5,
+        "odds": 4.4,
+        "finishTime": "1.39.17",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "11",
+        "name": "İYİMSER",
+        "jockey": "MERT UYAR",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 50,
+        "odds": 18.65,
+        "finishTime": "1.39.18",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "16",
+        "name": "SÜTLİMAN",
+        "jockey": "YUSUF TALHA AKKAYA",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 51,
+        "odds": 23.85,
+        "finishTime": "1.39.22",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "10",
+        "name": "DEĞERBİLİR",
+        "jockey": "CEM ALTUN",
+        "trainer": "FERDİ KIRAN",
+        "weight": 52,
+        "odds": 26.55,
+        "finishTime": "1.39.41",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "MEVHİDE HANIM",
+        "jockey": "ROJHAT KURT",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 50.5,
+        "odds": 43.55,
+        "finishTime": "1.39.61",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "1",
+        "name": "SOSAN YILDIZI",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 59,
+        "odds": 5.9,
+        "finishTime": "1.40.46",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "4",
+        "name": "AY FERİDE",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "SENİHA ŞEN",
+        "weight": 53,
+        "odds": 6.45,
+        "finishTime": "1.40.89",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "2",
+        "name": "GEWRE",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "HAKAN DEMİRBAŞ",
+        "weight": 55,
+        "odds": 9.65,
+        "finishTime": "1.41.00",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "12",
+        "name": "KİRAZLI",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "YUSUF KAYA",
+        "weight": 52,
+        "odds": 13.1,
+        "finishTime": "1.42.49",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "14",
+        "name": "MADRABAZ YELİ",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 52,
+        "odds": 13.9,
+        "finishTime": "1.44.15",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "9",
+        "name": "BERNAHANIM",
+        "jockey": "GÖKHAN BEKTAŞ",
+        "trainer": "NİHAT KAYA",
+        "weight": 50,
+        "odds": 25.05,
+        "finishTime": "1.47.72",
+        "age": 4
+      },
+      {
+        "position": 15,
+        "no": "13",
+        "name": "ELMAPINAR",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 50,
+        "odds": 34.6,
+        "finishTime": "1.49.87",
+        "age": 4
+      },
+      {
+        "position": 16,
+        "no": "15",
+        "name": "BUĞLEMİM",
+        "jockey": "SAMETCAN YAZICIOĞLU",
+        "trainer": "TURGAY ÇEKİCİ",
+        "weight": 52,
+        "odds": 61.8,
+        "finishTime": "1.50.16",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Kocaeli",
+        "label": "2. 6'LI GANYAN",
+        "combination": "1/11/3/4/2/3",
+        "prizeAmount": 745.37,
+        "lastRaceNo": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1300,
