@@ -270,5 +270,92 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-06-27",
+    "raceNo": 4,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Handikap 15 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "ŞEKER ASLAN",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 51,
+        "odds": 1.9,
+        "finishTime": "1.10.35",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "THRACE FEVER",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 59.5,
+        "odds": 17.4,
+        "finishTime": "1.10.55",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "SCHATZ",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 50,
+        "odds": 4.9,
+        "finishTime": "1.10.80",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "KINDNESS",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 59,
+        "odds": 5.55,
+        "finishTime": "1.11.26",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "BOTANİK BEBEK",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 61,
+        "odds": 9.75,
+        "finishTime": "1.11.41",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "SIMAZE",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 51,
+        "odds": 11.6,
+        "finishTime": "1.11.44",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "DESERT POINT",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 53.5,
+        "odds": 3,
+        "finishTime": "1.11.57",
+        "age": 4
+      }
+    ]
   }
 ]
