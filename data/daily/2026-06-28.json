@@ -1,0 +1,5562 @@
+[
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "14:00",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "GHOSHA",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 57,
+        "age": 2,
+        "form": "9131",
+        "odds": 13
+      },
+      {
+        "no": "2",
+        "name": "MAYBACK",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "YILMAZ ÖZTAŞ",
+        "weight": 57,
+        "age": 2,
+        "form": "1",
+        "odds": 1.15
+      },
+      {
+        "no": "3",
+        "name": "EGOISTA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 55,
+        "age": 2,
+        "form": "61",
+        "odds": 22.55
+      },
+      {
+        "no": "4",
+        "name": "ROCK OF BEAUTIFUL",
+        "jockey": "CEM ALTUN",
+        "trainer": "EMİNE KAYA",
+        "weight": 55,
+        "age": 2,
+        "form": "1",
+        "odds": 16.9
+      },
+      {
+        "no": "5",
+        "name": "PONCA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 54,
+        "age": 2,
+        "form": "1",
+        "odds": 11.85
+      },
+      {
+        "no": "6",
+        "name": "BAKÜLÜ KIZ",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "YILMAZ ÖZTAŞ",
+        "weight": 53,
+        "age": 2,
+        "form": "",
+        "odds": 15.85
+      },
+      {
+        "no": "7",
+        "name": "BELLA FIGLIA",
+        "jockey": "YASİN ŞEREF GÜMÜŞ",
+        "trainer": "ERGÜN USLU",
+        "weight": 53,
+        "age": 2,
+        "form": "",
+        "odds": 72.7
+      },
+      {
+        "no": "8",
+        "name": "CORAL REEFS",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "TOLGAHAN İMAL",
+        "weight": 53,
+        "age": 2,
+        "form": "2",
+        "odds": 5.2
+      },
+      {
+        "no": "9",
+        "name": "PARADISO DIVINA",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "UFUK BİLİK",
+        "weight": 53,
+        "age": 2,
+        "form": "",
+        "odds": 10.5
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "14:30",
+    "distance": 2400,
+    "surface": "Çim",
+    "raceClass": "G 3/ULS",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AL TAN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "METİN ÖZ",
+        "weight": 60,
+        "age": 5,
+        "form": "70-3211",
+        "odds": 1.05
+      },
+      {
+        "no": "2",
+        "name": "CAPTAIN FANTASTIC",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "TARIK NACİ YILDIZ",
+        "weight": 60,
+        "age": 7,
+        "form": "4-31102",
+        "odds": 67.15
+      },
+      {
+        "no": "3",
+        "name": "CUTHA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "YAŞAR DEMİR",
+        "weight": 60,
+        "age": 4,
+        "form": "1456-86",
+        "odds": 17.3
+      },
+      {
+        "no": "4",
+        "name": "ESCAPE PATH",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 60,
+        "age": 4,
+        "form": "7-24355",
+        "odds": 28.75
+      },
+      {
+        "no": "5",
+        "name": "HANDSOME KING",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 60,
+        "age": 4,
+        "form": "7723-63",
+        "odds": 23.2
+      },
+      {
+        "no": "6",
+        "name": "HERE TO GO",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 60,
+        "age": 4,
+        "form": "111415",
+        "odds": 197.35
+      },
+      {
+        "no": "7",
+        "name": "KALKÜTA",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "FERDİ KİP",
+        "weight": 60,
+        "age": 4,
+        "form": "115242",
+        "odds": 59.3
+      },
+      {
+        "no": "8",
+        "name": "LUCERYS",
+        "jockey": "SELİM KAYA",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 60,
+        "age": 4,
+        "form": "421115",
+        "odds": 5.75
+      },
+      {
+        "no": "9",
+        "name": "PYTHAGOREAN THEORY",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "BEDRİ AKBULUT",
+        "weight": 60,
+        "age": 4,
+        "form": "143352",
+        "odds": 32.85
+      },
+      {
+        "no": "10",
+        "name": "ZAMBUR AGA",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "OSMAN GİRİŞKİN",
+        "weight": 60,
+        "age": 4,
+        "form": "693742",
+        "odds": 163.9
+      },
+      {
+        "no": "11",
+        "name": "ETSUKO",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 58,
+        "age": 5,
+        "form": "332-521",
+        "odds": 16.45
+      },
+      {
+        "no": "12",
+        "name": "TALİPHAN BEY",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "BAHATTİN DAĞ",
+        "weight": 53.5,
+        "age": 3,
+        "form": "322110",
+        "odds": 42.95
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "15:00",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "G 1",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BİZON",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "İSMET AKKILIÇ",
+        "weight": 58,
+        "age": 3,
+        "form": "331417",
+        "odds": 34.7
+      },
+      {
+        "no": "2",
+        "name": "CABOOSE",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KADİR BALTACI",
+        "weight": 58,
+        "age": 3,
+        "form": "2-1334",
+        "odds": 32.05
+      },
+      {
+        "no": "3",
+        "name": "DARK VEYRON",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "age": 3,
+        "form": "122175",
+        "odds": 446.3
+      },
+      {
+        "no": "4",
+        "name": "DIRE WOLF",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMETCİK AYDOĞDİ",
+        "weight": 58,
+        "age": 3,
+        "form": "331341",
+        "odds": 4.95
+      },
+      {
+        "no": "5",
+        "name": "FIRE OF TYGAR",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "ERTAN ACER",
+        "weight": 58,
+        "age": 3,
+        "form": "323313",
+        "odds": 161.15
+      },
+      {
+        "no": "6",
+        "name": "INVESTIGATOR",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "YÜCEL ŞİMŞEK",
+        "weight": 58,
+        "age": 3,
+        "form": "12-10",
+        "odds": 47.55
+      },
+      {
+        "no": "7",
+        "name": "LINARES",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "ŞİNASİ GÖKÇE",
+        "weight": 58,
+        "age": 3,
+        "form": "432843",
+        "odds": 9.35
+      },
+      {
+        "no": "8",
+        "name": "PERSIAN CARAMEL",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "CUMA GÜNEŞ",
+        "weight": 58,
+        "age": 3,
+        "form": "1-23296",
+        "odds": 61.7
+      },
+      {
+        "no": "9",
+        "name": "PRENS LAUTARO",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SABRİ BEKTAŞ",
+        "weight": 58,
+        "age": 3,
+        "form": "16582",
+        "odds": 967.05
+      },
+      {
+        "no": "10",
+        "name": "SNOW LEOPARD",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 3,
+        "form": "112450",
+        "odds": 446.3
+      },
+      {
+        "no": "11",
+        "name": "TOUCH THE MONEY",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "BAHATTİN DAĞ",
+        "weight": 58,
+        "age": 3,
+        "form": "1-543",
+        "odds": 14.35
+      },
+      {
+        "no": "12",
+        "name": "VICTORY WALTZ",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 58,
+        "age": 3,
+        "form": "323222",
+        "odds": 263.7
+      },
+      {
+        "no": "13",
+        "name": "VOICE OF KHAN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "CANER AKGÜL",
+        "weight": 58,
+        "age": 3,
+        "form": "31-4198",
+        "odds": 263.7
+      },
+      {
+        "no": "14",
+        "name": "WOLF RULES",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "1116",
+        "odds": 4.95
+      },
+      {
+        "no": "15",
+        "name": "YAKARİ",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "FERDİ KİP",
+        "weight": 58,
+        "age": 3,
+        "form": "421161",
+        "odds": 26.7
+      },
+      {
+        "no": "16",
+        "name": "GRACE OF GOD",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "UFUK BİLİK",
+        "weight": 56,
+        "age": 3,
+        "form": "1215-52",
+        "odds": 1.05
+      },
+      {
+        "no": "17",
+        "name": "LYARA",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "UFUK BİLİK",
+        "weight": 56,
+        "age": 3,
+        "form": "1-11369",
+        "odds": 207.2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "15:30",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "G 2/Dişi",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AMAZING TOUCH",
+        "jockey": "SELİM KAYA",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 60,
+        "age": 4,
+        "form": "1581-14",
+        "odds": 6.2
+      },
+      {
+        "no": "2",
+        "name": "BEAUTY OF DARKNESS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "UĞUR KULAK",
+        "weight": 60,
+        "age": 4,
+        "form": "179-252",
+        "odds": 5.95
+      },
+      {
+        "no": "3",
+        "name": "CONTINUOUS",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "ENGİN KARATAŞ",
+        "weight": 60,
+        "age": 6,
+        "form": "431225",
+        "odds": 60.85
+      },
+      {
+        "no": "4",
+        "name": "GOLD FLOWER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 60,
+        "age": 4,
+        "form": "613166",
+        "odds": 20.5
+      },
+      {
+        "no": "5",
+        "name": "İPHİKLOS",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "HALİL KABUKCI",
+        "weight": 60,
+        "age": 4,
+        "form": "231174",
+        "odds": 117.9
+      },
+      {
+        "no": "6",
+        "name": "LAVENDER",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 60,
+        "age": 6,
+        "form": "2150-23",
+        "odds": 5.35
+      },
+      {
+        "no": "7",
+        "name": "MANGUSTA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 60,
+        "age": 5,
+        "form": "546-453",
+        "odds": 5.75
+      },
+      {
+        "no": "8",
+        "name": "MARION",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 60,
+        "age": 4,
+        "form": "852131",
+        "odds": 14.95
+      },
+      {
+        "no": "9",
+        "name": "QUEEN PROTEO",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "ŞEFİK AYDEMİR",
+        "weight": 60,
+        "age": 5,
+        "form": "121315",
+        "odds": 24.8
+      },
+      {
+        "no": "10",
+        "name": "SHE IS APPROVED",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 60,
+        "age": 5,
+        "form": "043-513",
+        "odds": 7.4
+      },
+      {
+        "no": "11",
+        "name": "SHIROKE",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 60,
+        "age": 5,
+        "form": "427603",
+        "odds": 33.65
+      },
+      {
+        "no": "12",
+        "name": "TRUELY",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 60,
+        "age": 4,
+        "form": "1120-11",
+        "odds": 2.25
+      },
+      {
+        "no": "13",
+        "name": "PIHA",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 53,
+        "age": 3,
+        "form": "03-0190",
+        "odds": 134.75
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "16:15",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "G 2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BAYIR EFE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "UĞUR KULAK",
+        "weight": 58,
+        "age": 3,
+        "form": "121502",
+        "odds": 4
+      },
+      {
+        "no": "2",
+        "name": "CANİKLİ BEYLER",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 58,
+        "age": 3,
+        "form": "25-0012",
+        "odds": 21.15
+      },
+      {
+        "no": "3",
+        "name": "EL GLADIADOR",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "UFUK BİLİK",
+        "weight": 58,
+        "age": 3,
+        "form": "142-222",
+        "odds": 8.45
+      },
+      {
+        "no": "4",
+        "name": "FALCONNIDAE",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 58,
+        "age": 3,
+        "form": "1-21117",
+        "odds": 9.75
+      },
+      {
+        "no": "5",
+        "name": "FATHER OF FATHERS",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "BATUHAN TURGUL",
+        "weight": 58,
+        "age": 3,
+        "form": "133435",
+        "odds": 11.05
+      },
+      {
+        "no": "6",
+        "name": "FRANKI CHA CHA",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KAMİL ARDA",
+        "weight": 58,
+        "age": 3,
+        "form": "112254",
+        "odds": 19.5
+      },
+      {
+        "no": "7",
+        "name": "MOĞOL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "CUMA GÖNÜLTAŞ",
+        "weight": 58,
+        "age": 3,
+        "form": "112121",
+        "odds": 25.1
+      },
+      {
+        "no": "8",
+        "name": "MR ÇIRAK",
+        "jockey": "SELİM KAYA",
+        "trainer": "MUSTAFA SANDIKCI",
+        "weight": 58,
+        "age": 3,
+        "form": "14-2221",
+        "odds": 4.35
+      },
+      {
+        "no": "9",
+        "name": "PRANDELLO",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "İBRAHİM ÇAK",
+        "weight": 58,
+        "age": 3,
+        "form": "631111",
+        "odds": 3.95
+      },
+      {
+        "no": "10",
+        "name": "RAND AL THOR",
+        "jockey": "ERHAN YAVUZ",
+        "trainer": "SERDAR SEREN GÖRGÜ",
+        "weight": 58,
+        "age": 3,
+        "form": "5-41335",
+        "odds": 31.4
+      },
+      {
+        "no": "11",
+        "name": "SHADOW SOLDIER",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "age": 3,
+        "form": "342256",
+        "odds": 39
+      },
+      {
+        "no": "12",
+        "name": "STATUE OF LIBERTY",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 58,
+        "age": 3,
+        "form": "10-2115",
+        "odds": 9.9
+      },
+      {
+        "no": "13",
+        "name": "THE HOCUS",
+        "jockey": "MEHMET KAYA",
+        "trainer": "SERVET DOĞAN",
+        "weight": 58,
+        "age": 3,
+        "form": "119343",
+        "odds": 35.55
+      },
+      {
+        "no": "14",
+        "name": "TURAMUN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "ALİ PAMUKCİ",
+        "weight": 58,
+        "age": 3,
+        "form": "114520",
+        "odds": 26.5
+      },
+      {
+        "no": "15",
+        "name": "DESRUCTOR",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "UĞUR KULAK",
+        "weight": 58,
+        "age": 3,
+        "form": "015142",
+        "odds": 4
+      },
+      {
+        "no": "16",
+        "name": "SON OF SAINT",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "TAŞKIN AVCI",
+        "weight": 58,
+        "age": 3,
+        "form": "615521",
+        "odds": 78.95
+      },
+      {
+        "no": "17",
+        "name": "HOLA Y CHAO",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 3,
+        "form": "553424",
+        "odds": 32.7
+      },
+      {
+        "no": "18",
+        "name": "RACING STAR",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 58,
+        "age": 3,
+        "form": "413606",
+        "odds": 28.15
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "17:15",
+    "distance": 2400,
+    "surface": "Çim",
+    "raceClass": "G 1",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AIMUS LIBERATUS",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "21-1611",
+        "odds": 9.75
+      },
+      {
+        "no": "2",
+        "name": "ALMIGHTY ESPRIT",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "TARKAN ŞİT",
+        "weight": 58,
+        "age": 3,
+        "form": "121-111",
+        "odds": 44.8
+      },
+      {
+        "no": "3",
+        "name": "ANSHBA",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "112-121",
+        "odds": 13.4
+      },
+      {
+        "no": "4",
+        "name": "BALLAD KING",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "MEHMET DEMİR",
+        "weight": 58,
+        "age": 3,
+        "form": "16-1234",
+        "odds": 18.55
+      },
+      {
+        "no": "5",
+        "name": "BAY NALÇAKAN",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HİKMET TURAN",
+        "weight": 58,
+        "age": 3,
+        "form": "1-11151",
+        "odds": 3.95
+      },
+      {
+        "no": "6",
+        "name": "BRANDO",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "FERDİ KİP",
+        "weight": 58,
+        "age": 3,
+        "form": "488-570",
+        "odds": 56.9
+      },
+      {
+        "no": "7",
+        "name": "ERSELE BEYİ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MÜSLÜM ÖRTÜNÇ",
+        "weight": 58,
+        "age": 3,
+        "form": "23-5262",
+        "odds": 32
+      },
+      {
+        "no": "8",
+        "name": "GOLDRAKHAN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "ERGÜN USLU",
+        "weight": 58,
+        "age": 3,
+        "form": "2-15342",
+        "odds": 44.7
+      },
+      {
+        "no": "9",
+        "name": "JAZZ RUNNER",
+        "jockey": "FATİH RÜSTEM BEBEK",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 58,
+        "age": 3,
+        "form": "110184",
+        "odds": 168.2
+      },
+      {
+        "no": "10",
+        "name": "JOYFUL FOREVER",
+        "jockey": "SELİM KAYA",
+        "trainer": "MEHMET DEMİR",
+        "weight": 58,
+        "age": 3,
+        "form": "123413",
+        "odds": 31.4
+      },
+      {
+        "no": "11",
+        "name": "KRALIN DANSI",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "İBRAHİM HALİL BAYDAN",
+        "weight": 58,
+        "age": 3,
+        "form": "621758",
+        "odds": 77.6
+      },
+      {
+        "no": "12",
+        "name": "MANDRAKE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KÜBRA ŞENTÜRK",
+        "weight": 58,
+        "age": 3,
+        "form": "321111",
+        "odds": 21.5
+      },
+      {
+        "no": "13",
+        "name": "MASSIMO SUPREMO",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "CANSU ŞİMŞEK",
+        "weight": 58,
+        "age": 3,
+        "form": "141460",
+        "odds": 154.35
+      },
+      {
+        "no": "14",
+        "name": "METAL HEART",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "age": 3,
+        "form": "431319",
+        "odds": 51.1
+      },
+      {
+        "no": "15",
+        "name": "MUCHO BUENO",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MEHMET DEMİR",
+        "weight": 58,
+        "age": 3,
+        "form": "244-212",
+        "odds": 8.25
+      },
+      {
+        "no": "16",
+        "name": "RABOVO",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "MÜCAHİT KAYA",
+        "weight": 58,
+        "age": 3,
+        "form": "122-121",
+        "odds": 4.55
+      },
+      {
+        "no": "17",
+        "name": "SILENT TREATMENT",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "ERTAN ACER",
+        "weight": 58,
+        "age": 3,
+        "form": "1-14422",
+        "odds": 94.15
+      },
+      {
+        "no": "18",
+        "name": "THE REAL ONE",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "İBRAHİM TEMEL",
+        "weight": 58,
+        "age": 3,
+        "form": "1111",
+        "odds": 4
+      },
+      {
+        "no": "19",
+        "name": "UPAMECANO",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "111-113",
+        "odds": 7.25
+      },
+      {
+        "no": "20",
+        "name": "WHIZBANG",
+        "jockey": "SADETTİN BOYRAZ",
+        "trainer": "ENVER MUTLU",
+        "weight": 58,
+        "age": 3,
+        "form": "32-9217",
+        "odds": 85.1
+      },
+      {
+        "no": "21",
+        "name": "JAEHAERA",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 56,
+        "age": 3,
+        "form": "1-23123",
+        "odds": 55.75
+      },
+      {
+        "no": "22",
+        "name": "NEURO MATH",
+        "jockey": "MEHMET KAYA",
+        "trainer": "HALİL KABUKCI",
+        "weight": 56,
+        "age": 3,
+        "form": "1-15312",
+        "odds": 64.8
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "18:15",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "G 1",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "CAZATOR DE OSOS",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 4,
+        "form": "104526",
+        "odds": 100.05
+      },
+      {
+        "no": "2",
+        "name": "CHARABANC",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MURAT AKKILIÇ",
+        "weight": 58,
+        "age": 5,
+        "form": "1319-14",
+        "odds": 4.75
+      },
+      {
+        "no": "3",
+        "name": "INEVITABLE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KADİR BALTACI",
+        "weight": 58,
+        "age": 5,
+        "form": "145132",
+        "odds": 83.4
+      },
+      {
+        "no": "4",
+        "name": "MADRAS",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "FERDİ KİP",
+        "weight": 58,
+        "age": 5,
+        "form": "2771-63",
+        "odds": 3.95
+      },
+      {
+        "no": "5",
+        "name": "RİYAKAR",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MEHMET DAŞ",
+        "weight": 58,
+        "age": 5,
+        "form": "212342",
+        "odds": 5.4
+      },
+      {
+        "no": "6",
+        "name": "SPECIAL MAN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 58,
+        "age": 4,
+        "form": "2-13231",
+        "odds": 4.9
+      },
+      {
+        "no": "7",
+        "name": "TONBİ",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "ZAFER TEMUÇİN",
+        "weight": 58,
+        "age": 4,
+        "form": "698-512",
+        "odds": 5.4
+      },
+      {
+        "no": "8",
+        "name": "TOUCH THE MOON",
+        "jockey": "SELİM KAYA",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 4,
+        "form": "6834-68",
+        "odds": 9.2
+      },
+      {
+        "no": "9",
+        "name": "WOLF SEYFO",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "age": 5,
+        "form": "8-13423",
+        "odds": 3.1
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "19:00",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "G 2/DHT",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AZAPKAPI",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 59.5,
+        "age": 6,
+        "form": "5-24281",
+        "odds": 33.65
+      },
+      {
+        "no": "2",
+        "name": "GİRDABIN OĞLU",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "EMRAH ÇUKURKAŞ",
+        "weight": 59.5,
+        "age": 6,
+        "form": "249264",
+        "odds": 11.85
+      },
+      {
+        "no": "3",
+        "name": "KRALKARINCA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 59.5,
+        "age": 5,
+        "form": "5-90206",
+        "odds": 6
+      },
+      {
+        "no": "4",
+        "name": "MUZATCAN",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MUHARREM CAN",
+        "weight": 59.5,
+        "age": 6,
+        "form": "116251",
+        "odds": 50.5
+      },
+      {
+        "no": "5",
+        "name": "SEYRET BENİ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 59.5,
+        "age": 5,
+        "form": "713165",
+        "odds": 15.5
+      },
+      {
+        "no": "6",
+        "name": "ŞENALPTUĞ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 59.5,
+        "age": 5,
+        "form": "224-139",
+        "odds": 77.7
+      },
+      {
+        "no": "7",
+        "name": "ZİNCİR KOPARAN",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 59.5,
+        "age": 6,
+        "form": "774025",
+        "odds": 2.7
+      },
+      {
+        "no": "8",
+        "name": "AĞIR OĞLUM",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "CASIM KATI",
+        "weight": 58,
+        "age": 4,
+        "form": "227-222",
+        "odds": 3.2
+      },
+      {
+        "no": "9",
+        "name": "DORUKBATUR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KEMAL DEMİR",
+        "weight": 58,
+        "age": 4,
+        "form": "1-76131",
+        "odds": 8.6
+      },
+      {
+        "no": "10",
+        "name": "SEMENDHAN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SERVET DOĞAN",
+        "weight": 58,
+        "age": 4,
+        "form": "966151",
+        "odds": 6.9
+      },
+      {
+        "no": "11",
+        "name": "GÖZPINARI",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 57.5,
+        "age": 7,
+        "form": "2-11391",
+        "odds": 12.45
+      },
+      {
+        "no": "12",
+        "name": "KALBİMDESİN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 57.5,
+        "age": 6,
+        "form": "1-12347",
+        "odds": 28.85
+      },
+      {
+        "no": "13",
+        "name": "MİNİK ANNE",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 57.5,
+        "age": 6,
+        "form": "764182",
+        "odds": 20.2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 9,
+    "venue": "İstanbul",
+    "hipodromName": "Veliefendi",
+    "time": "19:45",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "G 2/Dişi",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": "Biraz",
+    "weatherCondition": "Az Bulutlu",
+    "temperature": 27,
+    "humidity": 49,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AINT NOBODY",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 58,
+        "age": 3,
+        "form": "321527",
+        "odds": 1.05
+      },
+      {
+        "no": "2",
+        "name": "BOLD STEPS",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "TUNCAY YILMAZ",
+        "weight": 58,
+        "age": 3,
+        "form": "069837",
+        "odds": 30.3
+      },
+      {
+        "no": "3",
+        "name": "GARBIN AFAKI",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "UĞUR KULAK",
+        "weight": 58,
+        "age": 3,
+        "form": "6-19823",
+        "odds": 28.6
+      },
+      {
+        "no": "4",
+        "name": "HAŞARI",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 58,
+        "age": 3,
+        "form": "548394",
+        "odds": 157.4
+      },
+      {
+        "no": "5",
+        "name": "KEMALS OMA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "CANER AKGÜL",
+        "weight": 58,
+        "age": 3,
+        "form": "54-6310",
+        "odds": 202.35
+      },
+      {
+        "no": "6",
+        "name": "LOCO SUGAR (IRE)",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "332-311",
+        "odds": 3.2
+      },
+      {
+        "no": "7",
+        "name": "NAERYS",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "AHMET AKBULUT",
+        "weight": 58,
+        "age": 3,
+        "form": "211",
+        "odds": 50.55
+      },
+      {
+        "no": "8",
+        "name": "PRENSES BELBUS",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "YAKUP ÇAĞLAR",
+        "weight": 58,
+        "age": 3,
+        "form": "41-51",
+        "odds": 10.75
+      },
+      {
+        "no": "9",
+        "name": "RICHWOOD",
+        "jockey": "MEHMET KAYA",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 58,
+        "age": 3,
+        "form": "6-58253",
+        "odds": 52.45
+      },
+      {
+        "no": "10",
+        "name": "STAR RUNNER",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 58,
+        "age": 3,
+        "form": "1-21134",
+        "odds": 125.9
+      },
+      {
+        "no": "11",
+        "name": "TIZ A BELLA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 58,
+        "age": 3,
+        "form": "333111",
+        "odds": 161.9
+      },
+      {
+        "no": "12",
+        "name": "VERAGORN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YAKUP ÇAĞLAR",
+        "weight": 58,
+        "age": 3,
+        "form": "374436",
+        "odds": 83.3
+      },
+      {
+        "no": "13",
+        "name": "WHISPER OF VICTORY",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 3,
+        "form": "252321",
+        "odds": 53.95
+      },
+      {
+        "no": "14",
+        "name": "ZEYREK",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MURAT ALAÇAM",
+        "weight": 58,
+        "age": 3,
+        "form": "365714",
+        "odds": 138.2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "18:15",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "CAZATOR DE OSOS",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 4,
+        "form": "104526",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "CHARABANC",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MURAT AKKILIÇ",
+        "weight": 58,
+        "age": 5,
+        "form": "1319-14",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "INEVITABLE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KADİR BALTACI",
+        "weight": 58,
+        "age": 5,
+        "form": "145132",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "MADRAS",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "FERDİ KİP",
+        "weight": 58,
+        "age": 5,
+        "form": "2771-63",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "RİYAKAR",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MEHMET DAŞ",
+        "weight": 58,
+        "age": 5,
+        "form": "212342",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "SPECIAL MAN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 58,
+        "age": 4,
+        "form": "2-13231",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "TONBİ",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "ZAFER TEMUÇİN",
+        "weight": 58,
+        "age": 4,
+        "form": "698-512",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "TOUCH THE MOON",
+        "jockey": "SELİM KAYA",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 4,
+        "form": "6834-68",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "WOLF SEYFO",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "age": 5,
+        "form": "8-13423",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "19:00",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AZAPKAPI",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 59.5,
+        "age": 6,
+        "form": "5-24281",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "GİRDABIN OĞLU",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "EMRAH ÇUKURKAŞ",
+        "weight": 59.5,
+        "age": 6,
+        "form": "249264",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "KRALKARINCA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 59.5,
+        "age": 5,
+        "form": "5-90206",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "MUZATCAN",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MUHARREM CAN",
+        "weight": 59.5,
+        "age": 6,
+        "form": "116251",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "SEYRET BENİ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 59.5,
+        "age": 5,
+        "form": "713165",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "ŞENALPTUĞ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 59.5,
+        "age": 5,
+        "form": "224-139",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "ZİNCİR KOPARAN",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 59.5,
+        "age": 6,
+        "form": "774025",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "AĞIR OĞLUM",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "CASIM KATI",
+        "weight": 58,
+        "age": 4,
+        "form": "227-222",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "DORUKBATUR",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KEMAL DEMİR",
+        "weight": 58,
+        "age": 4,
+        "form": "1-76131",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "SEMENDHAN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SERVET DOĞAN",
+        "weight": 58,
+        "age": 4,
+        "form": "966151",
+        "odds": 0
+      },
+      {
+        "no": "11",
+        "name": "GÖZPINARI",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CENGİZ AYDOĞAN",
+        "weight": 57.5,
+        "age": 7,
+        "form": "2-11391",
+        "odds": 0
+      },
+      {
+        "no": "12",
+        "name": "KALBİMDESİN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 57.5,
+        "age": 6,
+        "form": "1-12347",
+        "odds": 0
+      },
+      {
+        "no": "13",
+        "name": "MİNİK ANNE",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 57.5,
+        "age": 6,
+        "form": "764182",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "19:45",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AINT NOBODY",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 58,
+        "age": 3,
+        "form": "321527",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "BOLD STEPS",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "TUNCAY YILMAZ",
+        "weight": 58,
+        "age": 3,
+        "form": "069837",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "GARBIN AFAKI",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "UĞUR KULAK",
+        "weight": 58,
+        "age": 3,
+        "form": "6-19823",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "HAŞARI",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 58,
+        "age": 3,
+        "form": "548394",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "KEMALS OMA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "CANER AKGÜL",
+        "weight": 58,
+        "age": 3,
+        "form": "54-6310",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "LOCO SUGAR (IRE)",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "age": 3,
+        "form": "332-311",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "NAERYS",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "AHMET AKBULUT",
+        "weight": 58,
+        "age": 3,
+        "form": "211",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "PRENSES BELBUS",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "YAKUP ÇAĞLAR",
+        "weight": 58,
+        "age": 3,
+        "form": "41-51",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "RICHWOOD",
+        "jockey": "MEHMET KAYA",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 58,
+        "age": 3,
+        "form": "6-58253",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "STAR RUNNER",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 58,
+        "age": 3,
+        "form": "1-21134",
+        "odds": 0
+      },
+      {
+        "no": "11",
+        "name": "TIZ A BELLA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 58,
+        "age": 3,
+        "form": "333111",
+        "odds": 0
+      },
+      {
+        "no": "12",
+        "name": "VERAGORN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YAKUP ÇAĞLAR",
+        "weight": 58,
+        "age": 3,
+        "form": "374436",
+        "odds": 0
+      },
+      {
+        "no": "13",
+        "name": "WHISPER OF VICTORY",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "age": 3,
+        "form": "252321",
+        "odds": 0
+      },
+      {
+        "no": "14",
+        "name": "ZEYREK",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MURAT ALAÇAM",
+        "weight": 58,
+        "age": 3,
+        "form": "365714",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "20:30",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "SİSU",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 54,
+        "age": 3,
+        "form": "417831",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "LITTLE JOE",
+        "jockey": "MÜRSEL KAYİŞ",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 61,
+        "age": 4,
+        "form": "075743",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "FORTUNELLO",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 61,
+        "age": 7,
+        "form": "673667",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "BAHİSÇİ",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "MEHMET BULUT",
+        "weight": 57.5,
+        "age": 4,
+        "form": "824892",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "TAŞDEMİR HAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 52,
+        "age": 3,
+        "form": "515821",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "RAMONA",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "ALİCAN ÖKSÜZLER",
+        "weight": 55,
+        "age": 4,
+        "form": "325661",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "ASİLİKOM",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 55,
+        "age": 5,
+        "form": "4-70015",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "DOĞU ASLANI",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 54,
+        "age": 4,
+        "form": "240078",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "WINGS OF FREEDOM",
+        "jockey": "METE GÖL",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 51,
+        "age": 4,
+        "form": "534566",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "F THIRTY FIVE",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "ÇETİN ÖZDİL",
+        "weight": 54.5,
+        "age": 5,
+        "form": "403414",
+        "odds": 0
+      },
+      {
+        "no": "11",
+        "name": "SİYAH KRAL",
+        "jockey": "İSMAİL KALE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 52,
+        "age": 4,
+        "form": "007484",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "21:00",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "KOĞ TEPESİ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 60,
+        "age": 4,
+        "form": "112312",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "TAHSİN SEFA",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 60,
+        "age": 4,
+        "form": "222128",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "ILDIRLI",
+        "jockey": "EFE AKPINAR",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 60,
+        "age": 10,
+        "form": "417783",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "TURBO KING",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 61,
+        "age": 5,
+        "form": "694482",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "KAZANCI",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 60.5,
+        "age": 8,
+        "form": "645508",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "BARBUDA",
+        "jockey": "RECEP KETME",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 58,
+        "age": 5,
+        "form": "633780",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "ÇEŞME KALESİ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 61,
+        "age": 5,
+        "form": "3-19537",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "KIVILCIM ATEŞİ",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 57,
+        "age": 4,
+        "form": "436656",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "JÖN ROME",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55.5,
+        "age": 4,
+        "form": "332465",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "HALAY",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 58.5,
+        "age": 8,
+        "form": "556-609",
+        "odds": 0
+      },
+      {
+        "no": "11",
+        "name": "ŞİFNE EFESİ",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "FATİH ŞEN",
+        "weight": 54.5,
+        "age": 10,
+        "form": "997734",
+        "odds": 0
+      },
+      {
+        "no": "12",
+        "name": "GÜRSELHAN",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 52,
+        "age": 6,
+        "form": "703340",
+        "odds": 0
+      },
+      {
+        "no": "13",
+        "name": "SARSALA",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "MUSTAFA YAYAN",
+        "weight": 52,
+        "age": 5,
+        "form": "307897",
+        "odds": 0
+      },
+      {
+        "no": "14",
+        "name": "MERTCAN TAY",
+        "jockey": "EREN DURSUN ÖKTEN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 51,
+        "age": 6,
+        "form": "013854",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "Karma",
+    "hipodromName": "Veliefendi",
+    "time": "21:30",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BOARDING PASS",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "LEVENT BERKOL",
+        "weight": 60,
+        "age": 5,
+        "form": "247268",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "MERCİA",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 56,
+        "age": 4,
+        "form": "868097",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "MUCHACHO",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 57,
+        "age": 4,
+        "form": "264224",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "MUĞLALI ADNAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 57,
+        "age": 5,
+        "form": "484525",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "BLACK GALAXY",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "BEGÜM GÜL",
+        "weight": 57,
+        "age": 4,
+        "form": "355532",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "BUCALI BERAT",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEDA UYSAL",
+        "weight": 56,
+        "age": 4,
+        "form": "322-542",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "DEDİYDİM",
+        "jockey": "EFE AKPINAR",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 55,
+        "age": 4,
+        "form": "805359",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "EVERYTHING ALRIGHT",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56,
+        "age": 6,
+        "form": "373-497",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "MANCUNIAN BEDİİ",
+        "jockey": "RECEP KETME",
+        "trainer": "GÖKHAN ER",
+        "weight": 52,
+        "age": 5,
+        "form": "208674",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "YURT BAŞI",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 56,
+        "age": 5,
+        "form": "1659-76",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "20:10",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "CELESTIAL EXPRESS (USA)",
+        "jockey": "CESAR GONZALEZ",
+        "trainer": "DOUGLAS J. SEYLER",
+        "weight": 55,
+        "age": 5,
+        "form": "574764",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "TOUR JETE (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "FERNANDO ABREU",
+        "weight": 55,
+        "age": 5,
+        "form": "5256-68",
+        "odds": 3.35
+      },
+      {
+        "no": "3",
+        "name": "TIZNOW MAMA (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "CHAD SUMMERS",
+        "weight": 56,
+        "age": 6,
+        "form": "815-170",
+        "odds": 3.35
+      },
+      {
+        "no": "4",
+        "name": "HAUNTRESS (USA)",
+        "jockey": "DALILA A. RIVERA",
+        "trainer": "ANTONIO ARRIAGA",
+        "weight": 55,
+        "age": 5,
+        "form": "4-68829",
+        "odds": 3.35
+      },
+      {
+        "no": "5",
+        "name": "TOP OF THE TABLE (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "LINDA RICE",
+        "weight": 56,
+        "age": 5,
+        "form": "97-2132",
+        "odds": 3.35
+      },
+      {
+        "no": "6",
+        "name": "MISS LAO (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "MERTKAN KANTARMACI",
+        "weight": 56,
+        "age": 5,
+        "form": "232771",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "TONGUE TWISTER (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "KERI BRION",
+        "weight": 55,
+        "age": 5,
+        "form": "34256-7",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "BABY SASSICAIA (USA)",
+        "jockey": "HEMAN K. HARKIE",
+        "trainer": "NORMAN C. FOLLETT",
+        "weight": 56,
+        "age": 5,
+        "form": "641125",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "LINARITE (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "MICHAEL MICELI",
+        "weight": 55,
+        "age": 7,
+        "form": "4266-24",
+        "odds": 3.35
+      },
+      {
+        "no": "10",
+        "name": "PISTOL LIZ ABLAZEN (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "GUSTAVO RODRIGUEZ",
+        "weight": 55,
+        "age": 7,
+        "form": "14-2366",
+        "odds": 999.99
+      },
+      {
+        "no": "11",
+        "name": "THAT'S FUNNY (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 56,
+        "age": 4,
+        "form": "5-13174",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "20:48",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "INTO THE UNKNOWN (USA)",
+        "jockey": "CHRISTOPHER ELLIOTT",
+        "trainer": "RACHEL SELLS",
+        "weight": 54.5,
+        "age": 3,
+        "form": "532",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "BOUNDING ALONG (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "ROBERT N. FALCONE, JR.",
+        "weight": 54.5,
+        "age": 3,
+        "form": "2",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "MY FIRST DINAH (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "EDUARDO E. JONES",
+        "weight": 54.5,
+        "age": 3,
+        "form": "247",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "CLOSE THE LOOP (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "CHAD C. BROWN",
+        "weight": 54.5,
+        "age": 3,
+        "form": "2",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "TACTICALLY (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "THOMAS MORLEY",
+        "weight": 54.5,
+        "age": 3,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "GOTTA GUN RUNNER (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "JORGE R. ABREU",
+        "weight": 54.5,
+        "age": 3,
+        "form": "957",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "BIG JACKIE (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "JAMES W. FERRARO",
+        "weight": 54.5,
+        "age": 3,
+        "form": "77844",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "21:21",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "T KRAFT (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "WILLIAM I. MOTT",
+        "weight": 56,
+        "age": 4,
+        "form": "1155-41",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "OVER AND OLLIE (CAN)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "RICHARD E. DUTROW, JR.",
+        "weight": 56,
+        "age": 6,
+        "form": "651-672",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "IGNITE THE LIGHT (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "RICHARD E. DUTROW, JR.",
+        "weight": 56,
+        "age": 5,
+        "form": "574-121",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "ACOUSTIC AVE (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "LINDA RICE",
+        "weight": 56,
+        "age": 6,
+        "form": "4-12452",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "ROOKIE CARD (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "DANNY GARGAN",
+        "weight": 56,
+        "age": 4,
+        "form": "7156-15",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "RADIO RED (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "DANNY GARGAN",
+        "weight": 56,
+        "age": 6,
+        "form": "148-114",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "EL GRANDE O (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "LINDA RICE",
+        "weight": 56,
+        "age": 5,
+        "form": "614-614",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "LIGHT MAN (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "BRUCE N. LEVINE",
+        "weight": 55,
+        "age": 6,
+        "form": "6-334-42",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "21:54",
+    "distance": 1700,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "LONCHURA (USA)",
+        "jockey": "FAVINHO VILLA PINO",
+        "trainer": "OSCAR S. BARRERA III",
+        "weight": 57,
+        "age": 5,
+        "form": "5-51-767",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "SHE TAKES CASH (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "CHRIS J. ENGLEHART",
+        "weight": 57,
+        "age": 5,
+        "form": "541-523",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "STARSHIP PEGASUS (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "MICHELLE NEVIN",
+        "weight": 57,
+        "age": 4,
+        "form": "5616",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "FABULOUS FOX (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "M. ANTHONY FERRARO",
+        "weight": 57,
+        "age": 5,
+        "form": "0122-55",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "CONSIDERATE CITY (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "JAMES W. FERRARO",
+        "weight": 54.5,
+        "age": 3,
+        "form": "2257-32",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "COSMIC CANDY GIRL (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "JAMES T. RYERSON",
+        "weight": 54.5,
+        "age": 3,
+        "form": "2212-33",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "BERTRILLE (USA)",
+        "jockey": "DALILA A. RIVERA",
+        "trainer": "CHARLTON BAKER",
+        "weight": 57,
+        "age": 5,
+        "form": "4-75683",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "BOOMINGTON (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "GEORGE WEAVER",
+        "weight": 54.5,
+        "age": 3,
+        "form": "193-6",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "FULL POUR (USA)",
+        "jockey": ".",
+        "trainer": "MARK A. HENNIG",
+        "weight": 57,
+        "age": 4,
+        "form": "33-1446",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "TIMIA (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "WAYNE POTTS",
+        "weight": 57,
+        "age": 4,
+        "form": "232223",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "22:27",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "OLIVIA'S GRACE (USA)",
+        "jockey": "CHRISTOPHER ELLIOTT",
+        "trainer": "MELANIE GIDDINGS",
+        "weight": 57,
+        "age": 4,
+        "form": "2219-30",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "CHARLOTTESUNIVERSE (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "MARK E. CASSE",
+        "weight": 55,
+        "age": 3,
+        "form": "428-1",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "DISCO STAR (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "MARK E. CASSE",
+        "weight": 57,
+        "age": 4,
+        "form": "4246-23",
+        "odds": 1.05
+      },
+      {
+        "no": "4",
+        "name": "TWIRLING LULU (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "BRUCE N. LEVINE",
+        "weight": 57,
+        "age": 4,
+        "form": "19-3551",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "ORIOLE WAY (USA)",
+        "jockey": "ELISEO RUIZ",
+        "trainer": "FELIX L. FLORES-COBA",
+        "weight": 55,
+        "age": 3,
+        "form": "12",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "TENACIOUS CHILD (USA)",
+        "jockey": "DALILA A. RIVERA",
+        "trainer": "GEORGE WEAVER",
+        "weight": 55,
+        "age": 3,
+        "form": "51548",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "FAIRY GODMOTHER (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "RAYMOND HANDAL",
+        "weight": 55,
+        "age": 3,
+        "form": "56-631",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "BOSTON'S PHINEST (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "BRUCE R. BROWN",
+        "weight": 57,
+        "age": 4,
+        "form": "4235-32",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "DANCINGWITHDESTINY (USA)",
+        "jockey": "JULIO A. HERNANDEZ",
+        "trainer": "MICHAEL DINI",
+        "weight": 55,
+        "age": 3,
+        "form": "313-5",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "JULIET ON APPROACH (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "JAMES BENTLEY BEGG",
+        "weight": 57,
+        "age": 4,
+        "form": "5-35315",
+        "odds": 999.99
+      },
+      {
+        "no": "11",
+        "name": "MARIA CALLAS (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "CHAD C. BROWN",
+        "weight": 55,
+        "age": 3,
+        "form": "915",
+        "odds": 999.99
+      },
+      {
+        "no": "12",
+        "name": "SHE'S OUR TIZ (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "MICHELLE GIANGIULIO",
+        "weight": 57,
+        "age": 4,
+        "form": "53-3340",
+        "odds": 999.99
+      },
+      {
+        "no": "13",
+        "name": "ISHKABIBBLE (USA)",
+        "jockey": "KATIE DAVIS",
+        "trainer": "EMRON IBRAHIM",
+        "weight": 55,
+        "age": 3,
+        "form": "931582",
+        "odds": 999.99
+      },
+      {
+        "no": "14",
+        "name": "OKLAHOMA SMOKE (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "ADAM RICE",
+        "weight": 57,
+        "age": 4,
+        "form": "1-651",
+        "odds": 999.99
+      },
+      {
+        "no": "15",
+        "name": "SUNSHINE LILY (USA)",
+        "jockey": ".",
+        "trainer": "GREGORY DIPRIMA",
+        "weight": 57,
+        "age": 4,
+        "form": "4-48326",
+        "odds": 999.99
+      },
+      {
+        "no": "16",
+        "name": "SABBY SUNSET (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 57,
+        "age": 4,
+        "form": "171743",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "23:00",
+    "distance": 1800,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "GEORGIA MAGIC (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "STEVEN I. SCHAUER",
+        "weight": 57,
+        "age": 4,
+        "form": "4-53424",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "EZ ROLL (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "RAYMOND HANDAL",
+        "weight": 57,
+        "age": 5,
+        "form": "7-21131",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "GRAND COMMANDER (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "WAYNE POTTS",
+        "weight": 57,
+        "age": 4,
+        "form": "351261",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "WILLINTORISKITALL (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "RICHARD E. DUTROW, JR.",
+        "weight": 57,
+        "age": 6,
+        "form": "3-41554",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "INDY RAGS (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "MICHELLE GIANGIULIO",
+        "weight": 57,
+        "age": 4,
+        "form": "71-5212",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "REGISTER (USA)",
+        "jockey": "SILVESTRE GONZALEZ",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 57,
+        "age": 6,
+        "form": "2-86153",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "APALTA (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 57,
+        "age": 4,
+        "form": "1-51515",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "RUN QUIET RUN FAST (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "THOMAS MORLEY",
+        "weight": 57,
+        "age": 4,
+        "form": "37-8464",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "SENEGAL (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "THOMAS MORLEY",
+        "weight": 57,
+        "age": 5,
+        "form": "6-11523",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "FIRST BLESSING (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "JOSE M. JIMENEZ",
+        "weight": 54.5,
+        "age": 3,
+        "form": "321343",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 7,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "23:34",
+    "distance": 1700,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ROSSBEIGH (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "MIGUEL CLEMENT",
+        "weight": 57,
+        "age": 4,
+        "form": "2-3",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "FREE REFILLS (USA)",
+        "jockey": "CHRISTOPHER ELLIOTT",
+        "trainer": "KERI BRION",
+        "weight": 54.5,
+        "age": 3,
+        "form": "454",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "BEAU CHEVAL (USA)",
+        "jockey": "JAVIER CASTELLANO",
+        "trainer": "JAMES BENTLEY BEGG",
+        "weight": 54.5,
+        "age": 3,
+        "form": "7645",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "BOOTSY'S A RASCAL (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "DOMENICK L. SCHETTINO",
+        "weight": 54.5,
+        "age": 3,
+        "form": "23-4984",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "MAMBO WISHES (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "LISA L. LUGOVICH",
+        "weight": 54.5,
+        "age": 3,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "G FIVE (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "MICHELLE NEVIN",
+        "weight": 57,
+        "age": 4,
+        "form": "9-753-88",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "D C BOY'S (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "MICHAEL J. MAKER",
+        "weight": 57,
+        "age": 5,
+        "form": "533-4-7",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "NONNO JOE (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "RUDY R. RODRIGUEZ",
+        "weight": 57,
+        "age": 4,
+        "form": "46-4664",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "BIG FROSTY (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "STEVEN HAMPSON",
+        "weight": 54.5,
+        "age": 3,
+        "form": "9-2",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "BOURBONCENTRIC (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "THOMAS MORLEY",
+        "weight": 54.5,
+        "age": 3,
+        "form": "6",
+        "odds": 999.99
+      },
+      {
+        "no": "11",
+        "name": "PILOT KNOB (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "BRUCE R. BROWN",
+        "weight": 54.5,
+        "age": 3,
+        "form": "65849",
+        "odds": 999.99
+      },
+      {
+        "no": "12",
+        "name": "ROCOLINO (USA)",
+        "jockey": "KATIE DAVIS",
+        "trainer": "LOLITA SHIVMANGAL",
+        "weight": 54.5,
+        "age": 3,
+        "form": "68",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 8,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "00:08",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "SOLOSHOT (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "AMELIA J. GREEN",
+        "weight": 56,
+        "age": 5,
+        "form": "7-53312",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "MZ BIG BUCKS (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "MICHELLE NEVIN",
+        "weight": 56,
+        "age": 6,
+        "form": "18-8472",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "SPINNING COLORS (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "MARK A. HENNIG",
+        "weight": 57,
+        "age": 6,
+        "form": "756-375",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "WITH THE ANGELS (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "LINDA RICE",
+        "weight": 57,
+        "age": 4,
+        "form": "122-114",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "SILSBEE (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "GEORGE WEAVER",
+        "weight": 56,
+        "age": 4,
+        "form": "14311-2",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "HIGHWAY HARMONY (USA)",
+        "jockey": "EDGARD J. ZAYAS",
+        "trainer": "AMELIA J. GREEN",
+        "weight": 56,
+        "age": 6,
+        "form": "1-64-111",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "BLOSSOMING ERUDITE (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "JOE SHARP",
+        "weight": 56,
+        "age": 4,
+        "form": "6611-92",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "SWEET BROWN SUGAR (USA)",
+        "jockey": "DYLAN DAVIS",
+        "trainer": "ROB ATRAS",
+        "weight": 56,
+        "age": 5,
+        "form": "22-3322",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "SUNDAY GIRL (USA)",
+        "jockey": "KATIE DAVIS",
+        "trainer": "DAVID P. DUGGAN",
+        "weight": 57,
+        "age": 5,
+        "form": "73464-2",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "BAM'S BLISS KISS (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "JORGE R. ABREU",
+        "weight": 57,
+        "age": 4,
+        "form": "111-111",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 9,
+    "venue": "Belmont At The Big A ABD",
+    "hipodromName": "Belmont At The Big A ABD",
+    "time": "00:44",
+    "distance": 1800,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "HIGH TIDE (USA)",
+        "jockey": "REYLU GUTIERREZ",
+        "trainer": "NAIPAUL CHATTERPAUL",
+        "weight": 57,
+        "age": 9,
+        "form": "63-4347",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "SHARP SPARK (USA)",
+        "jockey": "MANUEL FRANCO",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 57,
+        "age": 5,
+        "form": "312172",
+        "odds": 1.05
+      },
+      {
+        "no": "3",
+        "name": "MISSOURI RIVER (USA)",
+        "jockey": "RUBEN SILVERA",
+        "trainer": "MICHAEL V. PINO",
+        "weight": 57,
+        "age": 5,
+        "form": "5-35251",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "ASSUME NOTHING (USA)",
+        "jockey": "JAIME RODRIGUEZ",
+        "trainer": "JAMIE NESS",
+        "weight": 57,
+        "age": 6,
+        "form": "15-82-61",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "TRUSTY RUSTY (USA)",
+        "jockey": "KENDRICK CARMOUCHE",
+        "trainer": "ROBERT B. HESS, JR.",
+        "weight": 57,
+        "age": 6,
+        "form": "91-2222",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "TIZMARKUS (USA)",
+        "jockey": "JOSE LEZCANO",
+        "trainer": "JAMES W. FERRARO",
+        "weight": 57,
+        "age": 5,
+        "form": "561731",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "CENTAVO (USA)",
+        "jockey": "OMAR HERNANDEZ MORENO",
+        "trainer": "NAIPAUL CHATTERPAUL",
+        "weight": 57,
+        "age": 8,
+        "form": "144065",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "SARA'S SHAMAN (USA)",
+        "jockey": "SILVESTRE GONZALEZ",
+        "trainer": "ILKAY KANTARMACI",
+        "weight": 57,
+        "age": 6,
+        "form": "267364",
+        "odds": 1.05
+      },
+      {
+        "no": "9",
+        "name": "PEEK (USA)",
+        "jockey": "DALILA A. RIVERA",
+        "trainer": "RUDY R. RODRIGUEZ",
+        "weight": 57,
+        "age": 6,
+        "form": "12-6612",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "CONCORDE SPIRIT (USA)",
+        "jockey": "RICARDO SANTANA, JR.",
+        "trainer": "GUSTAVO RODRIGUEZ",
+        "weight": 57,
+        "age": 5,
+        "form": "25-1523",
+        "odds": 999.99
+      },
+      {
+        "no": "11",
+        "name": "LIFE AND LIGHT (CAN)",
+        "jockey": "CHRISTOPHER ELLIOTT",
+        "trainer": "EDMUND PRINGLE",
+        "weight": 57,
+        "age": 6,
+        "form": "7-14434",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "20:30",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 15 /H2",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "SİSU",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 54,
+        "age": 3,
+        "form": "417831",
+        "odds": 3.25
+      },
+      {
+        "no": "2",
+        "name": "LITTLE JOE",
+        "jockey": "MÜRSEL KAYİŞ",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 61,
+        "age": 4,
+        "form": "075743",
+        "odds": 5.55
+      },
+      {
+        "no": "3",
+        "name": "FORTUNELLO",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 61,
+        "age": 7,
+        "form": "673667",
+        "odds": 239.95
+      },
+      {
+        "no": "4",
+        "name": "BAHİSÇİ",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "MEHMET BULUT",
+        "weight": 57.5,
+        "age": 4,
+        "form": "824892",
+        "odds": 2.55
+      },
+      {
+        "no": "5",
+        "name": "TAŞDEMİR HAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 52,
+        "age": 3,
+        "form": "515821",
+        "odds": 7.25
+      },
+      {
+        "no": "6",
+        "name": "RAMONA",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "ALİCAN ÖKSÜZLER",
+        "weight": 55,
+        "age": 4,
+        "form": "325661",
+        "odds": 43.6
+      },
+      {
+        "no": "7",
+        "name": "ASİLİKOM",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 55,
+        "age": 5,
+        "form": "4-70015",
+        "odds": 5.25
+      },
+      {
+        "no": "8",
+        "name": "DOĞU ASLANI",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 54,
+        "age": 4,
+        "form": "240078",
+        "odds": 239.95
+      },
+      {
+        "no": "9",
+        "name": "WINGS OF FREEDOM",
+        "jockey": "METE GÖL",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 51,
+        "age": 4,
+        "form": "534566",
+        "odds": 68.55
+      },
+      {
+        "no": "10",
+        "name": "F THIRTY FIVE",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "ÇETİN ÖZDİL",
+        "weight": 54.5,
+        "age": 5,
+        "form": "403414",
+        "odds": 7.15
+      },
+      {
+        "no": "11",
+        "name": "SİYAH KRAL",
+        "jockey": "İSMAİL KALE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 52,
+        "age": 4,
+        "form": "007484",
+        "odds": 10.4
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "21:00",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "Handikap 17/DHÖ /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "KOĞ TEPESİ",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 60,
+        "age": 4,
+        "form": "112312",
+        "odds": 3
+      },
+      {
+        "no": "2",
+        "name": "TAHSİN SEFA",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 60,
+        "age": 4,
+        "form": "222128",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "ILDIRLI",
+        "jockey": "EFE AKPINAR",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 60,
+        "age": 10,
+        "form": "417783",
+        "odds": 6.35
+      },
+      {
+        "no": "4",
+        "name": "TURBO KING",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ALİ AYDOĞAN",
+        "weight": 61,
+        "age": 5,
+        "form": "694482",
+        "odds": 82.65
+      },
+      {
+        "no": "5",
+        "name": "KAZANCI",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 60.5,
+        "age": 8,
+        "form": "645508",
+        "odds": 165.35
+      },
+      {
+        "no": "6",
+        "name": "BARBUDA",
+        "jockey": "RECEP KETME",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 58,
+        "age": 5,
+        "form": "633780",
+        "odds": 4.35
+      },
+      {
+        "no": "7",
+        "name": "ÇEŞME KALESİ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 61,
+        "age": 5,
+        "form": "3-19537",
+        "odds": 27.55
+      },
+      {
+        "no": "8",
+        "name": "KIVILCIM ATEŞİ",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 57,
+        "age": 4,
+        "form": "436656",
+        "odds": 12.7
+      },
+      {
+        "no": "9",
+        "name": "JÖN ROME",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55.5,
+        "age": 4,
+        "form": "332465",
+        "odds": 82.65
+      },
+      {
+        "no": "10",
+        "name": "HALAY",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 58.5,
+        "age": 8,
+        "form": "556-609",
+        "odds": 165.35
+      },
+      {
+        "no": "11",
+        "name": "ŞİFNE EFESİ",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "FATİH ŞEN",
+        "weight": 54.5,
+        "age": 10,
+        "form": "997734",
+        "odds": 2.6
+      },
+      {
+        "no": "12",
+        "name": "GÜRSELHAN",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 52,
+        "age": 6,
+        "form": "703340",
+        "odds": 10.3
+      },
+      {
+        "no": "13",
+        "name": "SARSALA",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "MUSTAFA YAYAN",
+        "weight": 52,
+        "age": 5,
+        "form": "307897",
+        "odds": 165.35
+      },
+      {
+        "no": "14",
+        "name": "MERTCAN TAY",
+        "jockey": "EREN DURSUN ÖKTEN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 51,
+        "age": 6,
+        "form": "013854",
+        "odds": 7.85
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "21:30",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "BOARDING PASS",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "LEVENT BERKOL",
+        "weight": 60,
+        "age": 5,
+        "form": "247268",
+        "odds": 23.3
+      },
+      {
+        "no": "2",
+        "name": "MERCİA",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 56,
+        "age": 4,
+        "form": "868097",
+        "odds": 104.95
+      },
+      {
+        "no": "3",
+        "name": "MUCHACHO",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 57,
+        "age": 4,
+        "form": "264224",
+        "odds": 34.95
+      },
+      {
+        "no": "4",
+        "name": "MUĞLALI ADNAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 57,
+        "age": 5,
+        "form": "484525",
+        "odds": 1.95
+      },
+      {
+        "no": "5",
+        "name": "BLACK GALAXY",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "BEGÜM GÜL",
+        "weight": 57,
+        "age": 4,
+        "form": "355532",
+        "odds": 1.85
+      },
+      {
+        "no": "6",
+        "name": "BUCALI BERAT",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEDA UYSAL",
+        "weight": 56,
+        "age": 4,
+        "form": "322-542",
+        "odds": 3.3
+      },
+      {
+        "no": "7",
+        "name": "DEDİYDİM",
+        "jockey": "EFE AKPINAR",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 55,
+        "age": 4,
+        "form": "805359",
+        "odds": 104.95
+      },
+      {
+        "no": "8",
+        "name": "EVERYTHING ALRIGHT",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56,
+        "age": 6,
+        "form": "373-497",
+        "odds": 104.95
+      },
+      {
+        "no": "9",
+        "name": "MANCUNIAN BEDİİ",
+        "jockey": "RECEP KETME",
+        "trainer": "GÖKHAN ER",
+        "weight": 52,
+        "age": 5,
+        "form": "208674",
+        "odds": 34.95
+      },
+      {
+        "no": "10",
+        "name": "YURT BAŞI",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 56,
+        "age": 5,
+        "form": "1659-76",
+        "odds": 104.95
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "22:00",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 19/Dişi",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ARROW STORM",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 54,
+        "age": 2,
+        "form": "33",
+        "odds": 46.55
+      },
+      {
+        "no": "2",
+        "name": "FLOR DA ROSA",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "ALİ CAN ATAR",
+        "weight": 57,
+        "age": 2,
+        "form": "32",
+        "odds": 1.2
+      },
+      {
+        "no": "3",
+        "name": "LADY ESİN",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 53,
+        "age": 2,
+        "form": "64542",
+        "odds": 46.55
+      },
+      {
+        "no": "4",
+        "name": "ANKA ERÇELİK",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 55,
+        "age": 2,
+        "form": "",
+        "odds": 10.7
+      },
+      {
+        "no": "5",
+        "name": "KAFKASYA GÜLÜ",
+        "jockey": "UĞUR İRTİŞ",
+        "trainer": "ALPHAN ŞEN",
+        "weight": 55,
+        "age": 2,
+        "form": "66756",
+        "odds": 46.55
+      },
+      {
+        "no": "6",
+        "name": "LADY ECRİN",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 55,
+        "age": 2,
+        "form": "4",
+        "odds": 46.55
+      },
+      {
+        "no": "7",
+        "name": "OKLOHAMA",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 52,
+        "age": 2,
+        "form": "55",
+        "odds": 6.05
+      },
+      {
+        "no": "8",
+        "name": "PRINCESS ELİF",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 55,
+        "age": 2,
+        "form": "",
+        "odds": 6.05
+      },
+      {
+        "no": "9",
+        "name": "VİLDANIM",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SEDA UYSAL",
+        "weight": 55,
+        "age": 2,
+        "form": "6",
+        "odds": 6.05
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "22:30",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "RÜZGAR LİDER",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "BEGÜM GÜL",
+        "weight": 58,
+        "age": 3,
+        "form": "143216",
+        "odds": 3
+      },
+      {
+        "no": "2",
+        "name": "TOLPER",
+        "jockey": "EFE AKPINAR",
+        "trainer": "YÜKSEL TALUK",
+        "weight": 57,
+        "age": 3,
+        "form": "544909",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "WALTZ WITH DREAMS",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 57,
+        "age": 3,
+        "form": "134446",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "JANN POLL",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 57,
+        "age": 3,
+        "form": "243323",
+        "odds": 1.05
+      },
+      {
+        "no": "5",
+        "name": "BLACK SHARK",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 58,
+        "age": 3,
+        "form": "137346",
+        "odds": 30.35
+      },
+      {
+        "no": "6",
+        "name": "MORIARTY",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MEHMET BULUT",
+        "weight": 55,
+        "age": 3,
+        "form": "4-31324",
+        "odds": 10.1
+      },
+      {
+        "no": "7",
+        "name": "SINGLE GUN",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 54,
+        "age": 3,
+        "form": "553014",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "EVERMORE",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 54,
+        "age": 3,
+        "form": "5-84580",
+        "odds": 30.35
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "hipodromName": "Şirinyer",
+    "time": "23:00",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/DHÖW /H2",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 33,
+    "humidity": 29,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AYTEKİNBEY",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "MİTHAT YÜKSEL YILDIRIM",
+        "weight": 58,
+        "age": 4,
+        "form": "50-8000",
+        "odds": 4.4
+      },
+      {
+        "no": "2",
+        "name": "MEGAFAUNA",
+        "jockey": "RECEP KETME",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 58,
+        "age": 4,
+        "form": "937170",
+        "odds": 112.35
+      },
+      {
+        "no": "3",
+        "name": "ŞADİNİN OĞLU",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 58,
+        "age": 4,
+        "form": "12",
+        "odds": 4.4
+      },
+      {
+        "no": "4",
+        "name": "GÜÇBATUR",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "FATİH TOSUN",
+        "weight": 59,
+        "age": 4,
+        "form": "086090",
+        "odds": 74.9
+      },
+      {
+        "no": "5",
+        "name": "DEMİRNAL",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 56.5,
+        "age": 4,
+        "form": "236063",
+        "odds": 4.2
+      },
+      {
+        "no": "6",
+        "name": "PERİ ATEŞİ",
+        "jockey": "EFE AKPINAR",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 56.5,
+        "age": 4,
+        "form": "189-00",
+        "odds": 112.35
+      },
+      {
+        "no": "7",
+        "name": "DEMON HUNTER",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 58,
+        "age": 4,
+        "form": "254016",
+        "odds": 12.15
+      },
+      {
+        "no": "8",
+        "name": "BAHTI AÇIK",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55,
+        "age": 4,
+        "form": "066371",
+        "odds": 112.35
+      },
+      {
+        "no": "9",
+        "name": "KUNKANGO",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 55.5,
+        "age": 4,
+        "form": "0-55000",
+        "odds": 5.25
+      },
+      {
+        "no": "10",
+        "name": "ONURSÜREN",
+        "jockey": "MUSTAFA TEKPETEK",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 52,
+        "age": 4,
+        "form": "205760",
+        "odds": 224.75
+      },
+      {
+        "no": "11",
+        "name": "VALİDE NECLA",
+        "jockey": "EREN DURSUN ÖKTEN",
+        "trainer": "LEVENT YAVUZ",
+        "weight": 50,
+        "age": 4,
+        "form": "095",
+        "odds": 224.75
+      },
+      {
+        "no": "12",
+        "name": "GİZLİ YAKUT",
+        "jockey": "ALİBERK METİN",
+        "trainer": "İBRAHİM ALPER TAMER",
+        "weight": 52,
+        "age": 4,
+        "form": "098890",
+        "odds": 224.75
+      },
+      {
+        "no": "13",
+        "name": "EL HAT",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 58,
+        "age": 4,
+        "form": "097928",
+        "odds": 14.5
+      },
+      {
+        "no": "14",
+        "name": "ASEL SULTAN",
+        "jockey": "METE GÖL",
+        "trainer": "MEHMET YALÇIN",
+        "weight": 55,
+        "age": 4,
+        "form": "46740-0",
+        "odds": 10.2
+      },
+      {
+        "no": "15",
+        "name": "TURBO BEYİ",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 57,
+        "age": 4,
+        "form": "054422",
+        "odds": 3.35
+      },
+      {
+        "no": "16",
+        "name": "TAM YOL",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 54.5,
+        "age": 4,
+        "form": "421804",
+        "odds": 5.25
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "21:05",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "VAMOS VIEJO (USA)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "DEBRA E. ROMBIS",
+        "weight": 56,
+        "age": 6,
+        "form": "57-4212",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "ENDRICK (USA)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "WILLIAM THARRENOS",
+        "weight": 55.5,
+        "age": 4,
+        "form": "14-3122",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "CIRCLE BACK JACK (USA)",
+        "jockey": "JEFFREY IAN ALDERSON",
+        "trainer": "JULIE BELHUMEUR",
+        "weight": 55.5,
+        "age": 7,
+        "form": "0-72544",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "EL ALACRAN (USA)",
+        "jockey": "KEVEH NICHOLLS",
+        "trainer": "JAMES BENTLEY BEGG",
+        "weight": 55.5,
+        "age": 5,
+        "form": "98171-3",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "ECHO WITH LAUGHTER (CAN)",
+        "jockey": "SOFIA VIVES",
+        "trainer": "DALE A. POWELL",
+        "weight": 56,
+        "age": 7,
+        "form": "4135-14",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "UNCAPTURED MOMENT (USA)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "RYAN A. JONES",
+        "weight": 56,
+        "age": 6,
+        "form": "2253-31",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "NAPA SPIRIT (IRE)",
+        "jockey": "XAREL FORDE",
+        "trainer": "ROBERT P. TILLER",
+        "weight": 56,
+        "age": 7,
+        "form": "68-1216",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "21:38",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "KING'S COUNSEL (CAN)",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "BARBARA J. MINSHALL",
+        "weight": 53.5,
+        "age": 2,
+        "form": "6",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "ALBERTA PHAROAH (CAN)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "STUART C. SIMON",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "JACK SPARROW (CAN)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "STEVEN CHIRCOP",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "QUIPSTER (CAN)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "KEVIN ATTARD",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "JAZZY SCOOPS (USA)",
+        "jockey": "RYAN MUNGER",
+        "trainer": "STEVEN OWENS",
+        "weight": 55,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "LIBERTY BEACH (CAN)",
+        "jockey": "ROMERO RAMSAY MARAGH",
+        "trainer": "MARK E. CASSE",
+        "weight": 52,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "TUCKAMORE (CAN)",
+        "jockey": "AUSTIN ADAMS",
+        "trainer": "ALEXANDER P. PATYKEWICH",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "COUNTRYMAN (CAN)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "DALE A. DESRUISSEAUX",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "ROAD TO GLORY (CAN)",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "JOHN CHARALAMBOUS",
+        "weight": 53.5,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "STREET SAVANT (USA)",
+        "jockey": "KAZUSHI KIMURA",
+        "trainer": "STEVEN CHIRCOP",
+        "weight": 55,
+        "age": 2,
+        "form": "",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "22:11",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "KOKOMO (CAN)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "GAIL COX",
+        "weight": 55.5,
+        "age": 4,
+        "form": "5678-53",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "LEAN MUSIC MACHINE (USA)",
+        "jockey": "ESWAN FLORES",
+        "trainer": "DEVON GITTENS",
+        "weight": 55.5,
+        "age": 5,
+        "form": "3-54324",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "POCKET SPEED (CAN)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "RONALD H. SADLER",
+        "weight": 55.5,
+        "age": 4,
+        "form": "43471-6",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "SAMMYSAURUS REX (CAN)",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "GORDON C. COLBOURNE",
+        "weight": 56,
+        "age": 4,
+        "form": "734-12",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "MY COVENANT (CAN)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "AUDREY CHEUNG",
+        "weight": 54,
+        "age": 3,
+        "form": "312-25",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "SCUDERIA (CAN)",
+        "jockey": "JEFFREY IAN ALDERSON",
+        "trainer": "DON PLETERSKI",
+        "weight": 55.5,
+        "age": 4,
+        "form": "26198-8",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "22:44",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "STORMY CLOUD (CAN)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "PATRICK DIXON",
+        "weight": 56,
+        "age": 4,
+        "form": "6",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "HARD RIGHT (CAN)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "DAVID COTEY",
+        "weight": 54.5,
+        "age": 3,
+        "form": "5-3",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "BAAEED ALYNNA (CAN)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 54.5,
+        "age": 3,
+        "form": "3",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "SLIGHTLY NAUGHTY (CAN)",
+        "jockey": "KIRK JOHNSON",
+        "trainer": "ERIC M. RAGHUNATH",
+        "weight": 54.5,
+        "age": 3,
+        "form": "3",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "SUPER TOM (CAN)",
+        "jockey": "LEO SALLES",
+        "trainer": "ABRAHAM R. KATRYAN",
+        "weight": 56,
+        "age": 4,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "WAR LEGEND (USA)",
+        "jockey": "ROMERO RAMSAY MARAGH",
+        "trainer": "MARK E. CASSE",
+        "weight": 56,
+        "age": 4,
+        "form": "22-8542",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "MISTER BEAN (CAN)",
+        "jockey": "DAISUKE FUKUMOTO",
+        "trainer": "KEVIN WHITELEY",
+        "weight": 56,
+        "age": 4,
+        "form": "",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "CHASING MEMORIES (CAN)",
+        "jockey": "JEFFREY IAN ALDERSON",
+        "trainer": "AMANDA J. CAMERON",
+        "weight": 56,
+        "age": 4,
+        "form": "56464-4",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "23:17",
+    "distance": 1500,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "MOHAYMEN DIAMOND (CAN)",
+        "jockey": "LEO SALLES",
+        "trainer": "CHETRAM MOHABIR",
+        "weight": 55,
+        "age": 4,
+        "form": "84165-3",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "DARK SCREEN (CAN)",
+        "jockey": "JUAN CRAWFORD",
+        "trainer": "BEVERLEY CHUBB",
+        "weight": 56,
+        "age": 4,
+        "form": "5715-63",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "GARDEN OF WAR (USA)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "MARK E. CASSE",
+        "weight": 56,
+        "age": 4,
+        "form": "11404-4",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "TWO OUT HERO (USA)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "KEVIN ATTARD",
+        "weight": 54.5,
+        "age": 3,
+        "form": "113-974",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "FIRST EMPIRE (CAN)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "MARK E. CASSE",
+        "weight": 56,
+        "age": 7,
+        "form": "401-540",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "IRONSTONE (CAN)",
+        "jockey": "ROMERO RAMSAY MARAGH",
+        "trainer": "W. V. ARMATA",
+        "weight": 56,
+        "age": 7,
+        "form": "5594-65",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "MAGNA TIME (CAN)",
+        "jockey": "LUIS R. REYES",
+        "trainer": "KEVIN ATTARD",
+        "weight": 56,
+        "age": 4,
+        "form": "12-4474",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "PINELAND (USA)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "LINDSAY SCHULTZ",
+        "weight": 56,
+        "age": 6,
+        "form": "4-36202",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "23:50",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "DESIGN (USA)",
+        "jockey": "SAHIN CIVACI",
+        "trainer": "MICHAEL WRIGHT, JR.",
+        "weight": 55.5,
+        "age": 4,
+        "form": "511-853",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "ELYSIAN FIELD (CAN)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "MARK E. CASSE",
+        "weight": 55.5,
+        "age": 6,
+        "form": "21-917-4",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "NO TIME (CAN)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "MARK E. CASSE",
+        "weight": 55.5,
+        "age": 4,
+        "form": "41953-5",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "HURRICANE CLAIR (CAN)",
+        "jockey": "ESWAN FLORES",
+        "trainer": "MICHAEL WRIGHT, JR.",
+        "weight": 55.5,
+        "age": 5,
+        "form": "72761-6",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "TAKEMETOTHEBEACH (USA)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "WILLIAM THARRENOS",
+        "weight": 55.5,
+        "age": 5,
+        "form": "1-33442",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "SCAT GIRL (CAN)",
+        "jockey": "LEO SALLES",
+        "trainer": "MICHAEL P. DE PAULO",
+        "weight": 55.5,
+        "age": 4,
+        "form": "12816-1",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "WAR PAINTER (CAN)",
+        "jockey": "KAZUSHI KIMURA",
+        "trainer": "KEVIN ATTARD",
+        "weight": 56,
+        "age": 5,
+        "form": "13452-1",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 7,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "00:22",
+    "distance": 0,
+    "surface": "",
+    "raceClass": "Tapeta",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "MONY MONY (USA)",
+        "jockey": "SOFIA VIVES",
+        "trainer": "JOE SHARP",
+        "weight": 55.5,
+        "age": 3,
+        "form": "3-11613",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "SO KATE (USA)",
+        "jockey": "RYAN MUNGER",
+        "trainer": "JOSIE CARROLL",
+        "weight": 53.5,
+        "age": 3,
+        "form": "1",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "WOOTEN WARRIOR (IRE)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "KEVIN ATTARD",
+        "weight": 54.5,
+        "age": 3,
+        "form": "9-3011",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "STROKE OF GENIUS (USA)",
+        "jockey": "ESWAN FLORES",
+        "trainer": "SHELLEY E. FITZGERALD",
+        "weight": 53.5,
+        "age": 3,
+        "form": "341-5",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "HAPPY DESTINATION (USA)",
+        "jockey": "SAHIN CIVACI",
+        "trainer": "MARK E. CASSE",
+        "weight": 53.5,
+        "age": 3,
+        "form": "1",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "SLIPPERS (USA)",
+        "jockey": "ROMERO RAMSAY MARAGH",
+        "trainer": "MARK E. CASSE",
+        "weight": 54.5,
+        "age": 3,
+        "form": "16-051",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "KINGSOLVER (USA)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "RODOLPHE BRISSET",
+        "weight": 55.5,
+        "age": 3,
+        "form": "214-525",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "MEILANI (USA)",
+        "jockey": "KAZUSHI KIMURA",
+        "trainer": "KEVIN ATTARD",
+        "weight": 53.5,
+        "age": 3,
+        "form": "521-632",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "FLOWERHEAD (IRE)",
+        "jockey": "RAFAEL MANUEL HERNANDEZ",
+        "trainer": "CHARLIE CLOVER",
+        "weight": 53.5,
+        "age": 3,
+        "form": "387-854",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "ANGEL'S PROSPECT (CAN)",
+        "jockey": "EMMA-JAYNE WILSON",
+        "trainer": "TODD KETTLESON",
+        "weight": 53.5,
+        "age": 3,
+        "form": "33-1",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 8,
+    "venue": "Woodbine Kanada",
+    "hipodromName": "Woodbine Kanada",
+    "time": "00:54",
+    "distance": 1500,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "JIM'S HOPE (CAN)",
+        "jockey": "FRASER AEBLY",
+        "trainer": "AUDREY CHEUNG",
+        "weight": 55,
+        "age": 6,
+        "form": "176633",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "C MY MEISTER (USA)",
+        "jockey": "LEO SALLES",
+        "trainer": "MICHAEL WRIGHT, JR.",
+        "weight": 55,
+        "age": 7,
+        "form": "44749-3",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "GIVEMEMYTHEMEMUSIC (USA)",
+        "jockey": "PIETRO MORAN",
+        "trainer": "JAMES BENTLEY BEGG",
+        "weight": 56,
+        "age": 4,
+        "form": "86-5711",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "PALIO (CAN)",
+        "jockey": "LUIS CONTRERAS",
+        "trainer": "SARAH RITCHIE",
+        "weight": 55,
+        "age": 8,
+        "form": "70-7328",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "SAILOR'S PASSION (CAN)",
+        "jockey": "JOSE LUIS CAMPOS",
+        "trainer": "DEBRA E. ROMBIS",
+        "weight": 55,
+        "age": 7,
+        "form": "475-566",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "MASON'S GAMBLE (CAN)",
+        "jockey": "JALON L. SAMUEL",
+        "trainer": "MICHAEL P. DE PAULO",
+        "weight": 56,
+        "age": 8,
+        "form": "9467-67",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "PEJA DU (USA)",
+        "jockey": "DAVID MORAN",
+        "trainer": "DAVID BORSK",
+        "weight": 56,
+        "age": 6,
+        "form": "51317-9",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "HEMLO GOLD (CAN)",
+        "jockey": "ROMERO RAMSAY MARAGH",
+        "trainer": "JIM ENSOM",
+        "weight": 56,
+        "age": 6,
+        "form": "14224-2",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "RED PHARAOH (CAN)",
+        "jockey": "SOFIA VIVES",
+        "trainer": "DANNY YU",
+        "weight": 56,
+        "age": 4,
+        "form": "27141-7",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "EL KABONG (USA)",
+        "jockey": "KAZUSHI KIMURA",
+        "trainer": "TINO ATTARD",
+        "weight": 56,
+        "age": 8,
+        "form": "8-73245",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 1,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "22:41",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ANOTHER MYSTERY (USA)",
+        "jockey": "FRANK REYES",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 56,
+        "age": 10,
+        "form": "6226-51",
+        "odds": 3.35
+      },
+      {
+        "no": "2",
+        "name": "COACH JIMI D (USA)",
+        "jockey": "OLAF HERNANDEZ",
+        "trainer": "JAMES P. DIVITO",
+        "weight": 56.5,
+        "age": 5,
+        "form": "1355-51",
+        "odds": 3.35
+      },
+      {
+        "no": "3",
+        "name": "JOURNEY (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "MICHELE BOYCE",
+        "weight": 56,
+        "age": 4,
+        "form": "15134-5",
+        "odds": 3.35
+      },
+      {
+        "no": "4",
+        "name": "NOT FALLING BACK (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 56,
+        "age": 5,
+        "form": "007-681",
+        "odds": 3.35
+      },
+      {
+        "no": "5",
+        "name": "PROTONIC POWER (USA)",
+        "jockey": "JULIO E. FELIX",
+        "trainer": "ARMANDO HERNANDEZ",
+        "weight": 56,
+        "age": 7,
+        "form": "346583",
+        "odds": 3.35
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 2,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "23:17",
+    "distance": 1500,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "CIAO TOMMASO (USA)",
+        "jockey": "OLAF HERNANDEZ",
+        "trainer": "BRIAN COOK",
+        "weight": 56,
+        "age": 5,
+        "form": "5-3-2214",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "KETCHUM (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 53.5,
+        "age": 3,
+        "form": "1-147",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "STORM BACK (USA)",
+        "jockey": "JAVIER TAVARES",
+        "trainer": "HERIBERTO VILLALOBOS",
+        "weight": 56.5,
+        "age": 4,
+        "form": "42-8241",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "CASH APP MIKE (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "MANNY PEREZ",
+        "weight": 56,
+        "age": 4,
+        "form": "297-993",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "JOCK FROST (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "CHRISTOPHER DAVIS",
+        "weight": 53.5,
+        "age": 3,
+        "form": "78-6131",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "MAN ON ATTACK (USA)",
+        "jockey": "ANGEL ORTEGA STANLEY",
+        "trainer": "SHANE CHILDERS",
+        "weight": 56,
+        "age": 6,
+        "form": "2334-62",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "DYNAMIS (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "JOHN HARAN",
+        "weight": 56,
+        "age": 5,
+        "form": "736424",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 3,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "23:49",
+    "distance": 1700,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "LINE TO GAIN (USA)",
+        "jockey": "VICTOR LARA",
+        "trainer": "HERIBERTO VILLALOBOS",
+        "weight": 52.5,
+        "age": 6,
+        "form": "466-556",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "NEW YEAR SURPRISE (USA)",
+        "jockey": "JAVIER TAVARES",
+        "trainer": "HERIBERTO VILLALOBOS",
+        "weight": 56,
+        "age": 8,
+        "form": "2-96636",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "CONI'S COUP (USA)",
+        "jockey": "OLAF HERNANDEZ",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 56.5,
+        "age": 8,
+        "form": "66742-1",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "PEOPLE FORCE (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "FRANCISCO VILLA",
+        "weight": 56.5,
+        "age": 6,
+        "form": "425151",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "HARD TO FATHOM (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "MANNY PEREZ",
+        "weight": 56,
+        "age": 6,
+        "form": "657-679",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 4,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "00:22",
+    "distance": 1100,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ROCKFEST (USA)",
+        "jockey": "OLAF HERNANDEZ",
+        "trainer": "JAMES P. DIVITO",
+        "weight": 54.5,
+        "age": 3,
+        "form": "5-69422",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "ROCKY RACCOON (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "JAMES P. DIVITO",
+        "weight": 54.5,
+        "age": 3,
+        "form": "3-05",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "THIS BEAU KNOWS (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 54.5,
+        "age": 3,
+        "form": "39-222",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "THIEVER (USA)",
+        "jockey": "FRANK REYES",
+        "trainer": "ARMANDO HERNANDEZ",
+        "weight": 54.5,
+        "age": 3,
+        "form": "652-5",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "MISCHIEVOUS RICHIE (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "LARRY RIVELLI",
+        "weight": 54.5,
+        "age": 3,
+        "form": "5",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "STORMYSTORMYNIGHT (USA)",
+        "jockey": "ANGEL ORTEGA STANLEY",
+        "trainer": "JESSICA JELINSKI",
+        "weight": 56.5,
+        "age": 8,
+        "form": "62",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 5,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "00:52",
+    "distance": 1100,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "SHAKE UP (USA)",
+        "jockey": "FRANK REYES",
+        "trainer": "JOEL BERNDT",
+        "weight": 56,
+        "age": 6,
+        "form": "33-0074",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "NAGY AND DA BEARS (USA)",
+        "jockey": "ADEMAR SANTOS",
+        "trainer": "OMAR RAZVI",
+        "weight": 56,
+        "age": 7,
+        "form": "546-512",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "GUNNY SACK (USA)",
+        "jockey": "VICTOR LARA",
+        "trainer": "FRANK J. KIRBY",
+        "weight": 52.5,
+        "age": 4,
+        "form": "1310-55",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "SAWYER FOX (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "WAYNE M. CATALANO",
+        "weight": 56,
+        "age": 6,
+        "form": "746-616",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "WE MISS ARLINGTON (USA)",
+        "jockey": "JAVIER TAVARES",
+        "trainer": "EDUARDO RODRIGUEZ",
+        "weight": 56,
+        "age": 5,
+        "form": "817324",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "EVEN THE WIND (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "CHRIS M. BLOCK",
+        "weight": 56,
+        "age": 6,
+        "form": "8-73772",
+        "odds": 999.99
+      },
+      {
+        "no": "7",
+        "name": "MR. SWEETS (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "JOEL CAMPBELL",
+        "weight": 56.5,
+        "age": 4,
+        "form": "620621",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "RACARINO (USA)",
+        "jockey": "ASSAEL ESPINOZA",
+        "trainer": "ARMANDO HERNANDEZ",
+        "weight": 56,
+        "age": 8,
+        "form": "5-38122",
+        "odds": 999.99
+      },
+      {
+        "no": "9",
+        "name": "BERNIE LOMAX (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "MAXIMINO QUINONEZ",
+        "weight": 56,
+        "age": 7,
+        "form": "65411-3",
+        "odds": 999.99
+      },
+      {
+        "no": "10",
+        "name": "STRANGE ARRANGE (USA)",
+        "jockey": "JOHANIS ARANGUREN",
+        "trainer": "EDUARDO RODRIGUEZ",
+        "weight": 53.5,
+        "age": 7,
+        "form": "581151",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 6,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "01:20",
+    "distance": 1700,
+    "surface": "Kum",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "WOLF HUNTER (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "MANNY PEREZ",
+        "weight": 56,
+        "age": 6,
+        "form": "42-5232",
+        "odds": 999.99
+      },
+      {
+        "no": "2",
+        "name": "MOONRISE DRIVE (USA)",
+        "jockey": "FRANK REYES",
+        "trainer": "CHERYL WINEBAUGH",
+        "weight": 56,
+        "age": 6,
+        "form": "35-8523",
+        "odds": 999.99
+      },
+      {
+        "no": "3",
+        "name": "BEST DRESSED MAN (USA)",
+        "jockey": "ANGEL ORTEGA STANLEY",
+        "trainer": "SHANE CHILDERS",
+        "weight": 56,
+        "age": 4,
+        "form": "150-666",
+        "odds": 999.99
+      },
+      {
+        "no": "4",
+        "name": "GAME SANTA (USA)",
+        "jockey": "VICTOR LARA",
+        "trainer": "MANNY PEREZ",
+        "weight": 52.5,
+        "age": 4,
+        "form": "168-445",
+        "odds": 999.99
+      },
+      {
+        "no": "5",
+        "name": "CANTARITO (USA)",
+        "jockey": "JAVIER TAVARES",
+        "trainer": "HERIBERTO VILLALOBOS",
+        "weight": 56,
+        "age": 4,
+        "form": "654-353",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "LUCKY DESTINY (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "SCOTT BECKER",
+        "weight": 56,
+        "age": 4,
+        "form": "93316-4",
+        "odds": 1.05
+      },
+      {
+        "no": "7",
+        "name": "HOWARD'S GRIT (USA)",
+        "jockey": "JOHANIS ARANGUREN",
+        "trainer": "RIGO ROSAS",
+        "weight": 52.5,
+        "age": 5,
+        "form": "50-8667",
+        "odds": 999.99
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "raceNo": 7,
+    "venue": "Hawthorne ABD",
+    "hipodromName": "Hawthorne ABD",
+    "time": "01:48",
+    "distance": 1500,
+    "surface": "Çim",
+    "raceClass": "",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": null,
+    "temperature": null,
+    "humidity": null,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ROARING VIXEN (USA)",
+        "jockey": "JULIO E. FELIX",
+        "trainer": "MARK J. CRISTEL",
+        "weight": 56,
+        "age": 4,
+        "form": "5217-25",
+        "odds": 4.5
+      },
+      {
+        "no": "2",
+        "name": "BALLYBAY BEAUTY (USA)",
+        "jockey": "JAVIER TAVARES",
+        "trainer": "RUBEN CRUZ, JR.",
+        "weight": 56,
+        "age": 4,
+        "form": "433342",
+        "odds": 19.15
+      },
+      {
+        "no": "3",
+        "name": "APRIL'S GEM (USA)",
+        "jockey": "ADEMAR SANTOS",
+        "trainer": "RIGO ROSAS",
+        "weight": 56,
+        "age": 9,
+        "form": "597352",
+        "odds": 28.2
+      },
+      {
+        "no": "4",
+        "name": "SHAKREVENGE (USA)",
+        "jockey": "E. T. BAIRD",
+        "trainer": "JOEL CAMPBELL",
+        "weight": 56,
+        "age": 5,
+        "form": "28-8454",
+        "odds": 19.15
+      },
+      {
+        "no": "5",
+        "name": "CULTURE SHOCK (USA)",
+        "jockey": "OLAF HERNANDEZ",
+        "trainer": "MICHELE BOYCE",
+        "weight": 53.5,
+        "age": 3,
+        "form": "45-1",
+        "odds": 999.99
+      },
+      {
+        "no": "6",
+        "name": "PEACOCK ROAD (USA)",
+        "jockey": "LUIS H. COLON",
+        "trainer": "DAVID R. REID",
+        "weight": 56,
+        "age": 5,
+        "form": "716312",
+        "odds": 1.05
+      },
+      {
+        "no": "7",
+        "name": "FLORIBUNDA (USA)",
+        "jockey": "FRANK REYES",
+        "trainer": "JOEL BERNDT",
+        "weight": 56,
+        "age": 5,
+        "form": "637-642",
+        "odds": 999.99
+      },
+      {
+        "no": "8",
+        "name": "ROYALLY SASSY (USA)",
+        "jockey": "ALEXANDER BENDEZU",
+        "trainer": "CHRISTOPHER DAVIS",
+        "weight": 54.5,
+        "age": 3,
+        "form": "4-331",
+        "odds": 999.99
+      }
+    ]
+  }
+]
