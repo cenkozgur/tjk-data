@@ -139,5 +139,81 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Handikap 21 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "CALVADOS",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 56,
+        "odds": 3.65,
+        "finishTime": "1.34.79",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "REFLECTED GLORY",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 57.5,
+        "odds": 2.05,
+        "finishTime": "1.34.99",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "MAVİ TOPAZ",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MÜSLÜM ÖRTÜNÇ",
+        "weight": 59.5,
+        "odds": 17.05,
+        "finishTime": "1.35.28",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "HARDOX",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "NİHAT DÜNDAR",
+        "weight": 61.5,
+        "odds": 3.85,
+        "finishTime": "1.36.09",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "YES GRASYAS",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "SEİT KAN",
+        "weight": 60.5,
+        "odds": 5.1,
+        "finishTime": "1.37.04",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "SECRET MAN",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 58,
+        "odds": 7.5,
+        "finishTime": "1.37.13",
+        "age": 4
+      }
+    ]
   }
 ]
