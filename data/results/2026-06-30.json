@@ -2,6 +2,420 @@
   {
     "date": "2026-06-30",
     "raceNo": 1,
+    "venue": "Kocaeli",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "ROCK FOR EVER",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "FAHRETTİN GEZİCİ",
+        "weight": 58.5,
+        "odds": 3.3,
+        "finishTime": "1.36.27",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "TOULAYNA",
+        "jockey": "EFE AKPINAR",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 60,
+        "odds": 27.05,
+        "finishTime": "1.36.39",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "MIRACLE RHYTHM",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55.5,
+        "odds": 9.1,
+        "finishTime": "1.37.21",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "KUZEY EFESİ",
+        "jockey": "RECEP KETME",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 59.5,
+        "odds": 3.75,
+        "finishTime": "1.37.53",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "BEYOND THE EPOCH",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 57,
+        "odds": 28,
+        "finishTime": "1.37.94",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "ALPHA JUNIOR",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "KAZIM MELİKE",
+        "weight": 52,
+        "odds": 1.45,
+        "finishTime": "1.41.12",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "KING OF ALİ",
+        "jockey": "CEMAL PASO",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 51.5,
+        "odds": 15.35,
+        "finishTime": "1.41.70",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 2,
+    "venue": "Kocaeli",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "KATSURA",
+        "jockey": "ADEM ASLAN",
+        "trainer": "HÜSEYİN ÇALIŞKAN",
+        "weight": 57,
+        "odds": 2.85,
+        "finishTime": "1.17.81",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "KIMDRAKA",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 57,
+        "odds": 1.95,
+        "finishTime": "1.18.48",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "HEART SHOT",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "ENES KARACA",
+        "weight": 54,
+        "odds": 34.25,
+        "finishTime": "1.19.47",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "YOU ARE GREAT",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "GALİP KILIÇ",
+        "weight": 57,
+        "odds": 24.2,
+        "finishTime": "1.20.12",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SUPINATOR",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 57,
+        "odds": 4,
+        "finishTime": "1.20.71",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "ROYAL ANGEL",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "SİBEL TEMEL",
+        "weight": 57,
+        "odds": 6.3,
+        "finishTime": "1.22.52",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "NOVİ PAZAR",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "NURHAN BAKIR",
+        "weight": 54,
+        "odds": 6.5,
+        "finishTime": "1.26.65",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 3,
+    "venue": "Kocaeli",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "TANER ABİ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MURAT AKKILIÇ",
+        "weight": 56,
+        "odds": 2,
+        "finishTime": "2.05.58",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "SINGLE SHOT",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 58,
+        "odds": 3.9,
+        "finishTime": "2.06.31",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "BEYLERİNBEYİ",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "NİHAT KAYA",
+        "weight": 56,
+        "odds": 9.9,
+        "finishTime": "2.08.14",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "DRECARİ",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 56,
+        "odds": 5.1,
+        "finishTime": "2.08.37",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "PROBALA",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 61,
+        "odds": 7.75,
+        "finishTime": "2.08.56",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "ABİDİN BEY",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 50,
+        "odds": 4.25,
+        "finishTime": "2.10.40",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "DESESPERADOS",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 50.5,
+        "odds": 13.55,
+        "finishTime": "2.13.23",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "SİGUEME",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 55.5,
+        "odds": 13.55,
+        "finishTime": "2.13.77",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 4,
+    "venue": "Kocaeli",
+    "distance": 1700,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "TANJU BEY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 58.5,
+        "odds": 10.75,
+        "finishTime": "2.03.39",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GEZGİNÇ BEY",
+        "jockey": "RECEP KETME",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 56,
+        "odds": 4.2,
+        "finishTime": "2.03.48",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "ŞAHLANTAY",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "TOLGA SÜSLÜ",
+        "weight": 62,
+        "odds": 12.75,
+        "finishTime": "2.04.89",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "JET ÇELİK",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "BARIŞ ÇAPKIN",
+        "weight": 61,
+        "odds": 5.75,
+        "finishTime": "2.05.53",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "12",
+        "name": "ZENG",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "UBEYDULLAH DEMİR",
+        "weight": 57,
+        "odds": 8.85,
+        "finishTime": "2.05.82",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "PRENSES SEDA",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 59,
+        "odds": 3.45,
+        "finishTime": "2.06.96",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "10",
+        "name": "KOÇBAŞI",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "EMİR CİHAN BAYDAN",
+        "weight": 52,
+        "odds": 56.2,
+        "finishTime": "2.08.47",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "TUTMAÇ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MURAT AKKILIÇ",
+        "weight": 58,
+        "odds": 2.95,
+        "finishTime": "2.08.52",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "9",
+        "name": "EMİRHAT",
+        "jockey": "CEMAL PASO",
+        "trainer": "NİHAT KAYA",
+        "weight": 56,
+        "odds": 44.8,
+        "finishTime": "2.09.04",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "6",
+        "name": "ALTAYBORA",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "ŞİNASİ GÖKÇE",
+        "weight": 55,
+        "odds": 18.25,
+        "finishTime": "2.18.62",
+        "age": 5
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "SEDEFLİ",
+        "jockey": "MUHAMMET TALHA ERTAL",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 50,
+        "odds": 86.4,
+        "finishTime": "2.29.58",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "1",
+        "name": "HEP BİRLİKTE",
+        "jockey": "EFE AKPINAR",
+        "trainer": "FIRAT TURAN",
+        "weight": 60,
+        "odds": 16.3,
+        "finishTime": "Derecesiz",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 1,
     "venue": "Ankara",
     "distance": 2200,
     "surface": "Çim",
@@ -688,180 +1102,6 @@
         "combination": "3/10/2/3/1,2/3",
         "prizeAmount": 1844.18,
         "lastRaceNo": 8
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 1,
-    "venue": "Kocaeli",
-    "distance": 1500,
-    "surface": "Kum",
-    "raceClass": "Handikap 16 /H2",
-    "horses": [
-      {
-        "position": 1,
-        "no": "1",
-        "name": "ROCK FOR EVER",
-        "jockey": "GÖRKEM ÖZÇELİK",
-        "trainer": "FAHRETTİN GEZİCİ",
-        "weight": 58.5,
-        "odds": 3.3,
-        "finishTime": "1.36.27",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "2",
-        "name": "TOULAYNA",
-        "jockey": "EFE AKPINAR",
-        "trainer": "MELEK ÖZGÜL",
-        "weight": 60,
-        "odds": 27.05,
-        "finishTime": "1.36.39",
-        "age": 4
-      },
-      {
-        "position": 3,
-        "no": "4",
-        "name": "MIRACLE RHYTHM",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "KAZIM ŞENGEL",
-        "weight": 55.5,
-        "odds": 9.1,
-        "finishTime": "1.37.21",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "3",
-        "name": "KUZEY EFESİ",
-        "jockey": "RECEP KETME",
-        "trainer": "NİHAT YILDIRIM",
-        "weight": 59.5,
-        "odds": 3.75,
-        "finishTime": "1.37.53",
-        "age": 4
-      },
-      {
-        "position": 5,
-        "no": "5",
-        "name": "BEYOND THE EPOCH",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "HASAN DOLMAZ",
-        "weight": 57,
-        "odds": 28,
-        "finishTime": "1.37.94",
-        "age": 5
-      },
-      {
-        "position": 6,
-        "no": "6",
-        "name": "ALPHA JUNIOR",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "KAZIM MELİKE",
-        "weight": 52,
-        "odds": 1.45,
-        "finishTime": "1.41.12",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "7",
-        "name": "KING OF ALİ",
-        "jockey": "CEMAL PASO",
-        "trainer": "ÖMER GÜNELİ",
-        "weight": 51.5,
-        "odds": 15.35,
-        "finishTime": "1.41.70",
-        "age": 4
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 2,
-    "venue": "Kocaeli",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden/Dişi",
-    "horses": [
-      {
-        "position": 1,
-        "no": "2",
-        "name": "KATSURA",
-        "jockey": "ADEM ASLAN",
-        "trainer": "HÜSEYİN ÇALIŞKAN",
-        "weight": 57,
-        "odds": 2.85,
-        "finishTime": "1.17.81",
-        "age": 2
-      },
-      {
-        "position": 2,
-        "no": "3",
-        "name": "KIMDRAKA",
-        "jockey": "NEVZAT AVCİ",
-        "trainer": "MİRAÇ İPEK",
-        "weight": 57,
-        "odds": 1.95,
-        "finishTime": "1.18.48",
-        "age": 2
-      },
-      {
-        "position": 3,
-        "no": "1",
-        "name": "HEART SHOT",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "ENES KARACA",
-        "weight": 54,
-        "odds": 34.25,
-        "finishTime": "1.19.47",
-        "age": 2
-      },
-      {
-        "position": 4,
-        "no": "8",
-        "name": "YOU ARE GREAT",
-        "jockey": "ERHAN AKTUĞ",
-        "trainer": "GALİP KILIÇ",
-        "weight": 57,
-        "odds": 24.2,
-        "finishTime": "1.20.12",
-        "age": 2
-      },
-      {
-        "position": 5,
-        "no": "6",
-        "name": "SUPINATOR",
-        "jockey": "MUHAMMED MİR BİLGİN",
-        "trainer": "HASAN DOLMAZ",
-        "weight": 57,
-        "odds": 4,
-        "finishTime": "1.20.71",
-        "age": 2
-      },
-      {
-        "position": 6,
-        "no": "5",
-        "name": "ROYAL ANGEL",
-        "jockey": "ALİ YILDIZ",
-        "trainer": "SİBEL TEMEL",
-        "weight": 57,
-        "odds": 6.3,
-        "finishTime": "1.22.52",
-        "age": 2
-      },
-      {
-        "position": 7,
-        "no": "4",
-        "name": "NOVİ PAZAR",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "NURHAN BAKIR",
-        "weight": 54,
-        "odds": 6.5,
-        "finishTime": "1.26.65",
-        "age": 2
       }
     ]
   }
