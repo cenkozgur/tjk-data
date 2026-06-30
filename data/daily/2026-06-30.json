@@ -2,6 +2,720 @@
   {
     "date": "2026-06-30",
     "raceNo": 1,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "14:30",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "SATIŞ 2",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "GOOD LUCK CHARM",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "ALPER CİĞER",
+        "weight": 56,
+        "age": 3,
+        "form": "133-588",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "STEEL ROCK",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 56,
+        "age": 3,
+        "form": "264512",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "DEEP GIRL",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 55,
+        "age": 3,
+        "form": "341765",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "TERCAL NİHAT",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "YUSUF UÇAR",
+        "weight": 55,
+        "age": 3,
+        "form": "317672",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "HIZKESEN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 53,
+        "age": 3,
+        "form": "46-7531",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "VEN CONMİGO",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 53,
+        "age": 3,
+        "form": "349065",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "15:00",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 5",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "FROU FROU",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "İSMET TEKİNALP",
+        "weight": 60,
+        "age": 4,
+        "form": "125308",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "EL LORD",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "ERDAL AKYAVUZ",
+        "weight": 60.5,
+        "age": 5,
+        "form": "333611",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "GÖRKEM KAPTAN",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "KAMİL ARDA",
+        "weight": 60.5,
+        "age": 5,
+        "form": "1-23124",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "MARTİNA",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "UĞUR KULAK",
+        "weight": 60.5,
+        "age": 5,
+        "form": "231451",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "GOLDEN PROMISE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "YUSUF YILDIZ",
+        "weight": 52.5,
+        "age": 3,
+        "form": "1-32141",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "15:30",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "Handikap 21 /H1",
+    "isGanyanStart": true,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "HARDOX",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "NİHAT DÜNDAR",
+        "weight": 61.5,
+        "age": 3,
+        "form": "425274",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "PRINCIPESSA NİLO",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "ASIM DUTAL",
+        "weight": 63,
+        "age": 4,
+        "form": "412777",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "CALVADOS",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 56,
+        "age": 3,
+        "form": "161152",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "YES GRASYAS",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "SEİT KAN",
+        "weight": 60.5,
+        "age": 4,
+        "form": "246626",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "MAVİ TOPAZ",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MÜSLÜM ÖRTÜNÇ",
+        "weight": 59.5,
+        "age": 4,
+        "form": "421359",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "SECRET MAN",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 58,
+        "age": 4,
+        "form": "655542",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "REFLECTED GLORY",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 57.5,
+        "age": 4,
+        "form": "4-07511",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 4,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "16:00",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Handikap 16/DHÖW /H1",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "ALATTİN",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "NEJMİ GÜNDÜZ",
+        "weight": 61,
+        "age": 5,
+        "form": "900025",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "BEŞİR ÇAVUŞ",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 59,
+        "age": 4,
+        "form": "261554",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "FIRTINAYÜREK",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 59.5,
+        "age": 4,
+        "form": "132734",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "DOĞUYURT",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "CUMA DEMİR",
+        "weight": 57,
+        "age": 4,
+        "form": "387450",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "ARSLAN OĞLU",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "SERHAT POLAT",
+        "weight": 58.5,
+        "age": 4,
+        "form": "357428",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "NEVŞEHİR BEYİ",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "YAKUP MİSDİK",
+        "weight": 58,
+        "age": 4,
+        "form": "127321",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "KATICESUR",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "CASIM KATI",
+        "weight": 53,
+        "age": 4,
+        "form": "008556",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "İLBERK HAN",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "MERT KORKMAZ",
+        "weight": 52.5,
+        "age": 5,
+        "form": "6865-63",
+        "odds": 0
+      },
+      {
+        "no": "9",
+        "name": "HAS CEYLAN",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 52,
+        "age": 5,
+        "form": "709002",
+        "odds": 0
+      },
+      {
+        "no": "10",
+        "name": "KEŞHANLI",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 52,
+        "age": 4,
+        "form": "901272",
+        "odds": 0
+      },
+      {
+        "no": "11",
+        "name": "TAŞPINAR",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "MEHMET DEMİROL",
+        "weight": 51,
+        "age": 7,
+        "form": "6-06082",
+        "odds": 0
+      },
+      {
+        "no": "12",
+        "name": "SARITAHA",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 52,
+        "age": 4,
+        "form": "60-9900",
+        "odds": 0
+      },
+      {
+        "no": "13",
+        "name": "TOSTOS TUĞRUL",
+        "jockey": "MEHMET KIYAK",
+        "trainer": "YUSUF CAN KARATOPRAK",
+        "weight": 52,
+        "age": 4,
+        "form": "798706",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "16:30",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "AFAMIA",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 56,
+        "age": 2,
+        "form": "6",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "BEAUTIFUL LIGHT",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "İSMET AKKILIÇ",
+        "weight": 57,
+        "age": 2,
+        "form": "2",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "KING ASHERON",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "SABİT EREN",
+        "weight": 57,
+        "age": 2,
+        "form": "4",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "LOVE OF AMERICA",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "MÜCAHİT KAYA",
+        "weight": 57,
+        "age": 2,
+        "form": "3",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "PRESIDENTS HORSE",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "MEHMET HANİFİ ELĞAÇ",
+        "weight": 57,
+        "age": 2,
+        "form": "74",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "YELLOW LION",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "OZAN BULUT",
+        "weight": 57,
+        "age": 2,
+        "form": "44",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "QUEEN LARA",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "YUSUF UÇAR",
+        "weight": 55,
+        "age": 2,
+        "form": "775",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "17:00",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-6/DHÖW/Dişi",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "TERKEN HATUN",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 60,
+        "age": 4,
+        "form": "222726",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "BERATKIZ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 58,
+        "age": 4,
+        "form": "135311",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "BOLKADER",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "FERDİ KIRAN",
+        "weight": 58,
+        "age": 4,
+        "form": "412051",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "KESKİN KUŞ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "MEHMET ÇELİK",
+        "weight": 58,
+        "age": 4,
+        "form": "092222",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "GÜMBÜRBERK",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "SERHAT POLAT",
+        "weight": 56,
+        "age": 4,
+        "form": "170435",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "ATAKLI KIZ",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "RACİ ATLI",
+        "weight": 55,
+        "age": 4,
+        "form": "151806",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 7,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "17:30",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "DRAGON FORCE",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 61,
+        "age": 4,
+        "form": "15-1331",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "BROARTS",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "FARUK SERİNTÜRK",
+        "weight": 60,
+        "age": 4,
+        "form": "9-31472",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "MARQUIS LAFAYETTE",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 54,
+        "age": 4,
+        "form": "981300",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "BOUCHERON",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "ERTAN ACER",
+        "weight": 56.5,
+        "age": 5,
+        "form": "394264",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "RAYMOND REDDINGTON",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 56.5,
+        "age": 6,
+        "form": "415-793",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 8,
+    "venue": "Ankara",
+    "hipodromName": "75. Yıl",
+    "time": "18:00",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖW/Y1",
+    "isGanyanStart": false,
+    "distributableAmount": null,
+    "trackCondition": null,
+    "weatherCondition": "Açık",
+    "temperature": 18,
+    "humidity": 62,
+    "horses": [
+      {
+        "no": "1",
+        "name": "SARPER",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 60,
+        "age": 5,
+        "form": "672213",
+        "odds": 0
+      },
+      {
+        "no": "2",
+        "name": "TAÇYİĞİT",
+        "jockey": "ORHAN AKGÖNÜL",
+        "trainer": "MEHMET DEMİROL",
+        "weight": 60,
+        "age": 5,
+        "form": "892828",
+        "odds": 0
+      },
+      {
+        "no": "3",
+        "name": "SÜPER SONİK",
+        "jockey": "MERT UYAR",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 59.5,
+        "age": 4,
+        "form": "425215",
+        "odds": 0
+      },
+      {
+        "no": "4",
+        "name": "SERPENÇE",
+        "jockey": "BERAT KELEŞOĞLU",
+        "trainer": "HÜSEYİN KARATAŞ",
+        "weight": 58.5,
+        "age": 4,
+        "form": "0-01635",
+        "odds": 0
+      },
+      {
+        "no": "5",
+        "name": "IRMAK SU",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "ERTAN ACER",
+        "weight": 58,
+        "age": 6,
+        "form": "274233",
+        "odds": 0
+      },
+      {
+        "no": "6",
+        "name": "MEGA STAR",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 57,
+        "age": 10,
+        "form": "529743",
+        "odds": 0
+      },
+      {
+        "no": "7",
+        "name": "ŞAFAK BEY",
+        "jockey": "İLKER AKIN",
+        "trainer": "MEHMET KORKMAZ",
+        "weight": 56,
+        "age": 5,
+        "form": "004666",
+        "odds": 0
+      },
+      {
+        "no": "8",
+        "name": "HAKİMTAY",
+        "jockey": "MENNAN BAL",
+        "trainer": "SUAT ALTUNBAŞ",
+        "weight": 56,
+        "age": 5,
+        "form": "00-8008",
+        "odds": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "raceNo": 1,
     "venue": "Kocaeli",
     "hipodromName": "İzmit",
     "time": "17:45",
@@ -12,8 +726,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -100,8 +814,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -198,8 +912,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -306,8 +1020,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -444,8 +1158,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -552,8 +1266,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -630,8 +1344,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -728,8 +1442,8 @@
     "distributableAmount": null,
     "trackCondition": null,
     "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 68,
+    "temperature": 20,
+    "humidity": 70,
     "horses": [
       {
         "no": "1",
@@ -889,720 +1603,6 @@
         "weight": 56,
         "age": 4,
         "form": "00",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 1,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "14:30",
-    "distance": 2200,
-    "surface": "Çim",
-    "raceClass": "SATIŞ 2",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "GOOD LUCK CHARM",
-        "jockey": "FATİH SULTAN MEHMET SANSAR",
-        "trainer": "ALPER CİĞER",
-        "weight": 56,
-        "age": 3,
-        "form": "133-588",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "STEEL ROCK",
-        "jockey": "MEHMET SALİH ÇELİK",
-        "trainer": "HÜSEYİN KAYA",
-        "weight": 56,
-        "age": 3,
-        "form": "264512",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "DEEP GIRL",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "İLKER KÖROĞLU",
-        "weight": 55,
-        "age": 3,
-        "form": "341765",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "TERCAL NİHAT",
-        "jockey": "MEHMET AKYAVUZ",
-        "trainer": "YUSUF UÇAR",
-        "weight": 55,
-        "age": 3,
-        "form": "317672",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "HIZKESEN",
-        "jockey": "HIŞMAN ÇİZİK",
-        "trainer": "YELİZ BAYSAL",
-        "weight": 53,
-        "age": 3,
-        "form": "46-7531",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "VEN CONMİGO",
-        "jockey": "ENES ATLAMAZ",
-        "trainer": "MÜSLÜM DOLAK",
-        "weight": 53,
-        "age": 3,
-        "form": "349065",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 2,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "15:00",
-    "distance": 2000,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 5",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "FROU FROU",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "İSMET TEKİNALP",
-        "weight": 60,
-        "age": 4,
-        "form": "125308",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "EL LORD",
-        "jockey": "MEHMET AKYAVUZ",
-        "trainer": "ERDAL AKYAVUZ",
-        "weight": 60.5,
-        "age": 5,
-        "form": "333611",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "GÖRKEM KAPTAN",
-        "jockey": "ERCAN ÇANKAYA",
-        "trainer": "KAMİL ARDA",
-        "weight": 60.5,
-        "age": 5,
-        "form": "1-23124",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "MARTİNA",
-        "jockey": "AYHAN KURŞUN",
-        "trainer": "UĞUR KULAK",
-        "weight": 60.5,
-        "age": 5,
-        "form": "231451",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "GOLDEN PROMISE",
-        "jockey": "VEDAT ABİŞ",
-        "trainer": "YUSUF YILDIZ",
-        "weight": 52.5,
-        "age": 3,
-        "form": "1-32141",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 3,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "15:30",
-    "distance": 1500,
-    "surface": "Kum",
-    "raceClass": "Handikap 21 /H1",
-    "isGanyanStart": true,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "HARDOX",
-        "jockey": "AYHAN KURŞUN",
-        "trainer": "NİHAT DÜNDAR",
-        "weight": 61.5,
-        "age": 3,
-        "form": "425274",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "PRINCIPESSA NİLO",
-        "jockey": "MEHMET SALİH ÇELİK",
-        "trainer": "ASIM DUTAL",
-        "weight": 63,
-        "age": 4,
-        "form": "412777",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "CALVADOS",
-        "jockey": "MERT ALİ SOLMAZ",
-        "trainer": "SERKAN SÜSLÜ",
-        "weight": 56,
-        "age": 3,
-        "form": "161152",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "YES GRASYAS",
-        "jockey": "MÜSLÜM ÇELİK",
-        "trainer": "SEİT KAN",
-        "weight": 60.5,
-        "age": 4,
-        "form": "246626",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "MAVİ TOPAZ",
-        "jockey": "MEHMET AKYAVUZ",
-        "trainer": "MÜSLÜM ÖRTÜNÇ",
-        "weight": 59.5,
-        "age": 4,
-        "form": "421359",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "SECRET MAN",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "HÜSEYİN KAYA",
-        "weight": 58,
-        "age": 4,
-        "form": "655542",
-        "odds": 0
-      },
-      {
-        "no": "7",
-        "name": "REFLECTED GLORY",
-        "jockey": "VEDAT ABİŞ",
-        "trainer": "RAMAZAN TAŞDELEN",
-        "weight": 57.5,
-        "age": 4,
-        "form": "4-07511",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 4,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "16:00",
-    "distance": 1200,
-    "surface": "Çim",
-    "raceClass": "Handikap 16/DHÖW /H1",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "ALATTİN",
-        "jockey": "İSMAİL YILDIRIM",
-        "trainer": "NEJMİ GÜNDÜZ",
-        "weight": 61,
-        "age": 5,
-        "form": "900025",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "BEŞİR ÇAVUŞ",
-        "jockey": "MEHMET TAHA COŞKUN",
-        "trainer": "RAMAZAN KAYA",
-        "weight": 59,
-        "age": 4,
-        "form": "261554",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "FIRTINAYÜREK",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "HÜSEYİN ATAŞ",
-        "weight": 59.5,
-        "age": 4,
-        "form": "132734",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "DOĞUYURT",
-        "jockey": "ENES ATLAMAZ",
-        "trainer": "CUMA DEMİR",
-        "weight": 57,
-        "age": 4,
-        "form": "387450",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "ARSLAN OĞLU",
-        "jockey": "AYHAN KURŞUN",
-        "trainer": "SERHAT POLAT",
-        "weight": 58.5,
-        "age": 4,
-        "form": "357428",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "NEVŞEHİR BEYİ",
-        "jockey": "NİZAMETTİN DEMİR",
-        "trainer": "YAKUP MİSDİK",
-        "weight": 58,
-        "age": 4,
-        "form": "127321",
-        "odds": 0
-      },
-      {
-        "no": "7",
-        "name": "KATICESUR",
-        "jockey": "MÜSLÜM ÇELİK",
-        "trainer": "CASIM KATI",
-        "weight": 53,
-        "age": 4,
-        "form": "008556",
-        "odds": 0
-      },
-      {
-        "no": "8",
-        "name": "İLBERK HAN",
-        "jockey": "SERHAT ÇELİK",
-        "trainer": "MERT KORKMAZ",
-        "weight": 52.5,
-        "age": 5,
-        "form": "6865-63",
-        "odds": 0
-      },
-      {
-        "no": "9",
-        "name": "HAS CEYLAN",
-        "jockey": "MERT ALİ SOLMAZ",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
-        "weight": 52,
-        "age": 5,
-        "form": "709002",
-        "odds": 0
-      },
-      {
-        "no": "10",
-        "name": "KEŞHANLI",
-        "jockey": "ERAY ÇİZİK",
-        "trainer": "HASAN YILDIRIM",
-        "weight": 52,
-        "age": 4,
-        "form": "901272",
-        "odds": 0
-      },
-      {
-        "no": "11",
-        "name": "TAŞPINAR",
-        "jockey": "MEHMET KESKİN",
-        "trainer": "MEHMET DEMİROL",
-        "weight": 51,
-        "age": 7,
-        "form": "6-06082",
-        "odds": 0
-      },
-      {
-        "no": "12",
-        "name": "SARITAHA",
-        "jockey": "FATİH SULTAN MEHMET SANSAR",
-        "trainer": "MÜSLÜM DOLAK",
-        "weight": 52,
-        "age": 4,
-        "form": "60-9900",
-        "odds": 0
-      },
-      {
-        "no": "13",
-        "name": "TOSTOS TUĞRUL",
-        "jockey": "MEHMET KIYAK",
-        "trainer": "YUSUF CAN KARATOPRAK",
-        "weight": 52,
-        "age": 4,
-        "form": "798706",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 5,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "16:30",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "AFAMIA",
-        "jockey": "İSMAİL YILDIRIM",
-        "trainer": "SAMET AKYAVUZ",
-        "weight": 56,
-        "age": 2,
-        "form": "6",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "BEAUTIFUL LIGHT",
-        "jockey": "MEHMET AKYAVUZ",
-        "trainer": "İSMET AKKILIÇ",
-        "weight": 57,
-        "age": 2,
-        "form": "2",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "KING ASHERON",
-        "jockey": "MEHMET SALİH ÇELİK",
-        "trainer": "SABİT EREN",
-        "weight": 57,
-        "age": 2,
-        "form": "4",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "LOVE OF AMERICA",
-        "jockey": "MÜSLÜM ÇELİK",
-        "trainer": "MÜCAHİT KAYA",
-        "weight": 57,
-        "age": 2,
-        "form": "3",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "PRESIDENTS HORSE",
-        "jockey": "HIŞMAN ÇİZİK",
-        "trainer": "MEHMET HANİFİ ELĞAÇ",
-        "weight": 57,
-        "age": 2,
-        "form": "74",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "YELLOW LION",
-        "jockey": "FATİH SULTAN MEHMET SANSAR",
-        "trainer": "OZAN BULUT",
-        "weight": 57,
-        "age": 2,
-        "form": "44",
-        "odds": 0
-      },
-      {
-        "no": "7",
-        "name": "QUEEN LARA",
-        "jockey": "NİZAMETTİN DEMİR",
-        "trainer": "YUSUF UÇAR",
-        "weight": 55,
-        "age": 2,
-        "form": "775",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 6,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "17:00",
-    "distance": 2000,
-    "surface": "Kum",
-    "raceClass": "KV-6/DHÖW/Dişi",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "TERKEN HATUN",
-        "jockey": "ERTUĞRUL CANKILIÇ",
-        "trainer": "HASAN YILDIRIM",
-        "weight": 60,
-        "age": 4,
-        "form": "222726",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "BERATKIZ",
-        "jockey": "VEDAT ABİŞ",
-        "trainer": "İBRAHİM ATMACA",
-        "weight": 58,
-        "age": 4,
-        "form": "135311",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "BOLKADER",
-        "jockey": "KADİR TOKAÇOĞLU",
-        "trainer": "FERDİ KIRAN",
-        "weight": 58,
-        "age": 4,
-        "form": "412051",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "KESKİN KUŞ",
-        "jockey": "SALİH ÇELİK",
-        "trainer": "MEHMET ÇELİK",
-        "weight": 58,
-        "age": 4,
-        "form": "092222",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "GÜMBÜRBERK",
-        "jockey": "MAHSUN TURAN",
-        "trainer": "SERHAT POLAT",
-        "weight": 56,
-        "age": 4,
-        "form": "170435",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "ATAKLI KIZ",
-        "jockey": "MEHMET AKYAVUZ",
-        "trainer": "RACİ ATLI",
-        "weight": 55,
-        "age": 4,
-        "form": "151806",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 7,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "17:30",
-    "distance": 2200,
-    "surface": "Çim",
-    "raceClass": "ŞARTLI 5",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "DRAGON FORCE",
-        "jockey": "AYHAN KURŞUN",
-        "trainer": "İBRAHİM BEKİROĞULLARI",
-        "weight": 61,
-        "age": 4,
-        "form": "15-1331",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "BROARTS",
-        "jockey": "ÖZCAN YILDIRIM",
-        "trainer": "FARUK SERİNTÜRK",
-        "weight": 60,
-        "age": 4,
-        "form": "9-31472",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "MARQUIS LAFAYETTE",
-        "jockey": "MEHMET TAHA COŞKUN",
-        "trainer": "HÜSEYİN ATAŞ",
-        "weight": 54,
-        "age": 4,
-        "form": "981300",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "BOUCHERON",
-        "jockey": "MÜSLÜM ÇELİK",
-        "trainer": "ERTAN ACER",
-        "weight": 56.5,
-        "age": 5,
-        "form": "394264",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "RAYMOND REDDINGTON",
-        "jockey": "ERCAN ÇANKAYA",
-        "trainer": "HÜSEYİN TEKİNALP",
-        "weight": 56.5,
-        "age": 6,
-        "form": "415-793",
-        "odds": 0
-      }
-    ]
-  },
-  {
-    "date": "2026-06-30",
-    "raceNo": 8,
-    "venue": "Ankara",
-    "hipodromName": "75. Yıl",
-    "time": "18:00",
-    "distance": 2100,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4/DHÖW/Y1",
-    "isGanyanStart": false,
-    "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 45,
-    "horses": [
-      {
-        "no": "1",
-        "name": "SARPER",
-        "jockey": "SERHAT ÇELİK",
-        "trainer": "MEHMET ALİ CANPOLATLI",
-        "weight": 60,
-        "age": 5,
-        "form": "672213",
-        "odds": 0
-      },
-      {
-        "no": "2",
-        "name": "TAÇYİĞİT",
-        "jockey": "ORHAN AKGÖNÜL",
-        "trainer": "MEHMET DEMİROL",
-        "weight": 60,
-        "age": 5,
-        "form": "892828",
-        "odds": 0
-      },
-      {
-        "no": "3",
-        "name": "SÜPER SONİK",
-        "jockey": "MERT UYAR",
-        "trainer": "RAMAZAN KAYA",
-        "weight": 59.5,
-        "age": 4,
-        "form": "425215",
-        "odds": 0
-      },
-      {
-        "no": "4",
-        "name": "SERPENÇE",
-        "jockey": "BERAT KELEŞOĞLU",
-        "trainer": "HÜSEYİN KARATAŞ",
-        "weight": 58.5,
-        "age": 4,
-        "form": "0-01635",
-        "odds": 0
-      },
-      {
-        "no": "5",
-        "name": "IRMAK SU",
-        "jockey": "MEHMET TAHA COŞKUN",
-        "trainer": "ERTAN ACER",
-        "weight": 58,
-        "age": 6,
-        "form": "274233",
-        "odds": 0
-      },
-      {
-        "no": "6",
-        "name": "MEGA STAR",
-        "jockey": "ENES ATLAMAZ",
-        "trainer": "MEHMET ALİ CANPOLATLI",
-        "weight": 57,
-        "age": 10,
-        "form": "529743",
-        "odds": 0
-      },
-      {
-        "no": "7",
-        "name": "ŞAFAK BEY",
-        "jockey": "İLKER AKIN",
-        "trainer": "MEHMET KORKMAZ",
-        "weight": 56,
-        "age": 5,
-        "form": "004666",
-        "odds": 0
-      },
-      {
-        "no": "8",
-        "name": "HAKİMTAY",
-        "jockey": "MENNAN BAL",
-        "trainer": "SUAT ALTUNBAŞ",
-        "weight": 56,
-        "age": 5,
-        "form": "00-8008",
         "odds": 0
       }
     ]
