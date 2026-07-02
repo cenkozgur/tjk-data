@@ -183,5 +183,70 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-02",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "NIGHTFLYERS",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "YAŞAR DEMİR",
+        "weight": 57,
+        "odds": 11.05,
+        "finishTime": "1.42.00",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "ORANGE ARMY",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "İBRAHİM TEMEL",
+        "weight": 56,
+        "odds": 3.95,
+        "finishTime": "1.43.42",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "SELANİK ASLANI",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 60,
+        "odds": 1.3,
+        "finishTime": "1.43.75",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "KOCAHANIM",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 54,
+        "odds": 6.45,
+        "finishTime": "1.44.16",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "HAWORTH",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "ZÜLKÜF YILMAZ",
+        "weight": 60,
+        "odds": 11.85,
+        "finishTime": "1.44.44",
+        "age": 4
+      }
+    ]
   }
 ]
