@@ -315,5 +315,114 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-03",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "QUEEN AYLA",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 59.5,
+        "odds": 12.45,
+        "finishTime": "1.22.76",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "BLIZZARD",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "AHMET ÖCAL",
+        "weight": 58.5,
+        "odds": 7.95,
+        "finishTime": "1.22.77",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "SOSAN",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "MEHMET ALİ KAYA",
+        "weight": 52,
+        "odds": 23.25,
+        "finishTime": "1.22.79",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "STAR OF NİĞDE",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 53,
+        "odds": 9.2,
+        "finishTime": "1.23.05",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "BAY CAVALLO",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "DILŞA KAYA",
+        "weight": 52,
+        "odds": 15.35,
+        "finishTime": "1.23.08",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "ERİKDALI",
+        "jockey": "CEMAL PASO",
+        "trainer": "KENAN KAYALIK",
+        "weight": 52,
+        "odds": 28.65,
+        "finishTime": "1.23.36",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "VERONA SPRING",
+        "jockey": "SERCAN TIRPAN",
+        "trainer": "MEHMET ÖCAL",
+        "weight": 52,
+        "odds": 48.25,
+        "finishTime": "1.23.63",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "3",
+        "name": "ORGANIZATION",
+        "jockey": "CEM ALTUN",
+        "trainer": "DILŞA KAYA",
+        "weight": 58,
+        "odds": 1.35,
+        "finishTime": "1.23.71",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "4",
+        "name": "JAPONCAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 55.5,
+        "odds": 7.7,
+        "finishTime": "1.24.76",
+        "age": 3
+      }
+    ]
   }
 ]
