@@ -741,6 +741,82 @@
   },
   {
     "date": "2026-07-03",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "KV-6/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "NYMPHADORA TONKS",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "NURULLAH ESEN",
+        "weight": 56.5,
+        "odds": 1.45,
+        "finishTime": "2.17.49",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "OHRID INCISI",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 56.5,
+        "odds": 6.7,
+        "finishTime": "2.18.28",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "LADY SEPHORA",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "BURÇİN ARSLAN",
+        "weight": 57.5,
+        "odds": 5.1,
+        "finishTime": "2.18.44",
+        "age": 8
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "PEHLİVAN YILDIZI",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAİK GÖNÜLTAŞ",
+        "weight": 60,
+        "odds": 9.75,
+        "finishTime": "2.19.59",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "DAYWATCH",
+        "jockey": "GÖKHAN BEKTAŞ",
+        "trainer": "GÜLTEKİN SUBAŞI",
+        "weight": 56.5,
+        "odds": 23,
+        "finishTime": "2.20.56",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "NOBLE PRINCESS",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 60,
+        "odds": 6.45,
+        "finishTime": "2.22.11",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 2000,
