@@ -241,6 +241,93 @@
   },
   {
     "date": "2026-07-03",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "DEJAME",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 53,
+        "odds": 3.85,
+        "finishTime": "1.37.23",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "NART THE WOLF",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "NURULLAH ESEN",
+        "weight": 60,
+        "odds": 2.05,
+        "finishTime": "1.37.26",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "ORMELLO",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 54,
+        "odds": 12.3,
+        "finishTime": "1.37.33",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "NOBLE STRENGTH",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 54,
+        "odds": 6.85,
+        "finishTime": "1.37.73",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "MAGICAL FLOWER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 53,
+        "odds": 9.9,
+        "finishTime": "1.37.74",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "CLEMENZA",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 55,
+        "odds": 4.05,
+        "finishTime": "1.37.89",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "PINK FLOWER",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 53,
+        "odds": 55.85,
+        "finishTime": "1.41.89",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 2000,
