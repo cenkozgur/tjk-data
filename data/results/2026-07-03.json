@@ -924,5 +924,59 @@
         "age": 6
       }
     ]
+  },
+  {
+    "date": "2026-07-03",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "MY LITTLE BOY",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 52,
+        "odds": 1.05,
+        "finishTime": "1.12.25",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "HOLD ON TO LIFE",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "FERHAT ALTIN",
+        "weight": 52,
+        "odds": 29.8,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "DUM SPIRO SPERO",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 1.05,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "GREENLIFE",
+        "jockey": "RECEP KETME",
+        "trainer": "ZEYNEP KAYA",
+        "weight": 52,
+        "odds": 10.25,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
   }
 ]
