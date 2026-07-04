@@ -85,5 +85,114 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-04",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "KING MALKOÇ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 56.5,
+        "odds": 8.1,
+        "finishTime": "2.21.17",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "MAJESTIC HOLIDAY",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "VEYSEL TEKİN",
+        "weight": 56,
+        "odds": 13.4,
+        "finishTime": "2.21.24",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "AGE OF DISCOVERY",
+        "jockey": "UĞUR TEMUR",
+        "trainer": "OZAN BULUT",
+        "weight": 58,
+        "odds": 6.65,
+        "finishTime": "2.21.87",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "AFTER YOU",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "KADİR TEKİNALP",
+        "weight": 56,
+        "odds": 6.55,
+        "finishTime": "2.21.99",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "FEMALE EAGLE",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "KADİR BALTACI",
+        "weight": 52,
+        "odds": 3.95,
+        "finishTime": "2.22.22",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "DEMEDİ DEME",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58.5,
+        "odds": 6.35,
+        "finishTime": "2.23.43",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "ZELUCCİ",
+        "jockey": "MEHMET KAYA",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 58,
+        "odds": 7.25,
+        "finishTime": "2.26.28",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "SUNDANCE",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 60,
+        "odds": 6.15,
+        "finishTime": "2.27.62",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "MY JUILETTE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KEMAL SAVAŞ MUCUR",
+        "weight": 56.5,
+        "odds": 7.9,
+        "finishTime": "2.29.40",
+        "age": 5
+      }
+    ]
   }
 ]
