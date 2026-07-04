@@ -547,6 +547,71 @@
   },
   {
     "date": "2026-07-04",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "KLEIN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 58,
+        "odds": 1.05,
+        "finishTime": "1.39.65",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "SELLY SON",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FATİH TOSUN",
+        "weight": 59,
+        "odds": 9.85,
+        "finishTime": "1.41.01",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "CAN EFE",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 58,
+        "odds": 9.8,
+        "finishTime": "1.41.10",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "JUNIOR BAŞKAN",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "REGAİP YILDIZ",
+        "weight": 58,
+        "odds": 35.75,
+        "finishTime": "1.41.13",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "COLOUR OF LIGHT",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 58,
+        "odds": 44.75,
+        "finishTime": "1.44.17",
+        "age": 7
+      }
+    ]
+  },
+  {
+    "date": "2026-07-04",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1300,
