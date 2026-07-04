@@ -194,5 +194,92 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-07-04",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "RITE OF SPRING",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "BATUHAN TURGUL",
+        "weight": 55,
+        "odds": 1.85,
+        "finishTime": "1.56.54",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "BORN TO TRUST",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "CUMA DEMİR",
+        "weight": 56,
+        "odds": 2.35,
+        "finishTime": "1.56.56",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "AKIN BEYLİ",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "CUMALİ KARATAŞ",
+        "weight": 55,
+        "odds": 31,
+        "finishTime": "1.57.08",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "SIEGREICH",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 56,
+        "odds": 34.2,
+        "finishTime": "1.57.62",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "TARCAN BABA",
+        "jockey": "MERT UYAR",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 54,
+        "odds": 15.7,
+        "finishTime": "1.57.83",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "KARAMAÇABEY",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 55,
+        "odds": 11.3,
+        "finishTime": "1.57.95",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "MIDNIGHT MIRAGE",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "FARUK SERİNTÜRK",
+        "weight": 58,
+        "odds": 5.95,
+        "finishTime": "1.58.57",
+        "age": 3
+      }
+    ]
   }
 ]
