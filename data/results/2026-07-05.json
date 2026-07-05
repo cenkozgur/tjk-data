@@ -380,5 +380,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-05",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "HARUN REİS",
+        "jockey": "SADETTİN BOYRAZ",
+        "trainer": "SEDAT ÇİFTÇİ",
+        "weight": 59,
+        "odds": 1.5,
+        "finishTime": "1.12.63",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "BACKTRACK",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "SEDAT ÇİFTÇİ",
+        "weight": 55,
+        "odds": 11.95,
+        "finishTime": "1.14.11",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "PYROHAN",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 57,
+        "odds": 4.1,
+        "finishTime": "1.14.15",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "ALDANA",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 52,
+        "odds": 26.05,
+        "finishTime": "1.14.92",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "INNERBLOOM",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "UFUK BİLİK",
+        "weight": 55,
+        "odds": 4,
+        "finishTime": "1.15.58",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "GHOSHA",
+        "jockey": "ROJHAT KURT",
+        "trainer": "SERHAT POLAT",
+        "weight": 53,
+        "odds": 16.45,
+        "finishTime": "1.16.99",
+        "age": 2
+      }
+    ]
   }
 ]
