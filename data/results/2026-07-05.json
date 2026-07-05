@@ -456,5 +456,158 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-05",
+    "raceNo": 5,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden/DHÖ/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "BALLIBİKE",
+        "jockey": "MEHMET KAYA",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 59,
+        "odds": 3.15,
+        "finishTime": "1.21.25",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "13",
+        "name": "YAĞMURCUM",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 57,
+        "odds": 14.95,
+        "finishTime": "1.21.51",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "ATEŞ KUŞLARI",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 53,
+        "odds": 16.3,
+        "finishTime": "1.21.60",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "12",
+        "name": "ŞAHANIL",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "HALİS YILDIZ",
+        "weight": 55,
+        "odds": 14.05,
+        "finishTime": "1.22.24",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "NARENKA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 57,
+        "odds": 5.8,
+        "finishTime": "1.22.56",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "GÜNŞİRAY",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "KADİR TURAN",
+        "weight": 54,
+        "odds": 13.6,
+        "finishTime": "1.23.86",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "ASİ KADIN",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "MUSTAFA ATAL",
+        "weight": 57,
+        "odds": 6.25,
+        "finishTime": "1.23.97",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "CABİREKIZIM",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "OSMAN ALTUNTAŞ",
+        "weight": 57,
+        "odds": 4.15,
+        "finishTime": "1.24.19",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "ADALAR",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 57,
+        "odds": 10.8,
+        "finishTime": "1.24.84",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "MADAM BONANZA",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 57,
+        "odds": 33.6,
+        "finishTime": "1.27.10",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "5",
+        "name": "AYDONAT",
+        "jockey": "MAHMUT BAĞ",
+        "trainer": "ATİLLA GÖKÇE",
+        "weight": 53,
+        "odds": 27.1,
+        "finishTime": "1.29.87",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "11",
+        "name": "ÖZGÜNDEN",
+        "jockey": "GÖKHAN BEKTAŞ",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 57,
+        "odds": 61.2,
+        "finishTime": "1.31.50",
+        "age": 3
+      },
+      {
+        "position": 13,
+        "no": "10",
+        "name": "OKAYGÜN",
+        "jockey": "MEHMET FATİH KAYA",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 57,
+        "odds": 16.3,
+        "finishTime": "1.31.66",
+        "age": 3
+      }
+    ]
   }
 ]
