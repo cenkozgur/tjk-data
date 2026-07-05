@@ -858,5 +858,92 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-05",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "KV-9",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "LAST MOMENT",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "TURGAY ATAÇ",
+        "weight": 58,
+        "odds": 8.05,
+        "finishTime": "1.57.05",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "RIDE THE LIGHTNING",
+        "jockey": "MEHMET KAYA",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 58,
+        "odds": 1.2,
+        "finishTime": "1.57.28",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "GOLD FLOWER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HAKAN HARMANBAŞI",
+        "weight": 56,
+        "odds": 14.95,
+        "finishTime": "1.57.35",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ALTINSİMA",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "BEYDA TANRIKULU",
+        "weight": 58,
+        "odds": 14.35,
+        "finishTime": "1.57.41",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "MISTER PROTEO",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "BERKAN KAÇMAZ",
+        "weight": 58,
+        "odds": 5.75,
+        "finishTime": "1.57.61",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "LOWER SPIRIT",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 58,
+        "odds": 20.9,
+        "finishTime": "1.57.90",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "ESCAPE PATH",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "MAHMUT BAYKARA",
+        "weight": 58,
+        "odds": 28.1,
+        "finishTime": "1.57.93",
+        "age": 4
+      }
+    ]
   }
 ]
