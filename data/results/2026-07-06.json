@@ -369,5 +369,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "raceNo": 4,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 1/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "9",
+        "name": "THE FUTURE",
+        "jockey": "CEM ALTUN",
+        "trainer": "DILŞA KAYA",
+        "weight": 57,
+        "odds": 7.65,
+        "finishTime": "1.11.92",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "SUBE LA MAREA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "KEMAL DEMİR",
+        "weight": 57,
+        "odds": 2,
+        "finishTime": "1.12.95",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "LA JOYA",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 3.05,
+        "finishTime": "1.13.03",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "MOON ASH",
+        "jockey": "TUGAY ALICI",
+        "trainer": "ABDULLAH TEMİZER",
+        "weight": 57,
+        "odds": 6.15,
+        "finishTime": "1.13.53",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SOME JEWEL",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "NİYAZİ ŞİMŞEK",
+        "weight": 57,
+        "odds": 2,
+        "finishTime": "1.13.83",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "YOSEMITE GIRL",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "SERGEN GÖKÇE",
+        "weight": 57,
+        "odds": 7.5,
+        "finishTime": "1.14.16",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "AURELIA BLITZ",
+        "jockey": "EFE AKPINAR",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 57,
+        "odds": 11,
+        "finishTime": "1.18.05",
+        "age": 2
+      }
+    ]
   }
 ]
