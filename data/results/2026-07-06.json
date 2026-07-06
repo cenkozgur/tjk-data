@@ -143,6 +143,235 @@
   },
   {
     "date": "2026-07-06",
+    "raceNo": 2,
+    "venue": "Elazığ",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "VAN KALESİ",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "SİNEM BAKIR",
+        "weight": 57.5,
+        "odds": 11.95,
+        "finishTime": "2.12.53",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "ROYALGUARD",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 57.5,
+        "odds": 3.75,
+        "finishTime": "2.12.65",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "SMALL BURGAZ",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "ERCAN ALTIN",
+        "weight": 61.5,
+        "odds": 8.5,
+        "finishTime": "2.14.99",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "FIRST BREATH",
+        "jockey": "İSA KATAR",
+        "trainer": "ORHAN GÖRMEZ",
+        "weight": 60.5,
+        "odds": 8.55,
+        "finishTime": "2.15.70",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "KING OF RACE",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 56,
+        "odds": 20.25,
+        "finishTime": "2.15.79",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "CAPTIVATING",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 55.5,
+        "odds": 1.65,
+        "finishTime": "2.15.90",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "AŞAN GOLD",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 59,
+        "odds": 16.05,
+        "finishTime": "2.16.38",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "SILVEN",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "KADİR TAŞDEMİR",
+        "weight": 52,
+        "odds": 24.45,
+        "finishTime": "2.20.41",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "raceNo": 3,
+    "venue": "Elazığ",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "DAY DREAM BOY",
+        "jockey": "MEHMET TAŞKAYA",
+        "trainer": "BİLAL ŞİMŞEK",
+        "weight": 58,
+        "odds": 1.8,
+        "finishTime": "2.12.31",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "I MAKE THE RULES",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "KADİR TAŞDEMİR",
+        "weight": 58,
+        "odds": 7,
+        "finishTime": "2.15.69",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "ANDROMEDA STAR",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 58,
+        "odds": 5,
+        "finishTime": "2.17.77",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "BRENDON",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 61,
+        "odds": 12.25,
+        "finishTime": "2.17.79",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "INDEPENDENCE",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "ERCAN ALTIN",
+        "weight": 60,
+        "odds": 12.65,
+        "finishTime": "2.18.06",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "CANDIA",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 56,
+        "odds": 14.4,
+        "finishTime": "2.23.20",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "UMAR BEY",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MEHMET KAYA",
+        "weight": 58,
+        "odds": 17.05,
+        "finishTime": "2.24.68",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "LUNAR NODE",
+        "jockey": "İSA KATAR",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 58,
+        "odds": 49,
+        "finishTime": "2.25.48",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "KİKAZARU",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 60,
+        "odds": 13.65,
+        "finishTime": "2.25.95",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "12",
+        "name": "TÜRBEDERELİ",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "ESER YILDIRIM",
+        "weight": 56,
+        "odds": 39.8,
+        "finishTime": "2.26.04",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "PERSIAN JADE",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 56,
+        "odds": 24.45,
+        "finishTime": "2.36.99",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-06",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1200,
