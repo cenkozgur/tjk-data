@@ -1021,5 +1021,103 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "raceNo": 10,
+    "venue": "Bursa",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "AL CEMAL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 57,
+        "odds": 1.65,
+        "finishTime": "1.25.17",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "ŞAHİNYÜREKLİ",
+        "jockey": "BARAN ÇETİN",
+        "trainer": "MEHMET ALİ KAYA",
+        "weight": 53,
+        "odds": 21.25,
+        "finishTime": "1.26.00",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "ALTIN DERYA",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "FERHAT ALTIN",
+        "weight": 57,
+        "odds": 8.25,
+        "finishTime": "1.26.38",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "SERVER BEYİM",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 57,
+        "odds": 11.6,
+        "finishTime": "1.26.44",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "İLDA SULTAN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 55,
+        "odds": 7.85,
+        "finishTime": "1.26.76",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "GÜZELÇAMLI",
+        "jockey": "CEM ALTUN",
+        "trainer": "ERKUT KOCA",
+        "weight": 53,
+        "odds": 26.1,
+        "finishTime": "1.28.91",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "YÜCEALP",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 54,
+        "odds": 29.6,
+        "finishTime": "1.37.90",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "ATICI KAYA",
+        "jockey": "SADIK ALTAY",
+        "trainer": "MERT DEMİRTAŞ",
+        "weight": 56,
+        "odds": 12,
+        "finishTime": "1.46.75",
+        "age": 3
+      }
+    ]
   }
 ]
