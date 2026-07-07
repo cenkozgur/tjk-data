@@ -85,5 +85,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-07",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "BULL MAN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "odds": 2.7,
+        "finishTime": "1.35.16",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "THOMAS SHELBY",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 56,
+        "odds": 2.3,
+        "finishTime": "1.35.18",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "MOUNTAIN",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "ERTAN ACER",
+        "weight": 60,
+        "odds": 3.75,
+        "finishTime": "1.35.61",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "MAHALL",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "OSMAN GİRİŞKİN",
+        "weight": 55,
+        "odds": 5.5,
+        "finishTime": "1.35.66",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "THE HOCUS",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "SERVET DOĞAN",
+        "weight": 58.5,
+        "odds": 20.95,
+        "finishTime": "1.36.83",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "FINALE DUTY",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "AHMET İPEK",
+        "weight": 54,
+        "odds": 27.85,
+        "finishTime": "1.45.15",
+        "age": 6
+      }
+    ]
   }
 ]
