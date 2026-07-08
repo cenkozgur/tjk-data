@@ -141,6 +141,49 @@
   },
   {
     "date": "2026-07-08",
+    "raceNo": 4,
+    "venue": "Elazığ",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16/DHÖW /H3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "QUATRO",
+        "jockey": "MENNAN BAL",
+        "trainer": "BAVER FAHRİOĞLU",
+        "weight": 57.5,
+        "odds": 3.8,
+        "finishTime": "2.30.86",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "TEKİR BEYİ",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "ESER YILDIRIM",
+        "weight": 60,
+        "odds": 1.25,
+        "finishTime": "2.35.19",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "KING PELE",
+        "jockey": "MEHMET FATİN ASLAN",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 62.5,
+        "odds": 3.4,
+        "finishTime": "2.41.90",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-07-08",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 2000,
