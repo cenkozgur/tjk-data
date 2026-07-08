@@ -595,5 +595,81 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "KV-6/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "ASİL OĞLAN",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 55,
+        "odds": 6.65,
+        "finishTime": "1.16.67",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GÖKMETE",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "SAVAŞ AYDOĞDİ",
+        "weight": 58,
+        "odds": 3.4,
+        "finishTime": "1.16.70",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "AĞIR OĞLUM",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "CASIM KATI",
+        "weight": 58,
+        "odds": 1.65,
+        "finishTime": "1.17.14",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "ASLAN YAĞIZ",
+        "jockey": "HALEF KATI",
+        "trainer": "MURAT ALTIN",
+        "weight": 59,
+        "odds": 12,
+        "finishTime": "1.17.69",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "SEMENDHAN",
+        "jockey": "VELAT DEMİR",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 61,
+        "odds": 9.15,
+        "finishTime": "1.17.87",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "ŞENALPTUĞ",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 56,
+        "odds": 9.15,
+        "finishTime": "1.18.34",
+        "age": 5
+      }
+    ]
   }
 ]
