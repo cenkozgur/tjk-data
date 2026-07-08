@@ -85,5 +85,114 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "SATIŞ 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "İSEN BUGA",
+        "jockey": "RAMAZAN ARSLAN",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 58,
+        "odds": 3.5,
+        "finishTime": "1.22.55",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "BOLD LION",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 60,
+        "odds": 2.75,
+        "finishTime": "1.22.58",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "PRINCE OF DARKNESS",
+        "jockey": "SELÇUK AKBULAT",
+        "trainer": "UFUK BİLİK",
+        "weight": 60,
+        "odds": 3.2,
+        "finishTime": "1.22.59",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "HARDOLD",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "CEMİL TURAN",
+        "weight": 55,
+        "odds": 24.1,
+        "finishTime": "1.22.65",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "VICTORY MATRA",
+        "jockey": "MEHMET KIYAK",
+        "trainer": "ARZU KILIÇ",
+        "weight": 55,
+        "odds": 9.3,
+        "finishTime": "1.22.68",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "YARGIÇ",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "ŞÜKRÜ ÇELİK",
+        "weight": 60,
+        "odds": 8.35,
+        "finishTime": "1.24.36",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "JESKO",
+        "jockey": "SAMETCAN YAZICIOĞLU",
+        "trainer": "UFUK DEMİR",
+        "weight": 55,
+        "odds": 34.25,
+        "finishTime": "1.24.60",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "MAMBA FOREVER",
+        "jockey": "DANYAL KAYA",
+        "trainer": "CUMA GÜNEŞ",
+        "weight": 57,
+        "odds": 23.95,
+        "finishTime": "1.24.91",
+        "age": 8
+      },
+      {
+        "position": 9,
+        "no": "9",
+        "name": "WINNER GETS IT ALL",
+        "jockey": "BERKAN ÇIĞLA",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 54,
+        "odds": 25.8,
+        "finishTime": "1.25.27",
+        "age": 8
+      }
+    ]
   }
 ]
