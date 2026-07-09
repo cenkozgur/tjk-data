@@ -281,5 +281,114 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 4,
+    "venue": "Ankara",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/DHÖW/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "ESENLİ RÜZGARI",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "ARZU KILIÇ",
+        "weight": 57,
+        "odds": 8.2,
+        "finishTime": "1.33.39",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "ALSAYFA",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 57,
+        "odds": 6.05,
+        "finishTime": "1.33.56",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "KÜÇÜK NAİME",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "MEHMET ŞEFİK KILINÇ",
+        "weight": 56,
+        "odds": 12.75,
+        "finishTime": "1.33.93",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "HOŞBAKIŞ",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "MEHMET AKKUŞ",
+        "weight": 57,
+        "odds": 5.8,
+        "finishTime": "1.34.31",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "UĞURLU BEBEK",
+        "jockey": "VELAT DEMİR",
+        "trainer": "SEVGİ BEKTAŞ",
+        "weight": 59,
+        "odds": 6.15,
+        "finishTime": "1.34.32",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "DAYANA",
+        "jockey": "ZÜLFÜKAR AYDOĞDİ",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 49,
+        "odds": 13.3,
+        "finishTime": "1.34.85",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "MUTLU BAHAR",
+        "jockey": "MEHMET KIYAK",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 54,
+        "odds": 4.85,
+        "finishTime": "1.35.74",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "AKBURÇAK",
+        "jockey": "TAMER BALİ",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 54,
+        "odds": 28.05,
+        "finishTime": "1.38.64",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "SAYRA",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "CASIM KATI",
+        "weight": 57,
+        "odds": 3.1,
+        "finishTime": "1.40.27",
+        "age": 3
+      }
+    ]
   }
 ]
