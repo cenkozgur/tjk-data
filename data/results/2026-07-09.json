@@ -390,5 +390,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "Kısa Vade Handikap 22 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "POWER OF HAKEEM",
+        "jockey": "MEHMET KIYAK",
+        "trainer": "MÜSLÜM ÖRTÜNÇ",
+        "weight": 61,
+        "odds": 1.5,
+        "finishTime": "1.22.86",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "DARK VEYRON",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 52,
+        "odds": 5.5,
+        "finishTime": "1.22.87",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "RAYMOND REDDINGTON",
+        "jockey": "VELAT DEMİR",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 57.5,
+        "odds": 6.8,
+        "finishTime": "1.23.45",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "SER VEYRON",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "RACİ ATLI",
+        "weight": 60,
+        "odds": 7.55,
+        "finishTime": "1.23.46",
+        "age": 8
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "CAZATOR DE OSOS",
+        "jockey": "ORHAN AKGÖNÜL",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 10.5,
+        "finishTime": "1.23.89",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "WARRIOR LION",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 52.5,
+        "odds": 14.05,
+        "finishTime": "1.23.95",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "MR NALÇAKAN",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "HİKMET TURAN",
+        "weight": 54,
+        "odds": 16.75,
+        "finishTime": "1.24.91",
+        "age": 4
+      }
+    ]
   }
 ]
