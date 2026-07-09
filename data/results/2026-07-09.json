@@ -183,5 +183,103 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Handikap 16/DHÖW /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "KEŞHANLI",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 53,
+        "odds": 1.7,
+        "finishTime": "1.18.31",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "FIRTINAYÜREK",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 59.5,
+        "odds": 5.45,
+        "finishTime": "1.18.32",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "DOĞUYURT",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "CUMA DEMİR",
+        "weight": 59,
+        "odds": 8.8,
+        "finishTime": "1.18.65",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "CEBELTUNA",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "MEHMET ALİ KAYA",
+        "weight": 61.5,
+        "odds": 5.05,
+        "finishTime": "1.18.90",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "TEYAR",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "MEHMET GÜNEŞ",
+        "weight": 54,
+        "odds": 9.65,
+        "finishTime": "1.18.96",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "DEMİR BARBAR",
+        "jockey": "TAMER BALİ",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 52,
+        "odds": 22.15,
+        "finishTime": "1.19.26",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "9",
+        "name": "DODOKAN",
+        "jockey": "ÖZGÜR ORDU",
+        "trainer": "AVNİ KARAKUŞ",
+        "weight": 52,
+        "odds": 31.3,
+        "finishTime": "1.21.22",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "YAĞIZ TURBO",
+        "jockey": "VELAT DEMİR",
+        "trainer": "HİKMET TURAN",
+        "weight": 58.5,
+        "odds": 11.65,
+        "finishTime": "1.23.03",
+        "age": 4
+      }
+    ]
   }
 ]
