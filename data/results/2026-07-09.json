@@ -565,6 +565,82 @@
   },
   {
     "date": "2026-07-09",
+    "raceNo": 7,
+    "venue": "Ankara",
+    "distance": 1000,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "OPERASYON",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 54,
+        "odds": 3.3,
+        "finishTime": "0.57.88",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "KING DAVUT",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "MURAT ALAÇAM",
+        "weight": 56,
+        "odds": 8.3,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "SMART CHILDREN",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "ARZU KILIÇ",
+        "weight": 58,
+        "odds": 2.8,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "İSPANOZ",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 57,
+        "odds": 2.65,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "GOLDEN RACER",
+        "jockey": "VELAT DEMİR",
+        "trainer": "İSMET AKKILIÇ",
+        "weight": 58,
+        "odds": 7.5,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "GENERAL SHERMAN",
+        "jockey": "TAMER BALİ",
+        "trainer": "CELAL BURAK SERİNER",
+        "weight": 54,
+        "odds": 17.75,
+        "finishTime": "",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-07-09",
     "raceNo": 1,
     "venue": "Kocaeli",
     "distance": 1200,
