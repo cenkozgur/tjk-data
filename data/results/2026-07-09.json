@@ -502,6 +502,113 @@
   },
   {
     "date": "2026-07-09",
+    "raceNo": 6,
+    "venue": "Kocaeli",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-9",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "PERS JOYS",
+        "jockey": "BARAN ÇETİN",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 58,
+        "odds": 5.75,
+        "finishTime": "1.13.95",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "TENACIOUS KHAN",
+        "jockey": "ŞAHİN DURSUN",
+        "trainer": "HAKAN HARMANBAŞI",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "1.14.15",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "SECRET FLIGHT",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MEHMET KARACA",
+        "weight": 58,
+        "odds": 4.65,
+        "finishTime": "1.14.59",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "LION TOMO",
+        "jockey": "HALEF KATI",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "odds": 6.4,
+        "finishTime": "1.15.79",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "FIRE OF TYGAR",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ERTAN ACER",
+        "weight": 58,
+        "odds": 2.95,
+        "finishTime": "1.15.86",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "KING FERİT",
+        "jockey": "İSMAİL KATI",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 58,
+        "odds": 9.7,
+        "finishTime": "1.16.09",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "KUBAT KASIRGASI",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 58,
+        "odds": 29.35,
+        "finishTime": "1.16.18",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "EUROFIGHTER",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "NİHAT KAYA",
+        "weight": 58,
+        "odds": 34.3,
+        "finishTime": "1.20.00",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Kocaeli",
+        "label": "1. 6'LI GANYAN",
+        "combination": "1/6/3/6/5/6",
+        "prizeAmount": 1487.68,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-09",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1900,
