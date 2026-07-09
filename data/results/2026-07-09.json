@@ -2,6 +2,256 @@
   {
     "date": "2026-07-09",
     "raceNo": 1,
+    "venue": "Kocaeli",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3/DHÖW/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "HAZAN SABAHI",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 57,
+        "odds": 1.3,
+        "finishTime": "1.24.98",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "ESRİN HATUN",
+        "jockey": "ÇAĞLAR TAŞCI",
+        "trainer": "SİBEL AKCI",
+        "weight": 53,
+        "odds": 18,
+        "finishTime": "1.25.19",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "KONÇİÇEK",
+        "jockey": "HALEF KATI",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 59,
+        "odds": 6.9,
+        "finishTime": "1.26.09",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "ŞEKER İNCİ",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 56,
+        "odds": 18.1,
+        "finishTime": "1.27.51",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "HEVSELİM",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 56,
+        "odds": 6.8,
+        "finishTime": "1.28.07",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "UZUN SUDE",
+        "jockey": "HALİL ALTIN",
+        "trainer": "EKREM TURAN",
+        "weight": 55,
+        "odds": 28.4,
+        "finishTime": "1.28.16",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "YEŞİL ADA",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "FIRAT GARZAN",
+        "weight": 56,
+        "odds": 7.85,
+        "finishTime": "1.28.63",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "İNCESAZ",
+        "jockey": "HÜSEYİN TURAN",
+        "trainer": "ADNAN POLAT",
+        "weight": 55,
+        "odds": 41,
+        "finishTime": "1.37.01",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 2,
+    "venue": "Kocaeli",
+    "distance": 1800,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "SONYEL",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 51,
+        "odds": 1.6,
+        "finishTime": "2.10.16",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "SÜKANBEY",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "YUSUF UÇAR",
+        "weight": 55,
+        "odds": 3.7,
+        "finishTime": "2.10.22",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "BİRGEDAĞ",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 54,
+        "odds": 10.05,
+        "finishTime": "2.11.96",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "AFŞARBEY",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 53,
+        "odds": 28,
+        "finishTime": "2.12.18",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "ÇİÇEK TOHUMU",
+        "jockey": "ADEM CEYLAN",
+        "trainer": "MİKAİL ALTIN",
+        "weight": 56,
+        "odds": 4.4,
+        "finishTime": "2.13.48",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "HADEHANIM",
+        "jockey": "HALEF KATI",
+        "trainer": "ŞEFİK AYDEMİR",
+        "weight": 59,
+        "odds": 19.85,
+        "finishTime": "2.17.71",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 3,
+    "venue": "Kocaeli",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "RUZYM",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "SİNAN YANMAZ",
+        "weight": 56,
+        "odds": 1.35,
+        "finishTime": "2.06.10",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "VAYNAKH",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "TEZCAN TAŞAR",
+        "weight": 54,
+        "odds": 3.1,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "SAVE YOUR TEARS",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 11.25,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "KAYLA MARLA",
+        "jockey": "SELÇUK AKBULAT",
+        "trainer": "ATA ÖZKAN",
+        "weight": 54,
+        "odds": 23.7,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "VICTORY STAR",
+        "jockey": "İSMAİL KATI",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 55,
+        "odds": 17.3,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "SİHİRLİ JOVANKA",
+        "jockey": "ADEM CEYLAN",
+        "trainer": "NİHAT YILDIRIM",
+        "weight": 56,
+        "odds": 15.5,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "raceNo": 1,
     "venue": "Ankara",
     "distance": 1900,
     "surface": "Çim",
@@ -754,180 +1004,6 @@
         "combination": "5,8/3/1/2/6/4",
         "prizeAmount": 5852.87,
         "lastRaceNo": 8
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "raceNo": 1,
-    "venue": "Kocaeli",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 3/DHÖW/Dişi",
-    "horses": [
-      {
-        "position": 1,
-        "no": "1",
-        "name": "HAZAN SABAHI",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "MEHMET ALİ CANPOLATLI",
-        "weight": 57,
-        "odds": 1.3,
-        "finishTime": "1.24.98",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "6",
-        "name": "ESRİN HATUN",
-        "jockey": "ÇAĞLAR TAŞCI",
-        "trainer": "SİBEL AKCI",
-        "weight": 53,
-        "odds": 18,
-        "finishTime": "1.25.19",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "5",
-        "name": "KONÇİÇEK",
-        "jockey": "HALEF KATI",
-        "trainer": "HÜSEYİN SUNKAR",
-        "weight": 59,
-        "odds": 6.9,
-        "finishTime": "1.26.09",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "3",
-        "name": "ŞEKER İNCİ",
-        "jockey": "MEHMET ÇELİK",
-        "trainer": "GÜLŞAH TAŞDELEN",
-        "weight": 56,
-        "odds": 18.1,
-        "finishTime": "1.27.51",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "2",
-        "name": "HEVSELİM",
-        "jockey": "İZETTİN GÜREKE",
-        "trainer": "GÜLŞAH TAŞDELEN",
-        "weight": 56,
-        "odds": 6.8,
-        "finishTime": "1.28.07",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "8",
-        "name": "UZUN SUDE",
-        "jockey": "HALİL ALTIN",
-        "trainer": "EKREM TURAN",
-        "weight": 55,
-        "odds": 28.4,
-        "finishTime": "1.28.16",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "4",
-        "name": "YEŞİL ADA",
-        "jockey": "HALİT GÖKÇE",
-        "trainer": "FIRAT GARZAN",
-        "weight": 56,
-        "odds": 7.85,
-        "finishTime": "1.28.63",
-        "age": 3
-      },
-      {
-        "position": 8,
-        "no": "7",
-        "name": "İNCESAZ",
-        "jockey": "HÜSEYİN TURAN",
-        "trainer": "ADNAN POLAT",
-        "weight": 55,
-        "odds": 41,
-        "finishTime": "1.37.01",
-        "age": 3
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "raceNo": 2,
-    "venue": "Kocaeli",
-    "distance": 1800,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4/DHÖ",
-    "horses": [
-      {
-        "position": 1,
-        "no": "6",
-        "name": "SONYEL",
-        "jockey": "HALİT GÖKÇE",
-        "trainer": "ÖMER FARUK TAŞDELEN",
-        "weight": 51,
-        "odds": 1.6,
-        "finishTime": "2.10.16",
-        "age": 4
-      },
-      {
-        "position": 2,
-        "no": "4",
-        "name": "SÜKANBEY",
-        "jockey": "YİĞİTCAN GÖKÇE",
-        "trainer": "YUSUF UÇAR",
-        "weight": 55,
-        "odds": 3.7,
-        "finishTime": "2.10.22",
-        "age": 4
-      },
-      {
-        "position": 3,
-        "no": "7",
-        "name": "BİRGEDAĞ",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "EKREM ÇİLEK",
-        "weight": 54,
-        "odds": 10.05,
-        "finishTime": "2.11.96",
-        "age": 4
-      },
-      {
-        "position": 4,
-        "no": "5",
-        "name": "AFŞARBEY",
-        "jockey": "UĞUR LEVENT",
-        "trainer": "NİHAT YILDIRIM",
-        "weight": 53,
-        "odds": 28,
-        "finishTime": "2.12.18",
-        "age": 4
-      },
-      {
-        "position": 5,
-        "no": "2",
-        "name": "ÇİÇEK TOHUMU",
-        "jockey": "ADEM CEYLAN",
-        "trainer": "MİKAİL ALTIN",
-        "weight": 56,
-        "odds": 4.4,
-        "finishTime": "2.13.48",
-        "age": 4
-      },
-      {
-        "position": 6,
-        "no": "1",
-        "name": "HADEHANIM",
-        "jockey": "HALEF KATI",
-        "trainer": "ŞEFİK AYDEMİR",
-        "weight": 59,
-        "odds": 19.85,
-        "finishTime": "2.17.71",
-        "age": 4
       }
     ]
   }
