@@ -880,5 +880,92 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1800,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "LAKE EAGLE",
+        "jockey": "YUNUS EMRE YÜKSEL",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 54,
+        "odds": 34.9,
+        "finishTime": "1.57.05",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "DRECARİ",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 58,
+        "odds": 1.45,
+        "finishTime": "1.57.10",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "HARP",
+        "jockey": "OĞUZ EREN",
+        "trainer": "YILMAZ GÜNDOĞDİ",
+        "weight": 58,
+        "odds": 3.8,
+        "finishTime": "1.57.17",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "YILMAKENAN",
+        "jockey": "HALİL ALTIN",
+        "trainer": "EKREM TURAN",
+        "weight": 58,
+        "odds": 8.45,
+        "finishTime": "1.58.38",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "EL ALACRAN",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "NİHAT DÜNDAR",
+        "weight": 53,
+        "odds": 23.55,
+        "finishTime": "1.58.60",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "LA GRANDE",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "AKIN ÖZDENİZ",
+        "weight": 53,
+        "odds": 6.75,
+        "finishTime": "1.58.63",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "DRAGON BREATH",
+        "jockey": "ÇAĞLAR TAŞCI",
+        "trainer": "SEDAT KOÇAK",
+        "weight": 52,
+        "odds": 17,
+        "finishTime": "1.58.96",
+        "age": 3
+      }
+    ]
   }
 ]
