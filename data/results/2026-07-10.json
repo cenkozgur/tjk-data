@@ -2,6 +2,93 @@
   {
     "date": "2026-07-10",
     "raceNo": 1,
+    "venue": "İstanbul",
+    "distance": 2200,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "SOCIAL BEE",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "TEZCAN TAŞAR",
+        "weight": 57,
+        "odds": 1.4,
+        "finishTime": "2.18.09",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "ARNO RABEL",
+        "jockey": "SELÇUK AKBULAT",
+        "trainer": "SABRİ BEKTAŞ",
+        "weight": 56,
+        "odds": 13.25,
+        "finishTime": "2.18.92",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "HOLA Y CHAO",
+        "jockey": "HALEF KATI",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 61,
+        "odds": 11.1,
+        "finishTime": "2.18.97",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "DONE THIS",
+        "jockey": "ENES BOZDAĞ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 58,
+        "odds": 5.95,
+        "finishTime": "2.19.26",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "PRENS EGE",
+        "jockey": "BERKAN ÇIĞLA",
+        "trainer": "ERGÜN USLU",
+        "weight": 51,
+        "odds": 22.7,
+        "finishTime": "2.20.61",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "THE CHOSEN",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "DERYA ERGİN",
+        "weight": 54,
+        "odds": 6.65,
+        "finishTime": "2.20.94",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "CLEMENZA",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 52,
+        "odds": 10.2,
+        "finishTime": "2.22.15",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "raceNo": 1,
     "venue": "Bursa",
     "distance": 1300,
     "surface": "Kum",
@@ -1236,93 +1323,6 @@
         "combination": "1/1/1/6/3/6",
         "prizeAmount": 238823.43,
         "lastRaceNo": 10
-      }
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "raceNo": 1,
-    "venue": "İstanbul",
-    "distance": 2200,
-    "surface": "Sentetik",
-    "raceClass": "ŞARTLI 4",
-    "horses": [
-      {
-        "position": 1,
-        "no": "2",
-        "name": "SOCIAL BEE",
-        "jockey": "KAANCAN GÖKÇE",
-        "trainer": "TEZCAN TAŞAR",
-        "weight": 57,
-        "odds": 1.4,
-        "finishTime": "2.18.09",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "5",
-        "name": "ARNO RABEL",
-        "jockey": "SELÇUK AKBULAT",
-        "trainer": "SABRİ BEKTAŞ",
-        "weight": 56,
-        "odds": 13.25,
-        "finishTime": "2.18.92",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "1",
-        "name": "HOLA Y CHAO",
-        "jockey": "HALEF KATI",
-        "trainer": "HÜSEYİN SUNKAR",
-        "weight": 61,
-        "odds": 11.1,
-        "finishTime": "2.18.97",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "3",
-        "name": "DONE THIS",
-        "jockey": "ENES BOZDAĞ",
-        "trainer": "GÖKMEN GÖKÇE",
-        "weight": 58,
-        "odds": 5.95,
-        "finishTime": "2.19.26",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "7",
-        "name": "PRENS EGE",
-        "jockey": "BERKAN ÇIĞLA",
-        "trainer": "ERGÜN USLU",
-        "weight": 51,
-        "odds": 22.7,
-        "finishTime": "2.20.61",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "4",
-        "name": "THE CHOSEN",
-        "jockey": "UĞUR LEVENT",
-        "trainer": "DERYA ERGİN",
-        "weight": 54,
-        "odds": 6.65,
-        "finishTime": "2.20.94",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "6",
-        "name": "CLEMENZA",
-        "jockey": "BERKANT GÖKÇE",
-        "trainer": "HASAN BOYRAZ",
-        "weight": 52,
-        "odds": 10.2,
-        "finishTime": "2.22.15",
-        "age": 3
       }
     ]
   }
