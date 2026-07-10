@@ -390,5 +390,158 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "raceNo": 5,
+    "venue": "Bursa",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 14/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "KESTENOĞLU",
+        "jockey": "ERHAN AKKAYA",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 59,
+        "odds": 3.05,
+        "finishTime": "2.17.26",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "ZEMBEREK",
+        "jockey": "ÇAĞLAR TAŞCI",
+        "trainer": "SEDAT KOÇAK",
+        "weight": 60,
+        "odds": 5.15,
+        "finishTime": "2.18.91",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "KARANİMO",
+        "jockey": "YUNUS EMRE YÜKSEL",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 59,
+        "odds": 17.8,
+        "finishTime": "2.19.43",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "11",
+        "name": "KÜÇÜKAHSEN",
+        "jockey": "BURAK BAGUÇ",
+        "trainer": "YUSUF CAN KARATOPRAK",
+        "weight": 53.5,
+        "odds": 61.85,
+        "finishTime": "2.20.04",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "10",
+        "name": "COŞDUR",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 55.5,
+        "odds": 9.2,
+        "finishTime": "2.20.56",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "PRENSES SEDA",
+        "jockey": "RÜZGAR YILDIZ",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 57.5,
+        "odds": 10.3,
+        "finishTime": "2.20.68",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "YAKUP ABİ",
+        "jockey": "DOĞUKAN KONUK",
+        "trainer": "FERHAT ALTIN",
+        "weight": 58,
+        "odds": 56.65,
+        "finishTime": "2.21.08",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "GÖKTÜRK BEY",
+        "jockey": "ADEM CEYLAN",
+        "trainer": "ALİ RIZA AYDIN",
+        "weight": 57,
+        "odds": 8.15,
+        "finishTime": "2.21.26",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "CİHAN ŞAHI",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 58,
+        "odds": 3.65,
+        "finishTime": "2.21.74",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "12",
+        "name": "UGARIT",
+        "jockey": "OĞUZ EREN",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 56,
+        "odds": 55.75,
+        "finishTime": "2.23.98",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "13",
+        "name": "ŞAFAKAY",
+        "jockey": "BARAN ÇETİN",
+        "trainer": "KADİR TURAN",
+        "weight": 53,
+        "odds": 70.7,
+        "finishTime": "2.25.26",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "7",
+        "name": "ZIMBA GİBİ",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "MURAT ALTIN",
+        "weight": 55,
+        "odds": 40.05,
+        "finishTime": "2.29.68",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "5",
+        "name": "HALİDAĞA",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "AHMET ÖCAL",
+        "weight": 60,
+        "odds": 15.4,
+        "finishTime": "2.43.81",
+        "age": 5
+      }
+    ]
   }
 ]
