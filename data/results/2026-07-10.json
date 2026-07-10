@@ -967,5 +967,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "raceNo": 9,
+    "venue": "Bursa",
+    "distance": 2200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/Y1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "LA BOMBONERA",
+        "jockey": "ÇAĞLAR TAŞCI",
+        "trainer": "REŞAT KILIÇ",
+        "weight": 58.5,
+        "odds": 7.45,
+        "finishTime": "2.16.39",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "OHIO MAN",
+        "jockey": "ERHAN AKKAYA",
+        "trainer": "AHMET EMİN AVCI",
+        "weight": 60.5,
+        "odds": 3.3,
+        "finishTime": "2.16.54",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "TORUN YUSUF",
+        "jockey": "HALİT GÖKÇE",
+        "trainer": "SALİH BECENE",
+        "weight": 60.5,
+        "odds": 2.85,
+        "finishTime": "2.16.57",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "BRUSK SHOT",
+        "jockey": "BARAN ÇETİN",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 56,
+        "odds": 16.4,
+        "finishTime": "2.16.72",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "THINDER OF SHINE",
+        "jockey": "İZETTİN GÜREKE",
+        "trainer": "DILŞA KAYA",
+        "weight": 55,
+        "odds": 2.45,
+        "finishTime": "2.17.59",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "ALPS FIRE",
+        "jockey": "BURAK BAGUÇ",
+        "trainer": "SENİHA ŞEN",
+        "weight": 56,
+        "odds": 25.05,
+        "finishTime": "2.17.74",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "GEL KIZIM",
+        "jockey": "MUHAMMED BURHAN ÖNCEL",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 54.5,
+        "odds": 25.1,
+        "finishTime": "2.21.36",
+        "age": 5
+      }
+    ]
   }
 ]
