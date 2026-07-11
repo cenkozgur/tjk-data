@@ -107,5 +107,114 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-11",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "ALUDRA",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MEHMET DEMİROL",
+        "weight": 55,
+        "odds": 1.95,
+        "finishTime": "1.19.80",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "KÜÇÜK AZAT",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "CASIM KATI",
+        "weight": 61,
+        "odds": 3.75,
+        "finishTime": "1.19.95",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "URFA BEYİ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 59,
+        "odds": 5.6,
+        "finishTime": "1.20.25",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "GÜZEL ELAM",
+        "jockey": "MEHMET KIYAK",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 53,
+        "odds": 53.7,
+        "finishTime": "1.20.77",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SÜPEROĞLAN",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "MEHMET ARSLAN",
+        "weight": 53,
+        "odds": 7.75,
+        "finishTime": "1.20.92",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "KATI CANAN",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "MİTHAT KATI",
+        "weight": 55,
+        "odds": 44.95,
+        "finishTime": "1.22.99",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "IŞIKALP",
+        "jockey": "VELAT DEMİR",
+        "trainer": "MEHMET TEKİNALP",
+        "weight": 57,
+        "odds": 13.55,
+        "finishTime": "1.26.22",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "SUFRİ",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "YUSUF UÇAR",
+        "weight": 56,
+        "odds": 8.55,
+        "finishTime": "1.36.30",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "TAMAMMI DEVAMMI",
+        "jockey": "TAMER BALİ",
+        "trainer": "HÜSEYİN KARATAŞ",
+        "weight": 53,
+        "odds": 37.25,
+        "finishTime": "1.38.96",
+        "age": 3
+      }
+    ]
   }
 ]
