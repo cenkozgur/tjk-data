@@ -924,5 +924,103 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-8/DHT",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "DADAKBEY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 57,
+        "odds": 21.65,
+        "finishTime": "1.21.75",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "ALTINBORA",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ÇETİN ARSLAN",
+        "weight": 57,
+        "odds": 1.45,
+        "finishTime": "1.21.95",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "HAYDİ SEVDA",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "HAYRİ YILDIRIM",
+        "weight": 55,
+        "odds": 24.55,
+        "finishTime": "1.22.03",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "STARŞAH",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "GALİP KILIÇ",
+        "weight": 57,
+        "odds": 12.2,
+        "finishTime": "1.22.95",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "ERGÜNEŞ",
+        "jockey": "SELİM KAYA",
+        "trainer": "OKTAY DEMİR",
+        "weight": 57,
+        "odds": 8.15,
+        "finishTime": "1.22.96",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "KÖSE RECEP",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 57,
+        "odds": 13.05,
+        "finishTime": "1.23.45",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "ÜSTÜNSOY",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "BEDRİ AKBULUT",
+        "weight": 57,
+        "odds": 3.85,
+        "finishTime": "1.24.30",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "URASEFE",
+        "jockey": "CEM ALTUN",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 57,
+        "odds": 54.45,
+        "finishTime": "1.26.00",
+        "age": 3
+      }
+    ]
   }
 ]
