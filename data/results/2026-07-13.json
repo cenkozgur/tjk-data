@@ -129,5 +129,125 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "raceNo": 2,
+    "venue": "Bursa",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "İZOL ASLANI",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "KADİR TURAN",
+        "weight": 57,
+        "odds": 30.35,
+        "finishTime": "1.18.51",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "VICTORY MARIA",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HASAN DOLMAZ",
+        "weight": 57,
+        "odds": 4.7,
+        "finishTime": "1.18.59",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "AZA KOP",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "DAVUT SAV",
+        "weight": 52,
+        "odds": 25.4,
+        "finishTime": "1.18.71",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "KÖSTENCELİ BEY",
+        "jockey": "TUGAY ALICI",
+        "trainer": "İBRAHİM KIZILDAĞ",
+        "weight": 59,
+        "odds": 1.5,
+        "finishTime": "1.18.88",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "10",
+        "name": "TATLI AKYÜZ",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 55,
+        "odds": 20.1,
+        "finishTime": "1.20.05",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "DERNIERE STAR",
+        "jockey": "OĞUZ EREN",
+        "trainer": "İBRAHİM KIZILDAĞ",
+        "weight": 57,
+        "odds": 21.2,
+        "finishTime": "1.20.68",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "LAMPO NERO",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 57,
+        "odds": 6.85,
+        "finishTime": "1.22.03",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "HAYIRLI EVLAT",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "RANA SUNA",
+        "weight": 57,
+        "odds": 30.35,
+        "finishTime": "1.22.32",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "BABA GİRAY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 57,
+        "odds": 11.4,
+        "finishTime": "1.23.51",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "7",
+        "name": "ŞEVRAN",
+        "jockey": "DOĞUKAN KONUK",
+        "trainer": "YUSUF CAN KARATOPRAK",
+        "weight": 54,
+        "odds": 43.9,
+        "finishTime": "1.25.00",
+        "age": 2
+      }
+    ]
   }
 ]
