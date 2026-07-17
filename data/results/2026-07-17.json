@@ -1261,5 +1261,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "ENTERPRISING ROCK",
+        "jockey": "MEHMET KAYA",
+        "trainer": "VELAT KARAKUŞ",
+        "weight": 58,
+        "odds": 4.55,
+        "finishTime": "2.11.82",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "TURAMUN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "ALİ PAMUKCİ",
+        "weight": 61,
+        "odds": 1.9,
+        "finishTime": "2.11.95",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "ANGEL ON THE WING",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "UĞUR TEMUÇİN",
+        "weight": 55,
+        "odds": 3.75,
+        "finishTime": "2.12.94",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "NART THE BATTLE",
+        "jockey": "İSMAİL YILDIRIM",
+        "trainer": "NURULLAH ESEN",
+        "weight": 58,
+        "odds": 3.7,
+        "finishTime": "2.13.65",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "ALPHA JUNIOR",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "KAZIM MELİKE",
+        "weight": 58,
+        "odds": 25.45,
+        "finishTime": "2.14.91",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "FLY YAZICI",
+        "jockey": "MUHAMMET TALHA ERTAL",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 50,
+        "odds": 70.3,
+        "finishTime": "2.16.16",
+        "age": 3
+      }
+    ]
   }
 ]
