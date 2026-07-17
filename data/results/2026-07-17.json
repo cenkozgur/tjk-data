@@ -1499,5 +1499,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "VISENYA",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "BETÜL YILDIRIM",
+        "weight": 57,
+        "odds": 1.2,
+        "finishTime": "2.05.98",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "CAPE COD",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "GÜNGÖR SÜTCÜ",
+        "weight": 56,
+        "odds": 7.3,
+        "finishTime": "2.06.25",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "LADY SEPHORA",
+        "jockey": "MEHMET KAYA",
+        "trainer": "MUSTAFA ATAL",
+        "weight": 60.5,
+        "odds": 10.1,
+        "finishTime": "2.06.26",
+        "age": 8
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "OHRID INCISI",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 56.5,
+        "odds": 8.15,
+        "finishTime": "2.07.08",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "STASERA",
+        "jockey": "ADEM ASLAN",
+        "trainer": "SEDAT ÇİFTÇİ",
+        "weight": 57.5,
+        "odds": 40.35,
+        "finishTime": "2.07.41",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "SECRET LAV",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "MEHMET DAŞ",
+        "weight": 58.5,
+        "odds": 19.65,
+        "finishTime": "2.07.48",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "BLACK RUBY",
+        "jockey": "YASİN ŞEREF GÜMÜŞ",
+        "trainer": "ÖMER GÜNELİ",
+        "weight": 56,
+        "odds": 39.05,
+        "finishTime": "2.07.83",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "WAITING A SUNNYDAY",
+        "jockey": "BERKAN ÇIĞLA",
+        "trainer": "ERGÜN USLU",
+        "weight": 59,
+        "odds": 19.65,
+        "finishTime": "2.08.04",
+        "age": 4
+      }
+    ]
   }
 ]
