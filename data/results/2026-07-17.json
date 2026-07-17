@@ -664,6 +664,82 @@
   },
   {
     "date": "2026-07-17",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "MASTERPIECE",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "UFUK BİLİK",
+        "weight": 60,
+        "odds": 1.15,
+        "finishTime": "1.36.21",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "PRINCE OF DARKNESS",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "UFUK BİLİK",
+        "weight": 56,
+        "odds": 1.15,
+        "finishTime": "1.36.26",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "HARDOLD",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "CEMİL TURAN",
+        "weight": 53,
+        "odds": 16.45,
+        "finishTime": "1.36.59",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "LOWER SPIRIT",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 57,
+        "odds": 5.1,
+        "finishTime": "1.37.02",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "WARRIOR LION",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "SAMET AKYAVUZ",
+        "weight": 58,
+        "odds": 10.95,
+        "finishTime": "1.37.15",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "KING RÜZGAR",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KÜBRA ŞENTÜRK",
+        "weight": 60,
+        "odds": 6.65,
+        "finishTime": "1.37.33",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-07-17",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1400,
