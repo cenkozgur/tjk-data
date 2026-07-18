@@ -601,6 +601,80 @@
   },
   {
     "date": "2026-07-18",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-6/DHT",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "JÖN ROME",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 58,
+        "odds": 3.25,
+        "finishTime": "2.23.30",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "GÖREME BEYİ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "OKTAY DEMİR",
+        "weight": 60,
+        "odds": 1.55,
+        "finishTime": "2.24.02",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "DEMİRNAL",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 56,
+        "odds": 10.75,
+        "finishTime": "2.26.64",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "FİKRET ABİ",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 61,
+        "odds": 4.55,
+        "finishTime": "2.26.76",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SOSAN YILDIZI",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 54,
+        "odds": 17.2,
+        "finishTime": "2.27.59",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İzmir",
+        "label": "1. 6'LI GANYAN",
+        "combination": "1/10/3,7/4/10/3",
+        "prizeAmount": 2648.81,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-18",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1300,
