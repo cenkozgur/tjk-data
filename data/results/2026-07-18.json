@@ -532,5 +532,81 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "raceNo": 1,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "DARK GLORY",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 57,
+        "odds": 3.2,
+        "finishTime": "1.18.21",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "DÖNEN DEVRAN",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 57,
+        "odds": 23.35,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "NIGHTMARE ENEMY",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 55,
+        "odds": 30.15,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "SHERIFF IS BACK",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MURAT AKALIN",
+        "weight": 57,
+        "odds": 1.85,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "KUNTA",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 55,
+        "odds": 16.05,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "EMİLOŞ",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 55,
+        "odds": 16.15,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
   }
 ]
