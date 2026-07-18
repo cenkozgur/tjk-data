@@ -423,5 +423,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "G 2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "HAROLDCOOPER",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 57,
+        "odds": 1.2,
+        "finishTime": "1.10.22",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "8",
+        "name": "GÜVENİKA",
+        "jockey": "MERT UYAR",
+        "trainer": "SUAT ALTUNBAŞ",
+        "weight": 55,
+        "odds": 26.6,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "SPEED QUEEN",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55,
+        "odds": 5.25,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "BATURALP CAN",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 57,
+        "odds": 8.95,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "SİLÜET",
+        "jockey": "ERHAN YAVUZ",
+        "trainer": "YAVUZ PETEK",
+        "weight": 57,
+        "odds": 32.4,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "SIBLINGS",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 57,
+        "odds": 22.5,
+        "finishTime": "",
+        "age": 2
+      }
+    ]
   }
 ]
