@@ -427,6 +427,60 @@
   },
   {
     "date": "2026-07-18",
+    "raceNo": 4,
+    "venue": "Diyarbakır",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3/DHÖW/Y1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "FATMA HANIM",
+        "jockey": "HAKİM YÖNDEN",
+        "trainer": "MEHMET KAYA",
+        "weight": 53,
+        "odds": 10.25,
+        "finishTime": "2.36.03",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "EYBERK",
+        "jockey": "İLKER AKIN",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 60,
+        "odds": 9.75,
+        "finishTime": "2.37.17",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "ÖMERİNOĞLU",
+        "jockey": "LEVENT TAPTIK",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 60,
+        "odds": 1.1,
+        "finishTime": "2.38.16",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "AFRİKA KIZI",
+        "jockey": "CANER YILDIRIM",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 54,
+        "odds": 4.3,
+        "finishTime": "2.41.08",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-07-18",
     "raceNo": 1,
     "venue": "İzmir",
     "distance": 1200,
