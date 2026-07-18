@@ -1021,5 +1021,81 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "raceNo": 3,
+    "venue": "İzmir",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "JANN POLL",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 55,
+        "odds": 1.4,
+        "finishTime": "2.04.53",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "ÇEPNİ",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 58,
+        "odds": 12.8,
+        "finishTime": "2.05.56",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "PROBALA",
+        "jockey": "SADIK ALTAY",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 59.5,
+        "odds": 5.9,
+        "finishTime": "2.05.61",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "ASLAN SAİM",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "BERK GÖRMEZ",
+        "weight": 52,
+        "odds": 11.2,
+        "finishTime": "2.05.87",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "TAŞDEMİR HAN",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 54.5,
+        "odds": 4.7,
+        "finishTime": "2.06.53",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "MOMENT SAVER",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 54,
+        "odds": 13.55,
+        "finishTime": "2.07.20",
+        "age": 3
+      }
+    ]
   }
 ]
