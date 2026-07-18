@@ -107,5 +107,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "Handikap 17 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "TYWIN LANNISTER",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "EMİN KARATAŞ",
+        "weight": 63,
+        "odds": 9.85,
+        "finishTime": "2.12.92",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "GECENİN ATEŞİ",
+        "jockey": "MEHMET KESKİN",
+        "trainer": "ÖMER FARUK TAN",
+        "weight": 52,
+        "odds": 1.8,
+        "finishTime": "2.12.97",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "HAWORTH",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "ZÜLKÜF YILMAZ",
+        "weight": 55.5,
+        "odds": 12.45,
+        "finishTime": "2.13.87",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "TAM TIME",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 55,
+        "odds": 3.25,
+        "finishTime": "2.14.34",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "ŞERDİL",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "MEHMET KORKMAZ",
+        "weight": 57.5,
+        "odds": 22.05,
+        "finishTime": "2.14.76",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "KING MALKOÇ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 59.5,
+        "odds": 6.75,
+        "finishTime": "2.15.37",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "AGE OF DISCOVERY",
+        "jockey": "UĞUR TEMUR",
+        "trainer": "OZAN BULUT",
+        "weight": 52,
+        "odds": 10.1,
+        "finishTime": "2.17.03",
+        "age": 4
+      }
+    ]
   }
 ]
