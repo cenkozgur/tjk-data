@@ -857,5 +857,70 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "raceNo": 9,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "PYROHAN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 57,
+        "odds": 7.95,
+        "finishTime": "1.11.46",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "KING CEMİL",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HAKAN HARMANBAŞI",
+        "weight": 57,
+        "odds": 2.35,
+        "finishTime": "1.12.01",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "VICTORY OF TOMO",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 2.75,
+        "finishTime": "1.12.35",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "MY LITTLE BOY",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 3.15,
+        "finishTime": "1.12.36",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "BÜYÜK ATTİLA",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ERGÜN USLU",
+        "weight": 57,
+        "odds": 8.9,
+        "finishTime": "1.13.85",
+        "age": 2
+      }
+    ]
   }
 ]
