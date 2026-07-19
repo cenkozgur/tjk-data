@@ -382,6 +382,71 @@
   },
   {
     "date": "2026-07-19",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "KV-8/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "KATI ZAMANI",
+        "jockey": "SELİM KAYA",
+        "trainer": "CASIM KATI",
+        "weight": 66,
+        "odds": 1.25,
+        "finishTime": "1.50.51",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "VARLIK EFESİ",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 60,
+        "odds": 8.8,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "TAHSİN SEFA",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "MUSTAFA KAYA",
+        "weight": 58,
+        "odds": 5.55,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "YENİBEY",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 58,
+        "odds": 13.65,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "KARİZMATİK",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 60,
+        "odds": 5.15,
+        "finishTime": "",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-19",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 2100,
