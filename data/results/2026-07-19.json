@@ -2,6 +2,82 @@
   {
     "date": "2026-07-19",
     "raceNo": 1,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "HILL OF ANGELS",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "BEGÜM GÜL",
+        "weight": 52,
+        "odds": 1.95,
+        "finishTime": "1.15.73",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "LUNGTA",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "YAŞAR ARSLANCA",
+        "weight": 57,
+        "odds": 1.75,
+        "finishTime": "1.15.98",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "LADY ECRİN",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "ORHAN AKTAŞ",
+        "weight": 53,
+        "odds": 12.45,
+        "finishTime": "1.17.87",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "SHADOW",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 54,
+        "odds": 19.7,
+        "finishTime": "1.18.63",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "THE BLACK SONYA",
+        "jockey": "MUHAMMED BURHAN ÖNCEL",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 51,
+        "odds": 41.55,
+        "finishTime": "1.19.63",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "BEAUTY ALYA",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "BURHAN AKTAŞ",
+        "weight": 51,
+        "odds": 9,
+        "finishTime": "1.20.14",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "raceNo": 1,
     "venue": "İstanbul",
     "distance": 2100,
     "surface": "Çim",
