@@ -489,5 +489,125 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "raceNo": 5,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 1/DHÖW/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "GÖKÇEPINAR",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 57,
+        "odds": 11.35,
+        "finishTime": "1.25.10",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "HAMZA KIZI",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "RAMAZAN KARABULUT",
+        "weight": 57,
+        "odds": 3.4,
+        "finishTime": "1.25.31",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "LEMİKIZ",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "YUSUF UÇAR",
+        "weight": 57,
+        "odds": 20.35,
+        "finishTime": "1.25.42",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "SAROSLU",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "CEMİL TURAN",
+        "weight": 57,
+        "odds": 2.7,
+        "finishTime": "1.25.54",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "1",
+        "name": "AHMOZE",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "METİN ACAR",
+        "weight": 57,
+        "odds": 6.85,
+        "finishTime": "1.25.85",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "12",
+        "name": "UÇAN TURBOCU",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "BURAK İLVAN",
+        "weight": 57,
+        "odds": 16.3,
+        "finishTime": "1.25.90",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "ALCANZAR",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "ZAFER TEMUÇİN",
+        "weight": 57,
+        "odds": 8.25,
+        "finishTime": "1.26.75",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "3",
+        "name": "ALLER YILDIZI",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "SABRİ BEKTAŞ",
+        "weight": 57,
+        "odds": 21.85,
+        "finishTime": "1.27.82",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "10",
+        "name": "SONASİYE",
+        "jockey": "OKAN GÖKÇE",
+        "trainer": "FERDİ KIRAN",
+        "weight": 57,
+        "odds": 16.9,
+        "finishTime": "1.28.33",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "4",
+        "name": "ALNAAR",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 57,
+        "odds": 9.25,
+        "finishTime": "1.31.05",
+        "age": 3
+      }
+    ]
   }
 ]
