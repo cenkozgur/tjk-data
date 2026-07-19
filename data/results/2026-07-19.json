@@ -792,5 +792,70 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Sentetik",
+    "raceClass": "G 3/ULS",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "BALLAD KING",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 58,
+        "odds": 3.2,
+        "finishTime": "2.12.05",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "STATUE OF LIBERTY",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 58,
+        "odds": 1.65,
+        "finishTime": "2.12.33",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "AIMUS LIBERATUS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 58,
+        "odds": 3.85,
+        "finishTime": "2.12.58",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "METAL HEART",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 58,
+        "odds": 18.85,
+        "finishTime": "2.12.68",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "MASSIMO SUPREMO",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "CANSU ŞİMŞEK",
+        "weight": 58,
+        "odds": 9.2,
+        "finishTime": "2.13.45",
+        "age": 3
+      }
+    ]
   }
 ]
