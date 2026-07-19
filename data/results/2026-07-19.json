@@ -175,6 +175,115 @@
   },
   {
     "date": "2026-07-19",
+    "raceNo": 3,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-6",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "THE ADMIRAL",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 63,
+        "odds": 13.1,
+        "finishTime": "1.14.37",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "FEBRİS",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 57,
+        "odds": 4.2,
+        "finishTime": "1.14.52",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "MUCHACHO",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 58,
+        "odds": 11.4,
+        "finishTime": "1.14.55",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "MY STAR",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "İBRAHİM ALTINÖZ",
+        "weight": 60,
+        "odds": 11.3,
+        "finishTime": "1.14.85",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "ULTRA FAST",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 56,
+        "odds": 25.35,
+        "finishTime": "1.15.06",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "ASLAN HALİLİM",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 60,
+        "odds": 5.5,
+        "finishTime": "1.15.07",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "FLASH BOY",
+        "jockey": "ONUR ATMACA",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 56,
+        "odds": 29.9,
+        "finishTime": "1.15.08",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "APPRECIATE PROTEO",
+        "jockey": "SELİM KAYA",
+        "trainer": "SEYHAN DEMİR",
+        "weight": 56,
+        "odds": 1.8,
+        "finishTime": "1.17.50",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "6",
+        "name": "AGE OF FIRE",
+        "jockey": "HÜSEYİN ŞİMŞEK",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56,
+        "odds": 25.9,
+        "finishTime": "1.17.72",
+        "age": 7
+      }
+    ]
+  },
+  {
+    "date": "2026-07-19",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 2100,
