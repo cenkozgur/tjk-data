@@ -535,6 +535,102 @@
   },
   {
     "date": "2026-07-21",
+    "raceNo": 6,
+    "venue": "Kocaeli",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "Handikap 16/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "KARSAVURANLI",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 58,
+        "odds": 6.5,
+        "finishTime": "2.25.58",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "BAY OLOF",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 56.5,
+        "odds": 4.9,
+        "finishTime": "2.25.82",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "SONYEL",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 58.5,
+        "odds": 6.4,
+        "finishTime": "2.26.79",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "TANJU BEY",
+        "jockey": "YASİN ŞEREF GÜMÜŞ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 52,
+        "odds": 15.35,
+        "finishTime": "2.26.88",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "KESTENOĞLU",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YASİN TAŞKIN",
+        "weight": 56,
+        "odds": 2.05,
+        "finishTime": "2.27.15",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "KAZDAĞI EFESİ",
+        "jockey": "ONUR ATMACA",
+        "trainer": "TURGAY ÇEKİCİ",
+        "weight": 58.5,
+        "odds": 5.05,
+        "finishTime": "2.27.42",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "SAMET EFENDİ",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "ADNAN POLAT",
+        "weight": 58.5,
+        "odds": 12.85,
+        "finishTime": "2.27.59",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Kocaeli",
+        "label": "1. 6'LI GANYAN",
+        "combination": "4/1/1,9/2/4/2",
+        "prizeAmount": 35176.87,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-21",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
