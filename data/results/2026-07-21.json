@@ -791,5 +791,114 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "raceNo": 1,
+    "venue": "Kocaeli",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "BY TÜRE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "HAKAN POLAT",
+        "weight": 58,
+        "odds": 5.15,
+        "finishTime": "2.12.94",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "AFTER YOU",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "KADİR TEKİNALP",
+        "weight": 57,
+        "odds": 14.1,
+        "finishTime": "2.13.00",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "SÖNMEZ YİĞİT",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "RAMAZAN KARABULUT",
+        "weight": 60.5,
+        "odds": 5.9,
+        "finishTime": "2.13.15",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "RÜZGAR UĞUR",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "MEHMET DAŞ",
+        "weight": 55.5,
+        "odds": 17.3,
+        "finishTime": "2.13.56",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "LION PEKAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "RANA SUNA",
+        "weight": 56.5,
+        "odds": 10.05,
+        "finishTime": "2.14.18",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "GRAND MISSION",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MUHAMMED UĞUR TURAN",
+        "weight": 59.5,
+        "odds": 2.75,
+        "finishTime": "2.15.40",
+        "age": 7
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "STEEL FATHER",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 54,
+        "odds": 5.25,
+        "finishTime": "2.16.03",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "9",
+        "name": "SİYAH KRAL",
+        "jockey": "ONUR ATMACA",
+        "trainer": "MİKAİL ALTIN",
+        "weight": 55,
+        "odds": 32.5,
+        "finishTime": "2.17.30",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "KING OF THE NIGHT",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 59.5,
+        "odds": 6.05,
+        "finishTime": "2.56.13",
+        "age": 7
+      }
+    ]
   }
 ]
