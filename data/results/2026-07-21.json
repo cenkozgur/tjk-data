@@ -208,6 +208,104 @@
   },
   {
     "date": "2026-07-21",
+    "raceNo": 3,
+    "venue": "Kocaeli",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "SUPER LION",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "SEZEN GÜNAYDIN",
+        "weight": 60,
+        "odds": 2.15,
+        "finishTime": "1.17.65",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "ONUR BEYİM",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "NEDİM GENÇER",
+        "weight": 57,
+        "odds": 3.2,
+        "finishTime": "1.18.75",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "TEMERARIO",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 58,
+        "odds": 10.7,
+        "finishTime": "1.18.78",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "KOCA ÖMER",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "TURGAY ATAÇ",
+        "weight": 57,
+        "odds": 11.35,
+        "finishTime": "1.18.82",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "TALLIN",
+        "jockey": "SİNAN ÖZEN",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 57,
+        "odds": 3.75,
+        "finishTime": "1.19.01",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "BAŞIMIN BELASI",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "MİKAİL ALTIN",
+        "weight": 57,
+        "odds": 25.3,
+        "finishTime": "1.21.62",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "EYLÜL MASALI",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 20.4,
+        "finishTime": "1.22.37",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "BİLGÜCÜ",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "YILMAZ ÖZTAŞ",
+        "weight": 52,
+        "odds": 33.55,
+        "finishTime": "1.22.69",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-07-21",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
