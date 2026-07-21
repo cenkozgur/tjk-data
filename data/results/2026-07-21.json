@@ -488,5 +488,92 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "KV-8/DHT",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "SERT KALELİ",
+        "jockey": "SELİM KAYA",
+        "trainer": "SERGEN TURAN",
+        "weight": 59,
+        "odds": 3.25,
+        "finishTime": "1.45.41",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "CEVAHİRKAN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 4.3,
+        "finishTime": "1.46.48",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "ADANA BEYİ",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMET KORKMAZ",
+        "weight": 59,
+        "odds": 3.1,
+        "finishTime": "1.46.58",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "TEYAR",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "ADEM GÜVEN",
+        "weight": 58,
+        "odds": 18.5,
+        "finishTime": "1.46.73",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "AZER IN MY HEART",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 58,
+        "odds": 6,
+        "finishTime": "1.46.74",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "MUHLİF BABA",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 59,
+        "odds": 6.45,
+        "finishTime": "1.49.48",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "ŞİMŞEKKIRAN",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 59,
+        "odds": 9.5,
+        "finishTime": "1.51.46",
+        "age": 4
+      }
+    ]
   }
 ]
