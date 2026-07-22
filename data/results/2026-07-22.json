@@ -2,6 +2,257 @@
   {
     "date": "2026-07-22",
     "raceNo": 1,
+    "venue": "Elazığ",
+    "distance": 1700,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "LEGANDARY WARRIOR",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 60,
+        "odds": 4.05,
+        "finishTime": "1.55.92",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "MY BRAVE SON",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 61,
+        "odds": 6.8,
+        "finishTime": "1.56.25",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "BERMEDEE",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "MEHMET KAYA",
+        "weight": 60,
+        "odds": 6.15,
+        "finishTime": "1.56.62",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "FACE OF FREEDOM",
+        "jockey": "REMZİ DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 57,
+        "odds": 24.7,
+        "finishTime": "1.56.69",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "JAZZMASTER",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 60,
+        "odds": 8.4,
+        "finishTime": "1.57.02",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "ALPERİN OĞLU",
+        "jockey": "MEHMET TAŞKAYA",
+        "trainer": "FİGEN BAKIR",
+        "weight": 56,
+        "odds": 20.7,
+        "finishTime": "1.57.88",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "ORAK REİS",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "ERCAN ALTIN",
+        "weight": 55,
+        "odds": 23.2,
+        "finishTime": "1.57.98",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "9",
+        "name": "KARACI",
+        "jockey": "MUHAMMED BARAN ÇAKMAK",
+        "trainer": "YELİZ BAYSAL",
+        "weight": 54,
+        "odds": 63.05,
+        "finishTime": "2.00.78",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "VICTORY CODE",
+        "jockey": "İSA KATAR",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 58,
+        "odds": 8.1,
+        "finishTime": "2.02.07",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "10",
+        "name": "KNOW WORTH",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 54,
+        "odds": 3,
+        "finishTime": "2.06.57",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "NIGHT KING",
+        "jockey": "MEHMET ŞAKİR",
+        "trainer": "MEHMET KAYA",
+        "weight": 55,
+        "odds": 16.15,
+        "finishTime": "2.08.10",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "raceNo": 2,
+    "venue": "Elazığ",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "BRAVO GÜR",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 57,
+        "odds": 13.65,
+        "finishTime": "1.19.54",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "PRENS APTİ",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 57,
+        "odds": 1.9,
+        "finishTime": "1.20.15",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "9",
+        "name": "EMPRESS GIRL",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 55,
+        "odds": 12.3,
+        "finishTime": "1.20.20",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "IRRITABLE GIRL",
+        "jockey": "MEHMET EMİN DOĞAN",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 57,
+        "odds": 7.65,
+        "finishTime": "1.20.52",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "GLACIUS BOREAS",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 57,
+        "odds": 10.95,
+        "finishTime": "1.22.94",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "BOBS YOUR UNCLE",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 57,
+        "odds": 5.6,
+        "finishTime": "1.23.47",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "PAPA CLAS",
+        "jockey": "İSA KATAR",
+        "trainer": "İBRAHİM ATMACA",
+        "weight": 57,
+        "odds": 29.6,
+        "finishTime": "1.25.01",
+        "age": 2
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "ÇÖL KESEN",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "ERCAN ALTIN",
+        "weight": 57,
+        "odds": 5.6,
+        "finishTime": "1.26.35",
+        "age": 2
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "CHEF BUĞRA",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 57,
+        "odds": 44.1,
+        "finishTime": "1.27.00",
+        "age": 2
+      },
+      {
+        "position": 10,
+        "no": "10",
+        "name": "LOVE IS LOVE",
+        "jockey": "ÇETİN CANPOLAT",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 54,
+        "odds": 47.8,
+        "finishTime": "1.32.43",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1400,
     "surface": "Çim",
@@ -963,257 +1214,6 @@
         "combination": "5/1/5/8/2/10",
         "prizeAmount": 2678.43,
         "lastRaceNo": 8
-      }
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "raceNo": 1,
-    "venue": "Elazığ",
-    "distance": 1700,
-    "surface": "Kum",
-    "raceClass": "ŞARTLI 4",
-    "horses": [
-      {
-        "position": 1,
-        "no": "4",
-        "name": "LEGANDARY WARRIOR",
-        "jockey": "MEHMET ALİ AKTÜRK",
-        "trainer": "VELİ ÇİZİK",
-        "weight": 60,
-        "odds": 4.05,
-        "finishTime": "1.55.92",
-        "age": 3
-      },
-      {
-        "position": 2,
-        "no": "1",
-        "name": "MY BRAVE SON",
-        "jockey": "AZİZ AKDEMİR",
-        "trainer": "YELİZ BAYSAL",
-        "weight": 61,
-        "odds": 6.8,
-        "finishTime": "1.56.25",
-        "age": 3
-      },
-      {
-        "position": 3,
-        "no": "2",
-        "name": "BERMEDEE",
-        "jockey": "İSA AKYAVUZ",
-        "trainer": "MEHMET KAYA",
-        "weight": 60,
-        "odds": 6.15,
-        "finishTime": "1.56.62",
-        "age": 3
-      },
-      {
-        "position": 4,
-        "no": "7",
-        "name": "FACE OF FREEDOM",
-        "jockey": "REMZİ DOĞAN",
-        "trainer": "MUHAMMED BULUÇ",
-        "weight": 57,
-        "odds": 24.7,
-        "finishTime": "1.56.69",
-        "age": 3
-      },
-      {
-        "position": 5,
-        "no": "3",
-        "name": "JAZZMASTER",
-        "jockey": "MEHMET DOĞAN",
-        "trainer": "MUHAMMED BULUÇ",
-        "weight": 60,
-        "odds": 8.4,
-        "finishTime": "1.57.02",
-        "age": 3
-      },
-      {
-        "position": 6,
-        "no": "6",
-        "name": "ALPERİN OĞLU",
-        "jockey": "MEHMET TAŞKAYA",
-        "trainer": "FİGEN BAKIR",
-        "weight": 56,
-        "odds": 20.7,
-        "finishTime": "1.57.88",
-        "age": 3
-      },
-      {
-        "position": 7,
-        "no": "8",
-        "name": "ORAK REİS",
-        "jockey": "HÜSEYİN ALTUNKILIÇ",
-        "trainer": "ERCAN ALTIN",
-        "weight": 55,
-        "odds": 23.2,
-        "finishTime": "1.57.98",
-        "age": 3
-      },
-      {
-        "position": 8,
-        "no": "9",
-        "name": "KARACI",
-        "jockey": "MUHAMMED BARAN ÇAKMAK",
-        "trainer": "YELİZ BAYSAL",
-        "weight": 54,
-        "odds": 63.05,
-        "finishTime": "2.00.78",
-        "age": 3
-      },
-      {
-        "position": 9,
-        "no": "5",
-        "name": "VICTORY CODE",
-        "jockey": "İSA KATAR",
-        "trainer": "ELİF AÇMAZ",
-        "weight": 58,
-        "odds": 8.1,
-        "finishTime": "2.02.07",
-        "age": 3
-      },
-      {
-        "position": 10,
-        "no": "10",
-        "name": "KNOW WORTH",
-        "jockey": "NECMİ ALTIN",
-        "trainer": "İBRAHİM ATMACA",
-        "weight": 54,
-        "odds": 3,
-        "finishTime": "2.06.57",
-        "age": 3
-      },
-      {
-        "position": 11,
-        "no": "11",
-        "name": "NIGHT KING",
-        "jockey": "MEHMET ŞAKİR",
-        "trainer": "MEHMET KAYA",
-        "weight": 55,
-        "odds": 16.15,
-        "finishTime": "2.08.10",
-        "age": 3
-      }
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "raceNo": 2,
-    "venue": "Elazığ",
-    "distance": 1200,
-    "surface": "Kum",
-    "raceClass": "Maiden",
-    "horses": [
-      {
-        "position": 1,
-        "no": "2",
-        "name": "BRAVO GÜR",
-        "jockey": "MEHMET DOĞAN",
-        "trainer": "MUHAMMED BULUÇ",
-        "weight": 57,
-        "odds": 13.65,
-        "finishTime": "1.19.54",
-        "age": 2
-      },
-      {
-        "position": 2,
-        "no": "7",
-        "name": "PRENS APTİ",
-        "jockey": "FERİT YARDIMCI",
-        "trainer": "EYYÜP YARDIMCI",
-        "weight": 57,
-        "odds": 1.9,
-        "finishTime": "1.20.15",
-        "age": 2
-      },
-      {
-        "position": 3,
-        "no": "9",
-        "name": "EMPRESS GIRL",
-        "jockey": "İSA AKYAVUZ",
-        "trainer": "İBRAHİM ATMACA",
-        "weight": 55,
-        "odds": 12.3,
-        "finishTime": "1.20.20",
-        "age": 2
-      },
-      {
-        "position": 4,
-        "no": "8",
-        "name": "IRRITABLE GIRL",
-        "jockey": "MEHMET EMİN DOĞAN",
-        "trainer": "EYYÜP YARDIMCI",
-        "weight": 57,
-        "odds": 7.65,
-        "finishTime": "1.20.52",
-        "age": 2
-      },
-      {
-        "position": 5,
-        "no": "5",
-        "name": "GLACIUS BOREAS",
-        "jockey": "HÜSEYİN ALTUNKILIÇ",
-        "trainer": "SÜLEYMAN KARAKEÇİLİ",
-        "weight": 57,
-        "odds": 10.95,
-        "finishTime": "1.22.94",
-        "age": 2
-      },
-      {
-        "position": 6,
-        "no": "1",
-        "name": "BOBS YOUR UNCLE",
-        "jockey": "AZİZ AKDEMİR",
-        "trainer": "VELİ ÇİZİK",
-        "weight": 57,
-        "odds": 5.6,
-        "finishTime": "1.23.47",
-        "age": 2
-      },
-      {
-        "position": 7,
-        "no": "6",
-        "name": "PAPA CLAS",
-        "jockey": "İSA KATAR",
-        "trainer": "İBRAHİM ATMACA",
-        "weight": 57,
-        "odds": 29.6,
-        "finishTime": "1.25.01",
-        "age": 2
-      },
-      {
-        "position": 8,
-        "no": "4",
-        "name": "ÇÖL KESEN",
-        "jockey": "NECMİ ALTIN",
-        "trainer": "ERCAN ALTIN",
-        "weight": 57,
-        "odds": 5.6,
-        "finishTime": "1.26.35",
-        "age": 2
-      },
-      {
-        "position": 9,
-        "no": "3",
-        "name": "CHEF BUĞRA",
-        "jockey": "AHMET HASAN BAYAR",
-        "trainer": "BAHATTİN DEMİRKAPU",
-        "weight": 57,
-        "odds": 44.1,
-        "finishTime": "1.27.00",
-        "age": 2
-      },
-      {
-        "position": 10,
-        "no": "10",
-        "name": "LOVE IS LOVE",
-        "jockey": "ÇETİN CANPOLAT",
-        "trainer": "BAHATTİN DEMİRKAPU",
-        "weight": 54,
-        "odds": 47.8,
-        "finishTime": "1.32.43",
-        "age": 2
       }
     ]
   }
