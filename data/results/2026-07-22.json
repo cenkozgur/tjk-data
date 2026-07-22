@@ -118,5 +118,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "ŞANSLI ADAM",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ÜMİT ARSLAN",
+        "weight": 59,
+        "odds": 3.05,
+        "finishTime": "1.25.15",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "ÇANAKKALE FIRTINASI",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 60,
+        "odds": 4.2,
+        "finishTime": "1.25.54",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "KEREMNUR",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 15,
+        "finishTime": "1.25.77",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "LİSBOA",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "DAVUT SAV",
+        "weight": 57,
+        "odds": 1.9,
+        "finishTime": "1.26.03",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "ASLAN İBO",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 57,
+        "odds": 16.8,
+        "finishTime": "1.26.50",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "PAVLA",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 52,
+        "odds": 27.2,
+        "finishTime": "1.27.09",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "ERYÜREKLİ",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "SEBATİ DUMAN",
+        "weight": 54,
+        "odds": 23.95,
+        "finishTime": "1.28.23",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "ESRİN HATUN",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 55,
+        "odds": 21.2,
+        "finishTime": "1.31.05",
+        "age": 3
+      }
+    ]
   }
 ]
