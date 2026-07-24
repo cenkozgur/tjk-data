@@ -811,5 +811,321 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "raceNo": 7,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-6",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "NORTH PASHA",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "ŞEFİK AYDEMİR",
+        "weight": 63,
+        "odds": 10.4,
+        "finishTime": "1.12.75",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "BORN TO RUN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "AKIN ÖZDENİZ",
+        "weight": 61,
+        "odds": 1.8,
+        "finishTime": "1.12.94",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "FEARLESS DRAGON",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "DILŞA KAYA",
+        "weight": 58,
+        "odds": 12.7,
+        "finishTime": "1.13.40",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "LORD OF YILDIZER",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 56,
+        "odds": 5.05,
+        "finishTime": "1.13.44",
+        "age": 7
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "FATHER MEHMET",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "ALİ BOZKURT",
+        "weight": 56,
+        "odds": 5.8,
+        "finishTime": "1.14.04",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "TOULAYNA",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 56,
+        "odds": 25.85,
+        "finishTime": "1.14.97",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "İSPANOZ",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 58,
+        "odds": 12.15,
+        "finishTime": "1.16.18",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "7",
+        "name": "GÜÇLÜBEY EFENDİSİ",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 56,
+        "odds": 13.35,
+        "finishTime": "1.16.42",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "ÇİKOK AĞA",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 56,
+        "odds": 23.25,
+        "finishTime": "1.17.84",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1300,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "I LOVE SPEED",
+        "jockey": "ONUR ATMACA",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 8.5,
+        "finishTime": "1.18.88",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "İZOL ASLANI",
+        "jockey": "TOLGA YILDIZ",
+        "trainer": "KADİR TURAN",
+        "weight": 57,
+        "odds": 3.7,
+        "finishTime": "1.19.30",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "MANIAC",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55,
+        "odds": 1.7,
+        "finishTime": "1.19.33",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "SUGAR STORM",
+        "jockey": "EFE AKPINAR",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 6.3,
+        "finishTime": "1.20.05",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "GREENLIFE",
+        "jockey": "CEM ALTUN",
+        "trainer": "EMİNE KAYA",
+        "weight": 57,
+        "odds": 4.9,
+        "finishTime": "1.20.16",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "raceNo": 1,
+    "venue": "İstanbul",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "13",
+        "name": "YÖRÜKÇEM",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "OSMAN ALTUNTAŞ",
+        "weight": 56,
+        "odds": 11.85,
+        "finishTime": "1.59.81",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "THIEF IN MARRAKESH",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "CEM FİLİKSAÇ",
+        "weight": 55,
+        "odds": 3.1,
+        "finishTime": "2.00.22",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "BIG RUGGED",
+        "jockey": "SİNAN ÖZEN",
+        "trainer": "YILMAZ ÖZTAŞ",
+        "weight": 61,
+        "odds": 13.75,
+        "finishTime": "2.00.38",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "DEEP OF ANCESTOR",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "CEMİL TURAN",
+        "weight": 61,
+        "odds": 2,
+        "finishTime": "2.00.51",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "FIRST MAY",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 58,
+        "odds": 25.3,
+        "finishTime": "2.01.28",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "AKİDE SULTAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YILMAZ ÖZTAŞ",
+        "weight": 56,
+        "odds": 7.95,
+        "finishTime": "2.01.81",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "2",
+        "name": "CRY OF VICTORY",
+        "jockey": "GÖKHAN YILDIZ",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 58,
+        "odds": 63.75,
+        "finishTime": "2.02.04",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "KING DESTINY",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ORHAN BOZYEL",
+        "weight": 58,
+        "odds": 33.15,
+        "finishTime": "2.03.06",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "WELLERMAN",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 55,
+        "odds": 64.9,
+        "finishTime": "2.03.12",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "12",
+        "name": "ROYAL CIPHER",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "TAYFUN VATANSEVER",
+        "weight": 56,
+        "odds": 15.8,
+        "finishTime": "2.05.32",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "EVERY LITTLE KISS",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HALİL DÜLGER",
+        "weight": 52,
+        "odds": 76.95,
+        "finishTime": "2.06.68",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "10",
+        "name": "BIRD CAGE",
+        "jockey": "ZÜLFÜKAR KARABULUT",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 53,
+        "odds": 66.95,
+        "finishTime": "2.09.18",
+        "age": 3
+      }
+    ]
   }
 ]
