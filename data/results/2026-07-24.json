@@ -1564,5 +1564,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "raceNo": 3,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "KV-7/DHÖ",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "GÖKMETE",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "SAVAŞ AYDOĞDİ",
+        "weight": 58,
+        "odds": 1.6,
+        "finishTime": "1.33.95",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "AĞIR OĞLUM",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "CASIM KATI",
+        "weight": 58,
+        "odds": 3.8,
+        "finishTime": "1.34.11",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "AZAPKAPI",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 57.5,
+        "odds": 5.55,
+        "finishTime": "1.34.31",
+        "age": 6
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "PLATFORM",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "İSMAİL ÇEÇAN",
+        "weight": 55.5,
+        "odds": 9.9,
+        "finishTime": "1.34.32",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "EPARVEN",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "HAKAN ÇELİK",
+        "weight": 53.5,
+        "odds": 35.45,
+        "finishTime": "1.34.77",
+        "age": 7
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "GÜROBASI",
+        "jockey": "AHMET EFEKAN ELMAS",
+        "trainer": "TEKİN BİRİCİK",
+        "weight": 57.5,
+        "odds": 43.95,
+        "finishTime": "1.35.34",
+        "age": 7
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "ALDA GÖR",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "KENAN KORKMAZ",
+        "weight": 55.5,
+        "odds": 23.65,
+        "finishTime": "1.36.06",
+        "age": 7
+      },
+      {
+        "position": 8,
+        "no": "1",
+        "name": "MUZATCAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "KIVANÇ KINAY",
+        "weight": 63.5,
+        "odds": 11.3,
+        "finishTime": "1.37.29",
+        "age": 6
+      }
+    ]
   }
 ]
