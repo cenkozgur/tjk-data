@@ -1842,5 +1842,59 @@
         "age": 6
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 1300,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "SHIMMER",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "UFUK BİLİK",
+        "weight": 52,
+        "odds": 1.25,
+        "finishTime": "1.20.95",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "INNERBLOOM",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "UFUK BİLİK",
+        "weight": 55,
+        "odds": 1.25,
+        "finishTime": "1.22.43",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "TEPEKIZI",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 54,
+        "odds": 5.7,
+        "finishTime": "1.22.68",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "RAZENOID",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "TUNCAY TURAN",
+        "weight": 57,
+        "odds": 2.75,
+        "finishTime": "1.23.89",
+        "age": 2
+      }
+    ]
   }
 ]
