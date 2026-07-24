@@ -1261,6 +1261,186 @@
   },
   {
     "date": "2026-07-24",
+    "raceNo": 11,
+    "venue": "Bursa",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "8",
+        "name": "MAJOR QUEEN",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 56,
+        "odds": 4.55,
+        "finishTime": "1.23.61",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "SHAERA",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MÜLAYİM ANAT",
+        "weight": 60,
+        "odds": 7.95,
+        "finishTime": "1.23.92",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "RECUERDAME",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 3.65,
+        "finishTime": "1.24.08",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "BEYOND THE FIRE",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "EMRE KESKİN",
+        "weight": 60,
+        "odds": 3.15,
+        "finishTime": "1.24.25",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "10",
+        "name": "SILENT TOUCH",
+        "jockey": "CEM ALTUN",
+        "trainer": "DILŞA KAYA",
+        "weight": 55,
+        "odds": 8.9,
+        "finishTime": "1.24.46",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "9",
+        "name": "FEEL THE BEAT",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "TARIK NACİ YILDIZ",
+        "weight": 55,
+        "odds": 16.7,
+        "finishTime": "1.24.50",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "13",
+        "name": "BLAZING GLORY",
+        "jockey": "OĞUZ EREN",
+        "trainer": "AKIN ÖZDENİZ",
+        "weight": 55,
+        "odds": 43.05,
+        "finishTime": "1.24.74",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "5",
+        "name": "JOY FOR LIFE",
+        "jockey": "TUGAY ALICI",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 58,
+        "odds": 18.65,
+        "finishTime": "1.25.02",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "14",
+        "name": "AHU SULTAN",
+        "jockey": "SEZER ÇELİK",
+        "trainer": "AHMET EMİN AVCI",
+        "weight": 56,
+        "odds": 100.95,
+        "finishTime": "1.27.00",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "12",
+        "name": "SKY BLAZE",
+        "jockey": "ONUR ATMACA",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 55,
+        "odds": 57.7,
+        "finishTime": "1.27.25",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "VIVIR MI VIDA",
+        "jockey": "EFE AKPINAR",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55,
+        "odds": 36.85,
+        "finishTime": "1.27.26",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "16",
+        "name": "ULUDAĞ YILDIZI",
+        "jockey": "DENİZ BUDAK",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 53,
+        "odds": 120,
+        "finishTime": "1.28.06",
+        "age": 3
+      },
+      {
+        "position": 13,
+        "no": "7",
+        "name": "POWER OF SISTERS",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "SENER GÖKÇE",
+        "weight": 58,
+        "odds": 12.75,
+        "finishTime": "1.28.42",
+        "age": 3
+      },
+      {
+        "position": 14,
+        "no": "15",
+        "name": "YÜKSELCANDIR",
+        "jockey": "CEMAL PASO",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 55,
+        "odds": 74.15,
+        "finishTime": "1.32.44",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Bursa",
+        "label": "2. 6'LI GANYAN",
+        "combination": "4/1/5/3/3/8",
+        "prizeAmount": 441455.25,
+        "lastRaceNo": 11
+      },
+      {
+        "venue": "Bursa",
+        "label": "2. 6'LI GANYAN",
+        "combination": "6/1/5/3/3/8",
+        "prizeAmount": 56796.5,
+        "lastRaceNo": 11
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1900,
