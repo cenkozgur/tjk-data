@@ -459,6 +459,115 @@
   },
   {
     "date": "2026-07-24",
+    "raceNo": 5,
+    "venue": "İstanbul",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "9",
+        "name": "NOBLE STRENGTH",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 53.5,
+        "odds": 4.25,
+        "finishTime": "1.58.58",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "TORUN YUSUF",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "HAKAN ASLAN",
+        "weight": 60,
+        "odds": 5.15,
+        "finishTime": "1.58.60",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "ANOTHER BANGER",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 60,
+        "odds": 4.4,
+        "finishTime": "1.58.71",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "GREY GHOST",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HALİL DÜLGER",
+        "weight": 60,
+        "odds": 3.1,
+        "finishTime": "1.59.14",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "CAN SADİ",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HAKAN ACAR",
+        "weight": 60,
+        "odds": 15,
+        "finishTime": "1.59.50",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "THE WITCHER",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "GÖKMEN GÖKÇE",
+        "weight": 57,
+        "odds": 15.05,
+        "finishTime": "1.59.69",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "SEDAT",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "OLCAY ÖZEL",
+        "weight": 53,
+        "odds": 19.65,
+        "finishTime": "2.00.05",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "HANDSOME LAKE",
+        "jockey": "ZÜLFÜKAR KARABULUT",
+        "trainer": "SERHAT CEYLAN",
+        "weight": 54,
+        "odds": 40.3,
+        "finishTime": "2.03.78",
+        "age": 5
+      },
+      {
+        "position": 9,
+        "no": "8",
+        "name": "LOOK NEWS",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "FEHMİ DEMİR",
+        "weight": 55,
+        "odds": 6.5,
+        "finishTime": "2.03.94",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 2000,
