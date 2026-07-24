@@ -568,6 +568,157 @@
   },
   {
     "date": "2026-07-24",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "Maiden",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "ORMELLO",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 58,
+        "odds": 1.35,
+        "finishTime": "1.59.74",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GENERAL EL CID",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ATAKAN ŞIVGIN",
+        "weight": 58,
+        "odds": 20.7,
+        "finishTime": "2.00.37",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "MAGGIE",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 59,
+        "odds": 9.45,
+        "finishTime": "2.00.60",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "12",
+        "name": "PERA CORDELIA",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "TURGUT İBİŞ",
+        "weight": 56,
+        "odds": 17.75,
+        "finishTime": "2.01.00",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "MANIFEST",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 58,
+        "odds": 7.65,
+        "finishTime": "2.01.33",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "MAJESTIC CHAMPION",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "GÜVEN GÖKÇE",
+        "weight": 54,
+        "odds": 52.45,
+        "finishTime": "2.01.74",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "KALORİMATİK",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "FIRAT GARZAN",
+        "weight": 60,
+        "odds": 25.5,
+        "finishTime": "2.02.52",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "11",
+        "name": "MRS NİLŞAH",
+        "jockey": "RÜZGAR YILDIZ",
+        "trainer": "NİHAT KAYA",
+        "weight": 52,
+        "odds": 39.1,
+        "finishTime": "2.02.79",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "CALLATIS",
+        "jockey": "SADETTİN BOYRAZ",
+        "trainer": "MESUT BATMAN",
+        "weight": 58,
+        "odds": 9.1,
+        "finishTime": "2.03.73",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "13",
+        "name": "STUPOR MUNDI",
+        "jockey": "GÖKHAN YILDIZ",
+        "trainer": "CEMİL TURAN",
+        "weight": 56,
+        "odds": 51.95,
+        "finishTime": "2.05.81",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "10",
+        "name": "LITTLE STONE",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "SALİH BAYDAN",
+        "weight": 56,
+        "odds": 28.65,
+        "finishTime": "2.05.90",
+        "age": 3
+      },
+      {
+        "position": 12,
+        "no": "9",
+        "name": "GIRL OF THE NIGHT",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "VEYSAL KARAKAYA",
+        "weight": 53,
+        "odds": 38.5,
+        "finishTime": "2.07.15",
+        "age": 3
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "1. 6'LI GANYAN",
+        "combination": "13/5/3/2,4/9/2,7",
+        "prizeAmount": 1421.37,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 2000,
