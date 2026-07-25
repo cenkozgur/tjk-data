@@ -96,5 +96,136 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "11",
+        "name": "THAT BEATS ALL",
+        "jockey": "UĞUR TEMUR",
+        "trainer": "MEHMET TEKİNALP",
+        "weight": 55,
+        "odds": 13.55,
+        "finishTime": "1.29.42",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "STEEL ROCK",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 56,
+        "odds": 2.75,
+        "finishTime": "1.29.66",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "TARCAN BABA",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HÜSEYİN ATAŞ",
+        "weight": 56,
+        "odds": 4.35,
+        "finishTime": "1.29.94",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "PANCHO",
+        "jockey": "VELAT DEMİR",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 58,
+        "odds": 10.2,
+        "finishTime": "1.30.57",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "13",
+        "name": "JOYOUS GIRL",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "ERTAN ACER",
+        "weight": 52,
+        "odds": 10.55,
+        "finishTime": "1.30.85",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "EARTHQUAKE",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 55,
+        "odds": 8.9,
+        "finishTime": "1.30.92",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "GRENTLY WINS",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "YUSUF UÇAR",
+        "weight": 58,
+        "odds": 10.05,
+        "finishTime": "1.31.10",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "12",
+        "name": "VEN CONMİGO",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 54,
+        "odds": 29.15,
+        "finishTime": "1.32.18",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "2",
+        "name": "IRONHOOF",
+        "jockey": "FATİH RÜSTEM BEBEK",
+        "trainer": "GÖZDE KÖSE",
+        "weight": 58,
+        "odds": 8.9,
+        "finishTime": "1.36.81",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "5",
+        "name": "ÇAPGUR",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "SERVET DOĞAN",
+        "weight": 56,
+        "odds": 6.45,
+        "finishTime": "1.37.24",
+        "age": 3
+      },
+      {
+        "position": 11,
+        "no": "3",
+        "name": "MIDNIGHT MIRAGE",
+        "jockey": "BURHAN KILINÇ",
+        "trainer": "BURÇİN ARSLAN",
+        "weight": 58,
+        "odds": 12.35,
+        "finishTime": "1.57.49",
+        "age": 3
+      }
+    ]
   }
 ]
