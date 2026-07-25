@@ -459,6 +459,93 @@
   },
   {
     "date": "2026-07-25",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "KLEIN",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "ŞEFİK ÖZDENİZ",
+        "weight": 59,
+        "odds": 1.1,
+        "finishTime": "2.00.86",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "HUMAN TORCH",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "OKAN TAŞDEMİR",
+        "weight": 58,
+        "odds": 28.7,
+        "finishTime": "2.01.21",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "CAN EFE",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 58,
+        "odds": 6.25,
+        "finishTime": "2.01.75",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "EL CACİQUE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "DURAN TEKELİ",
+        "weight": 60,
+        "odds": 13.5,
+        "finishTime": "2.02.07",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "LITTLE JOE",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 58,
+        "odds": 18.55,
+        "finishTime": "2.02.10",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "DISTANCE RUNNER",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 58,
+        "odds": 26.15,
+        "finishTime": "2.03.40",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "ERBAALI SADİ",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "CUMA YILDIRIM",
+        "weight": 58,
+        "odds": 19.65,
+        "finishTime": "2.05.86",
+        "age": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-07-25",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
