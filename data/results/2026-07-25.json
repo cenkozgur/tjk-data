@@ -546,6 +546,71 @@
   },
   {
     "date": "2026-07-25",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "FROST CAT",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "İBRAHİM ALTINÖZ",
+        "weight": 61,
+        "odds": 1.95,
+        "finishTime": "2.09.25",
+        "age": 3
+      },
+      {
+        "position": 1,
+        "no": "4",
+        "name": "DANCE OF WIND",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 58,
+        "odds": 3.05,
+        "finishTime": "2.09.25",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "MOĞOL",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 60,
+        "odds": 3.2,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "ÖNDERBEYİM",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "EMİR ERGÖKÇEN",
+        "weight": 58,
+        "odds": 1.9,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "ÇEPNİ",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 58,
+        "odds": 12.7,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-07-25",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2000,
