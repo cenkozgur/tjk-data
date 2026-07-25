@@ -542,5 +542,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "raceNo": 1,
+    "venue": "İzmir",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "PRINCESS ELİF",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 57,
+        "odds": 1.1,
+        "finishTime": "1.16.04",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "ICE BEAUTY",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 53,
+        "odds": 14.2,
+        "finishTime": "1.17.38",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "NIGHTMARE ENEMY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 54,
+        "odds": 5.45,
+        "finishTime": "1.17.41",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "ROLYANA",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 52,
+        "odds": 10.45,
+        "finishTime": "1.17.84",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "YOU ARE A RAIN",
+        "jockey": "İSMAİL KALE",
+        "trainer": "CENGİZ TEKİN KÖSE",
+        "weight": 54,
+        "odds": 26.05,
+        "finishTime": "1.22.18",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "ALBAYRAĞIN AKKUŞU",
+        "jockey": "ROBİN BORAN DÜNDAR",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 50,
+        "odds": 19.9,
+        "finishTime": "1.23.48",
+        "age": 2
+      }
+    ]
   }
 ]
