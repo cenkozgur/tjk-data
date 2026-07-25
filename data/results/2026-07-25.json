@@ -466,5 +466,81 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 2200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "JOHN ABRUZZI",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 56.5,
+        "odds": 7.2,
+        "finishTime": "2.24.95",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "EL LORD",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "ERDAL AKYAVUZ",
+        "weight": 59.5,
+        "odds": 5.85,
+        "finishTime": "2.26.07",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "6",
+        "name": "GOLDEN DRAGON",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 56,
+        "odds": 1.2,
+        "finishTime": "2.26.38",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "ŞEN AKYÜZ",
+        "jockey": "NURETTİN ŞEN",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 60.5,
+        "odds": 10.8,
+        "finishTime": "2.27.49",
+        "age": 7
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "ŞERDİL",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MEHMET KORKMAZ",
+        "weight": 56.5,
+        "odds": 12.25,
+        "finishTime": "2.31.68",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "BABİLİ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "ALİ ÇIKMAN",
+        "weight": 56,
+        "odds": 29.55,
+        "finishTime": "2.40.88",
+        "age": 4
+      }
+    ]
   }
 ]
