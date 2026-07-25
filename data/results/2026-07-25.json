@@ -227,5 +227,92 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "MİA STAR",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 52,
+        "odds": 15.35,
+        "finishTime": "1.14.98",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "7",
+        "name": "TEMPESTA MIA",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "HALİT HATUNOĞLU",
+        "weight": 56,
+        "odds": 21.25,
+        "finishTime": "1.15.33",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "SMART CHILDREN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ARZU KILIÇ",
+        "weight": 60,
+        "odds": 1.85,
+        "finishTime": "1.15.48",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "SER VEYRON",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "RACİ ATLI",
+        "weight": 60,
+        "odds": 3.55,
+        "finishTime": "1.15.55",
+        "age": 8
+      },
+      {
+        "position": 5,
+        "no": "9",
+        "name": "SERAHİRA",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 55,
+        "odds": 3.15,
+        "finishTime": "1.15.73",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "BUMMER GIRL",
+        "jockey": "UĞUR TEMUR",
+        "trainer": "ARZU KILIÇ",
+        "weight": 58,
+        "odds": 21.95,
+        "finishTime": "1.18.29",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "ÜNLÜ BOMBA",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "SEİT KAN",
+        "weight": 56,
+        "odds": 19.15,
+        "finishTime": "1.21.54",
+        "age": 4
+      }
+    ]
   }
 ]
