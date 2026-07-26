@@ -748,5 +748,125 @@
         "age": 5
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 2400,
+    "surface": "Çim",
+    "raceClass": "G 1/DHT",
+    "horses": [
+      {
+        "position": 1,
+        "no": "9",
+        "name": "ÖZMEN BEY",
+        "jockey": "SELİM KAYA",
+        "trainer": "ÜMİT ARSLAN",
+        "weight": 58,
+        "odds": 2.65,
+        "finishTime": "2.44.91",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "GÖKIRMAK",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 58,
+        "odds": 1.65,
+        "finishTime": "2.45.13",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "GÜRGÖKBEY",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "MEHMET ALİ CANPOLATLI",
+        "weight": 58,
+        "odds": 13.4,
+        "finishTime": "2.45.92",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "ATİLLABEY",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 58,
+        "odds": 15.7,
+        "finishTime": "2.46.27",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "10",
+        "name": "SERT KALELİ",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "AKIN TURAN",
+        "weight": 58,
+        "odds": 32.85,
+        "finishTime": "2.47.72",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "ASİL OĞLAN",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 58,
+        "odds": 10.5,
+        "finishTime": "2.47.76",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "ERİŞMİŞ",
+        "jockey": "MEHMET KAYA",
+        "trainer": "HÜSEYİN KAYA",
+        "weight": 58,
+        "odds": 44.25,
+        "finishTime": "2.50.68",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "DORUKBATUR",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "CUMA DEMİR",
+        "weight": 58,
+        "odds": 25.1,
+        "finishTime": "2.51.84",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "CANEYMEN",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 58,
+        "odds": 52.55,
+        "finishTime": "2.53.60",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "8",
+        "name": "KAYIPSIZ",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 58,
+        "odds": 42.8,
+        "finishTime": "2.55.11",
+        "age": 4
+      }
+    ]
   }
 ]
