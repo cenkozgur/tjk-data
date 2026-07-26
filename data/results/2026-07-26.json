@@ -2,6 +2,82 @@
   {
     "date": "2026-07-26",
     "raceNo": 1,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "EMPEROR",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "EMRAH AYHAN",
+        "weight": 54,
+        "odds": 1.5,
+        "finishTime": "1.29.94",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "LILLE HAMMER",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 53,
+        "odds": 7.4,
+        "finishTime": "1.30.63",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "KING BALDWIN",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "RANA SUNA",
+        "weight": 57,
+        "odds": 4.25,
+        "finishTime": "1.31.65",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "BEAUTY ALYA",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "BURHAN AKTAŞ",
+        "weight": 55,
+        "odds": 4.25,
+        "finishTime": "1.32.51",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "FRAMEZ",
+        "jockey": "CEMAL PASO",
+        "trainer": "ALİ CAN ATAR",
+        "weight": 54,
+        "odds": 31.35,
+        "finishTime": "1.32.57",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "THE BLACK SONYA",
+        "jockey": "MUHAMMED BURHAN ÖNCEL",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 50,
+        "odds": 19.85,
+        "finishTime": "1.32.59",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-07-26",
+    "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1400,
     "surface": "Sentetik",
