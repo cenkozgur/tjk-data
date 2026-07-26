@@ -281,5 +281,125 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "raceNo": 4,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "7",
+        "name": "ULUŞİRAN BEYİ",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 57,
+        "odds": 3.55,
+        "finishTime": "1.33.58",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "9",
+        "name": "TANKIZI",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 59,
+        "odds": 5.25,
+        "finishTime": "1.33.69",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "8",
+        "name": "QUEEN HANIM",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YUSUF UÇAR",
+        "weight": 59,
+        "odds": 3.4,
+        "finishTime": "1.34.28",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ARDEN TUNA",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 57,
+        "odds": 49.3,
+        "finishTime": "1.34.83",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "KARAT",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HAYRİ YILDIRIM",
+        "weight": 57,
+        "odds": 7.7,
+        "finishTime": "1.36.37",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "NAZÇEKMEZ",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "HACİ ALTUNBAŞ",
+        "weight": 52,
+        "odds": 64.95,
+        "finishTime": "1.37.75",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "3",
+        "name": "DOSTBAŞAR",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "RAMAZAN COŞKUN",
+        "weight": 57,
+        "odds": 21.3,
+        "finishTime": "1.37.76",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "EFE KAPTAN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "TAMER KOLDAŞ",
+        "weight": 57,
+        "odds": 8.65,
+        "finishTime": "1.37.78",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "5",
+        "name": "GÖKKILIÇ",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 57,
+        "odds": 75.1,
+        "finishTime": "1.39.35",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "2",
+        "name": "BULLETS",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "TARKAN ŞİT",
+        "weight": 57,
+        "odds": 4.2,
+        "finishTime": "1.41.96",
+        "age": 3
+      }
+    ]
   }
 ]
