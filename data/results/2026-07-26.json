@@ -510,5 +510,112 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "distance": 2400,
+    "surface": "Sentetik",
+    "raceClass": "Kısa Vade Handikap 24/Dişi /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "LADY SEPHORA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "MUSTAFA ATAL",
+        "weight": 57,
+        "odds": 7.25,
+        "finishTime": "2.29.61",
+        "age": 8
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "QUEEN PROTEO",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "ŞEFİK AYDEMİR",
+        "weight": 61,
+        "odds": 4.15,
+        "finishTime": "2.29.64",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "REAL TROUBLE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 57,
+        "odds": 4.5,
+        "finishTime": "2.29.71",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "SUPER DİVO",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 52,
+        "odds": 7.25,
+        "finishTime": "2.30.11",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "OHRID INCISI",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 52.5,
+        "odds": 10,
+        "finishTime": "2.30.26",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "GOLD FLOWER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 58,
+        "odds": 2.95,
+        "finishTime": "2.31.38",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "4",
+        "name": "PEHLİVAN YILDIZI",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "CUMA GÖNÜLTAŞ",
+        "weight": 56.5,
+        "odds": 17.65,
+        "finishTime": "2.32.06",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "MUĞLALI VARGAS",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "CENK ŞAMLI",
+        "weight": 53.5,
+        "odds": 9.2,
+        "finishTime": "2.32.96",
+        "age": 4
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "1. 6'LI GANYAN",
+        "combination": "6/1/1,4/7/5,6/3",
+        "prizeAmount": 31968.62,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]
