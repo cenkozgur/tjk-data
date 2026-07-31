@@ -1131,5 +1131,125 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "raceNo": 1,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 15 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "5",
+        "name": "GILMOUR",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 56,
+        "odds": 3.7,
+        "finishTime": "1.24.51",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "VOLITIVO",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "BERKAN KAÇMAZ",
+        "weight": 56.5,
+        "odds": 2.1,
+        "finishTime": "1.24.82",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "HOLA Y CHAO",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 61.5,
+        "odds": 15.1,
+        "finishTime": "1.25.02",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "MILLENNIUM FALCON",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "TARKAN ŞİT",
+        "weight": 55.5,
+        "odds": 15.55,
+        "finishTime": "1.25.74",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "GLONASS",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "GÜVEN GÖKÇE",
+        "weight": 53,
+        "odds": 5.4,
+        "finishTime": "1.25.77",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "MERCIER",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "OSMAN ALTUNTAŞ",
+        "weight": 57.5,
+        "odds": 10.85,
+        "finishTime": "1.25.78",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "LADY BEGÜM",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 53,
+        "odds": 11.95,
+        "finishTime": "1.25.84",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "2",
+        "name": "HAMA DESTINATION",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YOUSEF ARHIM",
+        "weight": 61,
+        "odds": 13.95,
+        "finishTime": "1.26.67",
+        "age": 3
+      },
+      {
+        "position": 9,
+        "no": "10",
+        "name": "MANIFEST",
+        "jockey": "GÖKHAN BEKTAŞ",
+        "trainer": "KENAN BERKAY TUTAL",
+        "weight": 52,
+        "odds": 51.4,
+        "finishTime": "1.27.24",
+        "age": 3
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "SHADOW MASTER",
+        "jockey": "HAKAN YILDIZ",
+        "trainer": "AHMET ÖCAL",
+        "weight": 52,
+        "odds": 57.3,
+        "finishTime": "1.29.12",
+        "age": 3
+      }
+    ]
   }
 ]
