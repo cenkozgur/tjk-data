@@ -587,5 +587,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "raceNo": 6,
+    "venue": "Bursa",
+    "distance": 1500,
+    "surface": "Çim",
+    "raceClass": "Handikap 15 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "14",
+        "name": "GOLDEN SNOW",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "GALİP KILIÇ",
+        "weight": 52,
+        "odds": 10.85,
+        "finishTime": "1.29.26",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "5",
+        "name": "DRAGON BORA",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MEHMET GÜDÜCÜ",
+        "weight": 60,
+        "odds": 9.35,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "13",
+        "name": "BEBEĞİM OLDUN",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 52.5,
+        "odds": 6.6,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "BIÇKIDERELİ EGE",
+        "jockey": "RECEP KETME",
+        "trainer": "TUNCAY ATEŞ",
+        "weight": 60,
+        "odds": 27.8,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "3",
+        "name": "BIG HONEY",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 62.5,
+        "odds": 3.6,
+        "finishTime": "",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "ALPS FIRE",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "REŞAT KILIÇ",
+        "weight": 59,
+        "odds": 31.4,
+        "finishTime": "",
+        "age": 4
+      }
+    ]
   }
 ]
