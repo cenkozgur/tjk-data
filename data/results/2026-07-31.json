@@ -568,6 +568,124 @@
   },
   {
     "date": "2026-07-31",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Çim",
+    "raceClass": "Kısa Vade Handikap 24 /H1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "SUBUTAI",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ERGÜN USLU",
+        "weight": 61,
+        "odds": 5.9,
+        "finishTime": "1.23.25",
+        "age": 7
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "MASTERPIECE",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "UFUK BİLİK",
+        "weight": 59,
+        "odds": 1.85,
+        "finishTime": "1.23.30",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "EL GLADIADOR",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "UFUK BİLİK",
+        "weight": 52,
+        "odds": 1.85,
+        "finishTime": "1.23.54",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "HARDOLD",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "CEMİL TURAN",
+        "weight": 54,
+        "odds": 21.75,
+        "finishTime": "1.23.70",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "MAGIC WEAPON",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "MEHMET DEMİR",
+        "weight": 59.5,
+        "odds": 3.5,
+        "finishTime": "1.23.71",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "TURKISH PUNCH",
+        "jockey": "YASİN ŞEREF GÜMÜŞ",
+        "trainer": "ERGÜN USLU",
+        "weight": 54.5,
+        "odds": 45.25,
+        "finishTime": "1.23.72",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "LAUREATE",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HALİL DÜLGER",
+        "weight": 56.5,
+        "odds": 12.45,
+        "finishTime": "1.23.78",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "BOLD LION",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 56.5,
+        "odds": 5.55,
+        "finishTime": "1.24.10",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "7",
+        "name": "LOWER SPIRIT",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "SAİM KERESTECİ",
+        "weight": 55,
+        "odds": 41.5,
+        "finishTime": "1.24.48",
+        "age": 5
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "1. 6'LI GANYAN",
+        "combination": "5/2/3/8/5/1",
+        "prizeAmount": 15626.62,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1300,
