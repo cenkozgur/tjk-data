@@ -557,6 +557,102 @@
   },
   {
     "date": "2026-08-01",
+    "raceNo": 6,
+    "venue": "İzmir",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "KV-6",
+    "horses": [
+      {
+        "position": 1,
+        "no": "2",
+        "name": "GROUND SPEED",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 60,
+        "odds": 5.95,
+        "finishTime": "1.41.17",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "BUCALI BERAT",
+        "jockey": "ALİCAN İNCİ",
+        "trainer": "HALİL ERSİN UYSAL",
+        "weight": 60,
+        "odds": 1.6,
+        "finishTime": "1.41.54",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "FEBRİS",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 58,
+        "odds": 4.75,
+        "finishTime": "1.42.02",
+        "age": 5
+      },
+      {
+        "position": 4,
+        "no": "7",
+        "name": "BARİ",
+        "jockey": "METE GÖL",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56,
+        "odds": 43.05,
+        "finishTime": "1.42.66",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "BATTLECAT",
+        "jockey": "KÜRŞAT YILMAZ",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 57,
+        "odds": 28.4,
+        "finishTime": "1.42.71",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "3",
+        "name": "MY STAR",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "İBRAHİM ALTINÖZ",
+        "weight": 60,
+        "odds": 4.8,
+        "finishTime": "1.43.08",
+        "age": 5
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "AGE OF FIRE",
+        "jockey": "ALAATTİN KÜRÜNDÜK",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 56,
+        "odds": 20.45,
+        "finishTime": "1.43.91",
+        "age": 7
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İzmir",
+        "label": "1. 6'LI GANYAN",
+        "combination": "3/9/4,7,8/3/8/2",
+        "prizeAmount": 740132,
+        "lastRaceNo": 6
+      }
+    ]
+  },
+  {
+    "date": "2026-08-01",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2200,
