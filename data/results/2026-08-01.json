@@ -587,5 +587,70 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "raceNo": 6,
+    "venue": "Ankara",
+    "distance": 2800,
+    "surface": "Çim",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "ANSHBA",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 55.5,
+        "odds": 1.45,
+        "finishTime": "2.55.99",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "MY RAINY HEART",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 60,
+        "odds": 4.15,
+        "finishTime": "2.56.79",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "SUPER TOMO",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 55.5,
+        "odds": 7.35,
+        "finishTime": "2.58.10",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "TORUN YUSUF",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "HAKAN ASLAN",
+        "weight": 60,
+        "odds": 5,
+        "finishTime": "2.59.03",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "THAT BEATS ALL",
+        "jockey": "UĞUR TEMUR",
+        "trainer": "MEHMET TEKİNALP",
+        "weight": 54.5,
+        "odds": 31.3,
+        "finishTime": "3.06.63",
+        "age": 3
+      }
+    ]
   }
 ]
