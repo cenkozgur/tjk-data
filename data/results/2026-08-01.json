@@ -467,5 +467,81 @@
         "age": 4
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "raceNo": 5,
+    "venue": "Ankara",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "Maiden/DHÖW",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "SÜPEROĞLAN",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "ÜMİT ARSLAN",
+        "weight": 57,
+        "odds": 2.65,
+        "finishTime": "1.48.32",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "GÜNEY KAFKASYALI",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57,
+        "odds": 11.4,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "ARKANBERK",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "YUSUF UÇAR",
+        "weight": 57,
+        "odds": 2.45,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "SERÇE KIZI",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "RAMAZAN TAŞDELEN",
+        "weight": 55,
+        "odds": 9.9,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "6",
+        "name": "KINALIKAYAM",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "RAMAZAN KAYA",
+        "weight": 53,
+        "odds": 53.05,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "10",
+        "name": "YILKAR",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "CAFER GÜVEN",
+        "weight": 55,
+        "odds": 5.75,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
   }
 ]
