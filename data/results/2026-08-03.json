@@ -838,6 +838,146 @@
   },
   {
     "date": "2026-08-03",
+    "raceNo": 9,
+    "venue": "Bursa",
+    "distance": 2000,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "THINDER OF SHINE",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "DILŞA KAYA",
+        "weight": 58,
+        "odds": 3.8,
+        "finishTime": "2.02.93",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "ALYCONE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MEHMET ALİ KAYA",
+        "weight": 57,
+        "odds": 3.95,
+        "finishTime": "2.02.95",
+        "age": 6
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "DİDİ LAZİ",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 57,
+        "odds": 6.25,
+        "finishTime": "2.03.69",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "8",
+        "name": "FIT AS A FIDDLE",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MEHMET ÖCAL",
+        "weight": 57,
+        "odds": 5.95,
+        "finishTime": "2.04.19",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "BRUSK SHOT",
+        "jockey": "MEHMET KAYA",
+        "trainer": "YUSUF AKBULUT",
+        "weight": 57,
+        "odds": 6.7,
+        "finishTime": "2.04.35",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "1",
+        "name": "KAVALA GÜCÜ",
+        "jockey": "TUGAY ALICI",
+        "trainer": "ŞAHİN AKDUMAN",
+        "weight": 60,
+        "odds": 31.8,
+        "finishTime": "2.04.36",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "COOKIE",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 57,
+        "odds": 11.75,
+        "finishTime": "2.06.70",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "10",
+        "name": "SEDAT",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "OLCAY ÖZEL",
+        "weight": 57,
+        "odds": 10.4,
+        "finishTime": "2.07.63",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "12",
+        "name": "TYATIR",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "MEHMET ALİ KAYA",
+        "weight": 53,
+        "odds": 26.55,
+        "finishTime": "2.16.94",
+        "age": 5
+      },
+      {
+        "position": 10,
+        "no": "9",
+        "name": "HANDSOME LAKE",
+        "jockey": "MAHSUN TURAN",
+        "trainer": "SERHAT CEYLAN",
+        "weight": 57,
+        "odds": 51.7,
+        "finishTime": "2.22.73",
+        "age": 5
+      },
+      {
+        "position": 11,
+        "no": "11",
+        "name": "ROZERYA",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "EMİNE KAYA",
+        "weight": 55,
+        "odds": 41.85,
+        "finishTime": "2.23.71",
+        "age": 6
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Bursa",
+        "label": "2. 6'LI GANYAN",
+        "combination": "7/2/9/1,2,7/1,8,10/3",
+        "prizeAmount": 3527.5,
+        "lastRaceNo": 9
+      }
+    ]
+  },
+  {
+    "date": "2026-08-03",
     "raceNo": 1,
     "venue": "Elazığ",
     "distance": 1600,
