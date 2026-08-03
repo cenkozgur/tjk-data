@@ -835,5 +835,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "raceNo": 1,
+    "venue": "Elazığ",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "Maiden/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "ELENORA",
+        "jockey": "MUHAMMED BARAN ÇAKMAK",
+        "trainer": "RAMAZAN BARMAN",
+        "weight": 55,
+        "odds": 38.55,
+        "finishTime": "1.51.63",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "12",
+        "name": "VASILISA",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 58,
+        "odds": 42.95,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "10",
+        "name": "LUNA DE FUEGO",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 58,
+        "odds": 28.1,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "CASHOUT",
+        "jockey": "MEHMET TAŞKAYA",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 63,
+        "odds": 2.3,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "PRENSES MELTEM",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "AHMET AKBABA",
+        "weight": 61,
+        "odds": 9.25,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "HELLO KUTTY",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "HAKAN ATAKAYA",
+        "weight": 58,
+        "odds": 8.7,
+        "finishTime": "",
+        "age": 3
+      }
+    ]
   }
 ]
