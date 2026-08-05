@@ -554,5 +554,81 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "raceNo": 6,
+    "venue": "İstanbul",
+    "distance": 1500,
+    "surface": "Sentetik",
+    "raceClass": "KV-6/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "DAELLA",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 58,
+        "odds": 9.35,
+        "finishTime": "1.32.10",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "LYARA",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "UFUK BİLİK",
+        "weight": 58,
+        "odds": 1.35,
+        "finishTime": "1.32.55",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "4",
+        "name": "MISFIT",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "İSMET TEKİNALP",
+        "weight": 56,
+        "odds": 7.5,
+        "finishTime": "1.32.79",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "CHARLIE THE FIRST",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 55,
+        "odds": 11.7,
+        "finishTime": "1.32.80",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "LA COPA",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "BEYDA TANRIKULU",
+        "weight": 58,
+        "odds": 12.85,
+        "finishTime": "1.33.30",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "LOQUİTA",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 54,
+        "odds": 4.75,
+        "finishTime": "1.34.27",
+        "age": 3
+      }
+    ]
   }
 ]
