@@ -840,6 +840,93 @@
   },
   {
     "date": "2026-08-07",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "KV-7",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "RATTLESNAKE",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 1.35,
+        "finishTime": "1.24.86",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "3",
+        "name": "EGOISTA",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 54,
+        "odds": 1.35,
+        "finishTime": "1.24.93",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "WHITEWALKERS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 54,
+        "odds": 4.45,
+        "finishTime": "1.25.75",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "SECRET OF DRAGON",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "BAYRAM GÜL",
+        "weight": 54,
+        "odds": 15,
+        "finishTime": "1.26.08",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "4",
+        "name": "SİLÜET",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "YAVUZ PETEK",
+        "weight": 54.5,
+        "odds": 6.15,
+        "finishTime": "1.26.94",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "ZIBBOOSH",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "CEMİL TURAN",
+        "weight": 51,
+        "odds": 9.85,
+        "finishTime": "1.27.09",
+        "age": 2
+      },
+      {
+        "position": 7,
+        "no": "6",
+        "name": "O BİR VAHŞİ",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 51,
+        "odds": 17.6,
+        "finishTime": "1.27.42",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1300,
