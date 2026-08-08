@@ -426,6 +426,104 @@
   },
   {
     "date": "2026-08-08",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "SATIŞ 1",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "KING ÇAĞDAŞ",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MEHMET ALİ PAKEL",
+        "weight": 59,
+        "odds": 5.4,
+        "finishTime": "2.02.35",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "GLITTER WINGS",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "SERCAN ÇELİKMAN",
+        "weight": 58,
+        "odds": 2.15,
+        "finishTime": "2.02.72",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "1",
+        "name": "DRAGON RUNNER",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "SARVEN ZADİK ATİLLA MİNASOĞLU",
+        "weight": 60,
+        "odds": 6.65,
+        "finishTime": "2.03.61",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "6",
+        "name": "BOARDING PASS",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "LEVENT BERKOL",
+        "weight": 56,
+        "odds": 11.15,
+        "finishTime": "2.04.46",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "2",
+        "name": "FALCON OF MUTAFLAR",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 60,
+        "odds": 3.65,
+        "finishTime": "2.04.82",
+        "age": 6
+      },
+      {
+        "position": 6,
+        "no": "7",
+        "name": "DOĞU ASLANI",
+        "jockey": "İBRAHİM SEFA SÖĞÜT",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 52,
+        "odds": 44.05,
+        "finishTime": "2.09.00",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "5",
+        "name": "NINJA",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SERHAT YILDIRIM",
+        "weight": 55.5,
+        "odds": 6.85,
+        "finishTime": "2.11.35",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "BOYALIK",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 50,
+        "odds": 89,
+        "finishTime": "2.17.77",
+        "age": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2200,
