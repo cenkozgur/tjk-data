@@ -617,5 +617,59 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1900,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 4/Y3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "TORUN YUSUF",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "HAKAN ASLAN",
+        "weight": 61,
+        "odds": 5.85,
+        "finishTime": "2.00.66",
+        "age": 6
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "OTTOWA",
+        "jockey": "KAANCAN GÖKÇE",
+        "trainer": "BATUHAN TURGUL",
+        "weight": 59,
+        "odds": 1.55,
+        "finishTime": "2.00.90",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "QUEIMADA GRANDE",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "HAKAN ÇELİK",
+        "weight": 54,
+        "odds": 9.4,
+        "finishTime": "2.01.14",
+        "age": 9
+      },
+      {
+        "position": 4,
+        "no": "5",
+        "name": "GRAND RAPIDS",
+        "jockey": "MERT UYAR",
+        "trainer": "ENGİN KARATAŞ",
+        "weight": 52,
+        "odds": 4.8,
+        "finishTime": "2.03.95",
+        "age": 4
+      }
+    ]
   }
 ]
