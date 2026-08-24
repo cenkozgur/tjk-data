@@ -803,5 +803,81 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "raceNo": 8,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "position": 1,
+        "no": "4",
+        "name": "RATTLESNAKE",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 2.35,
+        "finishTime": "1.12.75",
+        "age": 2
+      },
+      {
+        "position": 2,
+        "no": "1",
+        "name": "BLACK RAPTOR",
+        "jockey": "MEHMET ÇELİK",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 57,
+        "odds": 10.7,
+        "finishTime": "1.15.75",
+        "age": 2
+      },
+      {
+        "position": 3,
+        "no": "2",
+        "name": "CRIMSON POWER",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "HÜSEYİN KARABULUT",
+        "weight": 57,
+        "odds": 10.7,
+        "finishTime": "1.15.80",
+        "age": 2
+      },
+      {
+        "position": 4,
+        "no": "3",
+        "name": "FELAKET",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "SERHAT YARDIMCI",
+        "weight": 57,
+        "odds": 7.75,
+        "finishTime": "1.15.87",
+        "age": 2
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "SUPER LION",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "GALİP KILIÇ",
+        "weight": 57,
+        "odds": 16.8,
+        "finishTime": "1.16.58",
+        "age": 2
+      },
+      {
+        "position": 6,
+        "no": "6",
+        "name": "ONLY GIRL",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "EYÜPHAN AVCI",
+        "weight": 55,
+        "odds": 1.55,
+        "finishTime": "1.17.23",
+        "age": 2
+      }
+    ]
   }
 ]
