@@ -238,5 +238,92 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 2100,
+    "surface": "Kum",
+    "raceClass": "Handikap 16 /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "3",
+        "name": "HARP",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "YILMAZ GÜNDOĞDİ",
+        "weight": 57,
+        "odds": 1.25,
+        "finishTime": "2.18.77",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "EL INTOCABLE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "YUNUS TUNCAY",
+        "weight": 59.5,
+        "odds": 7,
+        "finishTime": "2.18.98",
+        "age": 5
+      },
+      {
+        "position": 3,
+        "no": "7",
+        "name": "İŞİN ASLI",
+        "jockey": "TUGAY ALICI",
+        "trainer": "RÜSTEM ALİ TEKELİ",
+        "weight": 56,
+        "odds": 14.85,
+        "finishTime": "2.20.28",
+        "age": 10
+      },
+      {
+        "position": 4,
+        "no": "4",
+        "name": "ULUBEY",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "ŞAHİN AKDUMAN",
+        "weight": 61,
+        "odds": 26.55,
+        "finishTime": "2.20.59",
+        "age": 6
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "AYBAR FIRTINASI",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 60.5,
+        "odds": 7.3,
+        "finishTime": "2.21.62",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "2",
+        "name": "PROBALA",
+        "jockey": "BERKANT GÖKÇE",
+        "trainer": "KENAN ELALDI",
+        "weight": 61,
+        "odds": 9.8,
+        "finishTime": "2.22.30",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "1",
+        "name": "FINALLY ITS TIME",
+        "jockey": "EFE AKPINAR",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 60,
+        "odds": 13.65,
+        "finishTime": "2.22.73",
+        "age": 3
+      }
+    ]
   }
 ]
