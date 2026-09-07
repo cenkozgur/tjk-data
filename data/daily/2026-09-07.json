@@ -10,10 +10,10 @@
     "raceClass": "Maiden/DHÖ",
     "isGanyanStart": true,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -24,7 +24,7 @@
         "weight": 57,
         "age": 3,
         "form": "0987",
-        "odds": 0
+        "odds": 11.2
       },
       {
         "no": "2",
@@ -34,7 +34,7 @@
         "weight": 53,
         "age": 3,
         "form": "809956",
-        "odds": 0
+        "odds": 23.7
       },
       {
         "no": "3",
@@ -44,7 +44,7 @@
         "weight": 54,
         "age": 3,
         "form": "080",
-        "odds": 0
+        "odds": 34.7
       },
       {
         "no": "4",
@@ -54,17 +54,17 @@
         "weight": 57,
         "age": 3,
         "form": "90928",
-        "odds": 0
+        "odds": 3.3
       },
       {
         "no": "5",
         "name": "RULER STONE",
-        "jockey": "SİNAN ÖZEN",
+        "jockey": "ALİCAN İNCİ",
         "trainer": "HÜSEYİN ÇALIŞKAN",
         "weight": 57,
         "age": 3,
         "form": "68",
-        "odds": 0
+        "odds": 14.95
       },
       {
         "no": "6",
@@ -84,7 +84,7 @@
         "weight": 57,
         "age": 3,
         "form": "",
-        "odds": 0
+        "odds": 10.1
       },
       {
         "no": "8",
@@ -94,7 +94,7 @@
         "weight": 57,
         "age": 3,
         "form": "04",
-        "odds": 0
+        "odds": 6.85
       },
       {
         "no": "9",
@@ -104,7 +104,7 @@
         "weight": 57,
         "age": 3,
         "form": "5",
-        "odds": 0
+        "odds": 8.65
       },
       {
         "no": "10",
@@ -114,7 +114,7 @@
         "weight": 55,
         "age": 3,
         "form": "9",
-        "odds": 0
+        "odds": 108.4
       },
       {
         "no": "11",
@@ -124,7 +124,7 @@
         "weight": 55,
         "age": 3,
         "form": "2",
-        "odds": 0
+        "odds": 2.4
       },
       {
         "no": "12",
@@ -134,7 +134,7 @@
         "weight": 52,
         "age": 3,
         "form": "00990",
-        "odds": 0
+        "odds": 57.05
       },
       {
         "no": "13",
@@ -154,7 +154,7 @@
         "weight": 51,
         "age": 3,
         "form": "007307",
-        "odds": 0
+        "odds": 14.6
       },
       {
         "no": "15",
@@ -164,13 +164,13 @@
         "weight": 53,
         "age": 3,
         "form": "",
-        "odds": 0
+        "odds": 29
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -184,10 +184,10 @@
     "raceClass": "ŞARTLI 4",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -198,7 +198,7 @@
         "weight": 60,
         "age": 2,
         "form": "15314",
-        "odds": 0
+        "odds": 4
       },
       {
         "no": "2",
@@ -208,7 +208,7 @@
         "weight": 57,
         "age": 2,
         "form": "2129",
-        "odds": 0
+        "odds": 1.55
       },
       {
         "no": "3",
@@ -218,7 +218,7 @@
         "weight": 57,
         "age": 2,
         "form": "264162",
-        "odds": 0
+        "odds": 5.3
       },
       {
         "no": "4",
@@ -228,7 +228,7 @@
         "weight": 54,
         "age": 2,
         "form": "364164",
-        "odds": 0
+        "odds": 19.35
       },
       {
         "no": "5",
@@ -238,7 +238,7 @@
         "weight": 55,
         "age": 2,
         "form": "261455",
-        "odds": 0
+        "odds": 4.65
       },
       {
         "no": "6",
@@ -248,13 +248,13 @@
         "weight": 54.5,
         "age": 2,
         "form": "4671",
-        "odds": 0
+        "odds": 10.3
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -268,10 +268,10 @@
     "raceClass": "Maiden/DHÖ",
     "isGanyanStart": true,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -282,7 +282,7 @@
         "weight": 57,
         "age": 3,
         "form": "774330",
-        "odds": 0
+        "odds": 14.1
       },
       {
         "no": "2",
@@ -292,7 +292,7 @@
         "weight": 59,
         "age": 3,
         "form": "303326",
-        "odds": 0
+        "odds": 7.2
       },
       {
         "no": "3",
@@ -302,7 +302,7 @@
         "weight": 57,
         "age": 3,
         "form": "5",
-        "odds": 0
+        "odds": 5.8
       },
       {
         "no": "4",
@@ -312,7 +312,7 @@
         "weight": 57,
         "age": 3,
         "form": "4",
-        "odds": 0
+        "odds": 4.95
       },
       {
         "no": "5",
@@ -322,7 +322,7 @@
         "weight": 57,
         "age": 3,
         "form": "70",
-        "odds": 0
+        "odds": 37.75
       },
       {
         "no": "6",
@@ -332,7 +332,7 @@
         "weight": 57,
         "age": 3,
         "form": "637590",
-        "odds": 0
+        "odds": 11.05
       },
       {
         "no": "7",
@@ -342,7 +342,7 @@
         "weight": 53,
         "age": 3,
         "form": "950577",
-        "odds": 0
+        "odds": 25.2
       },
       {
         "no": "8",
@@ -352,7 +352,7 @@
         "weight": 54,
         "age": 3,
         "form": "979460",
-        "odds": 0
+        "odds": 29
       },
       {
         "no": "9",
@@ -362,7 +362,7 @@
         "weight": 55,
         "age": 3,
         "form": "876700",
-        "odds": 0
+        "odds": 99.05
       },
       {
         "no": "10",
@@ -372,7 +372,7 @@
         "weight": 57,
         "age": 3,
         "form": "243473",
-        "odds": 0
+        "odds": 5.35
       },
       {
         "no": "11",
@@ -382,7 +382,7 @@
         "weight": 51,
         "age": 3,
         "form": "86",
-        "odds": 0
+        "odds": 35.25
       },
       {
         "no": "12",
@@ -392,7 +392,7 @@
         "weight": 55,
         "age": 3,
         "form": "20978",
-        "odds": 0
+        "odds": 34.5
       },
       {
         "no": "13",
@@ -402,7 +402,7 @@
         "weight": 51,
         "age": 3,
         "form": "08002",
-        "odds": 0
+        "odds": 8.9
       },
       {
         "no": "14",
@@ -412,7 +412,7 @@
         "weight": 55,
         "age": 3,
         "form": "456535",
-        "odds": 0
+        "odds": 3.9
       },
       {
         "no": "15",
@@ -422,13 +422,13 @@
         "weight": 52,
         "age": 3,
         "form": "6700",
-        "odds": 0
+        "odds": 27.95
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -442,10 +442,10 @@
     "raceClass": "ŞARTLI 3",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -456,7 +456,7 @@
         "weight": 60,
         "age": 3,
         "form": "254-312",
-        "odds": 0
+        "odds": 1.3
       },
       {
         "no": "2",
@@ -466,7 +466,7 @@
         "weight": 60,
         "age": 3,
         "form": "646977",
-        "odds": 0
+        "odds": 27
       },
       {
         "no": "3",
@@ -476,7 +476,7 @@
         "weight": 58,
         "age": 3,
         "form": "802413",
-        "odds": 0
+        "odds": 13.2
       },
       {
         "no": "4",
@@ -486,7 +486,7 @@
         "weight": 56,
         "age": 3,
         "form": "641000",
-        "odds": 0
+        "odds": 55
       },
       {
         "no": "5",
@@ -496,7 +496,7 @@
         "weight": 53,
         "age": 3,
         "form": "964305",
-        "odds": 0
+        "odds": 15.45
       },
       {
         "no": "6",
@@ -506,7 +506,7 @@
         "weight": 55,
         "age": 3,
         "form": "607325",
-        "odds": 0
+        "odds": 8.65
       },
       {
         "no": "7",
@@ -516,7 +516,7 @@
         "weight": 56,
         "age": 3,
         "form": "1-080",
-        "odds": 0
+        "odds": 28.5
       },
       {
         "no": "8",
@@ -526,7 +526,7 @@
         "weight": 55,
         "age": 3,
         "form": "006704",
-        "odds": 0
+        "odds": 19.1
       },
       {
         "no": "9",
@@ -536,7 +536,7 @@
         "weight": 53,
         "age": 3,
         "form": "145-789",
-        "odds": 0
+        "odds": 7.95
       },
       {
         "no": "10",
@@ -546,7 +546,7 @@
         "weight": 53,
         "age": 3,
         "form": "2-07089",
-        "odds": 0
+        "odds": 44.05
       },
       {
         "no": "11",
@@ -556,17 +556,17 @@
         "weight": 55,
         "age": 3,
         "form": "88-8550",
-        "odds": 0
+        "odds": 48.6
       },
       {
         "no": "12",
         "name": "UTAH",
-        "jockey": "SİNAN ÖZEN",
+        "jockey": "ONUR ATMACA",
         "trainer": "CANSU ŞİMŞEK",
         "weight": 57,
         "age": 3,
         "form": "05",
-        "odds": 0
+        "odds": 37.1
       },
       {
         "no": "13",
@@ -576,7 +576,7 @@
         "weight": 52,
         "age": 3,
         "form": "5-0",
-        "odds": 0
+        "odds": 18.85
       },
       {
         "no": "14",
@@ -586,13 +586,13 @@
         "weight": 53,
         "age": 3,
         "form": "09070",
-        "odds": 0
+        "odds": 25.65
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -606,10 +606,10 @@
     "raceClass": "Handikap 16/DHÖW /H2",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [
       [
         "8",
@@ -625,7 +625,7 @@
         "weight": 60,
         "age": 6,
         "form": "700907",
-        "odds": 0
+        "odds": 24.45
       },
       {
         "no": "2",
@@ -635,7 +635,7 @@
         "weight": 57.5,
         "age": 4,
         "form": "141564",
-        "odds": 0
+        "odds": 10.75
       },
       {
         "no": "3",
@@ -645,7 +645,7 @@
         "weight": 56,
         "age": 4,
         "form": "695029",
-        "odds": 0
+        "odds": 13
       },
       {
         "no": "4",
@@ -655,7 +655,7 @@
         "weight": 56,
         "age": 4,
         "form": "312313",
-        "odds": 0
+        "odds": 12.15
       },
       {
         "no": "5",
@@ -665,7 +665,7 @@
         "weight": 55,
         "age": 6,
         "form": "716060",
-        "odds": 0
+        "odds": 29.55
       },
       {
         "no": "6",
@@ -675,7 +675,7 @@
         "weight": 55,
         "age": 4,
         "form": "705121",
-        "odds": 0
+        "odds": 2.4
       },
       {
         "no": "7",
@@ -685,7 +685,7 @@
         "weight": 55.5,
         "age": 5,
         "form": "309807",
-        "odds": 0
+        "odds": 4.05
       },
       {
         "no": "8",
@@ -695,7 +695,7 @@
         "weight": 52,
         "age": 4,
         "form": "087417",
-        "odds": 0
+        "odds": 6.7
       },
       {
         "no": "9",
@@ -705,7 +705,7 @@
         "weight": 50,
         "age": 4,
         "form": "739252",
-        "odds": 0
+        "odds": 3.35
       },
       {
         "no": "10",
@@ -715,13 +715,13 @@
         "weight": 52,
         "age": 6,
         "form": "780600",
-        "odds": 0
+        "odds": 6.7
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -735,10 +735,10 @@
     "raceClass": "Handikap 16 /H2",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -749,7 +749,7 @@
         "weight": 61,
         "age": 4,
         "form": "232227",
-        "odds": 0
+        "odds": 4.75
       },
       {
         "no": "2",
@@ -759,7 +759,7 @@
         "weight": 58.5,
         "age": 3,
         "form": "034122",
-        "odds": 0
+        "odds": 1.7
       },
       {
         "no": "3",
@@ -769,7 +769,7 @@
         "weight": 61.5,
         "age": 6,
         "form": "543355",
-        "odds": 0
+        "odds": 12.05
       },
       {
         "no": "4",
@@ -779,7 +779,7 @@
         "weight": 59,
         "age": 4,
         "form": "144523",
-        "odds": 0
+        "odds": 8.4
       },
       {
         "no": "5",
@@ -789,7 +789,7 @@
         "weight": 54.5,
         "age": 3,
         "form": "161914",
-        "odds": 0
+        "odds": 6.7
       },
       {
         "no": "6",
@@ -799,7 +799,7 @@
         "weight": 56.5,
         "age": 5,
         "form": "286061",
-        "odds": 0
+        "odds": 8.15
       },
       {
         "no": "7",
@@ -809,7 +809,7 @@
         "weight": 52.5,
         "age": 3,
         "form": "262683",
-        "odds": 0
+        "odds": 8.25
       },
       {
         "no": "8",
@@ -819,13 +819,13 @@
         "weight": 52,
         "age": 5,
         "form": "6-00800",
-        "odds": 0
+        "odds": 18.45
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -839,10 +839,10 @@
     "raceClass": "Maiden/DHÖ",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [],
     "horses": [
       {
@@ -853,7 +853,7 @@
         "weight": 59,
         "age": 3,
         "form": "335857",
-        "odds": 0
+        "odds": 16.8
       },
       {
         "no": "2",
@@ -863,7 +863,7 @@
         "weight": 59,
         "age": 3,
         "form": "236674",
-        "odds": 0
+        "odds": 14.5
       },
       {
         "no": "3",
@@ -873,7 +873,7 @@
         "weight": 54,
         "age": 3,
         "form": "704603",
-        "odds": 0
+        "odds": 19.5
       },
       {
         "no": "4",
@@ -883,7 +883,7 @@
         "weight": 57,
         "age": 3,
         "form": "702097",
-        "odds": 0
+        "odds": 42.85
       },
       {
         "no": "5",
@@ -893,7 +893,7 @@
         "weight": 57,
         "age": 3,
         "form": "67093",
-        "odds": 0
+        "odds": 11
       },
       {
         "no": "6",
@@ -903,7 +903,7 @@
         "weight": 57,
         "age": 3,
         "form": "864474",
-        "odds": 0
+        "odds": 11.1
       },
       {
         "no": "7",
@@ -913,7 +913,7 @@
         "weight": 57,
         "age": 3,
         "form": "99803",
-        "odds": 0
+        "odds": 18.6
       },
       {
         "no": "8",
@@ -923,7 +923,7 @@
         "weight": 57,
         "age": 3,
         "form": "3",
-        "odds": 0
+        "odds": 12.95
       },
       {
         "no": "9",
@@ -933,7 +933,7 @@
         "weight": 57,
         "age": 3,
         "form": "78",
-        "odds": 0
+        "odds": 22.8
       },
       {
         "no": "10",
@@ -943,7 +943,7 @@
         "weight": 55,
         "age": 3,
         "form": "703949",
-        "odds": 0
+        "odds": 5.55
       },
       {
         "no": "11",
@@ -953,7 +953,7 @@
         "weight": 52,
         "age": 3,
         "form": "3",
-        "odds": 0
+        "odds": 4.15
       },
       {
         "no": "12",
@@ -963,7 +963,7 @@
         "weight": 55,
         "age": 3,
         "form": "2",
-        "odds": 0
+        "odds": 3.35
       },
       {
         "no": "13",
@@ -973,7 +973,7 @@
         "weight": 55,
         "age": 3,
         "form": "6",
-        "odds": 0
+        "odds": 38.9
       },
       {
         "no": "14",
@@ -983,7 +983,7 @@
         "weight": 51,
         "age": 3,
         "form": "436",
-        "odds": 0
+        "odds": 9
       },
       {
         "no": "15",
@@ -993,13 +993,13 @@
         "weight": 54,
         "age": 3,
         "form": "0",
-        "odds": 0
+        "odds": 45.3
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1013,10 +1013,10 @@
     "raceClass": "SATIŞ 1/DHÖW",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
+    "trackCondition": "Normal",
     "weatherCondition": "Açık",
-    "temperature": 22,
-    "humidity": 40,
+    "temperature": 30,
+    "humidity": 33,
     "ekuriGroups": [
       [
         "5",
@@ -1032,7 +1032,7 @@
         "weight": 58,
         "age": 4,
         "form": "458041",
-        "odds": 0
+        "odds": 11.25
       },
       {
         "no": "2",
@@ -1042,7 +1042,7 @@
         "weight": 58,
         "age": 4,
         "form": "894863",
-        "odds": 0
+        "odds": 32.25
       },
       {
         "no": "3",
@@ -1052,7 +1052,7 @@
         "weight": 58,
         "age": 4,
         "form": "3418-00",
-        "odds": 0
+        "odds": 30.1
       },
       {
         "no": "4",
@@ -1062,7 +1062,7 @@
         "weight": 56,
         "age": 4,
         "form": "068335",
-        "odds": 0
+        "odds": 7.45
       },
       {
         "no": "5",
@@ -1072,7 +1072,7 @@
         "weight": 56,
         "age": 4,
         "form": "7-06900",
-        "odds": 0
+        "odds": 4.35
       },
       {
         "no": "6",
@@ -1082,7 +1082,7 @@
         "weight": 56,
         "age": 4,
         "form": "006701",
-        "odds": 0
+        "odds": 38.25
       },
       {
         "no": "7",
@@ -1092,7 +1092,7 @@
         "weight": 56,
         "age": 4,
         "form": "079043",
-        "odds": 0
+        "odds": 16.4
       },
       {
         "no": "8",
@@ -1102,7 +1102,7 @@
         "weight": 56,
         "age": 4,
         "form": "722773",
-        "odds": 0
+        "odds": 9.85
       },
       {
         "no": "9",
@@ -1112,7 +1112,7 @@
         "weight": 56,
         "age": 4,
         "form": "26-0056",
-        "odds": 0
+        "odds": 4.35
       },
       {
         "no": "10",
@@ -1122,7 +1122,7 @@
         "weight": 56,
         "age": 4,
         "form": "641015",
-        "odds": 0
+        "odds": 13.95
       },
       {
         "no": "11",
@@ -1132,7 +1132,7 @@
         "weight": 56,
         "age": 4,
         "form": "005548",
-        "odds": 0
+        "odds": 16.55
       },
       {
         "no": "12",
@@ -1142,7 +1142,7 @@
         "weight": 58,
         "age": 4,
         "form": "005998",
-        "odds": 0
+        "odds": 11.95
       },
       {
         "no": "13",
@@ -1152,17 +1152,17 @@
         "weight": 58,
         "age": 4,
         "form": "705855",
-        "odds": 0
+        "odds": 4.55
       },
       {
         "no": "14",
         "name": "ONURSÜREN",
         "jockey": "CEM ALTUN",
-        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "trainer": "YILMAZ AKKUŞ",
         "weight": 58,
         "age": 4,
         "form": "760984",
-        "odds": 0
+        "odds": 22.3
       },
       {
         "no": "15",
@@ -1172,7 +1172,7 @@
         "weight": 56,
         "age": 4,
         "form": "00",
-        "odds": 0
+        "odds": 50.75
       },
       {
         "no": "16",
@@ -1182,7 +1182,7 @@
         "weight": 57,
         "age": 4,
         "form": "870759",
-        "odds": 0
+        "odds": 21.25
       },
       {
         "no": "17",
@@ -1192,7 +1192,7 @@
         "weight": 55,
         "age": 4,
         "form": "643502",
-        "odds": 0
+        "odds": 8.45
       },
       {
         "no": "18",
@@ -1202,7 +1202,7 @@
         "weight": 55,
         "age": 4,
         "form": "960000",
-        "odds": 0
+        "odds": 30.1
       },
       {
         "no": "19",
@@ -1212,13 +1212,13 @@
         "weight": 54,
         "age": 4,
         "form": "584-000",
-        "odds": 0
+        "odds": 35.55
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1232,10 +1232,10 @@
     "raceClass": "ŞARTLI 4/DHÖW",
     "isGanyanStart": true,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [
       [
         "6",
@@ -1251,7 +1251,7 @@
         "weight": 58,
         "age": 3,
         "form": "119236",
-        "odds": 0
+        "odds": 3.9
       },
       {
         "no": "2",
@@ -1261,7 +1261,7 @@
         "weight": 58,
         "age": 3,
         "form": "261331",
-        "odds": 0
+        "odds": 12.9
       },
       {
         "no": "3",
@@ -1271,7 +1271,7 @@
         "weight": 57,
         "age": 3,
         "form": "132368",
-        "odds": 0
+        "odds": 8.7
       },
       {
         "no": "4",
@@ -1281,7 +1281,7 @@
         "weight": 57,
         "age": 3,
         "form": "12782",
-        "odds": 0
+        "odds": 4.6
       },
       {
         "no": "5",
@@ -1291,7 +1291,7 @@
         "weight": 57,
         "age": 3,
         "form": "63731",
-        "odds": 0
+        "odds": 8.6
       },
       {
         "no": "6",
@@ -1301,7 +1301,7 @@
         "weight": 57,
         "age": 3,
         "form": "00171",
-        "odds": 0
+        "odds": 2.35
       },
       {
         "no": "7",
@@ -1311,7 +1311,7 @@
         "weight": 53,
         "age": 3,
         "form": "589810",
-        "odds": 0
+        "odds": 2.35
       },
       {
         "no": "8",
@@ -1321,13 +1321,13 @@
         "weight": 57,
         "age": 3,
         "form": "517596",
-        "odds": 0
+        "odds": 4.4
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1341,10 +1341,10 @@
     "raceClass": "Maiden/Dişi",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [
       [
         "2",
@@ -1360,7 +1360,7 @@
         "weight": 57,
         "age": 2,
         "form": "6",
-        "odds": 0
+        "odds": 6.4
       },
       {
         "no": "2",
@@ -1370,7 +1370,7 @@
         "weight": 57,
         "age": 2,
         "form": "53",
-        "odds": 0
+        "odds": 2.25
       },
       {
         "no": "3",
@@ -1380,7 +1380,7 @@
         "weight": 54,
         "age": 2,
         "form": "675",
-        "odds": 0
+        "odds": 4.55
       },
       {
         "no": "4",
@@ -1390,7 +1390,7 @@
         "weight": 57,
         "age": 2,
         "form": "879",
-        "odds": 0
+        "odds": 4.45
       },
       {
         "no": "5",
@@ -1400,7 +1400,7 @@
         "weight": 57,
         "age": 2,
         "form": "50384",
-        "odds": 0
+        "odds": 2.25
       },
       {
         "no": "6",
@@ -1410,7 +1410,7 @@
         "weight": 57,
         "age": 2,
         "form": "780273",
-        "odds": 0
+        "odds": 16.05
       },
       {
         "no": "7",
@@ -1420,7 +1420,7 @@
         "weight": 57,
         "age": 2,
         "form": "72",
-        "odds": 0
+        "odds": 6
       },
       {
         "no": "8",
@@ -1430,13 +1430,13 @@
         "weight": 57,
         "age": 2,
         "form": "",
-        "odds": 0
+        "odds": 5.95
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1450,10 +1450,10 @@
     "raceClass": "ŞARTLI 4",
     "isGanyanStart": true,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [],
     "horses": [
       {
@@ -1464,7 +1464,7 @@
         "weight": 62,
         "age": 4,
         "form": "713140",
-        "odds": 0
+        "odds": 49.35
       },
       {
         "no": "2",
@@ -1474,7 +1474,7 @@
         "weight": 60,
         "age": 4,
         "form": "127137",
-        "odds": 0
+        "odds": 10.3
       },
       {
         "no": "3",
@@ -1484,7 +1484,7 @@
         "weight": 60,
         "age": 4,
         "form": "750230",
-        "odds": 0
+        "odds": 12.9
       },
       {
         "no": "4",
@@ -1494,7 +1494,7 @@
         "weight": 60,
         "age": 4,
         "form": "101770",
-        "odds": 0
+        "odds": 27.1
       },
       {
         "no": "5",
@@ -1504,7 +1504,7 @@
         "weight": 58,
         "age": 4,
         "form": "840603",
-        "odds": 0
+        "odds": 28.55
       },
       {
         "no": "6",
@@ -1514,7 +1514,7 @@
         "weight": 57,
         "age": 4,
         "form": "954786",
-        "odds": 0
+        "odds": 5.1
       },
       {
         "no": "7",
@@ -1524,7 +1524,7 @@
         "weight": 57,
         "age": 5,
         "form": "276502",
-        "odds": 0
+        "odds": 6.55
       },
       {
         "no": "8",
@@ -1534,7 +1534,7 @@
         "weight": 53,
         "age": 5,
         "form": "1355-00",
-        "odds": 0
+        "odds": 58.15
       },
       {
         "no": "9",
@@ -1544,7 +1544,7 @@
         "weight": 54,
         "age": 5,
         "form": "802682",
-        "odds": 0
+        "odds": 5.35
       },
       {
         "no": "10",
@@ -1554,7 +1554,7 @@
         "weight": 56,
         "age": 7,
         "form": "5-00000",
-        "odds": 0
+        "odds": 4.45
       },
       {
         "no": "11",
@@ -1564,7 +1564,7 @@
         "weight": 58,
         "age": 8,
         "form": "474908",
-        "odds": 0
+        "odds": 12.7
       },
       {
         "no": "12",
@@ -1574,7 +1574,7 @@
         "weight": 56,
         "age": 4,
         "form": "4-8",
-        "odds": 0
+        "odds": 4.05
       },
       {
         "no": "13",
@@ -1584,13 +1584,13 @@
         "weight": 52.5,
         "age": 3,
         "form": "",
-        "odds": 0
+        "odds": 15.8
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1604,10 +1604,10 @@
     "raceClass": "Handikap 15/Dişi /H3",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [
       [
         "9",
@@ -1623,7 +1623,7 @@
         "weight": 62,
         "age": 3,
         "form": "062561",
-        "odds": 0
+        "odds": 48.95
       },
       {
         "no": "2",
@@ -1633,7 +1633,7 @@
         "weight": 62,
         "age": 3,
         "form": "750661",
-        "odds": 0
+        "odds": 13.25
       },
       {
         "no": "3",
@@ -1643,7 +1643,7 @@
         "weight": 59,
         "age": 3,
         "form": "613223",
-        "odds": 0
+        "odds": 13.15
       },
       {
         "no": "4",
@@ -1653,7 +1653,7 @@
         "weight": 58,
         "age": 3,
         "form": "718505",
-        "odds": 0
+        "odds": 21.75
       },
       {
         "no": "5",
@@ -1663,7 +1663,7 @@
         "weight": 58,
         "age": 3,
         "form": "520573",
-        "odds": 0
+        "odds": 9.1
       },
       {
         "no": "6",
@@ -1673,7 +1673,7 @@
         "weight": 58,
         "age": 3,
         "form": "998630",
-        "odds": 0
+        "odds": 60.75
       },
       {
         "no": "7",
@@ -1683,7 +1683,7 @@
         "weight": 56.5,
         "age": 3,
         "form": "084877",
-        "odds": 0
+        "odds": 11.55
       },
       {
         "no": "8",
@@ -1693,7 +1693,7 @@
         "weight": 56.5,
         "age": 3,
         "form": "72184",
-        "odds": 0
+        "odds": 9.9
       },
       {
         "no": "9",
@@ -1703,7 +1703,7 @@
         "weight": 56,
         "age": 3,
         "form": "423221",
-        "odds": 0
+        "odds": 5.4
       },
       {
         "no": "10",
@@ -1713,7 +1713,7 @@
         "weight": 56,
         "age": 3,
         "form": "704345",
-        "odds": 0
+        "odds": 23.5
       },
       {
         "no": "11",
@@ -1723,7 +1723,7 @@
         "weight": 52.5,
         "age": 3,
         "form": "438863",
-        "odds": 0
+        "odds": 13.45
       },
       {
         "no": "12",
@@ -1733,7 +1733,7 @@
         "weight": 56,
         "age": 3,
         "form": "650045",
-        "odds": 0
+        "odds": 28.85
       },
       {
         "no": "13",
@@ -1743,7 +1743,7 @@
         "weight": 55.5,
         "age": 3,
         "form": "523517",
-        "odds": 0
+        "odds": 11.9
       },
       {
         "no": "14",
@@ -1753,7 +1753,7 @@
         "weight": 54.5,
         "age": 3,
         "form": "708021",
-        "odds": 0
+        "odds": 5.4
       },
       {
         "no": "15",
@@ -1763,7 +1763,7 @@
         "weight": 52.5,
         "age": 3,
         "form": "9-04420",
-        "odds": 0
+        "odds": 50.35
       },
       {
         "no": "16",
@@ -1773,7 +1773,7 @@
         "weight": 52,
         "age": 3,
         "form": "686702",
-        "odds": 0
+        "odds": 10.4
       },
       {
         "no": "17",
@@ -1783,13 +1783,13 @@
         "weight": 52,
         "age": 3,
         "form": "644539",
-        "odds": 0
+        "odds": 2.75
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1803,10 +1803,10 @@
     "raceClass": "Handikap 15 /H3",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [],
     "horses": [
       {
@@ -1817,7 +1817,7 @@
         "weight": 63,
         "age": 4,
         "form": "380540",
-        "odds": 0
+        "odds": 6.35
       },
       {
         "no": "2",
@@ -1827,7 +1827,7 @@
         "weight": 63,
         "age": 4,
         "form": "556310",
-        "odds": 0
+        "odds": 22.7
       },
       {
         "no": "3",
@@ -1837,7 +1837,7 @@
         "weight": 62.5,
         "age": 5,
         "form": "033834",
-        "odds": 0
+        "odds": 14.6
       },
       {
         "no": "4",
@@ -1847,7 +1847,7 @@
         "weight": 63,
         "age": 4,
         "form": "556263",
-        "odds": 0
+        "odds": 9.55
       },
       {
         "no": "5",
@@ -1857,7 +1857,7 @@
         "weight": 62,
         "age": 4,
         "form": "438166",
-        "odds": 0
+        "odds": 9.65
       },
       {
         "no": "6",
@@ -1867,7 +1867,7 @@
         "weight": 58,
         "age": 3,
         "form": "886365",
-        "odds": 0
+        "odds": 5.65
       },
       {
         "no": "7",
@@ -1877,7 +1877,7 @@
         "weight": 60,
         "age": 4,
         "form": "640680",
-        "odds": 0
+        "odds": 8.9
       },
       {
         "no": "8",
@@ -1887,7 +1887,7 @@
         "weight": 55,
         "age": 3,
         "form": "251071",
-        "odds": 0
+        "odds": 61.8
       },
       {
         "no": "9",
@@ -1897,7 +1897,7 @@
         "weight": 58.5,
         "age": 4,
         "form": "1-5",
-        "odds": 0
+        "odds": 10.5
       },
       {
         "no": "10",
@@ -1907,7 +1907,7 @@
         "weight": 58,
         "age": 4,
         "form": "373841",
-        "odds": 0
+        "odds": 11.8
       },
       {
         "no": "11",
@@ -1917,7 +1917,7 @@
         "weight": 52,
         "age": 3,
         "form": "22545",
-        "odds": 0
+        "odds": 22.25
       },
       {
         "no": "12",
@@ -1927,7 +1927,7 @@
         "weight": 55,
         "age": 5,
         "form": "602796",
-        "odds": 0
+        "odds": 12.75
       },
       {
         "no": "13",
@@ -1937,7 +1937,7 @@
         "weight": 53,
         "age": 4,
         "form": "774558",
-        "odds": 0
+        "odds": 6.5
       },
       {
         "no": "14",
@@ -1947,7 +1947,7 @@
         "weight": 53,
         "age": 4,
         "form": "40-0000",
-        "odds": 0
+        "odds": 8.05
       },
       {
         "no": "15",
@@ -1957,13 +1957,13 @@
         "weight": 52,
         "age": 4,
         "form": "000600",
-        "odds": 0
+        "odds": 14.8
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -1977,10 +1977,10 @@
     "raceClass": "Handikap 14/DHÖW /H3",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [
       [
         "7",
@@ -1996,7 +1996,7 @@
         "weight": 63,
         "age": 5,
         "form": "251-008",
-        "odds": 0
+        "odds": 11.95
       },
       {
         "no": "2",
@@ -2006,7 +2006,7 @@
         "weight": 63,
         "age": 5,
         "form": "202162",
-        "odds": 0
+        "odds": 41.8
       },
       {
         "no": "3",
@@ -2016,7 +2016,7 @@
         "weight": 59,
         "age": 5,
         "form": "154743",
-        "odds": 0
+        "odds": 36.35
       },
       {
         "no": "4",
@@ -2026,7 +2026,7 @@
         "weight": 60.5,
         "age": 4,
         "form": "000550",
-        "odds": 0
+        "odds": 12.2
       },
       {
         "no": "5",
@@ -2036,7 +2036,7 @@
         "weight": 58,
         "age": 5,
         "form": "068577",
-        "odds": 0
+        "odds": 26.15
       },
       {
         "no": "6",
@@ -2046,7 +2046,7 @@
         "weight": 60,
         "age": 4,
         "form": "217-70",
-        "odds": 0
+        "odds": 65.45
       },
       {
         "no": "7",
@@ -2056,7 +2056,7 @@
         "weight": 59.5,
         "age": 4,
         "form": "233033",
-        "odds": 0
+        "odds": 2.15
       },
       {
         "no": "8",
@@ -2066,7 +2066,7 @@
         "weight": 59.5,
         "age": 4,
         "form": "313750",
-        "odds": 0
+        "odds": 53.1
       },
       {
         "no": "9",
@@ -2076,7 +2076,7 @@
         "weight": 57,
         "age": 4,
         "form": "930329",
-        "odds": 0
+        "odds": 10.35
       },
       {
         "no": "10",
@@ -2086,7 +2086,7 @@
         "weight": 58,
         "age": 4,
         "form": "084210",
-        "odds": 0
+        "odds": 20.45
       },
       {
         "no": "11",
@@ -2096,7 +2096,7 @@
         "weight": 58,
         "age": 4,
         "form": "803726",
-        "odds": 0
+        "odds": 16.5
       },
       {
         "no": "12",
@@ -2106,7 +2106,7 @@
         "weight": 57,
         "age": 4,
         "form": "006007",
-        "odds": 0
+        "odds": 30.7
       },
       {
         "no": "13",
@@ -2116,7 +2116,7 @@
         "weight": 57,
         "age": 4,
         "form": "3263-84",
-        "odds": 0
+        "odds": 10.85
       },
       {
         "no": "14",
@@ -2126,7 +2126,7 @@
         "weight": 56.5,
         "age": 4,
         "form": "600876",
-        "odds": 0
+        "odds": 11.6
       },
       {
         "no": "15",
@@ -2136,7 +2136,7 @@
         "weight": 55.5,
         "age": 5,
         "form": "341-800",
-        "odds": 0
+        "odds": 3.8
       },
       {
         "no": "16",
@@ -2146,13 +2146,13 @@
         "weight": 55.5,
         "age": 4,
         "form": "851535",
-        "odds": 0
+        "odds": 2.15
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -2166,10 +2166,10 @@
     "raceClass": "Maiden/Dişi",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [],
     "horses": [
       {
@@ -2180,7 +2180,7 @@
         "weight": 59,
         "age": 2,
         "form": "763532",
-        "odds": 0
+        "odds": 55.9
       },
       {
         "no": "2",
@@ -2190,7 +2190,7 @@
         "weight": 59,
         "age": 2,
         "form": "2323",
-        "odds": 0
+        "odds": 109.3
       },
       {
         "no": "3",
@@ -2200,7 +2200,7 @@
         "weight": 57,
         "age": 2,
         "form": "87",
-        "odds": 0
+        "odds": 32.05
       },
       {
         "no": "4",
@@ -2210,7 +2210,7 @@
         "weight": 57,
         "age": 2,
         "form": "2",
-        "odds": 0
+        "odds": 38.75
       },
       {
         "no": "5",
@@ -2220,7 +2220,7 @@
         "weight": 57,
         "age": 2,
         "form": "5",
-        "odds": 0
+        "odds": 61.65
       },
       {
         "no": "6",
@@ -2230,7 +2230,7 @@
         "weight": 57,
         "age": 2,
         "form": "03",
-        "odds": 0
+        "odds": 1.05
       },
       {
         "no": "7",
@@ -2240,7 +2240,7 @@
         "weight": 57,
         "age": 2,
         "form": "354",
-        "odds": 0
+        "odds": 37.55
       },
       {
         "no": "8",
@@ -2250,13 +2250,13 @@
         "weight": 57,
         "age": 2,
         "form": "533746",
-        "odds": 0
+        "odds": 34.85
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   },
   {
@@ -2270,10 +2270,10 @@
     "raceClass": "ŞARTLI 3",
     "isGanyanStart": false,
     "distributableAmount": null,
-    "trackCondition": null,
-    "weatherCondition": "Açık",
-    "temperature": 23,
-    "humidity": 34,
+    "trackCondition": "Normal",
+    "weatherCondition": null,
+    "temperature": 29,
+    "humidity": 23,
     "ekuriGroups": [
       [
         "8",
@@ -2289,7 +2289,7 @@
         "weight": 61,
         "age": 3,
         "form": "206700",
-        "odds": 0
+        "odds": 138.4
       },
       {
         "no": "2",
@@ -2299,7 +2299,7 @@
         "weight": 61,
         "age": 3,
         "form": "333462",
-        "odds": 0
+        "odds": 11.45
       },
       {
         "no": "3",
@@ -2309,7 +2309,7 @@
         "weight": 58,
         "age": 3,
         "form": "069983",
-        "odds": 0
+        "odds": 11.2
       },
       {
         "no": "4",
@@ -2319,7 +2319,7 @@
         "weight": 58,
         "age": 3,
         "form": "6-14747",
-        "odds": 0
+        "odds": 23.35
       },
       {
         "no": "5",
@@ -2329,7 +2329,7 @@
         "weight": 56,
         "age": 3,
         "form": "657444",
-        "odds": 0
+        "odds": 15.35
       },
       {
         "no": "6",
@@ -2339,7 +2339,7 @@
         "weight": 56,
         "age": 3,
         "form": "280802",
-        "odds": 0
+        "odds": 9.6
       },
       {
         "no": "7",
@@ -2349,7 +2349,7 @@
         "weight": 53,
         "age": 3,
         "form": "0700",
-        "odds": 0
+        "odds": 20.65
       },
       {
         "no": "8",
@@ -2359,7 +2359,7 @@
         "weight": 56,
         "age": 3,
         "form": "84725",
-        "odds": 0
+        "odds": 6.4
       },
       {
         "no": "9",
@@ -2369,7 +2369,7 @@
         "weight": 55,
         "age": 3,
         "form": "475940",
-        "odds": 0
+        "odds": 7.8
       },
       {
         "no": "10",
@@ -2379,7 +2379,7 @@
         "weight": 55,
         "age": 3,
         "form": "836545",
-        "odds": 0
+        "odds": 22.45
       },
       {
         "no": "11",
@@ -2389,7 +2389,7 @@
         "weight": 55,
         "age": 3,
         "form": "44-1780",
-        "odds": 0
+        "odds": 17.6
       },
       {
         "no": "12",
@@ -2399,7 +2399,7 @@
         "weight": 52,
         "age": 3,
         "form": "047-308",
-        "odds": 0
+        "odds": 18.55
       },
       {
         "no": "13",
@@ -2409,7 +2409,7 @@
         "weight": 60,
         "age": 3,
         "form": "574536",
-        "odds": 0
+        "odds": 7.25
       },
       {
         "no": "14",
@@ -2419,7 +2419,7 @@
         "weight": 55,
         "age": 3,
         "form": "380955",
-        "odds": 0
+        "odds": 9.6
       },
       {
         "no": "15",
@@ -2429,7 +2429,7 @@
         "weight": 53,
         "age": 3,
         "form": "660006",
-        "odds": 0
+        "odds": 4.9
       },
       {
         "no": "16",
@@ -2439,7 +2439,7 @@
         "weight": 55,
         "age": 3,
         "form": "099633",
-        "odds": 0
+        "odds": 6.4
       },
       {
         "no": "17",
@@ -2449,7 +2449,7 @@
         "weight": 58,
         "age": 3,
         "form": "987143",
-        "odds": 0
+        "odds": 24.3
       },
       {
         "no": "18",
@@ -2459,13 +2459,13 @@
         "weight": 58,
         "age": 3,
         "form": "42391",
-        "odds": 0
+        "odds": 16.5
       }
     ],
     "snapshotRef": {
-      "id": "2026-09-07/1788729000000-70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1.json.gz",
-      "capturedAt": "2026-09-06T21:10:06.921Z",
-      "sha256": "70d30ccf35810ea2f4e622080a106a1fec08401125d134805f4c5fa4689561a1"
+      "id": "2026-09-07/1788784500000-777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34.json.gz",
+      "capturedAt": "2026-09-07T12:35:30.299Z",
+      "sha256": "777bea633149df11fe575d75b951d7157c86d2b7d6fb4328c12d81030b488a34"
     }
   }
 ]
