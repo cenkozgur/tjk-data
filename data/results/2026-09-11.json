@@ -260,5 +260,180 @@
         "age": 2
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "raceNo": 3,
+    "venue": "Bursa",
+    "distance": 2000,
+    "surface": "Çim",
+    "raceClass": "Handikap 14/DHÖW /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "EFSANE HANIM",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "MERT DEMİRTAŞ",
+        "weight": 59,
+        "odds": 4.95,
+        "finishTime": "2.19.42",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "16",
+        "name": "İHTİMAL",
+        "jockey": "CEMAL PASO",
+        "trainer": "TEKİN BİRİCİK",
+        "weight": 52,
+        "odds": 22.55,
+        "finishTime": "2.19.65",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "14",
+        "name": "ÇİFTEHAN",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "SEÇKİN AYDOĞAN",
+        "weight": 52,
+        "odds": 1.75,
+        "finishTime": "2.19.74",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "DEMİRNAL",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 61.5,
+        "odds": 14.05,
+        "finishTime": "2.20.21",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "ÇUBUKLU",
+        "jockey": "ONUR ÖZTÜRK",
+        "trainer": "AHMET ÖCAL",
+        "weight": 58,
+        "odds": 8.4,
+        "finishTime": "2.20.24",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "11",
+        "name": "SARMAN RÜZGARI",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "FATİH ŞEN",
+        "weight": 54.5,
+        "odds": 26.85,
+        "finishTime": "2.20.34",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "8",
+        "name": "ADALOF",
+        "jockey": "SERCAN TIRPAN",
+        "trainer": "SERHAT ÖNDER",
+        "weight": 56,
+        "odds": 28.25,
+        "finishTime": "2.20.49",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "13",
+        "name": "YILDIZ SULTAN",
+        "jockey": "METE GÖL",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 52,
+        "odds": 39.45,
+        "finishTime": "2.21.42",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "3",
+        "name": "MEVHİDE HANIM",
+        "jockey": "RECEP KETME",
+        "trainer": "ENGİN ALTIN",
+        "weight": 57,
+        "odds": 6.95,
+        "finishTime": "2.21.53",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "10",
+        "name": "MATİLDA HANIM",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "FATİH ŞEN",
+        "weight": 55,
+        "odds": 39.55,
+        "finishTime": "2.21.89",
+        "age": 4
+      },
+      {
+        "position": 11,
+        "no": "12",
+        "name": "YÜREĞİ GÜZEL",
+        "jockey": "DENİZ BUDAK",
+        "trainer": "BERHE YOLERİ",
+        "weight": 51,
+        "odds": 112.2,
+        "finishTime": "2.22.65",
+        "age": 4
+      },
+      {
+        "position": 12,
+        "no": "4",
+        "name": "ÖN BİRLİK",
+        "jockey": "CEM ALTUN",
+        "trainer": "KADİR TURAN",
+        "weight": 59,
+        "odds": 33.2,
+        "finishTime": "2.26.61",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "9",
+        "name": "ELMAPINAR",
+        "jockey": "İSMAİL DİNAR",
+        "trainer": "MEHMET FATİH ATCI",
+        "weight": 55,
+        "odds": 66.05,
+        "finishTime": "2.35.60",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "7",
+        "name": "ASEL SULTAN",
+        "jockey": "AHMET EFEKAN ELMAS",
+        "trainer": "YILMAZ AKKUŞ",
+        "weight": 53.5,
+        "odds": 60.45,
+        "finishTime": "2.38.38",
+        "age": 4
+      },
+      {
+        "position": 15,
+        "no": "6",
+        "name": "TURGUT BEY",
+        "jockey": "OKAN GÖKÇE",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 58,
+        "odds": 38.5,
+        "finishTime": "2.39.25",
+        "age": 4
+      }
+    ]
   }
 ]
