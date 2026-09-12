@@ -85,5 +85,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-12",
+    "raceNo": 2,
+    "venue": "Ankara",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3/DHÖW/Dişi",
+    "horses": [
+      {
+        "position": 1,
+        "no": "6",
+        "name": "FEYZANUR",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 53,
+        "odds": 22.7,
+        "finishTime": "1.18.63",
+        "age": 3
+      },
+      {
+        "position": 2,
+        "no": "2",
+        "name": "RAHİME ABLA",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "MEHMET DEMİROL",
+        "weight": 56,
+        "odds": 7.25,
+        "finishTime": "1.18.69",
+        "age": 3
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "HAREM GÜZELİ",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "SERVET DOĞAN",
+        "weight": 59,
+        "odds": 1.25,
+        "finishTime": "1.19.25",
+        "age": 3
+      },
+      {
+        "position": 4,
+        "no": "1",
+        "name": "ALUDRA",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MEHMET DEMİROL",
+        "weight": 60,
+        "odds": 4.7,
+        "finishTime": "1.19.36",
+        "age": 3
+      },
+      {
+        "position": 5,
+        "no": "8",
+        "name": "AL ZEYNO",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "ERGÜN ÇETİNKURT",
+        "weight": 52,
+        "odds": 47.85,
+        "finishTime": "1.19.63",
+        "age": 3
+      },
+      {
+        "position": 6,
+        "no": "5",
+        "name": "YARIŞ KRALİÇESİ",
+        "jockey": "FATİH RÜSTEM BEBEK",
+        "trainer": "MEHMET KORKMAZ",
+        "weight": 59,
+        "odds": 6.95,
+        "finishTime": "1.19.64",
+        "age": 3
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "VIZVIZ KIZ",
+        "jockey": "MEHMET NURİ SUNKAR",
+        "trainer": "HASAN YILDIRIM",
+        "weight": 55,
+        "odds": 37.3,
+        "finishTime": "1.20.72",
+        "age": 3
+      },
+      {
+        "position": 8,
+        "no": "4",
+        "name": "SAYRA",
+        "jockey": "MERT GÖKALP ARSLAN",
+        "trainer": "CASIM KATI",
+        "weight": 59,
+        "odds": 13.3,
+        "finishTime": "1.24.09",
+        "age": 3
+      }
+    ]
   }
 ]
