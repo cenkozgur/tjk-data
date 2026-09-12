@@ -183,5 +183,103 @@
         "age": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-12",
+    "raceNo": 3,
+    "venue": "Ankara",
+    "distance": 1600,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 3",
+    "horses": [
+      {
+        "position": 1,
+        "no": "1",
+        "name": "THOMAS SHELBY",
+        "jockey": "ROJHAT KURT",
+        "trainer": "HÜSEYİN TEKİNALP",
+        "weight": 59,
+        "odds": 2.3,
+        "finishTime": "1.35.29",
+        "age": 5
+      },
+      {
+        "position": 2,
+        "no": "6",
+        "name": "CONSULTANT",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "ÖMER FARUK TAN",
+        "weight": 57,
+        "odds": 2.15,
+        "finishTime": "1.35.30",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "3",
+        "name": "PRINCESS QALİ",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 58,
+        "odds": 11.35,
+        "finishTime": "1.36.31",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "2",
+        "name": "BABA RACİ",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "SAVAŞ GÜRKAN",
+        "weight": 60,
+        "odds": 10.5,
+        "finishTime": "1.36.40",
+        "age": 5
+      },
+      {
+        "position": 5,
+        "no": "5",
+        "name": "BON CHEVAL",
+        "jockey": "MERT ALİ SOLMAZ",
+        "trainer": "YÜCEL ŞİMŞEK",
+        "weight": 57,
+        "odds": 25.85,
+        "finishTime": "1.36.74",
+        "age": 4
+      },
+      {
+        "position": 6,
+        "no": "4",
+        "name": "AĞA HALİL",
+        "jockey": "FATİH SULTAN MEHMET SANSAR",
+        "trainer": "ALPER CİĞER",
+        "weight": 57,
+        "odds": 14.75,
+        "finishTime": "1.36.96",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "7",
+        "name": "GRAND RAPIDS",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "ENGİN KARATAŞ",
+        "weight": 55,
+        "odds": 4.7,
+        "finishTime": "1.36.98",
+        "age": 4
+      },
+      {
+        "position": 8,
+        "no": "8",
+        "name": "HOLY MOUNTAIN",
+        "jockey": "MEHMET ALİ AKGÖBEK",
+        "trainer": "ABDULLAH ÇİFTÇİ",
+        "weight": 54,
+        "odds": 26.7,
+        "finishTime": "1.45.96",
+        "age": 3
+      }
+    ]
   }
 ]
