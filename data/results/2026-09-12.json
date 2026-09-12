@@ -1035,6 +1035,190 @@
   },
   {
     "date": "2026-09-12",
+    "raceNo": 10,
+    "venue": "İzmir",
+    "distance": 1900,
+    "surface": "Kum",
+    "raceClass": "Handikap 17/DHT /H2",
+    "horses": [
+      {
+        "position": 1,
+        "no": "10",
+        "name": "BAY OLOF",
+        "jockey": "SİNAN AKŞIN",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 52.5,
+        "odds": 5.4,
+        "finishTime": "2.13.31",
+        "age": 4
+      },
+      {
+        "position": 2,
+        "no": "4",
+        "name": "SONYEL",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "ÖMER FARUK TAŞDELEN",
+        "weight": 58,
+        "odds": 4.3,
+        "finishTime": "2.13.80",
+        "age": 4
+      },
+      {
+        "position": 3,
+        "no": "5",
+        "name": "KAPTANPAŞALI",
+        "jockey": "RECEP KETME",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 55.5,
+        "odds": 16.1,
+        "finishTime": "2.13.92",
+        "age": 4
+      },
+      {
+        "position": 4,
+        "no": "9",
+        "name": "ABUZER BABA",
+        "jockey": "MEHMET KAYA",
+        "trainer": "MUSTAFA BAYRAKTAR",
+        "weight": 56.5,
+        "odds": 7.4,
+        "finishTime": "2.13.97",
+        "age": 4
+      },
+      {
+        "position": 5,
+        "no": "7",
+        "name": "BER KEMAL",
+        "jockey": "ALİ MEHDİ ALTIN",
+        "trainer": "SEZGİN CAN GÖZÜNGÜ",
+        "weight": 59,
+        "odds": 12.35,
+        "finishTime": "2.14.15",
+        "age": 5
+      },
+      {
+        "position": 6,
+        "no": "8",
+        "name": "CANYAMAN",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "NEJDET TURAN",
+        "weight": 57,
+        "odds": 5.25,
+        "finishTime": "2.14.47",
+        "age": 4
+      },
+      {
+        "position": 7,
+        "no": "15",
+        "name": "SEMEND BATUR",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 55.5,
+        "odds": 14.3,
+        "finishTime": "2.14.96",
+        "age": 5
+      },
+      {
+        "position": 8,
+        "no": "6",
+        "name": "TERCAN HAN",
+        "jockey": "ONUR YILDIZ",
+        "trainer": "EKREM ÇİLEK",
+        "weight": 57.5,
+        "odds": 6.95,
+        "finishTime": "2.15.17",
+        "age": 4
+      },
+      {
+        "position": 9,
+        "no": "14",
+        "name": "SANCARLI BEY",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 54.5,
+        "odds": 26.95,
+        "finishTime": "2.15.18",
+        "age": 4
+      },
+      {
+        "position": 10,
+        "no": "16",
+        "name": "AKYEL ABİ",
+        "jockey": "ONUR ATMACA",
+        "trainer": "CENGİZ TEKİN KÖSE",
+        "weight": 52,
+        "odds": 33.75,
+        "finishTime": "2.15.41",
+        "age": 6
+      },
+      {
+        "position": 11,
+        "no": "13",
+        "name": "ÖZTAMER",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "SEÇKİN YANIK",
+        "weight": 57,
+        "odds": 12.15,
+        "finishTime": "2.16.11",
+        "age": 5
+      },
+      {
+        "position": 12,
+        "no": "11",
+        "name": "KIVILCIM ATEŞİ",
+        "jockey": "MURAT KEÇECİ",
+        "trainer": "BAŞOL ÖZGÜR",
+        "weight": 55.5,
+        "odds": 31.1,
+        "finishTime": "2.17.23",
+        "age": 4
+      },
+      {
+        "position": 13,
+        "no": "2",
+        "name": "JÖN ROME",
+        "jockey": "KADİR TOKAÇOĞLU",
+        "trainer": "FAHRETTİN CEYLAN",
+        "weight": 60,
+        "odds": 12.55,
+        "finishTime": "2.17.76",
+        "age": 4
+      },
+      {
+        "position": 14,
+        "no": "3",
+        "name": "FOTOROMAN",
+        "jockey": "EFE AKPINAR",
+        "trainer": "VEDAT ÖNDER",
+        "weight": 57.5,
+        "odds": 28.85,
+        "finishTime": "2.18.22",
+        "age": 5
+      },
+      {
+        "position": 15,
+        "no": "12",
+        "name": "AHUU ATA",
+        "jockey": "BERKAY BÜLBÜL",
+        "trainer": "MURAT AKALIN",
+        "weight": 54,
+        "odds": 27.45,
+        "finishTime": "2.19.37",
+        "age": 5
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İzmir",
+        "label": "2. 6'LI GANYAN",
+        "combination": "1/2/5,6/8/2/10",
+        "prizeAmount": 8821.31,
+        "lastRaceNo": 10
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2200,
