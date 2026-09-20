@@ -794,14 +794,74 @@
       {
         "no": "1",
         "name": "GOLD FLOWER",
-        "finishTime": ""
+        "finishTime": "Derecesiz"
       },
       {
         "no": "8",
         "name": "OHRID INCISI",
-        "finishTime": ""
+        "finishTime": "Derecesiz"
       }
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "KV-9",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "MR TT",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "MURAT ALAÇAM",
+        "weight": 58,
+        "odds": 2,
+        "finishTime": "2.04.31",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "CALVADOS",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 58,
+        "odds": 2.5,
+        "finishTime": "2.04.54",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "2",
+        "name": "METAL HEART",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "SERKAN SÜSLÜ",
+        "weight": 58,
+        "odds": 6.45,
+        "finishTime": "2.04.55",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "3",
+        "name": "MR ÇIRAK",
+        "jockey": "SELİM KAYA",
+        "trainer": "KAAN GÜNEŞ",
+        "weight": 58,
+        "odds": 2.55,
+        "finishTime": "2.05.96",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
   },
   {
     "date": "2026-09-20",
