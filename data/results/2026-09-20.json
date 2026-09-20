@@ -433,6 +433,78 @@
   },
   {
     "date": "2026-09-20",
+    "raceNo": 4,
+    "venue": "Adana",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "5",
+        "name": "ROSE WARRIOR",
+        "jockey": "ERAY ÇİZİK",
+        "trainer": "VEDAT YILDIRIM",
+        "weight": 57,
+        "odds": 1.8,
+        "finishTime": "1.28.71",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "3",
+        "name": "AFAMIA",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "MUHAMMED AKYAVUZ",
+        "weight": 57,
+        "odds": 6.65,
+        "finishTime": "1.28.90",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "2",
+        "name": "NOBLE CREST",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "MUSTAFA ÖZYİĞİT",
+        "weight": 58,
+        "odds": 6.75,
+        "finishTime": "1.30.51",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "4",
+        "name": "MYONEDAY",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "MUHAMMED AKYAVUZ",
+        "weight": 57,
+        "odds": 1.9,
+        "finishTime": "1.30.95",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "1",
+        "name": "CRIMSON POWER",
+        "jockey": "MEHMET TAHA COŞKUN",
+        "trainer": "YUNUS TUNCAY",
+        "weight": 56,
+        "odds": 16.2,
+        "finishTime": "1.31.76",
+        "age": 2
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
+  },
+  {
+    "date": "2026-09-20",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1200,
