@@ -727,5 +727,182 @@
         "finishTime": "Derecesiz"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "raceNo": 6,
+    "venue": "Bursa",
+    "distance": 1200,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5/DHÖW/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "7",
+        "name": "HAVZALI",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "FERDİ KIRAN",
+        "weight": 55,
+        "odds": 2.8,
+        "finishTime": "1.17.76",
+        "age": 9
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "TARÇINKIZ",
+        "jockey": "SALİH ÇELİK",
+        "trainer": "MUHAMMED ALİ TURAN",
+        "weight": 62,
+        "odds": 7.2,
+        "finishTime": "1.18.00",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "8",
+        "name": "HAZBALIK",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "KAZIM ŞENGEL",
+        "weight": 55,
+        "odds": 5.9,
+        "finishTime": "1.18.12",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "6",
+        "name": "DİLAN KIZ",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "HASAN ALTUNBAŞ",
+        "weight": 55,
+        "odds": 2.35,
+        "finishTime": "1.18.25",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "2",
+        "name": "DİLHUN",
+        "jockey": "MAHMUT TURAN",
+        "trainer": "RAMAZAN AKDUMAN",
+        "weight": 59,
+        "odds": 16.1,
+        "finishTime": "1.18.48",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "12",
+        "name": "BEDİZ DE FAUST",
+        "jockey": "CEMAL PASO",
+        "trainer": "SALİH BAYDAN",
+        "weight": 55,
+        "odds": 44.2,
+        "finishTime": "1.18.49",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "13",
+        "name": "DESTE KIZIM",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "MERT DEMİRTAŞ",
+        "weight": 55,
+        "odds": 23.95,
+        "finishTime": "1.18.58",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "5",
+        "name": "DEMİR SULTAN",
+        "jockey": "TUGAY ALICI",
+        "trainer": "AHMET ÖCAL",
+        "weight": 55,
+        "odds": 78.8,
+        "finishTime": "1.18.77",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 9,
+        "no": "11",
+        "name": "TUĞÇEYİM",
+        "jockey": "DENİZ BUDAK",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 53,
+        "odds": 70.3,
+        "finishTime": "1.19.62",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 10,
+        "no": "10",
+        "name": "SİNOPLU MERVE",
+        "jockey": "YUNUS EMRE YÜKSEL",
+        "trainer": "MELEK ÖZGÜL",
+        "weight": 55,
+        "odds": 18.65,
+        "finishTime": "1.19.80",
+        "age": 10
+      },
+      {
+        "nonRunner": false,
+        "position": 11,
+        "no": "9",
+        "name": "PRENSES DI",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "FERDİ KIRAN",
+        "weight": 52,
+        "odds": 20.35,
+        "finishTime": "1.19.83",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 12,
+        "no": "4",
+        "name": "AKÇAOVA",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "MURAT TÜRKOĞLU",
+        "weight": 55,
+        "odds": 13.75,
+        "finishTime": "1.20.08",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 13,
+        "no": "3",
+        "name": "AYCASA",
+        "jockey": "CEM ALTUN",
+        "trainer": "AHMET MANTAŞ",
+        "weight": 58,
+        "odds": 43.35,
+        "finishTime": "1.21.28",
+        "age": 4
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [],
+    "ganyanSixPrizes": [
+      {
+        "venue": "Bursa",
+        "label": "1. 6'LI GANYAN",
+        "combination": "7/2,7/6/2/7/7",
+        "prizeAmount": 21596.87,
+        "lastRaceNo": 6
+      }
+    ]
   }
 ]
