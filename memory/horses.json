@@ -1690326,12 +1690326,13 @@
   },
   "FORTISSIMO": {
     "name": "FORTISSIMO",
-    "totalRaces": 4,
-    "wins": 2,
-    "places": 4,
-    "winRate": 0.5,
+    "totalRaces": 5,
+    "wins": 3,
+    "places": 5,
+    "winRate": 0.6,
     "placeRate": 1,
     "recentForm": [
+      1,
       1,
       1,
       3,
@@ -1690339,8 +1690340,8 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 3,
-        "wins": 2
+        "races": 4,
+        "wins": 3
       },
       "Çim": {
         "races": 1,
@@ -1690353,8 +1690354,8 @@
         "wins": 1
       },
       "1400": {
-        "races": 1,
-        "wins": 1
+        "races": 2,
+        "wins": 2
       }
     },
     "venueStats": {
@@ -1690369,9 +1690370,9 @@
         "places": 1
       },
       "Kocaeli": {
-        "races": 2,
-        "wins": 2,
-        "places": 2
+        "races": 3,
+        "wins": 3,
+        "places": 3
       }
     },
     "classStats": {
@@ -1690394,6 +1690395,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 5": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1690406,12 +1690412,12 @@
         "wins": 0
       },
       "MUHAMMED MİR BİLGİN": {
-        "races": 2,
-        "wins": 2
+        "races": 3,
+        "wins": 3
       }
     },
-    "lastRaceDate": "2026-09-08",
-    "lastUpdated": "2026-09-08"
+    "lastRaceDate": "2026-10-13",
+    "lastUpdated": "2026-10-13"
   },
   "EMPIRE'S FIRE": {
     "name": "EMPIRE'S FIRE",
@@ -1848010,12 +1848016,13 @@
   },
   "RAPID SHOT": {
     "name": "RAPID SHOT",
-    "totalRaces": 4,
+    "totalRaces": 5,
     "wins": 2,
-    "places": 3,
-    "winRate": 0.5,
-    "placeRate": 0.75,
+    "places": 4,
+    "winRate": 0.4,
+    "placeRate": 0.8,
     "recentForm": [
+      3,
       6,
       1,
       2,
@@ -1848029,6 +1848036,10 @@
       "Sentetik": {
         "races": 3,
         "wins": 1
+      },
+      "Kum": {
+        "races": 1,
+        "wins": 0
       }
     },
     "distanceStats": {
@@ -1848045,7 +1848056,7 @@
         "wins": 1
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -1848054,6 +1848065,11 @@
         "races": 4,
         "wins": 2,
         "places": 3
+      },
+      "Kocaeli": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -1848071,6 +1848087,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 5": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1848085,10 +1848106,14 @@
       "SELİM KAYA": {
         "races": 1,
         "wins": 0
+      },
+      "ALİ YILDIZ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-16",
-    "lastUpdated": "2026-09-16"
+    "lastRaceDate": "2026-10-13",
+    "lastUpdated": "2026-10-13"
   },
   "ART OF VICTORY": {
     "name": "ART OF VICTORY",
@@ -1858954,12 +1858979,13 @@
   },
   "DRAGON VICTORY": {
     "name": "DRAGON VICTORY",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 2,
     "places": 2,
-    "winRate": 0.333,
-    "placeRate": 0.333,
+    "winRate": 0.286,
+    "placeRate": 0.286,
     "recentForm": [
+      5,
       8,
       5,
       4,
@@ -1858969,7 +1858995,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 2
       }
     },
@@ -1858987,7 +1859013,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1500": {
@@ -1858997,7 +1859023,7 @@
     },
     "venueStats": {
       "Kocaeli": {
-        "races": 5,
+        "races": 6,
         "wins": 2,
         "places": 2
       },
@@ -1859019,7 +1859045,7 @@
         "places": 1
       },
       "ŞARTLI 5": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -1859050,10 +1859076,14 @@
       "BURAK AKÇAY": {
         "races": 2,
         "wins": 0
+      },
+      "HIŞMAN ÇİZİK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-15",
-    "lastUpdated": "2026-09-15"
+    "lastRaceDate": "2026-10-13",
+    "lastUpdated": "2026-10-13"
   },
   "LION ESMER": {
     "name": "LION ESMER",
@@ -1930648,19 +1930678,20 @@
   },
   "BRAVE ATHENA": {
     "name": "BRAVE ATHENA",
-    "totalRaces": 3,
+    "totalRaces": 4,
     "wins": 2,
-    "places": 3,
-    "winRate": 0.667,
+    "places": 4,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      2,
       2,
       1,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 2
       }
     },
@@ -1930672,13 +1930703,17 @@
       "1200": {
         "races": 2,
         "wins": 1
+      },
+      "1400": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Kocaeli": {
-        "races": 3,
+        "races": 4,
         "wins": 2,
-        "places": 3
+        "places": 4
       }
     },
     "classStats": {
@@ -1930696,16 +1930731,25 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 5": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "SİNAN ÖZEN": {
         "races": 3,
         "wins": 2
+      },
+      "KADİR TOKAÇOĞLU": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-07-30",
-    "lastUpdated": "2026-07-30"
+    "lastRaceDate": "2026-10-13",
+    "lastUpdated": "2026-10-13"
   },
   "HEART SHOT": {
     "name": "HEART SHOT",
@@ -1988907,29 +1988951,30 @@
   },
   "LETS GO": {
     "name": "LETS GO",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 1,
     "places": 1,
-    "winRate": 1,
-    "placeRate": 1,
+    "winRate": 0.5,
+    "placeRate": 0.5,
     "recentForm": [
+      4,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
     "distanceStats": {
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
     "venueStats": {
       "Kocaeli": {
-        "races": 1,
+        "races": 2,
         "wins": 1,
         "places": 1
       }
@@ -1988939,16 +1988984,21 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 5": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "SİNAN ÖZEN": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-22",
-    "lastUpdated": "2026-09-22"
+    "lastRaceDate": "2026-10-13",
+    "lastUpdated": "2026-10-13"
   },
   "INFERNA": {
     "name": "INFERNA",
