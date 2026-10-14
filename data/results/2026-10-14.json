@@ -1237,5 +1237,101 @@
         "finishTime": "Derecesiz"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "raceNo": 2,
+    "venue": "Elazığ",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 2",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "6",
+        "name": "KING YILDIRIM",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 55,
+        "odds": 17.3,
+        "finishTime": "1.44.38",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "3",
+        "name": "LADY ÇEVİK",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 55,
+        "odds": 5.2,
+        "finishTime": "1.44.45",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "7",
+        "name": "VAREGON",
+        "jockey": "MUHAMMED BARAN ÇAKMAK",
+        "trainer": "MEHMET KAYA",
+        "weight": 54,
+        "odds": 25.3,
+        "finishTime": "1.44.75",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "4",
+        "name": "AZİZOĞLUM",
+        "jockey": "SAMİ KAPLAN",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 54,
+        "odds": 26.4,
+        "finishTime": "1.46.82",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "2",
+        "name": "WAKABAYASHI",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "RAMAZAN BARMAN",
+        "weight": 60,
+        "odds": 1.05,
+        "finishTime": "1.46.87",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "5",
+        "name": "HELLAHOP KISAS",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "MEHMET KAYA",
+        "weight": 56,
+        "odds": 24.25,
+        "finishTime": "1.47.36",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "1",
+        "name": "CHEF BUĞRA",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 60,
+        "odds": 7.4,
+        "finishTime": "1.47.43",
+        "age": 2
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
   }
 ]
