@@ -902,6 +902,189 @@
   },
   {
     "date": "2026-10-14",
+    "raceNo": 8,
+    "venue": "İstanbul",
+    "distance": 1200,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 14/DHÖW/Dişi /H2",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "YAMAN ÖZGE",
+        "jockey": "FESİH ÇETİNBAŞ",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 57.5,
+        "odds": 5.1,
+        "finishTime": "1.22.14",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "5",
+        "name": "ŞENGÜL SULTAN",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "TARIK NACİ YILDIZ",
+        "weight": 55.5,
+        "odds": 4.6,
+        "finishTime": "1.22.15",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "7",
+        "name": "CAN ŞEHRİBAN",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "ALİ ÇİZİK",
+        "weight": 55,
+        "odds": 8.15,
+        "finishTime": "1.22.56",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "13",
+        "name": "LADY SEVGİ",
+        "jockey": "ENES ATLAMAZ",
+        "trainer": "İBRAHİM SAYIS",
+        "weight": 53,
+        "odds": 34.85,
+        "finishTime": "1.22.59",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "4",
+        "name": "GÜZEL ZEHRA",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "ABDULLAH ATAŞ",
+        "weight": 54.5,
+        "odds": 16.45,
+        "finishTime": "1.22.61",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "2",
+        "name": "HAYDİ SEVDA",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "HAYRİ YILDIRIM",
+        "weight": 58,
+        "odds": 6.45,
+        "finishTime": "1.22.62",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "12",
+        "name": "ŞAHANIL",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "HALİS YILDIZ",
+        "weight": 53,
+        "odds": 23.15,
+        "finishTime": "1.22.93",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "1",
+        "name": "FEYZANUR",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "BEYDA TANRIKULU",
+        "weight": 58.5,
+        "odds": 3.65,
+        "finishTime": "1.23.28",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 9,
+        "no": "10",
+        "name": "ABANOZ",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "SALİH BAYDAN",
+        "weight": 53.5,
+        "odds": 24.75,
+        "finishTime": "1.23.85",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 10,
+        "no": "14",
+        "name": "SAROSLU",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "CEMİL TURAN",
+        "weight": 52.5,
+        "odds": 6.75,
+        "finishTime": "1.25.33",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 11,
+        "no": "6",
+        "name": "YILDIZBAŞAR",
+        "jockey": "EFE AKPINAR",
+        "trainer": "ATİLLA GÖKÇE",
+        "weight": 55.5,
+        "odds": 15,
+        "finishTime": "1.25.78",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 12,
+        "no": "11",
+        "name": "ESRİN HATUN",
+        "jockey": "UĞUR LEVENT",
+        "trainer": "ŞEVVAL ŞİMAL DEMİR",
+        "weight": 53.5,
+        "odds": 44.35,
+        "finishTime": "1.28.03",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 13,
+        "no": "8",
+        "name": "SAYRA",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "CASIM KATI",
+        "weight": 55,
+        "odds": 32.95,
+        "finishTime": "1.28.85",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [
+      {
+        "no": "9",
+        "name": "HÜRRİYET",
+        "finishTime": "Derecesiz"
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "2. 6'LI GANYAN",
+        "combination": "1,2/3/1/13/5/3",
+        "prizeAmount": 45568.12,
+        "lastRaceNo": 8
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
     "raceNo": 1,
     "venue": "Elazığ",
     "distance": 1200,
@@ -1051,7 +1234,7 @@
       {
         "no": "13",
         "name": "TUMBUL NURÇİÇEĞİ",
-        "finishTime": ""
+        "finishTime": "Derecesiz"
       }
     ]
   }
