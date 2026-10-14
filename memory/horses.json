@@ -84532,12 +84532,13 @@
   },
   "REAL TROUBLE": {
     "name": "REAL TROUBLE",
-    "totalRaces": 25,
+    "totalRaces": 26,
     "wins": 7,
     "places": 16,
-    "winRate": 0.28,
-    "placeRate": 0.64,
+    "winRate": 0.269,
+    "placeRate": 0.615,
     "recentForm": [
+      5,
       1,
       3,
       3,
@@ -84546,12 +84547,11 @@
       2,
       5,
       6,
-      2,
-      5
+      2
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 21,
+        "races": 22,
         "wins": 7
       },
       "Çim": {
@@ -84589,13 +84589,13 @@
         "wins": 1
       },
       "2400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "venueStats": {
       "İstanbul": {
-        "races": 24,
+        "races": 25,
         "wins": 7,
         "places": 16
       },
@@ -84690,6 +84690,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -84698,7 +84703,7 @@
         "wins": 3
       },
       "GÖKHAN KOCAKAYA": {
-        "races": 6,
+        "races": 7,
         "wins": 1
       },
       "ENES BOZDAĞ": {
@@ -84722,8 +84727,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-18",
-    "lastUpdated": "2026-09-18"
+    "lastRaceDate": "2026-10-14",
+    "lastUpdated": "2026-10-14"
   },
   "SİGRİD": {
     "name": "SİGRİD",
@@ -530928,12 +530933,13 @@
   },
   "BROARTS": {
     "name": "BROARTS",
-    "totalRaces": 26,
-    "wins": 7,
-    "places": 16,
-    "winRate": 0.269,
-    "placeRate": 0.615,
+    "totalRaces": 27,
+    "wins": 8,
+    "places": 17,
+    "winRate": 0.296,
+    "placeRate": 0.63,
     "recentForm": [
+      1,
       3,
       2,
       2,
@@ -530942,13 +530948,12 @@
       2,
       7,
       4,
-      1,
-      3
+      1
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 2,
-        "wins": 0
+        "races": 3,
+        "wins": 1
       },
       "Çim": {
         "races": 23,
@@ -530985,8 +530990,8 @@
         "wins": 1
       },
       "2400": {
-        "races": 4,
-        "wins": 1
+        "races": 5,
+        "wins": 2
       }
     },
     "venueStats": {
@@ -531006,9 +531011,9 @@
         "places": 9
       },
       "İstanbul": {
-        "races": 5,
-        "wins": 1,
-        "places": 1
+        "races": 6,
+        "wins": 2,
+        "places": 2
       }
     },
     "classStats": {
@@ -531053,9 +531058,9 @@
         "places": 0
       },
       "KV-8": {
-        "races": 2,
-        "wins": 2,
-        "places": 2
+        "races": 3,
+        "wins": 3,
+        "places": 3
       },
       "KISA VADE HANDIKAP 24 /H1": {
         "races": 3,
@@ -531107,16 +531112,16 @@
         "wins": 0
       },
       "VEDAT ABİŞ": {
-        "races": 2,
-        "wins": 0
+        "races": 3,
+        "wins": 1
       },
       "NEVZAT AVCİ": {
         "races": 1,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-15",
-    "lastUpdated": "2026-09-15"
+    "lastRaceDate": "2026-10-14",
+    "lastUpdated": "2026-10-14"
   },
   "KING OF MUNZUR": {
     "name": "KING OF MUNZUR",
@@ -564939,12 +564944,13 @@
   },
   "VISENYA": {
     "name": "VISENYA",
-    "totalRaces": 15,
+    "totalRaces": 16,
     "wins": 6,
-    "places": 9,
-    "winRate": 0.4,
-    "placeRate": 0.6,
+    "places": 10,
+    "winRate": 0.375,
+    "placeRate": 0.625,
     "recentForm": [
+      2,
       1,
       1,
       1,
@@ -564953,12 +564959,11 @@
       3,
       1,
       2,
-      1,
-      4
+      1
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 9,
+        "races": 10,
         "wins": 5
       },
       "Çim": {
@@ -564998,13 +565003,17 @@
       "2100": {
         "races": 1,
         "wins": 0
+      },
+      "2400": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "İstanbul": {
-        "races": 13,
+        "races": 14,
         "wins": 5,
-        "places": 7
+        "places": 8
       },
       "Bursa": {
         "races": 1,
@@ -565057,6 +565066,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -565091,10 +565105,14 @@
       "KAANCAN GÖKÇE": {
         "races": 1,
         "wins": 1
+      },
+      "HALİS KARATAŞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-09",
-    "lastUpdated": "2026-09-09"
+    "lastRaceDate": "2026-10-14",
+    "lastUpdated": "2026-10-14"
   },
   "POWER SPEED": {
     "name": "POWER SPEED",
@@ -639028,12 +639046,13 @@
   },
   "NYMPHADORA TONKS": {
     "name": "NYMPHADORA TONKS",
-    "totalRaces": 13,
+    "totalRaces": 14,
     "wins": 4,
     "places": 6,
-    "winRate": 0.308,
-    "placeRate": 0.462,
+    "winRate": 0.286,
+    "placeRate": 0.429,
     "recentForm": [
+      4,
       2,
       1,
       4,
@@ -639042,12 +639061,11 @@
       5,
       2,
       4,
-      14,
-      1
+      14
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 4,
+        "races": 5,
         "wins": 1
       },
       "Çim": {
@@ -639079,6 +639097,10 @@
       "2200": {
         "races": 2,
         "wins": 1
+      },
+      "2400": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -639088,7 +639110,7 @@
         "places": 1
       },
       "İstanbul": {
-        "races": 11,
+        "races": 12,
         "wins": 3,
         "places": 5
       },
@@ -639125,7 +639147,7 @@
         "places": 0
       },
       "KV-8": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -639154,12 +639176,12 @@
         "wins": 0
       },
       "AYHAN KURŞUN": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-20",
-    "lastUpdated": "2026-09-20"
+    "lastRaceDate": "2026-10-14",
+    "lastUpdated": "2026-10-14"
   },
   "BÜYÜKKIZ": {
     "name": "BÜYÜKKIZ",
@@ -703942,12 +703964,13 @@
   },
   "MY RAINY HEART": {
     "name": "MY RAINY HEART",
-    "totalRaces": 24,
+    "totalRaces": 25,
     "wins": 7,
-    "places": 16,
-    "winRate": 0.292,
-    "placeRate": 0.667,
+    "places": 17,
+    "winRate": 0.28,
+    "placeRate": 0.68,
     "recentForm": [
+      3,
       5,
       1,
       3,
@@ -703956,8 +703979,7 @@
       3,
       2,
       6,
-      1,
-      3
+      1
     ],
     "trackStats": {
       "Çim": {
@@ -703969,7 +703991,7 @@
         "wins": 0
       },
       "Sentetik": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -703992,6 +704014,10 @@
       },
       "2200": {
         "races": 3,
+        "wins": 0
+      },
+      "2400": {
+        "races": 1,
         "wins": 0
       },
       "2600": {
@@ -704020,9 +704046,9 @@
         "places": 11
       },
       "İstanbul": {
-        "races": 6,
+        "races": 7,
         "wins": 2,
-        "places": 4
+        "places": 5
       }
     },
     "classStats": {
@@ -704032,9 +704058,9 @@
         "places": 0
       },
       "KV-8": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 1
+        "places": 2
       },
       "ŞARTLI 4": {
         "races": 4,
@@ -704127,12 +704153,12 @@
         "wins": 0
       },
       "ERCAN ÇANKAYA": {
-        "races": 10,
+        "races": 11,
         "wins": 5
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-14",
+    "lastUpdated": "2026-10-14"
   },
   "GENERAL SHERMAN": {
     "name": "GENERAL SHERMAN",
