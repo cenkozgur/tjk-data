@@ -1886304,12 +1886304,13 @@
   },
   "SECRET OF DRAGON": {
     "name": "SECRET OF DRAGON",
-    "totalRaces": 9,
+    "totalRaces": 10,
     "wins": 1,
-    "places": 3,
-    "winRate": 0.111,
-    "placeRate": 0.333,
+    "places": 4,
+    "winRate": 0.1,
+    "placeRate": 0.4,
     "recentForm": [
+      2,
       4,
       4,
       7,
@@ -1886326,7 +1886327,7 @@
         "wins": 0
       },
       "Sentetik": {
-        "races": 4,
+        "races": 5,
         "wins": 1
       }
     },
@@ -1886344,7 +1886345,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "1400": {
@@ -1886358,9 +1886359,9 @@
     },
     "venueStats": {
       "İstanbul": {
-        "races": 9,
+        "races": 10,
         "wins": 1,
-        "places": 3
+        "places": 4
       }
     },
     "classStats": {
@@ -1886395,9 +1886396,9 @@
         "places": 0
       },
       "HANDIKAP 14 /H2": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1886418,12 +1886419,12 @@
         "wins": 0
       },
       "ALİ YILDIZ": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-16",
+    "lastUpdated": "2026-10-16"
   },
   "AKALA": {
     "name": "AKALA",
@@ -1922555,12 +1922556,13 @@
   },
   "SHIMMER": {
     "name": "SHIMMER",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 1,
     "places": 6,
-    "winRate": 0.143,
-    "placeRate": 0.857,
+    "winRate": 0.125,
+    "placeRate": 0.75,
     "recentForm": [
+      5,
       3,
       3,
       6,
@@ -1922571,7 +1922573,7 @@
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "Çim": {
@@ -1922585,7 +1922587,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1300": {
@@ -1922603,7 +1922605,7 @@
     },
     "venueStats": {
       "İstanbul": {
-        "races": 7,
+        "races": 8,
         "wins": 1,
         "places": 6
       }
@@ -1922630,7 +1922632,7 @@
         "places": 1
       },
       "HANDIKAP 14 /H2": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
@@ -1922655,10 +1922657,14 @@
       "MEHMET KAYA": {
         "races": 1,
         "wins": 0
+      },
+      "AKIN SÖZEN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-16",
+    "lastUpdated": "2026-10-16"
   },
   "FOREVER DALLAS": {
     "name": "FOREVER DALLAS",
@@ -1968031,12 +1968037,13 @@
   },
   "KEJE": {
     "name": "KEJE",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 1,
     "places": 2,
-    "winRate": 0.5,
-    "placeRate": 1,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      4,
       1,
       3
     ],
@@ -1968044,11 +1968051,15 @@
       "Çim": {
         "races": 2,
         "wins": 1
+      },
+      "Sentetik": {
+        "races": 1,
+        "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
@@ -1968057,6 +1968068,11 @@
         "races": 2,
         "wins": 1,
         "places": 2
+      },
+      "İstanbul": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1968069,16 +1968085,25 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "HANDIKAP 14 /H2": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "MÜSLÜM ÇELİK": {
         "races": 2,
         "wins": 1
+      },
+      "VEDAT ABİŞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-26",
-    "lastUpdated": "2026-09-26"
+    "lastRaceDate": "2026-10-16",
+    "lastUpdated": "2026-10-16"
   },
   "OHANA": {
     "name": "OHANA",
@@ -1990556,23 +1990581,28 @@
   },
   "TOUCH THE MAGIC": {
     "name": "TOUCH THE MAGIC",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 1,
-    "places": 1,
-    "winRate": 1,
+    "places": 2,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      3,
       1
     ],
     "trackStats": {
       "Çim": {
         "races": 1,
         "wins": 1
+      },
+      "Sentetik": {
+        "races": 1,
+        "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
@@ -1990581,6 +1990611,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "İstanbul": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -1990588,16 +1990623,21 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "HANDIKAP 14 /H2": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "HALİS KARATAŞ": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-26",
-    "lastUpdated": "2026-09-26"
+    "lastRaceDate": "2026-10-16",
+    "lastUpdated": "2026-10-16"
   },
   "GOLDEN MELODY": {
     "name": "GOLDEN MELODY",
@@ -1992515,21 +1992555,26 @@
   },
   "SOMEWHAT CLOUDY": {
     "name": "SOMEWHAT CLOUDY",
-    "totalRaces": 1,
-    "wins": 1,
-    "places": 1,
+    "totalRaces": 2,
+    "wins": 2,
+    "places": 2,
     "winRate": 1,
     "placeRate": 1,
     "recentForm": [
+      1,
       1
     ],
     "trackStats": {
       "Sentetik": {
-        "races": 1,
-        "wins": 1
+        "races": 2,
+        "wins": 2
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 1
+      },
       "1300": {
         "races": 1,
         "wins": 1
@@ -1992537,9 +1992582,9 @@
     },
     "venueStats": {
       "İstanbul": {
-        "races": 1,
-        "wins": 1,
-        "places": 1
+        "races": 2,
+        "wins": 2,
+        "places": 2
       }
     },
     "classStats": {
@@ -1992547,16 +1992592,21 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "HANDIKAP 14 /H2": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "AYHAN KURŞUN": {
-        "races": 1,
-        "wins": 1
+        "races": 2,
+        "wins": 2
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-16",
+    "lastUpdated": "2026-10-16"
   },
   "ULUDAĞ HAN": {
     "name": "ULUDAĞ HAN",
