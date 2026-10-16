@@ -75,5 +75,70 @@
       }
     ],
     "unplaced": []
+  },
+  {
+    "date": "2026-10-16",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 1",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "DERBY WARRIOR",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 57,
+        "odds": 1.95,
+        "finishTime": "1.25.33",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "2",
+        "name": "AYTOR (IRE)",
+        "jockey": "GÖKHAN KOCAKAYA",
+        "trainer": "CEM FİLİKSAÇ",
+        "weight": 57,
+        "odds": 2,
+        "finishTime": "1.26.04",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "1",
+        "name": "ALWAYS ON",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HAKAN YÜZBAŞI",
+        "weight": 57,
+        "odds": 3,
+        "finishTime": "1.28.43",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "5",
+        "name": "LIFE CHANGER",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "UFUK BİLİK",
+        "weight": 55,
+        "odds": 10.35,
+        "finishTime": "1.31.08",
+        "age": 2
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "4",
+        "name": "VİNİ JR"
+      }
+    ],
+    "unplaced": []
   }
 ]
