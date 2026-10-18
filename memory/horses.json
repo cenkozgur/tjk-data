@@ -702263,22 +702263,27 @@
   },
   "BEGIN AGAIN": {
     "name": "BEGIN AGAIN",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 1,
     "places": 2,
-    "winRate": 0.5,
-    "placeRate": 1,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      7,
       1,
       3
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
     "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      },
       "1600": {
         "races": 2,
         "wins": 1
@@ -702289,6 +702294,11 @@
         "races": 2,
         "wins": 1,
         "places": 2
+      },
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -702296,16 +702306,25 @@
         "races": 2,
         "wins": 1,
         "places": 2
+      },
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "EPIFANIO GARCIA": {
         "races": 2,
         "wins": 1
+      },
+      "ENES ATLAMAZ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2025-05-17",
-    "lastUpdated": "2025-05-17"
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
   },
   "WEBSTER": {
     "name": "WEBSTER",
@@ -2002991,6 +2003010,546 @@
       "AHMET ÇELİK": {
         "races": 1,
         "wins": 1
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "BOSS PREDATOR": {
+    "name": "BOSS PREDATOR",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      13
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "VELAT DEMİR": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "COOGER FIRE": {
+    "name": "COOGER FIRE",
+    "totalRaces": 1,
+    "wins": 1,
+    "places": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "recentForm": [
+      1
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
+      }
+    },
+    "jockeyCompatibility": {
+      "MEHMET AKYAVUZ": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "DALLAS MAN": {
+    "name": "DALLAS MAN",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      9
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "ERHAN AKTUĞ": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "DELİKANLI RAŞİT": {
+    "name": "DELİKANLI RAŞİT",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      10
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "SALİH ÇELİK": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "DRAVENOX": {
+    "name": "DRAVENOX",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      4
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "FATİH SULTAN MEHMET SANSAR": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "HYPER ROCKER": {
+    "name": "HYPER ROCKER",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "recentForm": [
+      3
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
+      }
+    },
+    "jockeyCompatibility": {
+      "MERT ALİ SOLMAZ": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "SAGENDOR": {
+    "name": "SAGENDOR",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      8
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "MERT GÖKALP ARSLAN": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "SON ZAYN": {
+    "name": "SON ZAYN",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      6
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "İSA AKYAVUZ": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "STRENGHT": {
+    "name": "STRENGHT",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      12
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "MEHMET KESKİN": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "TIMEWAY": {
+    "name": "TIMEWAY",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      5
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "MEHMET NURİ SUNKAR": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "YAĞIZ EFENDİ": {
+    "name": "YAĞIZ EFENDİ",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 1,
+    "winRate": 0,
+    "placeRate": 1,
+    "recentForm": [
+      2
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
+      }
+    },
+    "jockeyCompatibility": {
+      "AHMET ÇELİK": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-18",
+    "lastUpdated": "2026-10-18"
+  },
+  "MISS VIRGINIA": {
+    "name": "MISS VIRGINIA",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      11
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "ŞARTLI 1": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "MEHMET ALİ AKGÖBEK": {
+        "races": 1,
+        "wins": 0
       }
     },
     "lastRaceDate": "2026-10-18",
