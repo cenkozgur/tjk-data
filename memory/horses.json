@@ -58387,12 +58387,13 @@
   },
   "BEYOND THE SEA": {
     "name": "BEYOND THE SEA",
-    "totalRaces": 31,
+    "totalRaces": 32,
     "wins": 0,
     "places": 8,
     "winRate": 0,
-    "placeRate": 0.258,
+    "placeRate": 0.25,
     "recentForm": [
+      4,
       6,
       4,
       4,
@@ -58401,12 +58402,11 @@
       5,
       3,
       8,
-      10,
-      6
+      10
     ],
     "trackStats": {
       "Kum": {
-        "races": 31,
+        "races": 32,
         "wins": 0
       }
     },
@@ -58416,7 +58416,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1600": {
@@ -58451,7 +58451,7 @@
         "places": 6
       },
       "Şanlıurfa": {
-        "races": 7,
+        "races": 8,
         "wins": 0,
         "places": 2
       },
@@ -58563,7 +58563,7 @@
         "places": 0
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
@@ -58640,10 +58640,14 @@
       "REMZİ DOĞAN": {
         "races": 1,
         "wins": 0
+      },
+      "FERİT YARDIMCI": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "DUBAI EXPRESS": {
     "name": "DUBAI EXPRESS",
@@ -94990,12 +94994,13 @@
   },
   "KÜÇÜK BOZTEPE": {
     "name": "KÜÇÜK BOZTEPE",
-    "totalRaces": 36,
+    "totalRaces": 37,
     "wins": 5,
-    "places": 10,
-    "winRate": 0.139,
-    "placeRate": 0.278,
+    "places": 11,
+    "winRate": 0.135,
+    "placeRate": 0.297,
     "recentForm": [
+      3,
       11,
       10,
       13,
@@ -95004,12 +95009,11 @@
       4,
       9,
       6,
-      11,
-      15
+      11
     ],
     "trackStats": {
       "Kum": {
-        "races": 33,
+        "races": 34,
         "wins": 5
       },
       "Çim": {
@@ -95023,7 +95027,7 @@
         "wins": 2
       },
       "1300": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "1400": {
@@ -95058,9 +95062,9 @@
         "places": 2
       },
       "Şanlıurfa": {
-        "races": 13,
+        "races": 14,
         "wins": 2,
-        "places": 3
+        "places": 4
       },
       "Diyarbakır": {
         "races": 4,
@@ -95173,6 +95177,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -95225,7 +95234,7 @@
         "wins": 0
       },
       "AZİZ AKDEMİR": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "ABDULLAH ÇANKAYA": {
@@ -95233,8 +95242,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ALİHANBİR": {
     "name": "ALİHANBİR",
@@ -146139,12 +146148,13 @@
   },
   "DOĞAN AYŞE": {
     "name": "DOĞAN AYŞE",
-    "totalRaces": 26,
+    "totalRaces": 27,
     "wins": 2,
     "places": 9,
-    "winRate": 0.077,
-    "placeRate": 0.346,
+    "winRate": 0.074,
+    "placeRate": 0.333,
     "recentForm": [
+      11,
       6,
       6,
       7,
@@ -146153,12 +146163,11 @@
       12,
       8,
       5,
-      7,
-      6
+      7
     ],
     "trackStats": {
       "Kum": {
-        "races": 12,
+        "races": 13,
         "wins": 0
       },
       "Çim": {
@@ -146176,7 +146185,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 12,
+        "races": 13,
         "wins": 2
       },
       "1500": {
@@ -146202,6 +146211,11 @@
         "races": 17,
         "wins": 2,
         "places": 6
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -146269,6 +146283,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -146299,10 +146318,14 @@
       "ENES ATLAMAZ": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET EMİN DOĞAN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-07-21",
-    "lastUpdated": "2026-07-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BELLAFINA": {
     "name": "BELLAFINA",
@@ -213182,12 +213205,13 @@
   },
   "MELİHTAY": {
     "name": "MELİHTAY",
-    "totalRaces": 28,
+    "totalRaces": 29,
     "wins": 4,
-    "places": 10,
-    "winRate": 0.143,
-    "placeRate": 0.357,
+    "places": 11,
+    "winRate": 0.138,
+    "placeRate": 0.379,
     "recentForm": [
+      2,
       4,
       5,
       11,
@@ -213196,12 +213220,11 @@
       8,
       5,
       5,
-      8,
-      4
+      8
     ],
     "trackStats": {
       "Kum": {
-        "races": 22,
+        "races": 23,
         "wins": 4
       },
       "Çim": {
@@ -213215,7 +213238,7 @@
         "wins": 1
       },
       "1300": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1400": {
@@ -213257,6 +213280,11 @@
         "races": 3,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -213344,6 +213372,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -213410,10 +213443,14 @@
       "İSA KATAR": {
         "races": 1,
         "wins": 0
+      },
+      "İSA AKYAVUZ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SÖZÜ GEÇER": {
     "name": "SÖZÜ GEÇER",
@@ -299710,12 +299747,13 @@
   },
   "İLKAYOĞLU": {
     "name": "İLKAYOĞLU",
-    "totalRaces": 30,
+    "totalRaces": 31,
     "wins": 2,
     "places": 8,
-    "winRate": 0.067,
-    "placeRate": 0.267,
+    "winRate": 0.065,
+    "placeRate": 0.258,
     "recentForm": [
+      4,
       16,
       8,
       5,
@@ -299724,12 +299762,11 @@
       2,
       2,
       5,
-      6,
-      5
+      6
     ],
     "trackStats": {
       "Kum": {
-        "races": 30,
+        "races": 31,
         "wins": 2
       }
     },
@@ -299739,7 +299776,7 @@
         "wins": 0
       },
       "1300": {
-        "races": 9,
+        "races": 10,
         "wins": 1
       },
       "1400": {
@@ -299749,7 +299786,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 24,
+        "races": 25,
         "wins": 2,
         "places": 6
       },
@@ -299811,7 +299848,7 @@
         "places": 0
       },
       "ŞARTLI 3/DHT": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 1
       },
@@ -299853,7 +299890,7 @@
     },
     "jockeyCompatibility": {
       "İSA KATAR": {
-        "races": 9,
+        "races": 10,
         "wins": 1
       },
       "YUNUS ÇELİKBAŞ": {
@@ -299889,8 +299926,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "RUSDAMAT": {
     "name": "RUSDAMAT",
@@ -360652,12 +360689,13 @@
   },
   "BİRÇETİN": {
     "name": "BİRÇETİN",
-    "totalRaces": 10,
+    "totalRaces": 11,
     "wins": 3,
     "places": 6,
-    "winRate": 0.3,
-    "placeRate": 0.6,
+    "winRate": 0.273,
+    "placeRate": 0.545,
     "recentForm": [
+      7,
       5,
       11,
       3,
@@ -360666,12 +360704,11 @@
       2,
       1,
       1,
-      5,
-      1
+      5
     ],
     "trackStats": {
       "Kum": {
-        "races": 9,
+        "races": 10,
         "wins": 3
       },
       "Sentetik": {
@@ -360681,7 +360718,7 @@
     },
     "distanceStats": {
       "1300": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "1400": {
@@ -360721,6 +360758,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -360758,6 +360800,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -360776,10 +360823,14 @@
       "HÜSEYİN ALTUNKILIÇ": {
         "races": 2,
         "wins": 0
+      },
+      "FERİT YARDIMCI": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ENDORFİN": {
     "name": "ENDORFİN",
@@ -399638,12 +399689,13 @@
   },
   "LUCKY RAIN GIRL": {
     "name": "LUCKY RAIN GIRL",
-    "totalRaces": 25,
+    "totalRaces": 26,
     "wins": 2,
     "places": 7,
-    "winRate": 0.08,
-    "placeRate": 0.28,
+    "winRate": 0.077,
+    "placeRate": 0.269,
     "recentForm": [
+      6,
       7,
       3,
       8,
@@ -399652,12 +399704,11 @@
       2,
       1,
       2,
-      3,
-      8
+      3
     ],
     "trackStats": {
       "Kum": {
-        "races": 25,
+        "races": 26,
         "wins": 2
       }
     },
@@ -399671,7 +399722,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "1500": {
@@ -399701,7 +399752,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 16,
+        "races": 17,
         "wins": 2,
         "places": 6
       },
@@ -399728,7 +399779,7 @@
         "places": 1
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 5,
+        "races": 6,
         "wins": 1,
         "places": 1
       },
@@ -399802,7 +399853,7 @@
         "wins": 1
       },
       "AZİZ AKDEMİR": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "MURAT AKDAĞ": {
@@ -399814,8 +399865,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "NO MY LOVE": {
     "name": "NO MY LOVE",
@@ -418325,12 +418376,13 @@
   },
   "DELİKANLI POYRAZ": {
     "name": "DELİKANLI POYRAZ",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 3,
     "places": 3,
-    "winRate": 0.429,
-    "placeRate": 0.429,
+    "winRate": 0.375,
+    "placeRate": 0.375,
     "recentForm": [
+      9,
       5,
       1,
       1,
@@ -418341,7 +418393,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "Çim": {
@@ -418359,7 +418411,7 @@
         "wins": 0
       },
       "1300": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       },
       "1400": {
@@ -418381,7 +418433,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -418431,6 +418483,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -418453,10 +418510,14 @@
       "HIŞMAN ÇİZİK": {
         "races": 1,
         "wins": 1
+      },
+      "MUSTAFA IŞIK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2025-06-01",
-    "lastUpdated": "2025-06-01"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "HAÇIM": {
     "name": "HAÇIM",
@@ -419887,12 +419948,13 @@
   },
   "GÜL DERYA": {
     "name": "GÜL DERYA",
-    "totalRaces": 37,
+    "totalRaces": 38,
     "wins": 6,
     "places": 13,
-    "winRate": 0.162,
-    "placeRate": 0.351,
+    "winRate": 0.158,
+    "placeRate": 0.342,
     "recentForm": [
+      11,
       12,
       9,
       7,
@@ -419901,8 +419963,7 @@
       4,
       1,
       6,
-      5,
-      10
+      5
     ],
     "trackStats": {
       "Sentetik": {
@@ -419910,7 +419971,7 @@
         "wins": 3
       },
       "Kum": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "Çim": {
@@ -419924,7 +419985,7 @@
         "wins": 1
       },
       "1300": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1400": {
@@ -419973,6 +420034,11 @@
         "places": 8
       },
       "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "Şanlıurfa": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -420083,6 +420149,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -420133,10 +420204,14 @@
       "VELAT DEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "ABDULLAH ÇANKAYA": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-11",
-    "lastUpdated": "2026-10-11"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "İDİLAŞAN": {
     "name": "İDİLAŞAN",
@@ -468629,12 +468704,13 @@
   },
   "YEDİKARDEŞLER": {
     "name": "YEDİKARDEŞLER",
-    "totalRaces": 33,
+    "totalRaces": 34,
     "wins": 3,
     "places": 13,
-    "winRate": 0.091,
-    "placeRate": 0.394,
+    "winRate": 0.088,
+    "placeRate": 0.382,
     "recentForm": [
+      5,
       16,
       8,
       3,
@@ -468643,12 +468719,11 @@
       5,
       3,
       3,
-      5,
-      4
+      5
     ],
     "trackStats": {
       "Kum": {
-        "races": 33,
+        "races": 34,
         "wins": 3
       }
     },
@@ -468658,7 +468733,7 @@
         "wins": 1
       },
       "1300": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "1400": {
@@ -468684,7 +468759,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 15,
+        "races": 16,
         "wins": 2,
         "places": 5
       },
@@ -468789,6 +468864,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -468851,10 +468931,14 @@
       "HÜSEYİN ALTUNKILIÇ": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET ÇELİK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-01",
-    "lastUpdated": "2026-08-01"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ESKİ KALELİ": {
     "name": "ESKİ KALELİ",
@@ -686342,12 +686426,13 @@
   },
   "UTKAN": {
     "name": "UTKAN",
-    "totalRaces": 14,
-    "wins": 4,
-    "places": 8,
-    "winRate": 0.286,
-    "placeRate": 0.571,
+    "totalRaces": 15,
+    "wins": 5,
+    "places": 9,
+    "winRate": 0.333,
+    "placeRate": 0.6,
     "recentForm": [
+      1,
       6,
       1,
       7,
@@ -686356,13 +686441,12 @@
       3,
       9,
       2,
-      5,
-      1
+      5
     ],
     "trackStats": {
       "Kum": {
-        "races": 14,
-        "wins": 4
+        "races": 15,
+        "wins": 5
       }
     },
     "distanceStats": {
@@ -686371,8 +686455,8 @@
         "wins": 0
       },
       "1300": {
-        "races": 3,
-        "wins": 1
+        "races": 4,
+        "wins": 2
       },
       "1400": {
         "races": 3,
@@ -686397,9 +686481,9 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 9,
-        "wins": 2,
-        "places": 4
+        "races": 10,
+        "wins": 3,
+        "places": 5
       },
       "Ankara": {
         "races": 5,
@@ -686457,6 +686541,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -686477,12 +686566,12 @@
         "wins": 0
       },
       "AHMET HASAN BAYAR": {
-        "races": 3,
-        "wins": 1
+        "races": 4,
+        "wins": 2
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "DARTAGNAN": {
     "name": "DARTAGNAN",
@@ -832684,12 +832773,13 @@
   },
   "MUCİT TAY": {
     "name": "MUCİT TAY",
-    "totalRaces": 23,
+    "totalRaces": 24,
     "wins": 1,
     "places": 3,
-    "winRate": 0.043,
-    "placeRate": 0.13,
+    "winRate": 0.042,
+    "placeRate": 0.125,
     "recentForm": [
+      12,
       8,
       14,
       10,
@@ -832698,12 +832788,11 @@
       9,
       6,
       5,
-      1,
-      6
+      1
     ],
     "trackStats": {
       "Kum": {
-        "races": 21,
+        "races": 22,
         "wins": 1
       },
       "Çim": {
@@ -832721,7 +832810,7 @@
         "wins": 0
       },
       "1300": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "1400": {
@@ -832770,6 +832859,11 @@
         "races": 6,
         "wins": 1,
         "places": 1
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -832779,7 +832873,7 @@
         "places": 1
       },
       "ŞARTLI 3/DHT": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -832864,7 +832958,7 @@
         "wins": 0
       },
       "NECMİ ALTIN": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "İSA KATAR": {
@@ -832908,8 +833002,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-22",
-    "lastUpdated": "2026-09-22"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BUZMAN": {
     "name": "BUZMAN",
@@ -836139,12 +836233,13 @@
   },
   "SÜPER ELOŞ": {
     "name": "SÜPER ELOŞ",
-    "totalRaces": 12,
+    "totalRaces": 13,
     "wins": 3,
     "places": 6,
-    "winRate": 0.25,
-    "placeRate": 0.5,
+    "winRate": 0.231,
+    "placeRate": 0.462,
     "recentForm": [
+      5,
       12,
       6,
       2,
@@ -836153,12 +836248,11 @@
       1,
       4,
       4,
-      1,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 10,
+        "races": 11,
         "wins": 3
       },
       "Çim": {
@@ -836184,7 +836278,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1500": {
@@ -836217,7 +836311,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 4,
+        "races": 5,
         "wins": 1,
         "places": 1
       },
@@ -836264,7 +836358,7 @@
         "places": 0
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       },
@@ -836281,7 +836375,7 @@
     },
     "jockeyCompatibility": {
       "NECMİ ALTIN": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "FERİT YARDIMCI": {
@@ -836305,8 +836399,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SAHRA KASIRGASI": {
     "name": "SAHRA KASIRGASI",
@@ -867739,12 +867833,13 @@
   },
   "KINOWA GIRL": {
     "name": "KINOWA GIRL",
-    "totalRaces": 21,
+    "totalRaces": 22,
     "wins": 1,
     "places": 6,
-    "winRate": 0.048,
-    "placeRate": 0.286,
+    "winRate": 0.045,
+    "placeRate": 0.273,
     "recentForm": [
+      10,
       12,
       8,
       6,
@@ -867753,8 +867848,7 @@
       5,
       3,
       6,
-      9,
-      4
+      9
     ],
     "trackStats": {
       "Çim": {
@@ -867762,7 +867856,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 18,
+        "races": 19,
         "wins": 1
       },
       "Sentetik": {
@@ -867792,7 +867886,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 7,
+        "races": 8,
         "wins": 1
       },
       "1500": {
@@ -867827,6 +867921,11 @@
       },
       "Kocaeli": {
         "races": 5,
+        "wins": 0,
+        "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
         "wins": 0,
         "places": 0
       }
@@ -867886,6 +867985,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -867940,10 +868044,14 @@
       "ALİ YILDIZ": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET TİBET MURTOĞLU": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-08",
-    "lastUpdated": "2026-09-08"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "QUERCYNOIS": {
     "name": "QUERCYNOIS",
@@ -872680,12 +872788,13 @@
   },
   "HENAIRE": {
     "name": "HENAIRE",
-    "totalRaces": 23,
+    "totalRaces": 24,
     "wins": 4,
     "places": 6,
-    "winRate": 0.174,
-    "placeRate": 0.261,
+    "winRate": 0.167,
+    "placeRate": 0.25,
     "recentForm": [
+      7,
       17,
       1,
       3,
@@ -872694,12 +872803,11 @@
       10,
       8,
       1,
-      9,
-      5
+      9
     ],
     "trackStats": {
       "Kum": {
-        "races": 23,
+        "races": 24,
         "wins": 4
       }
     },
@@ -872713,7 +872821,7 @@
         "wins": 2
       },
       "1400": {
-        "races": 7,
+        "races": 8,
         "wins": 0
       },
       "1500": {
@@ -872736,7 +872844,7 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 11,
+        "races": 12,
         "wins": 2,
         "places": 3
       },
@@ -872768,7 +872876,7 @@
         "places": 1
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 3,
+        "races": 4,
         "wins": 2,
         "places": 2
       },
@@ -872833,10 +872941,14 @@
       "İZETTİN GÜREKE": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET ŞAKİR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-14",
-    "lastUpdated": "2026-09-14"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SERİN ÇOCUK": {
     "name": "SERİN ÇOCUK",
@@ -965725,12 +965837,13 @@
   },
   "OĞUL FATİH": {
     "name": "OĞUL FATİH",
-    "totalRaces": 23,
+    "totalRaces": 24,
     "wins": 2,
     "places": 7,
-    "winRate": 0.087,
-    "placeRate": 0.304,
+    "winRate": 0.083,
+    "placeRate": 0.292,
     "recentForm": [
+      8,
       10,
       12,
       3,
@@ -965739,8 +965852,7 @@
       3,
       5,
       12,
-      9,
-      6
+      9
     ],
     "trackStats": {
       "Çim": {
@@ -965748,7 +965860,7 @@
         "wins": 2
       },
       "Kum": {
-        "races": 7,
+        "races": 8,
         "wins": 0
       },
       "Sentetik": {
@@ -965766,7 +965878,7 @@
         "wins": 1
       },
       "1300": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1400": {
@@ -965824,7 +965936,7 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -965909,6 +966021,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -965971,10 +966088,14 @@
       "FERİT YARDIMCI": {
         "races": 1,
         "wins": 0
+      },
+      "MURAT AKDAĞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-14",
-    "lastUpdated": "2026-09-14"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TATARUŞAĞI": {
     "name": "TATARUŞAĞI",
@@ -1029720,12 +1029841,13 @@
   },
   "NANDAR": {
     "name": "NANDAR",
-    "totalRaces": 13,
+    "totalRaces": 14,
     "wins": 2,
     "places": 2,
-    "winRate": 0.154,
-    "placeRate": 0.154,
+    "winRate": 0.143,
+    "placeRate": 0.143,
     "recentForm": [
+      10,
       6,
       5,
       9,
@@ -1029734,12 +1029856,11 @@
       10,
       4,
       6,
-      4,
-      1
+      4
     ],
     "trackStats": {
       "Kum": {
-        "races": 13,
+        "races": 14,
         "wins": 2
       }
     },
@@ -1029751,6 +1029872,10 @@
       "1200": {
         "races": 7,
         "wins": 1
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       },
       "1400": {
         "races": 1,
@@ -1029767,7 +1029892,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 3,
+        "races": 4,
         "wins": 0,
         "places": 0
       },
@@ -1029837,6 +1029962,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1029863,10 +1029993,14 @@
       "YUNUS ÇELİKBAŞ": {
         "races": 1,
         "wins": 0
+      },
+      "EMRE AKKILIÇ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-07-18",
-    "lastUpdated": "2026-07-18"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SADEGÜLHAN": {
     "name": "SADEGÜLHAN",
@@ -1054907,12 +1055041,13 @@
   },
   "BLUE BIRD": {
     "name": "BLUE BIRD",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      12,
       7,
       7,
       4,
@@ -1054925,7 +1055060,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
@@ -1054935,7 +1055070,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1500": {
@@ -1054966,6 +1055101,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1054981,6 +1055121,11 @@
       },
       "MAIDEN/DIŞI": {
         "races": 3,
+        "wins": 0,
+        "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
+        "races": 1,
         "wins": 0,
         "places": 0
       }
@@ -1055005,10 +1055150,14 @@
       "MEHMET ALİ AKTÜRK": {
         "races": 1,
         "wins": 0
+      },
+      "CANER YILDIRIM": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-03",
-    "lastUpdated": "2026-08-03"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "POWER GIRL": {
     "name": "POWER GIRL",
@@ -1080105,12 +1080254,13 @@
   },
   "ELELE": {
     "name": "ELELE",
-    "totalRaces": 14,
-    "wins": 2,
-    "places": 4,
-    "winRate": 0.143,
-    "placeRate": 0.286,
+    "totalRaces": 15,
+    "wins": 3,
+    "places": 5,
+    "winRate": 0.2,
+    "placeRate": 0.333,
     "recentForm": [
+      1,
       1,
       4,
       6,
@@ -1080119,8 +1080269,7 @@
       6,
       10,
       4,
-      8,
-      6
+      8
     ],
     "trackStats": {
       "Çim": {
@@ -1080128,8 +1080277,8 @@
         "wins": 0
       },
       "Kum": {
-        "races": 13,
-        "wins": 2
+        "races": 14,
+        "wins": 3
       }
     },
     "distanceStats": {
@@ -1080142,8 +1080291,8 @@
         "wins": 0
       },
       "1400": {
-        "races": 4,
-        "wins": 0
+        "races": 5,
+        "wins": 1
       },
       "1500": {
         "races": 2,
@@ -1080181,9 +1080330,9 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
-        "wins": 1,
-        "places": 1
+        "races": 2,
+        "wins": 2,
+        "places": 2
       }
     },
     "classStats": {
@@ -1080223,9 +1080372,9 @@
         "places": 0
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 3,
-        "wins": 1,
-        "places": 2
+        "races": 4,
+        "wins": 2,
+        "places": 3
       },
       "ŞARTLI 3/DIŞI/Y1": {
         "races": 1,
@@ -1080272,12 +1080421,12 @@
         "wins": 0
       },
       "EMRE AKKILIÇ": {
-        "races": 1,
-        "wins": 1
+        "races": 2,
+        "wins": 2
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "FRÜHLİNG": {
     "name": "FRÜHLİNG",
@@ -1084933,12 +1085082,13 @@
   },
   "ÜÇ MATRA": {
     "name": "ÜÇ MATRA",
-    "totalRaces": 22,
+    "totalRaces": 23,
     "wins": 0,
     "places": 3,
     "winRate": 0,
-    "placeRate": 0.136,
+    "placeRate": 0.13,
     "recentForm": [
+      15,
       17,
       9,
       13,
@@ -1084947,12 +1085097,11 @@
       16,
       16,
       15,
-      12,
-      14
+      12
     ],
     "trackStats": {
       "Kum": {
-        "races": 21,
+        "races": 22,
         "wins": 0
       },
       "Sentetik": {
@@ -1084970,7 +1085119,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 5,
+        "races": 6,
         "wins": 0
       },
       "1600": {
@@ -1085005,7 +1085154,7 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1085022,7 +1085171,7 @@
         "places": 2
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 4,
+        "races": 5,
         "wins": 0,
         "places": 1
       },
@@ -1085097,7 +1085246,7 @@
         "wins": 0
       },
       "İSA KATAR": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "BURHAN SARIDAL": {
@@ -1085157,8 +1085306,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "NORTHSHIELD": {
     "name": "NORTHSHIELD",
@@ -1182082,12 +1182231,13 @@
   },
   "DİNÇALP": {
     "name": "DİNÇALP",
-    "totalRaces": 10,
+    "totalRaces": 11,
     "wins": 1,
     "places": 3,
-    "winRate": 0.1,
-    "placeRate": 0.3,
+    "winRate": 0.091,
+    "placeRate": 0.273,
     "recentForm": [
+      6,
       9,
       15,
       13,
@@ -1182096,12 +1182246,11 @@
       4,
       4,
       2,
-      3,
-      5
+      3
     ],
     "trackStats": {
       "Kum": {
-        "races": 10,
+        "races": 11,
         "wins": 1
       }
     },
@@ -1182111,7 +1182260,7 @@
         "wins": 0
       },
       "1300": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1400": {
@@ -1182134,7 +1182283,7 @@
         "places": 2
       },
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 1,
         "places": 1
       },
@@ -1182184,6 +1182333,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1182210,10 +1182364,14 @@
       "AZİZ AKDEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "SAMİ KAPLAN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-10",
-    "lastUpdated": "2026-10-10"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "EGE PRENSİ": {
     "name": "EGE PRENSİ",
@@ -1253751,12 +1253909,13 @@
   },
   "MONOMOY GIRL": {
     "name": "MONOMOY GIRL",
-    "totalRaces": 20,
+    "totalRaces": 21,
     "wins": 2,
     "places": 6,
-    "winRate": 0.1,
-    "placeRate": 0.3,
+    "winRate": 0.095,
+    "placeRate": 0.286,
     "recentForm": [
+      13,
       13,
       9,
       8,
@@ -1253765,12 +1253924,11 @@
       2,
       1,
       6,
-      13,
-      9
+      13
     ],
     "trackStats": {
       "Kum": {
-        "races": 18,
+        "races": 19,
         "wins": 2
       },
       "Çim": {
@@ -1253788,7 +1253946,7 @@
         "wins": 1
       },
       "1400": {
-        "races": 6,
+        "races": 7,
         "wins": 1
       },
       "1600": {
@@ -1253820,7 +1253978,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 8,
+        "races": 9,
         "wins": 1,
         "places": 2
       },
@@ -1253877,7 +1254035,7 @@
         "places": 1
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       },
@@ -1253932,10 +1254090,14 @@
       "MUHAMMED BARAN ÇAKMAK": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET ÇELİK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-27",
-    "lastUpdated": "2026-09-27"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "DANCING FLOWER": {
     "name": "DANCING FLOWER",
@@ -1334772,12 +1334934,13 @@
   },
   "FEEL THE BEAT": {
     "name": "FEEL THE BEAT",
-    "totalRaces": 8,
+    "totalRaces": 9,
     "wins": 2,
     "places": 3,
-    "winRate": 0.25,
-    "placeRate": 0.375,
+    "winRate": 0.222,
+    "placeRate": 0.333,
     "recentForm": [
+      9,
       7,
       6,
       7,
@@ -1334793,7 +1334956,7 @@
         "wins": 2
       },
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
@@ -1334803,7 +1334966,7 @@
         "wins": 2
       },
       "1400": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "1900": {
@@ -1334819,6 +1334982,11 @@
       },
       "Bursa": {
         "races": 3,
+        "wins": 0,
+        "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
         "wins": 0,
         "places": 0
       }
@@ -1334850,6 +1335018,11 @@
         "places": 0
       },
       "HANDIKAP 15 /H2": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1334887,10 +1335060,14 @@
       "NEVZAT AVCİ": {
         "races": 1,
         "wins": 0
+      },
+      "LEVENT TAPTIK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-10",
-    "lastUpdated": "2026-08-10"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "LAST FORCE": {
     "name": "LAST FORCE",
@@ -1583742,12 +1583919,13 @@
   },
   "MISS İDİL": {
     "name": "MISS İDİL",
-    "totalRaces": 11,
+    "totalRaces": 12,
     "wins": 1,
-    "places": 2,
-    "winRate": 0.091,
-    "placeRate": 0.182,
+    "places": 3,
+    "winRate": 0.083,
+    "placeRate": 0.25,
     "recentForm": [
+      2,
       15,
       5,
       5,
@@ -1583756,12 +1583934,11 @@
       4,
       4,
       4,
-      1,
-      5
+      1
     ],
     "trackStats": {
       "Kum": {
-        "races": 10,
+        "races": 11,
         "wins": 1
       },
       "Sentetik": {
@@ -1583779,7 +1583956,7 @@
         "wins": 0
       },
       "1400": {
-        "races": 6,
+        "races": 7,
         "wins": 1
       },
       "1800": {
@@ -1583808,9 +1583985,9 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "classStats": {
@@ -1583863,6 +1584040,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1583889,10 +1584071,14 @@
       "MUSTAFA IŞIK": {
         "races": 2,
         "wins": 0
+      },
+      "ÇETİN CANPOLAT": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "QUEEN OF THE SOLID": {
     "name": "QUEEN OF THE SOLID",
@@ -1682915,12 +1683101,13 @@
   },
   "MEHMETOĞLU": {
     "name": "MEHMETOĞLU",
-    "totalRaces": 14,
+    "totalRaces": 15,
     "wins": 2,
     "places": 4,
-    "winRate": 0.143,
-    "placeRate": 0.286,
+    "winRate": 0.133,
+    "placeRate": 0.267,
     "recentForm": [
+      13,
       13,
       6,
       3,
@@ -1682929,12 +1683116,11 @@
       9,
       7,
       5,
-      5,
-      9
+      5
     ],
     "trackStats": {
       "Kum": {
-        "races": 11,
+        "races": 12,
         "wins": 2
       },
       "Sentetik": {
@@ -1682948,7 +1683134,7 @@
         "wins": 1
       },
       "1300": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1400": {
@@ -1682982,6 +1683168,11 @@
         "races": 3,
         "wins": 0,
         "places": 1
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1683019,6 +1683210,11 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 3/DHT": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1683045,10 +1683241,14 @@
       "BURAK AKÇAY": {
         "races": 1,
         "wins": 0
+      },
+      "YUNUS ÇELİKBAŞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-21",
-    "lastUpdated": "2026-08-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BLUE PHANTOM": {
     "name": "BLUE PHANTOM",
@@ -1709634,12 +1709834,13 @@
   },
   "BEAUSOLEIL": {
     "name": "BEAUSOLEIL",
-    "totalRaces": 10,
+    "totalRaces": 11,
     "wins": 1,
     "places": 3,
-    "winRate": 0.1,
-    "placeRate": 0.3,
+    "winRate": 0.091,
+    "placeRate": 0.273,
     "recentForm": [
+      8,
       16,
       11,
       8,
@@ -1709648,8 +1709849,7 @@
       4,
       5,
       2,
-      8,
-      2
+      8
     ],
     "trackStats": {
       "Sentetik": {
@@ -1709657,7 +1709857,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "Çim": {
@@ -1709671,7 +1709871,7 @@
         "wins": 1
       },
       "1400": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1500": {
@@ -1709700,7 +1709900,7 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1709737,6 +1709937,11 @@
         "places": 0
       },
       "HANDIKAP 14 /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1709778,10 +1709983,14 @@
       "EMRE AKKILIÇ": {
         "races": 1,
         "wins": 0
+      },
+      "ROJHAT KURT": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "GRAY DREAM": {
     "name": "GRAY DREAM",
@@ -1830832,12 +1831041,13 @@
   },
   "BİLDENCAN": {
     "name": "BİLDENCAN",
-    "totalRaces": 8,
+    "totalRaces": 9,
     "wins": 1,
-    "places": 4,
-    "winRate": 0.125,
-    "placeRate": 0.5,
+    "places": 5,
+    "winRate": 0.111,
+    "placeRate": 0.556,
     "recentForm": [
+      2,
       1,
       3,
       2,
@@ -1830849,7 +1831059,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 8,
+        "races": 9,
         "wins": 1
       }
     },
@@ -1830859,7 +1831069,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "1300": {
@@ -1830873,9 +1831083,9 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 5,
+        "races": 6,
         "wins": 1,
-        "places": 2
+        "places": 3
       },
       "Elazığ": {
         "races": 3,
@@ -1830908,6 +1831118,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1830916,7 +1831131,7 @@
         "wins": 0
       },
       "İSA AKYAVUZ": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "SAMİ KAPLAN": {
@@ -1830928,8 +1831143,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-21",
-    "lastUpdated": "2026-09-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "GÜMÜŞÇELİK": {
     "name": "GÜMÜŞÇELİK",
@@ -1833038,12 +1833253,13 @@
   },
   "ANEMOS": {
     "name": "ANEMOS",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 1,
     "places": 2,
-    "winRate": 0.167,
-    "placeRate": 0.333,
+    "winRate": 0.143,
+    "placeRate": 0.286,
     "recentForm": [
+      9,
       8,
       10,
       5,
@@ -1833053,7 +1833269,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "Çim": {
@@ -1833067,7 +1833283,7 @@
         "wins": 1
       },
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1300": {
@@ -1833077,7 +1833293,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 3,
+        "races": 4,
         "wins": 1,
         "places": 2
       },
@@ -1833112,6 +1833328,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1833134,10 +1833355,14 @@
       "MAHMUT BAĞ": {
         "races": 1,
         "wins": 0
+      },
+      "ABDULLAH ÇANKAYA": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-06-29",
-    "lastUpdated": "2026-06-29"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ASLIHANOĞLU": {
     "name": "ASLIHANOĞLU",
@@ -1834878,12 +1835103,13 @@
   },
   "DEDEBEDO": {
     "name": "DEDEBEDO",
-    "totalRaces": 8,
+    "totalRaces": 9,
     "wins": 1,
     "places": 4,
-    "winRate": 0.125,
-    "placeRate": 0.5,
+    "winRate": 0.111,
+    "placeRate": 0.444,
     "recentForm": [
+      4,
       9,
       4,
       7,
@@ -1834895,7 +1835121,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 8,
+        "races": 9,
         "wins": 1
       }
     },
@@ -1834909,7 +1835135,7 @@
         "wins": 1
       },
       "1200": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "1600": {
@@ -1834927,6 +1835153,11 @@
         "races": 3,
         "wins": 1,
         "places": 1
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1834964,6 +1835195,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1834982,10 +1835218,14 @@
       "ABDULLAH ÇANKAYA": {
         "races": 1,
         "wins": 0
+      },
+      "NECMİ ALTIN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "EFSANE YILMAZ": {
     "name": "EFSANE YILMAZ",
@@ -1839023,12 +1839263,13 @@
   },
   "MAN OF VICTORY": {
     "name": "MAN OF VICTORY",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 0,
-    "places": 1,
+    "places": 2,
     "winRate": 0,
-    "placeRate": 0.143,
+    "placeRate": 0.25,
     "recentForm": [
+      3,
       4,
       5,
       3,
@@ -1839039,7 +1839280,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 7,
+        "races": 8,
         "wins": 0
       }
     },
@@ -1839053,7 +1839294,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1400": {
@@ -1839073,16 +1839314,16 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 1
+        "places": 2
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 6,
+        "races": 7,
         "wins": 0,
-        "places": 1
+        "places": 2
       },
       "ŞARTLI 19": {
         "races": 1,
@@ -1839104,12 +1839345,12 @@
         "wins": 0
       },
       "EMRE AKKILIÇ": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TOUCH THE LION": {
     "name": "TOUCH THE LION",
@@ -1849585,12 +1849826,13 @@
   },
   "ADDISON": {
     "name": "ADDISON",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 0,
-    "places": 3,
+    "places": 4,
     "winRate": 0,
-    "placeRate": 0.6,
+    "placeRate": 0.667,
     "recentForm": [
+      2,
       2,
       2,
       9,
@@ -1849603,7 +1849845,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
@@ -1849613,7 +1849855,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
@@ -1849629,9 +1849871,9 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 2
+        "places": 3
       }
     },
     "classStats": {
@@ -1849641,9 +1849883,9 @@
         "places": 0
       },
       "MAIDEN": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 2
+        "places": 3
       },
       "ŞARTLI 19": {
         "races": 1,
@@ -1849666,12 +1849908,12 @@
         "wins": 0
       },
       "ABDULLAH ÇANKAYA": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SPEED QUEEN": {
     "name": "SPEED QUEEN",
@@ -1859371,12 +1859613,13 @@
   },
   "IBAN": {
     "name": "IBAN",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      9,
       7,
       9,
       4,
@@ -1859386,7 +1859629,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 0
       },
       "Sentetik": {
@@ -1859400,7 +1859643,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1400": {
@@ -1859410,7 +1859653,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 3,
+        "races": 4,
         "wins": 0,
         "places": 0
       },
@@ -1859427,7 +1859670,7 @@
     },
     "classStats": {
       "MAIDEN": {
-        "races": 6,
+        "races": 7,
         "wins": 0,
         "places": 0
       }
@@ -1859452,10 +1859695,14 @@
       "ENES ATLAMAZ": {
         "races": 1,
         "wins": 0
+      },
+      "MUSTAFA IŞIK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-11",
-    "lastUpdated": "2026-10-11"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TAFO IS BACK": {
     "name": "TAFO IS BACK",
@@ -1859532,12 +1859779,13 @@
   },
   "BERNAMCAN": {
     "name": "BERNAMCAN",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 1,
     "places": 2,
-    "winRate": 0.143,
-    "placeRate": 0.286,
+    "winRate": 0.125,
+    "placeRate": 0.25,
     "recentForm": [
+      8,
       8,
       3,
       5,
@@ -1859548,7 +1859796,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 7,
+        "races": 8,
         "wins": 1
       }
     },
@@ -1859564,11 +1859812,15 @@
       "1200": {
         "races": 5,
         "wins": 1
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 5,
+        "races": 6,
         "wins": 1,
         "places": 1
       },
@@ -1859603,6 +1859855,11 @@
         "races": 3,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1859625,10 +1859882,14 @@
       "YUSUF CENGİZ": {
         "races": 1,
         "wins": 0
+      },
+      "AHMET HASAN BAYAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-21",
-    "lastUpdated": "2026-09-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "EWER OF SWEET": {
     "name": "EWER OF SWEET",
@@ -1869844,12 +1870105,13 @@
   },
   "GODDESS OF BEAUTY": {
     "name": "GODDESS OF BEAUTY",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 1,
     "places": 2,
-    "winRate": 0.143,
-    "placeRate": 0.286,
+    "winRate": 0.125,
+    "placeRate": 0.25,
     "recentForm": [
+      4,
       3,
       4,
       6,
@@ -1869864,7 +1870126,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       }
     },
@@ -1869880,6 +1870142,10 @@
       "1200": {
         "races": 4,
         "wins": 1
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -1869894,7 +1870160,7 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
@@ -1869911,7 +1870177,7 @@
         "places": 1
       },
       "ŞARTLI 3/DIŞI": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -1869935,7 +1870201,7 @@
         "wins": 1
       },
       "MEHMET EMİN DOĞAN": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "FERİT YARDIMCI": {
@@ -1869943,8 +1870209,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-21",
-    "lastUpdated": "2026-09-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "POWER OF LIGHT": {
     "name": "POWER OF LIGHT",
@@ -1879080,12 +1879346,13 @@
   },
   "EZGİL FIRTINASI": {
     "name": "EZGİL FIRTINASI",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.167,
+    "placeRate": 0.143,
     "recentForm": [
+      5,
       6,
       6,
       10,
@@ -1879099,7 +1879366,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
@@ -1879109,7 +1879376,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "1600": {
@@ -1879134,6 +1879401,11 @@
         "places": 0
       },
       "Elazığ": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "Şanlıurfa": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1879169,6 +1879441,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1879191,10 +1879468,14 @@
       "AZİZ AKDEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "YUNUS ÇELİKBAŞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "İLDA SULTAN": {
     "name": "İLDA SULTAN",
@@ -1881083,12 +1881364,13 @@
   },
   "MAYBE FOR US": {
     "name": "MAYBE FOR US",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      9,
       5,
       7,
       7,
@@ -1881098,7 +1881380,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 0
       }
     },
@@ -1881109,6 +1881391,10 @@
       },
       "1200": {
         "races": 5,
+        "wins": 0
+      },
+      "1300": {
+        "races": 1,
         "wins": 0
       }
     },
@@ -1881129,7 +1881415,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
@@ -1881159,6 +1881445,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1881177,10 +1881468,14 @@
       "LEVENT TAPTIK": {
         "races": 3,
         "wins": 0
+      },
+      "BATUHAN OKANDE": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "GİZEMLİ DAMLA": {
     "name": "GİZEMLİ DAMLA",
@@ -1888782,12 +1889077,13 @@
   },
   "ŞİRİNHAT": {
     "name": "ŞİRİNHAT",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 1,
-    "places": 1,
-    "winRate": 0.167,
-    "placeRate": 0.167,
+    "places": 2,
+    "winRate": 0.143,
+    "placeRate": 0.286,
     "recentForm": [
+      3,
       6,
       5,
       6,
@@ -1888797,7 +1889093,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 1
       }
     },
@@ -1888807,7 +1889103,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "1300": {
@@ -1888826,9 +1889122,9 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
-        "places": 0
+        "places": 1
       },
       "Elazığ": {
         "races": 4,
@@ -1888861,6 +1889157,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1888879,10 +1889180,14 @@
       "FERİT YARDIMCI": {
         "races": 1,
         "wins": 0
+      },
+      "AHMET HASAN BAYAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-09",
-    "lastUpdated": "2026-09-09"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TARSUS EFSANESİ": {
     "name": "TARSUS EFSANESİ",
@@ -1892580,19 +1892885,20 @@
   },
   "AĞADİZDAR": {
     "name": "AĞADİZDAR",
-    "totalRaces": 3,
+    "totalRaces": 4,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.333,
+    "placeRate": 0.25,
     "recentForm": [
+      7,
       11,
       2,
       9
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "Sentetik": {
@@ -1892606,7 +1892912,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1300": {
@@ -1892621,7 +1892927,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
@@ -1892636,6 +1892942,11 @@
         "races": 2,
         "wins": 0,
         "places": 1
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1892650,10 +1892961,14 @@
       "VELAT DEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "İSA KATAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-13",
-    "lastUpdated": "2026-09-13"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ATLAS HAN": {
     "name": "ATLAS HAN",
@@ -1894813,12 +1895128,13 @@
   },
   "VOOYASUB": {
     "name": "VOOYASUB",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.167,
+    "placeRate": 0.143,
     "recentForm": [
+      6,
       5,
       9,
       3,
@@ -1894828,7 +1895144,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 0
       }
     },
@@ -1894840,11 +1895156,15 @@
       "1200": {
         "races": 5,
         "wins": 0
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 4,
+        "races": 5,
         "wins": 0,
         "places": 1
       },
@@ -1894871,7 +1895191,7 @@
         "places": 1
       },
       "ŞARTLI 3/DIŞI": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1894892,10 +1895212,14 @@
       "FERİT YARDIMCI": {
         "races": 1,
         "wins": 0
+      },
+      "ABDULLAH ÇANKAYA": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-10",
-    "lastUpdated": "2026-08-10"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ATOM CEMİL": {
     "name": "ATOM CEMİL",
@@ -1900569,12 +1900893,13 @@
   },
   "ALTIN NOKTA": {
     "name": "ALTIN NOKTA",
-    "totalRaces": 8,
+    "totalRaces": 9,
     "wins": 0,
     "places": 2,
     "winRate": 0,
-    "placeRate": 0.25,
+    "placeRate": 0.222,
     "recentForm": [
+      10,
       14,
       13,
       6,
@@ -1900590,13 +1900915,13 @@
         "wins": 0
       },
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1300": {
@@ -1900627,6 +1900952,11 @@
         "races": 2,
         "wins": 0,
         "places": 1
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1900646,6 +1900976,11 @@
         "places": 2
       },
       "SATIŞ 2/DHÖW": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1900671,10 +1901006,14 @@
       "ONUR ATMACA": {
         "races": 1,
         "wins": 0
+      },
+      "ROJHAT KURT": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-15",
-    "lastUpdated": "2026-09-15"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TEKTEN SEVGİ": {
     "name": "TEKTEN SEVGİ",
@@ -1910601,12 +1910940,13 @@
   },
   "KUMSAL STAR": {
     "name": "KUMSAL STAR",
-    "totalRaces": 10,
+    "totalRaces": 11,
     "wins": 0,
     "places": 3,
     "winRate": 0,
-    "placeRate": 0.3,
+    "placeRate": 0.273,
     "recentForm": [
+      7,
       2,
       6,
       2,
@@ -1910615,12 +1910955,11 @@
       5,
       9,
       7,
-      6,
-      9
+      6
     ],
     "trackStats": {
       "Kum": {
-        "races": 9,
+        "races": 10,
         "wins": 0
       },
       "Çim": {
@@ -1910636,6 +1910975,10 @@
       "1200": {
         "races": 8,
         "wins": 0
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -1910650,6 +1910993,11 @@
         "places": 3
       },
       "Elazığ": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "Şanlıurfa": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1910685,6 +1911033,11 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1910719,10 +1911072,14 @@
       "AZİZ AKDEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "SAMİ KAPLAN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-19",
-    "lastUpdated": "2026-09-19"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "LADY GALA": {
     "name": "LADY GALA",
@@ -1912350,12 +1912707,13 @@
   },
   "ADARYAM": {
     "name": "ADARYAM",
-    "totalRaces": 4,
+    "totalRaces": 5,
     "wins": 1,
-    "places": 1,
-    "winRate": 0.25,
-    "placeRate": 0.25,
+    "places": 2,
+    "winRate": 0.2,
+    "placeRate": 0.4,
     "recentForm": [
+      2,
       1,
       6,
       8,
@@ -1912363,7 +1912721,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 4,
+        "races": 5,
         "wins": 1
       }
     },
@@ -1912371,13 +1912729,17 @@
       "1200": {
         "races": 4,
         "wins": 1
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 4,
+        "races": 5,
         "wins": 1,
-        "places": 1
+        "places": 2
       }
     },
     "classStats": {
@@ -1912390,6 +1912752,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1912402,12 +1912769,12 @@
         "wins": 0
       },
       "FERİT YARDIMCI": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ÖZGÜR ESRA": {
     "name": "ÖZGÜR ESRA",
@@ -1915514,12 +1915881,13 @@
   },
   "GANADORES": {
     "name": "GANADORES",
-    "totalRaces": 6,
-    "wins": 0,
-    "places": 1,
-    "winRate": 0,
-    "placeRate": 0.167,
+    "totalRaces": 7,
+    "wins": 1,
+    "places": 2,
+    "winRate": 0.143,
+    "placeRate": 0.286,
     "recentForm": [
+      1,
       6,
       2,
       5,
@@ -1915529,8 +1915897,8 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 4,
-        "wins": 0
+        "races": 5,
+        "wins": 1
       },
       "Çim": {
         "races": 1,
@@ -1915547,8 +1915915,8 @@
         "wins": 0
       },
       "1200": {
-        "races": 2,
-        "wins": 0
+        "races": 3,
+        "wins": 1
       },
       "1300": {
         "races": 1,
@@ -1915571,16 +1915939,16 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 2,
-        "wins": 0,
-        "places": 1
+        "races": 3,
+        "wins": 1,
+        "places": 2
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 5,
-        "wins": 0,
-        "places": 1
+        "races": 6,
+        "wins": 1,
+        "places": 2
       },
       "ŞARTLI 19": {
         "races": 1,
@@ -1915602,16 +1915970,16 @@
         "wins": 0
       },
       "YUNUS ÇELİKBAŞ": {
-        "races": 2,
-        "wins": 0
+        "races": 3,
+        "wins": 1
       },
       "MUSTAFA IŞIK": {
         "races": 1,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BİR RÜZGAR": {
     "name": "BİR RÜZGAR",
@@ -1915873,12 +1916241,13 @@
   },
   "BOBS YOUR UNCLE": {
     "name": "BOBS YOUR UNCLE",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.2,
+    "placeRate": 0.167,
     "recentForm": [
+      7,
       8,
       6,
       6,
@@ -1915887,7 +1916256,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 0
       }
     },
@@ -1915897,7 +1916266,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1400": {
@@ -1915912,14 +1916281,14 @@
         "places": 1
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 5,
+        "races": 6,
         "wins": 0,
         "places": 1
       }
@@ -1915940,10 +1916309,14 @@
       "AHMET HASAN BAYAR": {
         "races": 1,
         "wins": 0
+      },
+      "YUNUS ÇELİKBAŞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "NİSANUR HAT": {
     "name": "NİSANUR HAT",
@@ -1923561,37 +1923934,38 @@
   },
   "SİRBARİ": {
     "name": "SİRBARİ",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      8,
       6,
       5
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
@@ -1923604,10 +1923978,14 @@
       "AHMET HASAN BAYAR": {
         "races": 1,
         "wins": 0
+      },
+      "İSA KATAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-14",
-    "lastUpdated": "2026-09-14"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BALTAZARR": {
     "name": "BALTAZARR",
@@ -1931630,32 +1932008,33 @@
   },
   "ASİLBOY": {
     "name": "ASİLBOY",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
-    "places": 0,
+    "places": 1,
     "winRate": 0,
-    "placeRate": 0,
+    "placeRate": 0.333,
     "recentForm": [
+      2,
       5,
       7
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "classStats": {
@@ -1931665,9 +1932044,9 @@
         "places": 0
       },
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1931678,10 +1932057,14 @@
       "YUSUF CENGİZ": {
         "races": 1,
         "wins": 0
+      },
+      "İSA AKYAVUZ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-14",
-    "lastUpdated": "2026-09-14"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BEG DOĞAN": {
     "name": "BEG DOĞAN",
@@ -1932088,12 +1932471,13 @@
   },
   "EMOHELİL": {
     "name": "EMOHELİL",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 3,
     "winRate": 0,
-    "placeRate": 0.5,
+    "placeRate": 0.429,
     "recentForm": [
+      6,
       10,
       2,
       2,
@@ -1932103,13 +1932487,13 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 6,
+        "races": 7,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "1300": {
@@ -1932131,7 +1932515,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 2
       },
@@ -1932171,6 +1932555,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1932193,10 +1932582,14 @@
       "ABDULLAH ÇANKAYA": {
         "races": 1,
         "wins": 0
+      },
+      "AZİZ AKDEMİR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "HİFANINOĞLU": {
     "name": "HİFANINOĞLU",
@@ -1947147,12 +1947540,13 @@
   },
   "SNOWDRIFT": {
     "name": "SNOWDRIFT",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.167,
+    "placeRate": 0.143,
     "recentForm": [
+      8,
       2,
       8,
       7,
@@ -1947166,13 +1947560,13 @@
         "wins": 0
       },
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "1400": {
@@ -1947196,7 +1947590,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
@@ -1947218,7 +1947612,7 @@
         "places": 0
       },
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1947243,10 +1947637,14 @@
       "NİZAMETTİN DEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "MEHMET EMİN DOĞAN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "WOLF WOMEN": {
     "name": "WOLF WOMEN",
@@ -1947389,12 +1947787,13 @@
   },
   "MANOYELA": {
     "name": "MANOYELA",
-    "totalRaces": 4,
+    "totalRaces": 5,
     "wins": 1,
     "places": 2,
-    "winRate": 0.25,
-    "placeRate": 0.5,
+    "winRate": 0.2,
+    "placeRate": 0.4,
     "recentForm": [
+      14,
       16,
       4,
       1,
@@ -1947402,12 +1947801,16 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 4,
+        "races": 5,
         "wins": 1
       }
     },
     "distanceStats": {
       "1200": {
+        "races": 1,
+        "wins": 0
+      },
+      "1400": {
         "races": 1,
         "wins": 0
       },
@@ -1947429,6 +1947832,11 @@
         "races": 4,
         "wins": 1,
         "places": 2
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1947443,7 +1947851,7 @@
         "places": 0
       },
       "HANDIKAP 15/DIŞI /H3": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1947460,10 +1947868,14 @@
       "FERİT YARDIMCI": {
         "races": 1,
         "wins": 0
+      },
+      "MURAT AKDAĞ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-07",
-    "lastUpdated": "2026-09-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SEASON OF HOPE": {
     "name": "SEASON OF HOPE",
@@ -1950481,12 +1950893,13 @@
   },
   "ATEŞATAR": {
     "name": "ATEŞATAR",
-    "totalRaces": 4,
-    "wins": 0,
-    "places": 0,
-    "winRate": 0,
-    "placeRate": 0,
+    "totalRaces": 5,
+    "wins": 1,
+    "places": 1,
+    "winRate": 0.2,
+    "placeRate": 0.2,
     "recentForm": [
+      1,
       10,
       5,
       4,
@@ -1950494,14 +1950907,14 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 4,
-        "wins": 0
+        "races": 5,
+        "wins": 1
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 3,
-        "wins": 0
+        "races": 4,
+        "wins": 1
       },
       "1500": {
         "races": 1,
@@ -1950513,6 +1950926,11 @@
         "races": 4,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "classStats": {
@@ -1950525,6 +1950943,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1950537,12 +1950960,12 @@
         "wins": 0
       },
       "FERİT YARDIMCI": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-09",
-    "lastUpdated": "2026-09-09"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SERSİ": {
     "name": "SERSİ",
@@ -1952625,24 +1953048,25 @@
   },
   "LORD OF THE SEA": {
     "name": "LORD OF THE SEA",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      7,
       5,
       10
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
@@ -1952653,7 +1953077,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1952668,11 +1953092,16 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "MAIDEN": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "AZİZ AKDEMİR": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "MEHMET ŞAKİR": {
@@ -1952680,8 +1953109,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-21",
-    "lastUpdated": "2026-09-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "VIA SISTINO": {
     "name": "VIA SISTINO",
@@ -1959253,23 +1959682,24 @@
   },
   "YAKIŞIKLI EMRE": {
     "name": "YAKIŞIKLI EMRE",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      6,
       10
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -1959278,11 +1959708,16 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1959291,10 +1959726,14 @@
       "AZİZ AKDEMİR": {
         "races": 1,
         "wins": 0
+      },
+      "ROJHAT KURT": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-07-22",
-    "lastUpdated": "2026-07-22"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "KRISTAL NACHT": {
     "name": "KRISTAL NACHT",
@@ -1961836,23 +1962275,28 @@
   },
   "SAND QUEEN": {
     "name": "SAND QUEEN",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 1,
-    "places": 1,
-    "winRate": 0.5,
-    "placeRate": 0.5,
+    "places": 2,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      3,
       1,
       7
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
     "distanceStats": {
       "1200": {
+        "races": 1,
+        "wins": 0
+      },
+      "1300": {
         "races": 1,
         "wins": 0
       },
@@ -1961866,6 +1962310,11 @@
         "races": 2,
         "wins": 1,
         "places": 1
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -1961873,16 +1962322,21 @@
         "races": 2,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "NECMİ ALTIN": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-07",
-    "lastUpdated": "2026-09-07"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "SHARPSHAH": {
     "name": "SHARPSHAH",
@@ -1963380,12 +1963834,13 @@
   },
   "KÖKSAL": {
     "name": "KÖKSAL",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      8,
       13,
       9
     ],
@@ -1963393,9 +1963848,17 @@
       "Sentetik": {
         "races": 2,
         "wins": 0
+      },
+      "Kum": {
+        "races": 1,
+        "wins": 0
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      },
       "1300": {
         "races": 1,
         "wins": 0
@@ -1963410,6 +1963873,11 @@
         "races": 2,
         "wins": 0,
         "places": 0
+      },
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1963419,6 +1963887,11 @@
         "places": 0
       },
       "MAIDEN/DHÖW": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "HANDIKAP 13/DHÖ /H3": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -1963432,10 +1963905,14 @@
       "GÖKHAN BEKTAŞ": {
         "races": 1,
         "wins": 0
+      },
+      "ÇETİN CANPOLAT": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-08-16",
-    "lastUpdated": "2026-08-16"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "TÜMÇIKMAZ": {
     "name": "TÜMÇIKMAZ",
@@ -1982647,12 +1983124,13 @@
   },
   "DEMİRKIR ŞAHI": {
     "name": "DEMİRKIR ŞAHI",
-    "totalRaces": 2,
-    "wins": 0,
-    "places": 1,
-    "winRate": 0,
-    "placeRate": 0.5,
+    "totalRaces": 3,
+    "wins": 1,
+    "places": 2,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      1,
       2,
       7
     ],
@@ -1982662,11 +1983140,15 @@
         "wins": 0
       },
       "Kum": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 1
+      },
       "1400": {
         "races": 2,
         "wins": 0
@@ -1982679,16 +1983161,16 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
-        "wins": 0,
-        "places": 1
+        "races": 2,
+        "wins": 1,
+        "places": 2
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 2,
-        "wins": 0,
-        "places": 1
+        "races": 3,
+        "wins": 1,
+        "places": 2
       }
     },
     "jockeyCompatibility": {
@@ -1982697,12 +1983179,12 @@
         "wins": 0
       },
       "AZİZ AKDEMİR": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "KURT BEY": {
     "name": "KURT BEY",
@@ -1985606,24 +1986088,25 @@
   },
   "APOHİKO": {
     "name": "APOHİKO",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      4,
       5,
       7
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1400": {
@@ -1985633,14 +1986116,14 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 0
       }
@@ -1985651,12 +1986134,12 @@
         "wins": 0
       },
       "AHMET HASAN BAYAR": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "GAMBLING": {
     "name": "GAMBLING",
@@ -1985759,36 +1986242,37 @@
   },
   "SHADOW KING": {
     "name": "SHADOW KING",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      9,
       12
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1985797,10 +1986281,14 @@
       "AHMET HASAN BAYAR": {
         "races": 1,
         "wins": 0
+      },
+      "NECMİ ALTIN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-14",
-    "lastUpdated": "2026-09-14"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "EASTERN DIVA": {
     "name": "EASTERN DIVA",
@@ -1986451,24 +1986939,25 @@
   },
   "HUNTER MAN": {
     "name": "HUNTER MAN",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.5,
+    "placeRate": 0.333,
     "recentForm": [
+      6,
       7,
       3
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1300": {
@@ -1986478,7 +1986967,7 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       },
@@ -1986490,7 +1986979,7 @@
     },
     "classStats": {
       "MAIDEN": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 1
       }
@@ -1986499,10 +1986988,14 @@
       "İSA KATAR": {
         "races": 2,
         "wins": 0
+      },
+      "FERİT YARDIMCI": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-27",
-    "lastUpdated": "2026-09-27"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "KING ASLAN": {
     "name": "KING ASLAN",
@@ -1986615,24 +1987108,25 @@
   },
   "SOWER": {
     "name": "SOWER",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
-    "places": 0,
+    "places": 1,
     "winRate": 0,
-    "placeRate": 0,
+    "placeRate": 0.333,
     "recentForm": [
+      3,
       4,
       4
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1400": {
@@ -1986642,26 +1987136,30 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "AZİZ AKDEMİR": {
         "races": 2,
         "wins": 0
+      },
+      "AHMET HASAN BAYAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "PEARL GRAIN": {
     "name": "PEARL GRAIN",
@@ -1991845,17 +1992343,18 @@
   },
   "YELİN": {
     "name": "YELİN",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
-    "places": 0,
+    "places": 1,
     "winRate": 0,
-    "placeRate": 0,
+    "placeRate": 0.5,
     "recentForm": [
+      3,
       10
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -1991863,13 +1992362,17 @@
       "1300": {
         "races": 1,
         "wins": 0
+      },
+      "1400": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
-        "places": 0
+        "places": 1
       }
     },
     "classStats": {
@@ -1991877,16 +1992380,21 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "HANDIKAP 15/DIŞI /H3": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "AHMET HASAN BAYAR": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-21",
-    "lastUpdated": "2026-09-21"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "QUEEN IQRA": {
     "name": "QUEEN IQRA",
@@ -1992722,18 +1993230,19 @@
   },
   "SHUEN": {
     "name": "SHUEN",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 1,
     "places": 1,
-    "winRate": 0.5,
-    "placeRate": 0.5,
+    "winRate": 0.333,
+    "placeRate": 0.333,
     "recentForm": [
+      5,
       1,
       5
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
@@ -1992741,6 +1993250,10 @@
       "1200": {
         "races": 1,
         "wins": 1
+      },
+      "1300": {
+        "races": 1,
+        "wins": 0
       },
       "1400": {
         "races": 1,
@@ -1992754,7 +1993267,7 @@
         "places": 0
       },
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 1,
         "places": 1
       }
@@ -1992769,6 +1993282,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1992779,10 +1993297,14 @@
       "MUHAMMED BARAN ÇAKMAK": {
         "races": 1,
         "wins": 1
+      },
+      "İSA KATAR": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-05",
-    "lastUpdated": "2026-10-05"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "ASYA KIZ": {
     "name": "ASYA KIZ",
@@ -1993819,21 +1994341,26 @@
   },
   "WELCOME TO KING": {
     "name": "WELCOME TO KING",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      10,
       11
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      },
       "1400": {
         "races": 1,
         "wins": 0
@@ -1993841,14 +1994368,14 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
@@ -1993857,28 +1994384,37 @@
       "HALİL ALTIN": {
         "races": 1,
         "wins": 0
-      }
-    },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
-  },
-  "WILD FALCON": {
-    "name": "WILD FALCON",
-    "totalRaces": 1,
-    "wins": 0,
-    "places": 1,
-    "winRate": 0,
-    "placeRate": 1,
-    "recentForm": [
-      3
-    ],
-    "trackStats": {
-      "Kum": {
+      },
+      "MEHMET ŞAKİR": {
         "races": 1,
         "wins": 0
       }
     },
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
+  },
+  "WILD FALCON": {
+    "name": "WILD FALCON",
+    "totalRaces": 2,
+    "wins": 0,
+    "places": 1,
+    "winRate": 0,
+    "placeRate": 0.5,
+    "recentForm": [
+      4,
+      3
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 2,
+        "wins": 0
+      }
+    },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      },
       "1400": {
         "races": 1,
         "wins": 0
@@ -1993886,14 +1994422,14 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 1
       }
@@ -1993902,10 +1994438,14 @@
       "YUSUF CENGİZ": {
         "races": 1,
         "wins": 0
+      },
+      "FERİT YARDIMCI": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "KING ABJAR": {
     "name": "KING ABJAR",
@@ -1993954,21 +1994494,26 @@
   },
   "OLİSSE": {
     "name": "OLİSSE",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      10,
       14
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      },
       "1400": {
         "races": 1,
         "wins": 0
@@ -1993976,26 +1994521,26 @@
     },
     "venueStats": {
       "Şanlıurfa": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "jockeyCompatibility": {
       "MEHMET EMİN DOĞAN": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-28",
-    "lastUpdated": "2026-09-28"
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   },
   "BY ORMANCI": {
     "name": "BY ORMANCI",
@@ -2003705,5 +2004250,185 @@
     },
     "lastRaceDate": "2026-10-18",
     "lastUpdated": "2026-10-18"
+  },
+  "FEARLESS LIGHTNING": {
+    "name": "FEARLESS LIGHTNING",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      11
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "MAIDEN": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "MEHMET ŞAKİR": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
+  },
+  "KING ATEROK": {
+    "name": "KING ATEROK",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      5
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "MAIDEN": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "İSA AKYAVUZ": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
+  },
+  "DOLAR": {
+    "name": "DOLAR",
+    "totalRaces": 1,
+    "wins": 0,
+    "places": 0,
+    "winRate": 0,
+    "placeRate": 0,
+    "recentForm": [
+      5
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "venueStats": {
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "classStats": {
+      "MAIDEN": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      }
+    },
+    "jockeyCompatibility": {
+      "İSA KATAR": {
+        "races": 1,
+        "wins": 0
+      }
+    },
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
+  },
+  "ATTRACTIVE GIRL": {
+    "name": "ATTRACTIVE GIRL",
+    "totalRaces": 1,
+    "wins": 1,
+    "places": 1,
+    "winRate": 1,
+    "placeRate": 1,
+    "recentForm": [
+      1
+    ],
+    "trackStats": {
+      "Kum": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "distanceStats": {
+      "1300": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "venueStats": {
+      "Şanlıurfa": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
+      }
+    },
+    "classStats": {
+      "ŞARTLI 3/DIŞI": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
+      }
+    },
+    "jockeyCompatibility": {
+      "İSA AKYAVUZ": {
+        "races": 1,
+        "wins": 1
+      }
+    },
+    "lastRaceDate": "2026-10-19",
+    "lastUpdated": "2026-10-19"
   }
 }
