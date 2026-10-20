@@ -780,5 +780,105 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "raceNo": 7,
+    "venue": "Adana",
+    "distance": 1400,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 5",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "LADY GROUND",
+        "jockey": "ERCAN ÇANKAYA",
+        "trainer": "EMİN KARATAŞ",
+        "weight": 58,
+        "odds": 14.2,
+        "finishTime": "1.23.99",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "2",
+        "name": "WOLF BROTHERS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "İHSAN AKMEŞE",
+        "weight": 60,
+        "odds": 1.75,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "6",
+        "name": "ORIRI",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "İSMET TEKİNALP",
+        "weight": 55,
+        "odds": 12.5,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "3",
+        "name": "SERAHİRA",
+        "jockey": "SERHAT ÇELİK",
+        "trainer": "İLKER KÖROĞLU",
+        "weight": 55,
+        "odds": 4.1,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "5",
+        "name": "RESTAURADORES",
+        "jockey": "AHMET ÇELİK",
+        "trainer": "BURAK İLVAN",
+        "weight": 56,
+        "odds": 2.6,
+        "finishTime": "",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "1",
+        "name": "SPEEDTAIL",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 61,
+        "odds": 27.3,
+        "finishTime": "",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [
+      {
+        "no": "7",
+        "name": "IRONHOOF",
+        "finishTime": ""
+      },
+      {
+        "no": "8",
+        "name": "SULTANA",
+        "finishTime": ""
+      },
+      {
+        "no": "9",
+        "name": "OKANDA",
+        "finishTime": ""
+      }
+    ]
   }
 ]
