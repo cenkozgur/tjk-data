@@ -843,6 +843,102 @@
   },
   {
     "date": "2026-10-23",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1500,
+    "surface": "Sentetik",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "6",
+        "name": "WHITEWALKERS",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 57,
+        "odds": 2.1,
+        "finishTime": "1.32.60",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "7",
+        "name": "EGOISTA",
+        "jockey": "NEVZAT AVCİ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 55,
+        "odds": 2.9,
+        "finishTime": "1.32.69",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "5",
+        "name": "VICTORY OF TOMO",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 2.9,
+        "finishTime": "1.33.12",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "1",
+        "name": "MELONCITTO",
+        "jockey": "SADETTİN BOYRAZ",
+        "trainer": "HÜSEYİN ÇALIŞKAN",
+        "weight": 58,
+        "odds": 2.85,
+        "finishTime": "1.33.49",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "3",
+        "name": "HAVASUPAI",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57,
+        "odds": 8.65,
+        "finishTime": "1.33.55",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "2",
+        "name": "BATURALP CAN",
+        "jockey": "ONUR ÖZTÜRK",
+        "trainer": "BEYDA TANRIKULU",
+        "weight": 57,
+        "odds": 14.85,
+        "finishTime": "1.33.64",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "4",
+        "name": "RISING GLORY",
+        "jockey": "MEHMET KAYA",
+        "trainer": "MESUT BATMAN",
+        "weight": 57,
+        "odds": 11.75,
+        "finishTime": "1.35.02",
+        "age": 2
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
+  },
+  {
+    "date": "2026-10-23",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1400,
