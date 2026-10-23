@@ -772,5 +772,130 @@
         "finishTime": "Derecesiz"
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "raceNo": 1,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Sentetik",
+    "raceClass": "Handikap 16 /H1",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "NINE TREES",
+        "jockey": "MEHMET SALİH ÇELİK",
+        "trainer": "TAMER OĞUZHAN KARA",
+        "weight": 56,
+        "odds": 3.55,
+        "finishTime": "2.14.11",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "6",
+        "name": "THUNDER HORSE",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "SERHAT YILDIZ",
+        "weight": 52,
+        "odds": 4.2,
+        "finishTime": "2.14.20",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "4",
+        "name": "ROSARIO",
+        "jockey": "MEHMET KAYA",
+        "trainer": "ŞİNASİ GÖKÇE",
+        "weight": 54.5,
+        "odds": 3.9,
+        "finishTime": "2.14.51",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "7",
+        "name": "MR HERMES",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "CEM FİLİKSAÇ",
+        "weight": 52,
+        "odds": 8.35,
+        "finishTime": "2.14.73",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "8",
+        "name": "CALLATIS",
+        "jockey": "ADEM ASLAN",
+        "trainer": "MESUT BATMAN",
+        "weight": 52,
+        "odds": 41.35,
+        "finishTime": "2.15.35",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "2",
+        "name": "HOLA Y CHAO",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "HÜSEYİN SUNKAR",
+        "weight": 57.5,
+        "odds": 10.35,
+        "finishTime": "2.15.36",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "10",
+        "name": "SARILAR KIZI",
+        "jockey": "SELÇUK AKBULAT",
+        "trainer": "TEZCAN TAŞAR",
+        "weight": 50,
+        "odds": 28,
+        "finishTime": "2.15.68",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "5",
+        "name": "NART THE BATTLE",
+        "jockey": "MÜCAHİT BAYIR",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 50.5,
+        "odds": 6.2,
+        "finishTime": "2.16.51",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 9,
+        "no": "9",
+        "name": "JACKAL TROUBLE",
+        "jockey": "ALİ KAÇMAZ",
+        "trainer": "ORKUN ÖZELCANAT",
+        "weight": 51,
+        "odds": 4.5,
+        "finishTime": "2.18.29",
+        "age": 3
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "1",
+        "name": "KABA RÜZGAR"
+      }
+    ],
+    "unplaced": []
   }
 ]
