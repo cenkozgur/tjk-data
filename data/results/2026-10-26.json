@@ -992,6 +992,121 @@
   },
   {
     "date": "2026-10-26",
+    "raceNo": 7,
+    "venue": "Şanlıurfa",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "Handikap 14 /H3",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "10",
+        "name": "GANADORES",
+        "jockey": "NİZAMETTİN DEMİR",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 52.5,
+        "odds": 21.75,
+        "finishTime": "1.37.61",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "8",
+        "name": "SECRET GIRL",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "VELİ ÇİZİK",
+        "weight": 53.5,
+        "odds": 24.65,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "1",
+        "name": "LION OF THE NORTH",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "MEHRİBAN ÇİÇEK",
+        "weight": 58.5,
+        "odds": 1.85,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "7",
+        "name": "PAPA CLAS",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 53.5,
+        "odds": 14.9,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "6",
+        "name": "KING İZZET",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "MEHMET ASLAN",
+        "weight": 56.5,
+        "odds": 10.15,
+        "finishTime": "",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "4",
+        "name": "PINAR",
+        "jockey": "İSA KATAR",
+        "trainer": "HASAN TEKİNALP",
+        "weight": 57,
+        "odds": 11.8,
+        "finishTime": "",
+        "age": 2
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "12",
+        "name": "PRINCESS AZRA"
+      }
+    ],
+    "unplaced": [
+      {
+        "no": "2",
+        "name": "MYONEDAY",
+        "finishTime": ""
+      },
+      {
+        "no": "3",
+        "name": "SUN OF POWER",
+        "finishTime": ""
+      },
+      {
+        "no": "5",
+        "name": "VICTORY MARIA",
+        "finishTime": ""
+      },
+      {
+        "no": "9",
+        "name": "GODDESS OF BEAUTY",
+        "finishTime": ""
+      },
+      {
+        "no": "11",
+        "name": "VOOYASUB",
+        "finishTime": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1400,
