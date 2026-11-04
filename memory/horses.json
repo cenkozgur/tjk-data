@@ -1852084,12 +1852084,13 @@
   },
   "GREENLIFE": {
     "name": "GREENLIFE",
-    "totalRaces": 10,
+    "totalRaces": 11,
     "wins": 1,
-    "places": 2,
-    "winRate": 0.1,
-    "placeRate": 0.2,
+    "places": 3,
+    "winRate": 0.091,
+    "placeRate": 0.273,
     "recentForm": [
+      3,
       6,
       5,
       7,
@@ -1852098,8 +1852099,7 @@
       4,
       3,
       4,
-      1,
-      6
+      1
     ],
     "trackStats": {
       "Çim": {
@@ -1852107,7 +1852107,7 @@
         "wins": 1
       },
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
@@ -1852125,7 +1852125,7 @@
         "wins": 0
       },
       "1200": {
-        "races": 4,
+        "races": 5,
         "wins": 0
       },
       "1300": {
@@ -1852147,6 +1852147,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "Elazığ": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -1852184,6 +1852189,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 4/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1852208,12 +1852218,12 @@
         "wins": 0
       },
       "AZİZ AKDEMİR": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-12",
-    "lastUpdated": "2026-10-12"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "LILYHAMMER": {
     "name": "LILYHAMMER",
@@ -1920216,12 +1920226,13 @@
   },
   "PINAR": {
     "name": "PINAR",
-    "totalRaces": 7,
+    "totalRaces": 8,
     "wins": 1,
     "places": 4,
-    "winRate": 0.143,
-    "placeRate": 0.571,
+    "winRate": 0.125,
+    "placeRate": 0.5,
     "recentForm": [
+      4,
       6,
       3,
       5,
@@ -1920232,13 +1920243,13 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 7,
+        "races": 8,
         "wins": 1
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 5,
+        "races": 6,
         "wins": 1
       },
       "1400": {
@@ -1920257,7 +1920268,7 @@
         "places": 0
       },
       "Elazığ": {
-        "races": 4,
+        "races": 5,
         "wins": 1,
         "places": 4
       },
@@ -1920292,6 +1920303,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 4/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1920314,10 +1920330,14 @@
       "İSA KATAR": {
         "races": 1,
         "wins": 0
+      },
+      "FERİT YARDIMCI": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-26",
-    "lastUpdated": "2026-10-26"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "TEPEKIZI": {
     "name": "TEPEKIZI",
@@ -1992128,25 +1992148,26 @@
   },
   "ARASIN KIZI": {
     "name": "ARASIN KIZI",
-    "totalRaces": 3,
+    "totalRaces": 4,
     "wins": 0,
     "places": 1,
     "winRate": 0,
-    "placeRate": 0.333,
+    "placeRate": 0.25,
     "recentForm": [
+      5,
       9,
       7,
       3
     ],
     "trackStats": {
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "1500": {
@@ -1992156,7 +1992177,7 @@
     },
     "venueStats": {
       "Elazığ": {
-        "races": 3,
+        "races": 4,
         "wins": 0,
         "places": 1
       }
@@ -1992176,11 +1992197,16 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 4/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "MEHMET TAŞKAYA": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "MUHAMMED BARAN ÇAKMAK": {
@@ -1992188,8 +1992214,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-21",
-    "lastUpdated": "2026-10-21"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "TIME OF DREAMS": {
     "name": "TIME OF DREAMS",
@@ -2011120,31 +2011146,32 @@
   },
   "SARİŞİM": {
     "name": "SARİŞİM",
-    "totalRaces": 1,
-    "wins": 0,
-    "places": 1,
-    "winRate": 0,
+    "totalRaces": 2,
+    "wins": 1,
+    "places": 2,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      1,
       2
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 1,
-        "wins": 0,
-        "places": 1
+        "races": 2,
+        "wins": 1,
+        "places": 2
       }
     },
     "classStats": {
@@ -2011152,48 +2011179,59 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 4/DIŞI": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "MEHMET DOĞAN": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "THE FIRST DANCE": {
     "name": "THE FIRST DANCE",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      6,
       7
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       }
     },
     "classStats": {
       "MAIDEN": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "ŞARTLI 4/DIŞI": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -2011203,10 +2011241,14 @@
       "MEHMET TAŞKAYA": {
         "races": 1,
         "wins": 0
+      },
+      "HÜSEYİN ALTUNKILIÇ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-07",
-    "lastUpdated": "2026-10-07"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "GOLD HORSE": {
     "name": "GOLD HORSE",
@@ -2016052,21 +2016094,26 @@
   },
   "ATTRACTIVE GIRL": {
     "name": "ATTRACTIVE GIRL",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 1,
-    "places": 1,
-    "winRate": 1,
+    "places": 2,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      2,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
     "distanceStats": {
+      "1200": {
+        "races": 1,
+        "wins": 0
+      },
       "1300": {
         "races": 1,
         "wins": 1
@@ -2016077,6 +2016124,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "Elazığ": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "classStats": {
@@ -2016084,16 +2016136,21 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 4/DIŞI": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "İSA AKYAVUZ": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-19",
-    "lastUpdated": "2026-10-19"
+    "lastRaceDate": "2026-11-04",
+    "lastUpdated": "2026-11-04"
   },
   "ADDRESS HILL ONE": {
     "name": "ADDRESS HILL ONE",
