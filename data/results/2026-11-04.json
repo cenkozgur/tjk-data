@@ -510,6 +510,131 @@
   },
   {
     "date": "2026-11-04",
+    "raceNo": 5,
+    "venue": "Elazığ",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-6/DHÖW",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "2",
+        "name": "NALIN SESİ",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "KADİR TAŞDEMİR",
+        "weight": 59,
+        "odds": 1.35,
+        "finishTime": "1.25.60",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "3",
+        "name": "ÇİĞDEMGELİN",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "HASAN TEKİNALP",
+        "weight": 57,
+        "odds": 12.3,
+        "finishTime": "1.25.61",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "5",
+        "name": "HÜKÜMSÜREN",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 57,
+        "odds": 4.75,
+        "finishTime": "1.26.74",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "1",
+        "name": "PAPETTİ",
+        "jockey": "ABDULLAH ÇANKAYA",
+        "trainer": "MEHMET ASLAN",
+        "weight": 60,
+        "odds": 7.35,
+        "finishTime": "1.27.13",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "6",
+        "name": "TELLİ DERELİ",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 57,
+        "odds": 24.4,
+        "finishTime": "1.28.46",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "4",
+        "name": "HUN DAY",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "RECEP BECENE",
+        "weight": 57,
+        "odds": 12.75,
+        "finishTime": "1.30.08",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "8",
+        "name": "SEDERİ GÜZELİ",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 55,
+        "odds": 17.05,
+        "finishTime": "1.31.05",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "9",
+        "name": "ŞUBAT BEY",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MAHMUT DOĞAN",
+        "weight": 55,
+        "odds": 20.05,
+        "finishTime": "1.34.29",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 9,
+        "no": "7",
+        "name": "BİLDENBİR",
+        "jockey": "İSA KATAR",
+        "trainer": "SÜLEYMAN KARAKEÇİLİ",
+        "weight": 55,
+        "odds": 19.45,
+        "finishTime": "1.35.84",
+        "age": 3
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "10",
+        "name": "ADALAR"
+      }
+    ],
+    "unplaced": []
+  },
+  {
+    "date": "2026-11-04",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1400,
