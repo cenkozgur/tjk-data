@@ -787,5 +787,77 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 2000,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "PLAYMAKER",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "DERYA ERGİN",
+        "weight": 56,
+        "odds": 1.4,
+        "finishTime": "2.04.64",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "2",
+        "name": "COOL STAR",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "TARKAN ŞİT",
+        "weight": 58,
+        "odds": 3,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "3",
+        "name": "SONG RISING",
+        "jockey": "GÖRKEM ÖZÇELİK",
+        "trainer": "MEHMET EMİN AVCI",
+        "weight": 57,
+        "odds": 6.95,
+        "finishTime": "",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "1",
+        "name": "KING OF THE WIN",
+        "jockey": "EFE AKPINAR",
+        "trainer": "MİRAÇ İPEK",
+        "weight": 56,
+        "odds": 8.8,
+        "finishTime": "",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "5",
+        "name": "QUANTUM OF SOLACE",
+        "jockey": "ÖZCAN YILDIRIM",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 56,
+        "odds": 7.5,
+        "finishTime": "",
+        "age": 4
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
   }
 ]
