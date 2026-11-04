@@ -635,6 +635,77 @@
   },
   {
     "date": "2026-11-04",
+    "raceNo": 6,
+    "venue": "Elazığ",
+    "distance": 2000,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "PRINCESS ALLIANOI",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "BÜNYAMİN CENGİZ",
+        "weight": 60,
+        "odds": 1.7,
+        "finishTime": "2.16.98",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "MELİS HANIM",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 63,
+        "odds": 13,
+        "finishTime": "2.17.95",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "6",
+        "name": "DANCING GRACE",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "MAHMUT DOĞAN",
+        "weight": 56,
+        "odds": 6.65,
+        "finishTime": "2.18.09",
+        "age": 5
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "5",
+        "name": "DENİZ LARA",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "MUHAMMED BULUÇ",
+        "weight": 57,
+        "odds": 4.55,
+        "finishTime": "2.18.86",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [
+      {
+        "no": "2",
+        "name": "ELELE",
+        "finishTime": "Derecesiz"
+      },
+      {
+        "no": "3",
+        "name": "LADY İSİS",
+        "finishTime": "Derecesiz"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
     "raceNo": 1,
     "venue": "İstanbul",
     "distance": 1400,
