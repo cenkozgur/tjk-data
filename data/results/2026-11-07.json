@@ -529,6 +529,119 @@
   },
   {
     "date": "2026-11-07",
+    "raceNo": 5,
+    "venue": "Diyarbakır",
+    "distance": 1200,
+    "surface": "Kum",
+    "raceClass": "KV-6/DHÖW",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "1",
+        "name": "KAANHAKAN",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "ZEKERİYA AKDEMİR",
+        "weight": 62.5,
+        "odds": 3.9,
+        "finishTime": "1.24.88",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "6",
+        "name": "ŞEŞENSULTANI",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 58.5,
+        "odds": 9.05,
+        "finishTime": "1.26.03",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "8",
+        "name": "PRENSES DİLARA",
+        "jockey": "AZİZ AKDEMİR",
+        "trainer": "MEHMET ASLAN",
+        "weight": 56.5,
+        "odds": 4.35,
+        "finishTime": "1.26.38",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "5",
+        "name": "ARAPÇELİK",
+        "jockey": "YUNUS ÇELİKBAŞ",
+        "trainer": "MEHMET ALİ SUBAY",
+        "weight": 58.5,
+        "odds": 3.3,
+        "finishTime": "1.26.58",
+        "age": 7
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "3",
+        "name": "UMUDUM DENİZ",
+        "jockey": "REMZİ DOĞAN",
+        "trainer": "ABDULKADİR AKIL",
+        "weight": 61,
+        "odds": 12.4,
+        "finishTime": "1.27.83",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "9",
+        "name": "KARAŞİMŞEK",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 54.5,
+        "odds": 15.2,
+        "finishTime": "1.28.20",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "2",
+        "name": "PAYİDAR KAYA",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 61.5,
+        "odds": 6.85,
+        "finishTime": "1.28.51",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "4",
+        "name": "DUMRUL",
+        "jockey": "İSA KATAR",
+        "trainer": "BAHATTİN DEMİRKAPU",
+        "weight": 60.5,
+        "odds": 4.1,
+        "finishTime": "1.32.77",
+        "age": 9
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "7",
+        "name": "ÖZNİLAY"
+      }
+    ],
+    "unplaced": []
+  },
+  {
+    "date": "2026-11-07",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 2100,
