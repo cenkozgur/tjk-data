@@ -1853231,12 +1853231,13 @@
   },
   "LUNGTA": {
     "name": "LUNGTA",
-    "totalRaces": 6,
+    "totalRaces": 7,
     "wins": 2,
     "places": 4,
-    "winRate": 0.333,
-    "placeRate": 0.667,
+    "winRate": 0.286,
+    "placeRate": 0.571,
     "recentForm": [
+      4,
       6,
       3,
       2,
@@ -1853250,7 +1853251,7 @@
         "wins": 0
       },
       "Kum": {
-        "races": 4,
+        "races": 5,
         "wins": 2
       },
       "Sentetik": {
@@ -1853272,7 +1853273,7 @@
         "wins": 1
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -1853283,7 +1853284,7 @@
         "places": 0
       },
       "İzmir": {
-        "races": 4,
+        "races": 5,
         "wins": 2,
         "places": 4
       },
@@ -1853323,6 +1853324,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1853337,10 +1853343,14 @@
       "MEHMET KAYA": {
         "races": 2,
         "wins": 0
+      },
+      "MUSTAFA ÇİÇEK": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-04",
-    "lastUpdated": "2026-10-04"
+    "lastRaceDate": "2026-11-07",
+    "lastUpdated": "2026-11-07"
   },
   "PUYOL": {
     "name": "PUYOL",
@@ -1932595,12 +1932605,13 @@
   },
   "HILL OF ANGELS": {
     "name": "HILL OF ANGELS",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 3,
-    "places": 5,
-    "winRate": 0.6,
+    "places": 6,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      3,
       1,
       2,
       1,
@@ -1932609,7 +1932620,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 3
       }
     },
@@ -1932619,15 +1932630,15 @@
         "wins": 3
       },
       "1400": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
     "venueStats": {
       "İzmir": {
-        "races": 5,
+        "races": 6,
         "wins": 3,
-        "places": 5
+        "places": 6
       }
     },
     "classStats": {
@@ -1932650,6 +1932661,11 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1932664,10 +1932680,14 @@
       "ONUR ATMACA": {
         "races": 1,
         "wins": 0
+      },
+      "SELİM KAYA": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-12",
-    "lastUpdated": "2026-09-12"
+    "lastRaceDate": "2026-11-07",
+    "lastUpdated": "2026-11-07"
   },
   "HOLIDAY GIRL": {
     "name": "HOLIDAY GIRL",
@@ -1968956,12 +1968976,13 @@
   },
   "EMPEROR": {
     "name": "EMPEROR",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 2,
     "places": 4,
-    "winRate": 0.4,
-    "placeRate": 0.8,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      5,
       2,
       4,
       1,
@@ -1968970,7 +1968991,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 2
       }
     },
@@ -1968980,13 +1969001,13 @@
         "wins": 0
       },
       "1400": {
-        "races": 4,
+        "races": 5,
         "wins": 2
       }
     },
     "venueStats": {
       "İzmir": {
-        "races": 5,
+        "races": 6,
         "wins": 2,
         "places": 4
       }
@@ -1969016,6 +1969037,11 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
@@ -1969024,7 +1969050,7 @@
         "wins": 1
       },
       "ONUR ATMACA": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       },
       "BEKİR MERT MIRIK": {
@@ -1969032,8 +1969058,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-22",
-    "lastUpdated": "2026-10-22"
+    "lastRaceDate": "2026-11-07",
+    "lastUpdated": "2026-11-07"
   },
   "HANSİNİ": {
     "name": "HANSİNİ",
@@ -1989689,23 +1989715,28 @@
   },
   "BRAVE ARES": {
     "name": "BRAVE ARES",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 0,
-    "places": 1,
+    "places": 2,
     "winRate": 0,
-    "placeRate": 0.5,
+    "placeRate": 0.667,
     "recentForm": [
+      2,
       2,
       5
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       }
     },
     "distanceStats": {
       "1200": {
+        "races": 1,
+        "wins": 0
+      },
+      "1400": {
         "races": 1,
         "wins": 0
       },
@@ -1989716,9 +1989747,9 @@
     },
     "venueStats": {
       "İzmir": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 1
+        "places": 2
       }
     },
     "classStats": {
@@ -1989731,11 +1989762,16 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "KV-8": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "BEKİR MERT MIRIK": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       },
       "MUHAMMED MİR BİLGİN": {
@@ -1989743,8 +1989779,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-09-10",
-    "lastUpdated": "2026-09-10"
+    "lastRaceDate": "2026-11-07",
+    "lastUpdated": "2026-11-07"
   },
   "CLEMSON": {
     "name": "CLEMSON",
@@ -2017668,35 +2017704,45 @@
   },
   "PAŞOT": {
     "name": "PAŞOT",
-    "totalRaces": 1,
-    "wins": 1,
-    "places": 1,
+    "totalRaces": 2,
+    "wins": 2,
+    "places": 2,
     "winRate": 1,
     "placeRate": 1,
     "recentForm": [
+      1,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
-        "wins": 1
+        "races": 2,
+        "wins": 2
       }
     },
     "distanceStats": {
       "1200": {
         "races": 1,
         "wins": 1
+      },
+      "1400": {
+        "races": 1,
+        "wins": 1
       }
     },
     "venueStats": {
       "İzmir": {
-        "races": 1,
-        "wins": 1,
-        "places": 1
+        "races": 2,
+        "wins": 2,
+        "places": 2
       }
     },
     "classStats": {
       "ŞARTLI 4": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
+      },
+      "KV-8": {
         "races": 1,
         "wins": 1,
         "places": 1
@@ -2017706,10 +2017752,14 @@
       "MUHAMMED MİR BİLGİN": {
         "races": 1,
         "wins": 1
+      },
+      "ALİ YILDIZ": {
+        "races": 1,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-17",
-    "lastUpdated": "2026-10-17"
+    "lastRaceDate": "2026-11-07",
+    "lastUpdated": "2026-11-07"
   },
   "KIZIM ÖYKÜ": {
     "name": "KIZIM ÖYKÜ",
