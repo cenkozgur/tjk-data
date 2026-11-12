@@ -486,6 +486,90 @@
   },
   {
     "date": "2026-11-12",
+    "raceNo": 5,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "KV-8",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "MOMENT SAVER",
+        "jockey": "MEHMET KAYA",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 58,
+        "odds": 3.45,
+        "finishTime": "1.27.38",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "DANCE OF WIND",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "SİNAN ŞAHYAZICI",
+        "weight": 59,
+        "odds": 1.35,
+        "finishTime": "1.27.57",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "5",
+        "name": "KHIOS",
+        "jockey": "GÖKHAN GÖKÇE",
+        "trainer": "SEYİT GÖKÇE",
+        "weight": 56,
+        "odds": 8.75,
+        "finishTime": "1.27.69",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "4",
+        "name": "VİTE VİTE",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "MUSTAFA KURDU",
+        "weight": 58,
+        "odds": 7.8,
+        "finishTime": "1.27.85",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "6",
+        "name": "TIZ A BELLA",
+        "jockey": "BEKİR MERT MIRIK",
+        "trainer": "YAKUP AKKILIÇ",
+        "weight": 56,
+        "odds": 12.7,
+        "finishTime": "1.28.31",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "2",
+        "name": "LION TOMO",
+        "jockey": "ÖMER FARUK ÖZEN",
+        "trainer": "MÜSLÜM DOLAK",
+        "weight": 59,
+        "odds": 10.4,
+        "finishTime": "1.28.67",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
+  },
+  {
+    "date": "2026-11-12",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1600,
