@@ -675,6 +675,90 @@
   },
   {
     "date": "2026-11-12",
+    "raceNo": 7,
+    "venue": "İzmir",
+    "distance": 1400,
+    "surface": "Kum",
+    "raceClass": "KV-7/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "LILLE HAMMER",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "HIDIR DURMUŞ",
+        "weight": 57,
+        "odds": 3.7,
+        "finishTime": "1.28.48",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "4",
+        "name": "ŞAFİYE",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "CELHAN BATUR",
+        "weight": 57,
+        "odds": 1.95,
+        "finishTime": "1.29.11",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "1",
+        "name": "ANGEL DRACARYS",
+        "jockey": "MUSTAFA ÇİÇEK",
+        "trainer": "MEHMET BULUT",
+        "weight": 57,
+        "odds": 3.2,
+        "finishTime": "1.29.58",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "6",
+        "name": "WIN LIKE A MAN",
+        "jockey": "MEHMET KAYA",
+        "trainer": "SEYHAN DEMİR",
+        "weight": 55,
+        "odds": 6.4,
+        "finishTime": "1.29.72",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "5",
+        "name": "YEŞİMTRON",
+        "jockey": "MUHAMMED MİR BİLGİN",
+        "trainer": "NURETTİN GÖNÜLTAŞ",
+        "weight": 57,
+        "odds": 8.4,
+        "finishTime": "1.29.96",
+        "age": 2
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "2",
+        "name": "ANKA ERÇELİK",
+        "jockey": "BURAK BAGUÇ",
+        "trainer": "MELİH TEZEL",
+        "weight": 57,
+        "odds": 15,
+        "finishTime": "1.31.05",
+        "age": 2
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
+  },
+  {
+    "date": "2026-11-12",
     "raceNo": 1,
     "venue": "Ankara",
     "distance": 1600,
