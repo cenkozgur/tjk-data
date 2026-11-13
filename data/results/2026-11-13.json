@@ -705,6 +705,90 @@
   },
   {
     "date": "2026-11-13",
+    "raceNo": 7,
+    "venue": "İstanbul",
+    "distance": 1500,
+    "surface": "Sentetik",
+    "raceClass": "KV-7/DHÖW",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "2",
+        "name": "ÇİLEKEŞ ÖMER",
+        "jockey": "HIŞMAN ÇİZİK",
+        "trainer": "SEVGİ BEKTAŞ",
+        "weight": 59,
+        "odds": 1.65,
+        "finishTime": "1.41.14",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "AKERBEY",
+        "jockey": "MEHMET AKYAVUZ",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 59,
+        "odds": 3.65,
+        "finishTime": "1.41.72",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "6",
+        "name": "HIZLI KRAL",
+        "jockey": "İSA AKYAVUZ",
+        "trainer": "KEMAL YILMAZ",
+        "weight": 54,
+        "odds": 25.55,
+        "finishTime": "1.41.88",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "4",
+        "name": "KORGÜN",
+        "jockey": "HALİS KARATAŞ",
+        "trainer": "ALPER TEPEBAŞI",
+        "weight": 57,
+        "odds": 3.85,
+        "finishTime": "1.42.09",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "5",
+        "name": "AĞA SABRİNİN ZAFERİ",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "BETÜL YILDIRIM",
+        "weight": 55,
+        "odds": 5.35,
+        "finishTime": "1.42.94",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "3",
+        "name": "ERENAĞAM",
+        "jockey": "MEHMET KAYA",
+        "trainer": "CEMİL TURAN",
+        "weight": 57,
+        "odds": 12.45,
+        "finishTime": "1.42.96",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
+  },
+  {
+    "date": "2026-11-13",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1400,
