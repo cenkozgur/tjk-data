@@ -121,6 +121,80 @@
   },
   {
     "date": "2026-11-13",
+    "raceNo": 2,
+    "venue": "İstanbul",
+    "distance": 2100,
+    "surface": "Çim",
+    "raceClass": "ŞARTLI 5/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "BARBOOM",
+        "jockey": "AYHAN KURŞUN",
+        "trainer": "İBRAHİM BEKİROĞULLARI",
+        "weight": 55,
+        "odds": 3.05,
+        "finishTime": "2.16.74",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "1",
+        "name": "FINALLY ITS TIME",
+        "jockey": "ERTUĞRUL CANKILIÇ",
+        "trainer": "MEHMET AKKILIÇ",
+        "weight": 58,
+        "odds": 4.75,
+        "finishTime": "2.17.40",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "6",
+        "name": "SHINING LIFE",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "ÖMER DEMİR",
+        "weight": 55,
+        "odds": 9.75,
+        "finishTime": "2.20.50",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [
+      {
+        "no": "2",
+        "name": "IŞILS A MELİNA",
+        "finishTime": "2.18.36"
+      },
+      {
+        "no": "3",
+        "name": "RICHWOOD",
+        "finishTime": "2.17.54"
+      },
+      {
+        "no": "5",
+        "name": "RAKEL",
+        "finishTime": ""
+      },
+      {
+        "no": "7",
+        "name": "BRILLIANCE",
+        "finishTime": "2.19.30"
+      },
+      {
+        "no": "8",
+        "name": "SWEET LADY",
+        "finishTime": "2.19.98"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
     "raceNo": 1,
     "venue": "Bursa",
     "distance": 1400,

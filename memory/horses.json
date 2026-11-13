@@ -862670,12 +862670,13 @@
   },
   "SHINING LIFE": {
     "name": "SHINING LIFE",
-    "totalRaces": 16,
+    "totalRaces": 17,
     "wins": 2,
     "places": 4,
-    "winRate": 0.125,
-    "placeRate": 0.25,
+    "winRate": 0.118,
+    "placeRate": 0.235,
     "recentForm": [
+      7,
       5,
       11,
       4,
@@ -862684,12 +862685,11 @@
       3,
       5,
       8,
-      6,
       6
     ],
     "trackStats": {
       "Çim": {
-        "races": 9,
+        "races": 10,
         "wins": 2
       },
       "Sentetik": {
@@ -862725,6 +862725,10 @@
       "2000": {
         "races": 1,
         "wins": 0
+      },
+      "2100": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -862734,7 +862738,7 @@
         "places": 1
       },
       "İstanbul": {
-        "races": 12,
+        "races": 13,
         "wins": 1,
         "places": 3
       },
@@ -862761,7 +862765,7 @@
         "places": 0
       },
       "ŞARTLI 5/DIŞI": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
         "places": 1
       },
@@ -862812,7 +862816,7 @@
         "wins": 1
       },
       "ALİ YILDIZ": {
-        "races": 4,
+        "races": 5,
         "wins": 1
       },
       "TUGAY ALICI": {
@@ -862840,8 +862844,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-18",
-    "lastUpdated": "2026-10-18"
+    "lastRaceDate": "2026-11-13",
+    "lastUpdated": "2026-11-13"
   },
   "COSMIC KID": {
     "name": "COSMIC KID",
@@ -867466,12 +867470,13 @@
   },
   "FINALLY ITS TIME": {
     "name": "FINALLY ITS TIME",
-    "totalRaces": 32,
+    "totalRaces": 33,
     "wins": 3,
-    "places": 12,
-    "winRate": 0.094,
-    "placeRate": 0.375,
+    "places": 13,
+    "winRate": 0.091,
+    "placeRate": 0.394,
     "recentForm": [
+      2,
       5,
       5,
       3,
@@ -867480,12 +867485,11 @@
       7,
       6,
       2,
-      6,
-      2
+      6
     ],
     "trackStats": {
       "Çim": {
-        "races": 5,
+        "races": 6,
         "wins": 0
       },
       "Sentetik": {
@@ -867539,7 +867543,7 @@
         "wins": 2
       },
       "2100": {
-        "races": 2,
+        "races": 3,
         "wins": 0
       },
       "2400": {
@@ -867549,9 +867553,9 @@
     },
     "venueStats": {
       "İstanbul": {
-        "races": 21,
+        "races": 22,
         "wins": 1,
-        "places": 7
+        "places": 8
       },
       "Kocaeli": {
         "races": 8,
@@ -867586,9 +867590,9 @@
         "places": 1
       },
       "ŞARTLI 5/DIŞI": {
-        "races": 2,
+        "races": 3,
         "wins": 0,
-        "places": 0
+        "places": 1
       },
       "ŞARTLI 3/DIŞI": {
         "races": 2,
@@ -867664,7 +867668,7 @@
         "wins": 0
       },
       "ERTUĞRUL CANKILIÇ": {
-        "races": 3,
+        "races": 4,
         "wins": 0
       },
       "ALİ YILDIZ": {
@@ -867704,8 +867708,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-11-08",
-    "lastUpdated": "2026-11-08"
+    "lastRaceDate": "2026-11-13",
+    "lastUpdated": "2026-11-13"
   },
   "LOQUİTA": {
     "name": "LOQUİTA",
@@ -1183949,12 +1183953,13 @@
   },
   "BARBOOM": {
     "name": "BARBOOM",
-    "totalRaces": 9,
-    "wins": 2,
-    "places": 6,
-    "winRate": 0.222,
-    "placeRate": 0.667,
+    "totalRaces": 10,
+    "wins": 3,
+    "places": 7,
+    "winRate": 0.3,
+    "placeRate": 0.7,
     "recentForm": [
+      1,
       3,
       3,
       2,
@@ -1183967,8 +1183972,8 @@
     ],
     "trackStats": {
       "Çim": {
-        "races": 6,
-        "wins": 1
+        "races": 7,
+        "wins": 2
       },
       "Kum": {
         "races": 3,
@@ -1183997,8 +1184002,8 @@
         "wins": 0
       },
       "2100": {
-        "races": 1,
-        "wins": 0
+        "races": 2,
+        "wins": 1
       }
     },
     "venueStats": {
@@ -1184008,9 +1184013,9 @@
         "places": 3
       },
       "İstanbul": {
-        "races": 3,
-        "wins": 1,
-        "places": 2
+        "races": 4,
+        "wins": 2,
+        "places": 3
       },
       "Kocaeli": {
         "races": 1,
@@ -1184058,6 +1184063,11 @@
         "races": 1,
         "wins": 0,
         "places": 1
+      },
+      "ŞARTLI 5/DIŞI": {
+        "races": 1,
+        "wins": 1,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
@@ -1184096,10 +1184106,14 @@
       "ENES ATLAMAZ": {
         "races": 1,
         "wins": 0
+      },
+      "AYHAN KURŞUN": {
+        "races": 1,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-22",
-    "lastUpdated": "2026-10-22"
+    "lastRaceDate": "2026-11-13",
+    "lastUpdated": "2026-11-13"
   },
   "HANİFE HANIM": {
     "name": "HANİFE HANIM",
