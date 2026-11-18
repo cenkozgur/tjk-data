@@ -993,6 +993,165 @@
   },
   {
     "date": "2026-11-18",
+    "raceNo": 9,
+    "venue": "İstanbul",
+    "distance": 1500,
+    "surface": "Sentetik",
+    "raceClass": "ŞARTLI 4/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "9",
+        "name": "DEJAVU",
+        "jockey": "VEDAT ABİŞ",
+        "trainer": "HASAN BOYRAZ",
+        "weight": 57,
+        "odds": 1.4,
+        "finishTime": "1.29.83",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "4",
+        "name": "KYLIE VOM ELBE",
+        "jockey": "YİĞİTCAN GÖKÇE",
+        "trainer": "CEMİL TURAN",
+        "weight": 57,
+        "odds": 29.8,
+        "finishTime": "1.29.87",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "7",
+        "name": "AIBHILIN AGAIN",
+        "jockey": "MERTCAN ÇELİK",
+        "trainer": "HAKAN POLAT",
+        "weight": 58,
+        "odds": 33.6,
+        "finishTime": "1.30.11",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "8",
+        "name": "POWER MAKER",
+        "jockey": "ALİ YILDIZ",
+        "trainer": "ERKUT KOCA",
+        "weight": 58,
+        "odds": 17,
+        "finishTime": "1.30.63",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "11",
+        "name": "VICTORY GIRL",
+        "jockey": "ERHAN AKTUĞ",
+        "trainer": "AYDIN KÜÇÜKAKSOY",
+        "weight": 54,
+        "odds": 15.9,
+        "finishTime": "1.30.66",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "12",
+        "name": "ZELİNDA",
+        "jockey": "ZÜLFÜKAR KARABULUT",
+        "trainer": "YASİN DEMİRKIRAN",
+        "weight": 54,
+        "odds": 78.75,
+        "finishTime": "1.30.85",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "5",
+        "name": "MARISCAL",
+        "jockey": "BURAK AKÇAY",
+        "trainer": "İSMAİL EROL KURAL",
+        "weight": 60,
+        "odds": 26.7,
+        "finishTime": "1.30.86",
+        "age": 6
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "3",
+        "name": "JIMDEMA",
+        "jockey": "AKIN SÖZEN",
+        "trainer": "SABRİ BEKTAŞ",
+        "weight": 60,
+        "odds": 6.05,
+        "finishTime": "1.30.91",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 9,
+        "no": "10",
+        "name": "MEGA LOVE",
+        "jockey": "ADEM ASLAN",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 56,
+        "odds": 29.8,
+        "finishTime": "1.31.87",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 10,
+        "no": "2",
+        "name": "İCRA",
+        "jockey": "SİNAN ÖZEN",
+        "trainer": "GÜLŞAH TAŞDELEN",
+        "weight": 60,
+        "odds": 25.85,
+        "finishTime": "1.32.83",
+        "age": 4
+      },
+      {
+        "nonRunner": false,
+        "position": 11,
+        "no": "1",
+        "name": "ARNAVUT KIZ",
+        "jockey": "MÜSLÜM ÇELİK",
+        "trainer": "KEREM BALTACI",
+        "weight": 62,
+        "odds": 12.05,
+        "finishTime": "1.35.16",
+        "age": 4
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": [
+      {
+        "no": "6",
+        "name": "OPERASYON",
+        "finishTime": ""
+      }
+    ],
+    "ganyanSixPrizes": [
+      {
+        "venue": "İstanbul",
+        "label": "2. 6'LI GANYAN",
+        "combination": "2/8/4/4/7/9",
+        "prizeAmount": 17163.43,
+        "lastRaceNo": 9
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
     "raceNo": 1,
     "venue": "Elazığ",
     "distance": 1500,
