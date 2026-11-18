@@ -990,5 +990,113 @@
         "finishTime": "Derecesiz"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "raceNo": 1,
+    "venue": "Elazığ",
+    "distance": 1500,
+    "surface": "Kum",
+    "raceClass": "ŞARTLI 3/DHÖW",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "3",
+        "name": "KIRDOĞAN",
+        "jockey": "FERİT YARDIMCI",
+        "trainer": "MEHMET KAYA",
+        "weight": 57,
+        "odds": 1.4,
+        "finishTime": "1.55.78",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "4",
+        "name": "MİRZACAN",
+        "jockey": "İSA KATAR",
+        "trainer": "RAMAZAN BARMAN",
+        "weight": 57,
+        "odds": 7.1,
+        "finishTime": "1.56.24",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "5",
+        "name": "MALATYA ÇAPKINI",
+        "jockey": "REMZİ DOĞAN",
+        "trainer": "SİNEM BAKIR",
+        "weight": 57,
+        "odds": 10.55,
+        "finishTime": "1.56.77",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "1",
+        "name": "AĞADİZDAR",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "SALİH BECENE",
+        "weight": 59,
+        "odds": 15.05,
+        "finishTime": "1.57.38",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "8",
+        "name": "KİNG BEDİRHAN",
+        "jockey": "MEHMET ALİ AKTÜRK",
+        "trainer": "ESER YILDIRIM",
+        "weight": 57,
+        "odds": 10.5,
+        "finishTime": "1.57.93",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "6",
+        "name": "SEYRAN ABLA",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "MEHMET KAYA",
+        "weight": 55,
+        "odds": 13.05,
+        "finishTime": "2.00.73",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 7,
+        "no": "2",
+        "name": "ATAKAYA HÜKÜMDARI",
+        "jockey": "NECMİ ALTIN",
+        "trainer": "ELİF AÇMAZ",
+        "weight": 57,
+        "odds": 5,
+        "finishTime": "2.07.18",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 8,
+        "no": "7",
+        "name": "KADMİNYUM",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "ESER YILDIRIM",
+        "weight": 56,
+        "odds": 17.35,
+        "finishTime": "2.12.86",
+        "age": 3
+      }
+    ],
+    "nonRunners": [],
+    "unplaced": []
   }
 ]
