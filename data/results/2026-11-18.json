@@ -1984,5 +1984,114 @@
         "lastRaceNo": 6
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "raceNo": 7,
+    "venue": "Elazığ",
+    "distance": 1600,
+    "surface": "Kum",
+    "raceClass": "Maiden/DHÖW/Dişi",
+    "horses": [
+      {
+        "nonRunner": false,
+        "position": 1,
+        "no": "4",
+        "name": "GÖKAYKIZ",
+        "jockey": "YUSUF CENGİZ",
+        "trainer": "MAHMUT DOĞAN",
+        "weight": 57,
+        "odds": 6.65,
+        "finishTime": "2.06.19",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 2,
+        "no": "9",
+        "name": "NERGİS SULTAN",
+        "jockey": "AHMET HASAN BAYAR",
+        "trainer": "BAVER FAHRİOĞLU",
+        "weight": 57,
+        "odds": 16.25,
+        "finishTime": "2.06.49",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 3,
+        "no": "8",
+        "name": "MISRADA",
+        "jockey": "REMZİ DOĞAN",
+        "trainer": "RECEP BECENE",
+        "weight": 57,
+        "odds": 38.3,
+        "finishTime": "2.07.09",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 4,
+        "no": "6",
+        "name": "KIR PENÇE",
+        "jockey": "HÜSEYİN ALTUNKILIÇ",
+        "trainer": "ARİF IŞIK",
+        "weight": 57,
+        "odds": 27.35,
+        "finishTime": "2.09.43",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 5,
+        "no": "1",
+        "name": "ALİYE ANA",
+        "jockey": "MEHMET DOĞAN",
+        "trainer": "EYYÜP YARDIMCI",
+        "weight": 60,
+        "odds": 9.45,
+        "finishTime": "2.09.95",
+        "age": 3
+      },
+      {
+        "nonRunner": false,
+        "position": 6,
+        "no": "7",
+        "name": "KOĞUN SESİ",
+        "jockey": "YUNUS ÇELİKBAŞ",
+        "trainer": "ARİF IŞIK",
+        "weight": 57,
+        "odds": 21.85,
+        "finishTime": "2.22.63",
+        "age": 3
+      }
+    ],
+    "nonRunners": [
+      {
+        "no": "3",
+        "name": "ALGHABRA"
+      },
+      {
+        "no": "5",
+        "name": "HASRETİM SANA"
+      }
+    ],
+    "unplaced": [
+      {
+        "no": "2",
+        "name": "RHEA",
+        "finishTime": ""
+      },
+      {
+        "no": "10",
+        "name": "OBA GÜZELİ",
+        "finishTime": ""
+      },
+      {
+        "no": "11",
+        "name": "ULU EZGİ",
+        "finishTime": ""
+      }
+    ]
   }
 ]
