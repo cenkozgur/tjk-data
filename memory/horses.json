@@ -1849523,12 +1849523,13 @@
   },
   "ÇELİK STAR": {
     "name": "ÇELİK STAR",
-    "totalRaces": 8,
-    "wins": 0,
-    "places": 2,
-    "winRate": 0,
-    "placeRate": 0.25,
+    "totalRaces": 9,
+    "wins": 1,
+    "places": 3,
+    "winRate": 0.111,
+    "placeRate": 0.333,
     "recentForm": [
+      1,
       8,
       5,
       5,
@@ -1849540,8 +1849541,8 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 8,
-        "wins": 0
+        "races": 9,
+        "wins": 1
       }
     },
     "distanceStats": {
@@ -1849556,13 +1849557,17 @@
       "1200": {
         "races": 4,
         "wins": 0
+      },
+      "1600": {
+        "races": 1,
+        "wins": 1
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 5,
-        "wins": 0,
-        "places": 0
+        "races": 6,
+        "wins": 1,
+        "places": 1
       },
       "Diyarbakır": {
         "races": 3,
@@ -1849587,9 +1849592,9 @@
         "places": 1
       },
       "ŞARTLI 4": {
-        "races": 2,
-        "wins": 0,
-        "places": 0
+        "races": 3,
+        "wins": 1,
+        "places": 1
       },
       "HANDIKAP 14 /H3": {
         "races": 1,
@@ -1849617,10 +1849622,14 @@
       "AHMET HASAN BAYAR": {
         "races": 1,
         "wins": 0
+      },
+      "AZİZ AKDEMİR": {
+        "races": 1,
+        "wins": 1
       }
     },
-    "lastRaceDate": "2026-09-30",
-    "lastUpdated": "2026-09-30"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "ETIQUETTE": {
     "name": "ETIQUETTE",
@@ -1927924,12 +1927933,13 @@
   },
   "PINAR": {
     "name": "PINAR",
-    "totalRaces": 8,
+    "totalRaces": 9,
     "wins": 1,
-    "places": 4,
-    "winRate": 0.125,
-    "placeRate": 0.5,
+    "places": 5,
+    "winRate": 0.111,
+    "placeRate": 0.556,
     "recentForm": [
+      2,
       4,
       6,
       3,
@@ -1927941,7 +1927951,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 8,
+        "races": 9,
         "wins": 1
       }
     },
@@ -1927957,6 +1927967,10 @@
       "1500": {
         "races": 1,
         "wins": 0
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -1927966,9 +1927980,9 @@
         "places": 0
       },
       "Elazığ": {
-        "races": 5,
+        "races": 6,
         "wins": 1,
-        "places": 4
+        "places": 5
       },
       "Adana": {
         "races": 1,
@@ -1927988,9 +1928002,9 @@
         "places": 1
       },
       "ŞARTLI 4": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
-        "places": 0
+        "places": 1
       },
       "ŞARTLI 5": {
         "races": 1,
@@ -1928014,7 +1928028,7 @@
         "wins": 0
       },
       "AHMET HASAN BAYAR": {
-        "races": 3,
+        "races": 4,
         "wins": 1
       },
       "YUNUS ÇELİKBAŞ": {
@@ -1928034,8 +1928048,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-11-04",
-    "lastUpdated": "2026-11-04"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "TEPEKIZI": {
     "name": "TEPEKIZI",
@@ -1970885,12 +1970899,13 @@
   },
   "WIND CITY": {
     "name": "WIND CITY",
-    "totalRaces": 4,
+    "totalRaces": 5,
     "wins": 2,
     "places": 2,
-    "winRate": 0.5,
-    "placeRate": 0.5,
+    "winRate": 0.4,
+    "placeRate": 0.4,
     "recentForm": [
+      6,
       8,
       1,
       1,
@@ -1970898,7 +1970913,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 3,
+        "races": 4,
         "wins": 2
       },
       "Sentetik": {
@@ -1970918,6 +1970933,10 @@
       "1500": {
         "races": 1,
         "wins": 0
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
@@ -1970935,6 +1970954,11 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "Elazığ": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "classStats": {
@@ -1970949,7 +1970973,7 @@
         "places": 1
       },
       "ŞARTLI 4": {
-        "races": 1,
+        "races": 2,
         "wins": 1,
         "places": 1
       },
@@ -1970965,7 +1970989,7 @@
         "wins": 0
       },
       "FERİT YARDIMCI": {
-        "races": 2,
+        "races": 3,
         "wins": 2
       },
       "ERAY ÇİZİK": {
@@ -1970973,8 +1970997,8 @@
         "wins": 0
       }
     },
-    "lastRaceDate": "2026-11-10",
-    "lastUpdated": "2026-11-10"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "JER": {
     "name": "JER",
@@ -1975912,12 +1975936,13 @@
   },
   "KING RHAEGAL": {
     "name": "KING RHAEGAL",
-    "totalRaces": 5,
+    "totalRaces": 6,
     "wins": 2,
     "places": 2,
-    "winRate": 0.4,
-    "placeRate": 0.4,
+    "winRate": 0.333,
+    "placeRate": 0.333,
     "recentForm": [
+      7,
       8,
       7,
       1,
@@ -1975926,7 +1975951,7 @@
     ],
     "trackStats": {
       "Kum": {
-        "races": 5,
+        "races": 6,
         "wins": 2
       }
     },
@@ -1975934,18 +1975959,22 @@
       "1200": {
         "races": 5,
         "wins": 2
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 5,
+        "races": 6,
         "wins": 2,
         "places": 2
       }
     },
     "classStats": {
       "ŞARTLI 4": {
-        "races": 1,
+        "races": 2,
         "wins": 0,
         "places": 0
       },
@@ -1975981,10 +1976010,14 @@
       "REMZİ DOĞAN": {
         "races": 1,
         "wins": 0
+      },
+      "HÜSEYİN ALTUNKILIÇ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-21",
-    "lastUpdated": "2026-10-21"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "BY FURY": {
     "name": "BY FURY",
@@ -2023031,18 +2023064,19 @@
   },
   "SARİŞİM": {
     "name": "SARİŞİM",
-    "totalRaces": 2,
+    "totalRaces": 3,
     "wins": 1,
     "places": 2,
-    "winRate": 0.5,
-    "placeRate": 1,
+    "winRate": 0.333,
+    "placeRate": 0.667,
     "recentForm": [
+      4,
       1,
       2
     ],
     "trackStats": {
       "Kum": {
-        "races": 2,
+        "races": 3,
         "wins": 1
       }
     },
@@ -2023050,11 +2023084,15 @@
       "1200": {
         "races": 2,
         "wins": 1
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 2,
+        "races": 3,
         "wins": 1,
         "places": 2
       }
@@ -2023069,16 +2023107,25 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 4": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "MEHMET DOĞAN": {
         "races": 2,
         "wins": 1
+      },
+      "YUSUF CENGİZ": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-11-04",
-    "lastUpdated": "2026-11-04"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "THE FIRST DANCE": {
     "name": "THE FIRST DANCE",
@@ -2025916,17 +2025963,18 @@
   },
   "KING YILDIRIM": {
     "name": "KING YILDIRIM",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 1,
-    "places": 1,
-    "winRate": 1,
+    "places": 2,
+    "winRate": 0.5,
     "placeRate": 1,
     "recentForm": [
+      3,
       1
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
@@ -2025934,13 +2025982,17 @@
       "1500": {
         "races": 1,
         "wins": 1
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Elazığ": {
-        "races": 1,
+        "races": 2,
         "wins": 1,
-        "places": 1
+        "places": 2
       }
     },
     "classStats": {
@@ -2025948,16 +2026000,21 @@
         "races": 1,
         "wins": 1,
         "places": 1
+      },
+      "ŞARTLI 4": {
+        "races": 1,
+        "wins": 0,
+        "places": 1
       }
     },
     "jockeyCompatibility": {
       "MEHMET DOĞAN": {
-        "races": 1,
+        "races": 2,
         "wins": 1
       }
     },
-    "lastRaceDate": "2026-10-14",
-    "lastUpdated": "2026-10-14"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "BALHANKU": {
     "name": "BALHANKU",
@@ -2027906,17 +2027963,18 @@
   },
   "SON ZAYN": {
     "name": "SON ZAYN",
-    "totalRaces": 1,
+    "totalRaces": 2,
     "wins": 0,
     "places": 0,
     "winRate": 0,
     "placeRate": 0,
     "recentForm": [
+      5,
       6
     ],
     "trackStats": {
       "Kum": {
-        "races": 1,
+        "races": 2,
         "wins": 0
       }
     },
@@ -2027924,10 +2027982,19 @@
       "1300": {
         "races": 1,
         "wins": 0
+      },
+      "1600": {
+        "races": 1,
+        "wins": 0
       }
     },
     "venueStats": {
       "Adana": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
+      },
+      "Elazığ": {
         "races": 1,
         "wins": 0,
         "places": 0
@@ -2027938,16 +2028005,25 @@
         "races": 1,
         "wins": 0,
         "places": 0
+      },
+      "ŞARTLI 4": {
+        "races": 1,
+        "wins": 0,
+        "places": 0
       }
     },
     "jockeyCompatibility": {
       "İSA AKYAVUZ": {
         "races": 1,
         "wins": 0
+      },
+      "NECMİ ALTIN": {
+        "races": 1,
+        "wins": 0
       }
     },
-    "lastRaceDate": "2026-10-18",
-    "lastUpdated": "2026-10-18"
+    "lastRaceDate": "2026-11-18",
+    "lastUpdated": "2026-11-18"
   },
   "STRENGHT": {
     "name": "STRENGHT",
